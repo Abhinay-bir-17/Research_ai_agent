@@ -1,0 +1,3061 @@
+{
+  "search_metadata": {
+    "id": "68514e5fb7942faac979b008",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/76ecd9e11ab42e88/68514e5fb7942faac979b008.json",
+    "created_at": "2025-06-17 11:15:43 UTC",
+    "processed_at": "2025-06-17 11:15:43 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US7306562B1/en",
+    "raw_html_file": "https://serpapi.com/searches/76ecd9e11ab42e88/68514e5fb7942faac979b008.html",
+    "total_time_taken": 1.38
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US7306562B1/en"
+  },
+  "title": "Medical risk assessment method and program product",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/54/81/26/c31f7601e95928/US7306562.pdf",
+  "publication_number": "US7306562B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "patient",
+    "treatment therapy",
+    "establishing",
+    "cardiovascular treatment",
+    "cardiac"
+  ],
+  "prior_art_date": "2004-04-23",
+  "application_number": "US10/831,481",
+  "inventors": [
+    {
+      "name": "Demir Baykal",
+      "link": "https://patents.google.com/?inventor=Demir+Baykal",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Demir+Baykal"
+    }
+  ],
+  "assignees": [
+    "Medical Software LLC"
+  ],
+  "priority_date": "2004-04-23",
+  "filing_date": "2004-04-23",
+  "publication_date": "2007-12-11",
+  "worldwide_applications": {
+    "2004": [
+      {
+        "filing_date": "2004-04-23",
+        "country_code": "US",
+        "application_number": "US10/831,481",
+        "document_id": "patent/US7306562B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2004-04-23",
+      "title": "Application filed by Medical Software LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Medical Software LLC"
+    },
+    {
+      "date": "2004-04-23",
+      "title": "Priority to US10/831,481",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7306562B1/en"
+    },
+    {
+      "date": "2004-04-23",
+      "title": "Assigned to MEDICAL SOFTWARE, LLC",
+      "type": "reassignment",
+      "assignee_search": "MEDICAL SOFTWARE, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BAYKAL, DEMIR, HERRERA, EDDY A."
+      ]
+    },
+    {
+      "date": "2007-12-11",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2007-12-11",
+      "title": "Publication of US7306562B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7306562B1/en"
+    },
+    {
+      "date": "2025-04-03",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=7306562.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10831481"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7306562"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7306562B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10831481/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US7306562"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/53/b6/26/b7b5b0dd311839/US07306562-20071211-D00000.png",
+    "https://patentimages.storage.googleapis.com/e2/b4/4a/f9b2ac1a518fdf/US07306562-20071211-D00001.png",
+    "https://patentimages.storage.googleapis.com/99/e6/67/b17914c90c3e7d/US07306562-20071211-D00002.png",
+    "https://patentimages.storage.googleapis.com/42/7e/af/8bc14dd992df67/US07306562-20071211-D00003.png",
+    "https://patentimages.storage.googleapis.com/db/a1/95/4731f7e3c86831/US07306562-20071211-D00004.png",
+    "https://patentimages.storage.googleapis.com/6c/32/73/e07c1d4c7349f2/US07306562-20071211-D00005.png",
+    "https://patentimages.storage.googleapis.com/96/63/39/d2be8e4b63693f/US07306562-20071211-D00006.png",
+    "https://patentimages.storage.googleapis.com/28/c9/6d/7ca732ad77d3c3/US07306562-20071211-D00007.png",
+    "https://patentimages.storage.googleapis.com/5c/b3/48/719081d6f9b203/US07306562-20071211-D00008.png",
+    "https://patentimages.storage.googleapis.com/e3/1d/cc/ba955f34eed7f7/US07306562-20071211-D00009.png",
+    "https://patentimages.storage.googleapis.com/bb/30/99/db8edae5adc329/US07306562-20071211-D00010.png",
+    "https://patentimages.storage.googleapis.com/2d/c2/53/2cf736f32f9325/US07306562-20071211-D00011.png",
+    "https://patentimages.storage.googleapis.com/4e/bb/f1/2c84f3f4e66973/US07306562-20071211-D00012.png",
+    "https://patentimages.storage.googleapis.com/f3/35/58/a5ebbb1155f999/US07306562-20071211-D00013.png",
+    "https://patentimages.storage.googleapis.com/e3/2c/62/83c1e08bcf76c8/US07306562-20071211-D00014.png",
+    "https://patentimages.storage.googleapis.com/6c/a3/00/c6cecbce3bb687/US07306562-20071211-D00015.png",
+    "https://patentimages.storage.googleapis.com/c9/84/7b/62c321f84705e0/US07306562-20071211-D00016.png",
+    "https://patentimages.storage.googleapis.com/4c/58/83/9f34e86aa626e3/US07306562-20071211-D00017.png",
+    "https://patentimages.storage.googleapis.com/b1/6c/6f/d45ba9be42f1de/US07306562-20071211-D00018.png",
+    "https://patentimages.storage.googleapis.com/2b/28/65/6f787825ade4ef/US07306562-20071211-D00019.png",
+    "https://patentimages.storage.googleapis.com/53/07/c1/5cff82c2833f7c/US07306562-20071211-D00020.png",
+    "https://patentimages.storage.googleapis.com/33/f5/b3/7a454aa3e3bd67/US07306562-20071211-D00021.png",
+    "https://patentimages.storage.googleapis.com/de/c9/c0/9b8ebce6e65029/US07306562-20071211-D00022.png",
+    "https://patentimages.storage.googleapis.com/ef/bb/d4/21abab320364bf/US07306562-20071211-D00023.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/30",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to physical therapies or activities, e.g. physiotherapy, acupressure or exercising",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/20",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to practices or guidelines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A medical risk assessment method and computer program product resident on a computer or a hand-held device that allows a physician to determine the best strategy for primary and secondary cardiovascular disease prevention utilizing current guidelines and published medical literature. The computer program product evaluates a number of risk factors to determine specific recommendations for an individual patient, including Framingham risk scoring (FRS), pertinent medical history, individual lipid panel and advanced lipoprotein profiling, patient laboratory test results, and published literature on the effects of anti-lipid medicines on plasma concentration and/or composition of lipoprotein molecules and clinical outcomes. The risk assessment method establishes a cardiovascular treatment therapy strategy for a patient by determining a cardiac risk classification group, determining a cardiovascular treatment therapy based on the patient's lipoprotein profile and the patient's cardiac group risk classification, and presenting the cardiovascular treatment therapy for the patient to a medical practitioner on a patient evaluation display.",
+  "description_link": "https://serpapi.com/searches/68514e5fb7942faac979b008/google_patents_details/description.html",
+  "claims": [
+    "1. A computer-implemented method for establishing a cardiovascular treatment therapy strategy for a patient, comprising the steps of:\ndetermining a cardiac risk classification group for the patient based on a predetermined set of cardiac risk factors;\ndetermining a cardiovascular treatment therapy based on the patient's determined cardiac group risk classification and lipoprotein profile; and\npresenting the determined cardiovascular treatment therapy for the patient to a medical practitioner on a patient evaluation display.",
+    "2. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 1 wherein the predetermined set of cardiac risk factors comprises a first subset and a second subset of cardiac risk factors.",
+    "3. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 2 wherein the first subset of cardiac risk factors includes coronary heart disease, peripheral vascular disease, type II diabetes mellitus, an abdominal aortic aneurysm and symptomatic carotid disease.",
+    "4. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 2 wherein the second subset of cardiac risk factors includes a patient's age, a smoking status, a family history of cardiac disease, a diagnosis of systolic arterial hypertension and a systolic blood pressure treated condition.",
+    "5. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 1 wherein the step of determining a cardiac risk classification group comprises evaluation of the patient's medical history to determine if the patient has at least one medical condition in a first subset of cardiac risk factors.",
+    "6. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 5 wherein the step of determining a cardiac risk classification group further comprises determining a Framingham risk score for the patient.",
+    "7. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 5 wherein the step of determining a cardiac risk classification group further comprises evaluation of the patient's medical history to determine if the patient has at least two medical conditions in a second subset of cardiac risk factors.",
+    "8. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 5 wherein the patient is classified in a first risk classification group if the patient has at least one medical condition in a first subset of cardiac risk factors.",
+    "9. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 6 wherein the patient is classified in a first risk classification group if the patient has a Framingham risk score greater than 15.",
+    "10. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 7 wherein the patient is classified in a separate risk classification group if the patient has at least two medical conditions in the second subset of cardiac risk factors and has a Framingham risk score less than 12.",
+    "11. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 7 wherein the patient is classified in a separate risk classification group if the patient has at least two medical conditions in the second subset of cardiac risk factors and has a Framingham risk score of 12 or greater.",
+    "12. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 7 wherein the patient is classified in a separate risk classification group if the patient has less than two medical conditions in the second subset of cardiac risk factors.",
+    "13. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 5 wherein the first subset of cardiac risk factors includes coronary heart disease, peripheral vascular disease, type II diabetes mellitus, an abdominal aortic aneurysm and symptomatic carotid disease.",
+    "14. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 5 wherein the second subset of cardiac risk factors includes a patient's age, a smoking status, a family history of cardiac disease, a diagnosis of systolic arterial hypertension and a systolic blood pressure treated condition.",
+    "15. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 1 wherein the cardiac group risk classification group and cardiovascular treatment therapies are based on published medical guidelines and published medical literature.",
+    "16. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 15 wherein the published medical literature includes the effects of anti-lipid medicines on plasma concentration.",
+    "17. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 15 wherein the published medical literature includes the effects of anti-lipid medicines on composition of lipoprotein molecules and clinical outcomes.",
+    "18. The computer-implemented method for establishing a cardiovascular treatment therapy strategy of claim 1 further comprising presenting a medical guidelines recommendation for the patient to the medical practitioner on the patient evaluation display.",
+    "19. A computer program product for establishing a cardiovascular treatment therapy strategy, the computer program product comprising:\na recording medium;\nprogram instructions recorded on the recording medium for determining a cardiac risk classification group for the patient based on a predetermined set of cardiac risk factors;\nprogram instructions recorded on the recording medium for determining a cardiovascular treatment therapy based on the patient's cardiac group risk classification and lipoprotein profile; and\nprogram instructions recorded on the recording medium for presenting the determined cardiovascular treatment therapy for the patient to a medical practitioner on a patient evaluation display.",
+    "20. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 19 wherein the program instructions for determining a cardiac risk classification group comprise program instructions for evaluation of the patient's medical history to determine if the patient has at least one medical condition in a first subset of cardiac risk factors.",
+    "21. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 20 wherein program instructions for determining a cardiac risk classification group further comprise program instructions for determining a Framingham risk score for the patient.",
+    "22. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 20 wherein the program instructions for determining a cardiac risk classification group further comprise program instructions for evaluation of the patient's medical history to determine if the patient has at least two medical conditions in a second subset of cardiac risk factors.",
+    "23. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 20 further comprising program instructions for classifying the patient in a first risk classification group if the patient has at least one medical condition in a first subset of cardiac risk factors.",
+    "24. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 21 further comprising program instructions for classifying the patient in a first risk classification group if the patient has a Framingham risk score greater than 15.",
+    "25. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 22 further comprising program instructions for classifying the patient in a separate risk classification group if the patient has at least two medical conditions in the second subset of cardiac risk factors and has a Framingham risk score less than 12.",
+    "26. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 22 further comprising program instructions for classifying the patient in a separate risk classification group if the patient has at least two medical conditions in the second subset of cardiac risk factors and has a Framingham risk score of 12 or greater.",
+    "27. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 22 further comprising program instructions for classifying the patient in a separate risk classification group if the patient has less than two medical conditions in the second subset of cardiac risk factors.",
+    "28. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 20 wherein the first subset of cardiac risk factors includes coronary heart disease, peripheral vascular disease, type II diabetes mellitus, an abdominal aortic aneurysm and symptomatic carotid disease.",
+    "29. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 20 wherein the second subset of cardiac risk factors includes a patient's age, a smoking status, a family history of cardiac disease, a diagnosis of systolic arterial hypertension and a systolic blood pressure treated condition.",
+    "30. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 19 wherein program instructions for determining the cardiac group risk classification group and program instructions for determining cardiovascular treatment therapies are based on published medical guidelines and published medical literature.",
+    "31. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 30 wherein the published medical literature includes the effects of anti-lipid medicines on plasma concentration.",
+    "32. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 30 wherein the published medical literature includes the effects of anti-lipid medicines on composition of lipoprotein molecules and clinical outcomes.",
+    "33. The computer program product for establishing a cardiovascular treatment therapy strategy of claim 19 further comprising presenting a medical guidelines recommendation for the patient to the medical practitioner on the patient evaluation display."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/831,481",
+      "representative_publication": "US7306562B1",
+      "primary_language": "en",
+      "priority_date": "2004-04-23",
+      "filing_date": "2004-04-23",
+      "title": "Medical risk assessment method and program product"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US10/831,481",
+      "representative_publication": "US7306562B1",
+      "primary_language": "en",
+      "priority_date": "2004-04-23",
+      "filing_date": "2004-04-23",
+      "title": "Medical risk assessment method and program product"
+    }
+  ],
+  "family_id": "38792810",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5396886A",
+        "primary_language": "en",
+        "priority_date": "1992-10-02",
+        "publication_date": "1995-03-14",
+        "assignee_original": "Bristol-Myers Squibb Company",
+        "title": "Method for predicting coronary heart disease",
+        "patent_id": "patent/US5396886A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5396886A%2Fen"
+      },
+      {
+        "publication_number": "US5746204A",
+        "primary_language": "en",
+        "priority_date": "1995-12-07",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Disease indicator analysis system",
+        "patent_id": "patent/US5746204A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5746204A%2Fen"
+      },
+      {
+        "publication_number": "US5899855A",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "1999-05-04",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Modular microprocessor-based health monitoring system",
+        "patent_id": "patent/US5899855A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5899855A%2Fen"
+      },
+      {
+        "publication_number": "US5965449A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-03",
+        "publication_date": "1999-10-12",
+        "assignee_original": "Forbes Medi-Tech, Inc.",
+        "title": "Method of assessing risk for cardiovascular disease and other disorders and phytosterol-based compositions useful in preventing and treating cardiovascular disease and other disorders",
+        "patent_id": "patent/US5965449A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5965449A%2Fen"
+      },
+      {
+        "publication_number": "US5976082A",
+        "primary_language": "en",
+        "priority_date": "1996-06-17",
+        "publication_date": "1999-11-02",
+        "assignee_original": "Smithkline Beecham Corporation",
+        "title": "Method for identifying at risk patients diagnosed with congestive heart failure",
+        "patent_id": "patent/US5976082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5976082A%2Fen"
+      },
+      {
+        "publication_number": "US6110109A",
+        "primary_language": "en",
+        "priority_date": "1999-03-26",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Biosignia, Inc.",
+        "title": "System and method for predicting disease onset",
+        "patent_id": "patent/US6110109A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110109A%2Fen"
+      },
+      {
+        "publication_number": "US6322504B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-27",
+        "publication_date": "2001-11-27",
+        "assignee_original": "R And T, Llc",
+        "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease",
+        "patent_id": "patent/US6322504B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6322504B1%2Fen"
+      },
+      {
+        "publication_number": "US20020056206A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-20",
+        "publication_date": "2002-05-16",
+        "assignee_original": "Pace Gary W.",
+        "title": "Spray drying process and compositions of fenofibrate",
+        "patent_id": "patent/US20020056206A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020056206A1%2Fen"
+      },
+      {
+        "publication_number": "US20020087276A1",
+        "primary_language": "en",
+        "priority_date": "1999-02-26",
+        "publication_date": "2002-07-04",
+        "assignee_original": "Otvos James D.",
+        "title": "Methods, systems, and computer program products for analyzing and presenting NMR lipoprotein-based risk assessment results",
+        "patent_id": "patent/US20020087276A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020087276A1%2Fen"
+      },
+      {
+        "publication_number": "US6421650B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-04",
+        "publication_date": "2002-07-16",
+        "assignee_original": "Goetech Llc",
+        "title": "Medication monitoring system and apparatus",
+        "patent_id": "patent/US6421650B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6421650B1%2Fen"
+      },
+      {
+        "publication_number": "US20020095094A1",
+        "primary_language": "en",
+        "priority_date": "2000-09-26",
+        "publication_date": "2002-07-18",
+        "assignee_original": "Helmut Hutten",
+        "title": "Risk monitoring",
+        "patent_id": "patent/US20020095094A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020095094A1%2Fen"
+      },
+      {
+        "publication_number": "US20020123524A1",
+        "primary_language": "en",
+        "priority_date": "1998-11-10",
+        "publication_date": "2002-09-05",
+        "assignee_original": "Robins Sander J.",
+        "title": "Treatment of vascular events using lipid-modifying compositions",
+        "patent_id": "patent/US20020123524A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020123524A1%2Fen"
+      },
+      {
+        "publication_number": "US20020164598A1",
+        "primary_language": "en",
+        "priority_date": "2001-05-03",
+        "publication_date": "2002-11-07",
+        "assignee_original": "Ihc Health Services, Inc.",
+        "title": "Method for evaluating and applying an individual's genetic characteristics to determine response to cardiovascular medication therapy",
+        "patent_id": "patent/US20020164598A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020164598A1%2Fen"
+      },
+      {
+        "publication_number": "US20020164662A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-02",
+        "publication_date": "2002-11-07",
+        "assignee_original": "Stanley Hazen",
+        "title": "Myeloperoxidase, a risk indicator for cardiovascular disease",
+        "patent_id": "patent/US20020164662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020164662A1%2Fen"
+      },
+      {
+        "publication_number": "US20030023387A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-30",
+        "publication_date": "2003-01-30",
+        "assignee_original": "Gill-Garrison Rosalynn D.",
+        "title": "Computer-assisted means for assessing lifestyle risk factors",
+        "patent_id": "patent/US20030023387A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030023387A1%2Fen"
+      },
+      {
+        "publication_number": "US6540691B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-12",
+        "publication_date": "2003-04-01",
+        "assignee_original": "Michael Phillips",
+        "title": "Breath test for the detection of various diseases",
+        "patent_id": "patent/US6540691B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6540691B1%2Fen"
+      },
+      {
+        "publication_number": "US20030065241A1",
+        "primary_language": "en",
+        "priority_date": "2002-08-27",
+        "publication_date": "2003-04-03",
+        "assignee_original": "Joerg Hohnloser",
+        "title": "Medical risk assessment system and method",
+        "patent_id": "patent/US20030065241A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030065241A1%2Fen"
+      },
+      {
+        "publication_number": "US6560541B1",
+        "primary_language": "en",
+        "priority_date": "1998-04-23",
+        "publication_date": "2003-05-06",
+        "assignee_original": "The Board Of Trustees Of The Leland Stanford Junior University",
+        "title": "Predicting risk of serious gastrointestinal complications in patients taking nonsteroidal anti-inflammatory drugs",
+        "patent_id": "patent/US6560541B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6560541B1%2Fen"
+      },
+      {
+        "publication_number": "US20030120134A1",
+        "primary_language": "en",
+        "priority_date": "2001-11-02",
+        "publication_date": "2003-06-26",
+        "assignee_original": "Rao R. Bharat",
+        "title": "Patient data mining for cardiology screening",
+        "patent_id": "patent/US20030120134A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030120134A1%2Fen"
+      },
+      {
+        "publication_number": "US20030119194A1",
+        "primary_language": "en",
+        "priority_date": "1999-02-26",
+        "publication_date": "2003-06-26",
+        "assignee_original": "Otvos James D.",
+        "title": "Methods for providing personalized lipoprotein-based risk assessments",
+        "patent_id": "patent/US20030119194A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030119194A1%2Fen"
+      },
+      {
+        "publication_number": "US6602469B1",
+        "primary_language": "en",
+        "priority_date": "1998-11-09",
+        "publication_date": "2003-08-05",
+        "assignee_original": "Lifestream Technologies, Inc.",
+        "title": "Health monitoring and diagnostic device and network-based health assessment and medical records maintenance system",
+        "patent_id": "patent/US6602469B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6602469B1%2Fen"
+      },
+      {
+        "publication_number": "US20030182163A1",
+        "primary_language": "en",
+        "priority_date": "2002-02-25",
+        "publication_date": "2003-09-25",
+        "assignee_original": "Tice Bradley P.",
+        "title": "System for patient intervention assistance and evaluation",
+        "patent_id": "patent/US20030182163A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030182163A1%2Fen"
+      },
+      {
+        "publication_number": "US20030187688A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-25",
+        "publication_date": "2003-10-02",
+        "assignee_original": "Fey Christopher T.",
+        "title": "Method, system and computer program for health data collection, analysis, report generation and access",
+        "patent_id": "patent/US20030187688A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030187688A1%2Fen"
+      },
+      {
+        "publication_number": "US20050228692A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-08",
+        "publication_date": "2005-10-13",
+        "assignee_original": "Hodgdon Darren W",
+        "title": "Incentive based health care insurance program",
+        "patent_id": "patent/US20050228692A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050228692A1%2Fen"
+      },
+      {
+        "publication_number": "US20050272054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-26",
+        "publication_date": "2005-12-08",
+        "assignee_original": "Applera Corporation",
+        "title": "Genetic polymorphisms associated with cardiovascular disorders and drug response, methods of detection and uses thereof",
+        "patent_id": "patent/US20050272054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050272054A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\"Lipids, Lipoproteins and Cardiovascular Risk Factors\" topical search; Clinical Chemistry; http://www.clinchem.org/cgi/collection/LAL?page=16."
+    },
+    {
+      "title": "\"Risk Assessment Tool for Estimating Your 10-Year risk of Having a Heart Attack\"; http://hin.nhlbi.nih.gov/atpiii/calculator.asp?usertype=pub."
+    },
+    {
+      "title": "Grundy et al. Assessment of Cardiovascular Risk by Use of Multiple-Risk-Factor Assessment Equations, Circulation, 1999; 100: 1481-1492.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Gundy, et al.; AHA/ACC Scientific Statement: Assessment of Cardiovascular Risk by Use of Multi-Risk-Factor Assessment Equations; Journal of American College of Cardiology Foundation; 1999; 34: 1348-59."
+    },
+    {
+      "title": "M. Albert, et al. Plasma Concentration of C-Reactive Protein and the Calculated Framingham Coronary Heart Disease Risk Score, Circulation, 2003; 108; 161-165.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "P. Greenland, et al. Coronary Artery Calcium Score Combined With Framingham Risk Score for Risk Predition in Asymptomatic Individuals, JAMA, 2004; 209: 210-215.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080082002A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-02",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Kevin Wilson",
+        "title": "Assessing cardiovascular and vertebral/hip fracture risk and bone condition using quantitative computed tomography and/or dual energy x-ray absorptiometry",
+        "patent_id": "patent/US20080082002A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082002A1%2Fen"
+      },
+      {
+        "publication_number": "US20080154642A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Susan Marble",
+        "title": "Healthcare Core Measure Tracking Software and Database",
+        "patent_id": "patent/US20080154642A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154642A1%2Fen"
+      },
+      {
+        "publication_number": "US20100017182A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-15",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Szilard Voros",
+        "title": "Method for coronary artery disease risk assessment",
+        "patent_id": "patent/US20100017182A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100017182A1%2Fen"
+      },
+      {
+        "publication_number": "US20100030574A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-04",
+        "publication_date": "2010-02-04",
+        "assignee_original": "Coe Fredric L",
+        "title": "Clinical Laboratory-Based Disease Management Program, With Automated Patient-Specific Treatment Advice",
+        "patent_id": "patent/US20100030574A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100030574A1%2Fen"
+      },
+      {
+        "publication_number": "US20100249531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-19",
+        "publication_date": "2010-09-30",
+        "assignee_original": "Hanlon Alaina B",
+        "title": "Medical health information system",
+        "patent_id": "patent/US20100249531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100249531A1%2Fen"
+      },
+      {
+        "publication_number": "US20110144914A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-09",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Doug Harrington",
+        "title": "Biomarker assay for diagnosis and classification of cardiovascular disease",
+        "patent_id": "patent/US20110144914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110144914A1%2Fen"
+      },
+      {
+        "publication_number": "US8029443B2",
+        "primary_language": "en",
+        "priority_date": "2003-07-15",
+        "publication_date": "2011-10-04",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Glucose measuring device integrated into a holster for a personal area network device",
+        "patent_id": "patent/US8029443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8029443B2%2Fen"
+      },
+      {
+        "publication_number": "EP2544111A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-06",
+        "publication_date": "2013-01-09",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "System for managing cardiovascular health status",
+        "patent_id": "patent/EP2544111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2544111A1%2Fen"
+      },
+      {
+        "publication_number": "US8460243B2",
+        "primary_language": "en",
+        "priority_date": "2003-06-10",
+        "publication_date": "2013-06-11",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Glucose measuring module and insulin pump combination",
+        "patent_id": "patent/US8460243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8460243B2%2Fen"
+      },
+      {
+        "publication_number": "US8688477B1",
+        "primary_language": "en",
+        "priority_date": "2010-09-17",
+        "publication_date": "2014-04-01",
+        "assignee_original": "National Assoc. Of Boards Of Pharmacy",
+        "title": "Method, system, and computer program product for determining a narcotics use indicator",
+        "patent_id": "patent/US8688477B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8688477B1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9551768B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2017-01-24",
+        "assignee_original": "East Carolina University",
+        "title": "NMR method for monitoring changes in the core of lipoprotein particles in metabolism and disease",
+        "patent_id": "patent/US9551768B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9551768B2%2Fen"
+      },
+      {
+        "publication_number": "US9974512B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-13",
+        "publication_date": "2018-05-22",
+        "assignee_original": "Convergence Medical, Llc",
+        "title": "Method, system, and computer program product for determining a patient radiation and diagnostic study score",
+        "patent_id": "patent/US9974512B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9974512B2%2Fen"
+      },
+      {
+        "publication_number": "US10621164B1",
+        "primary_language": "en",
+        "priority_date": "2018-12-28",
+        "publication_date": "2020-04-14",
+        "assignee_original": "LunaPBC",
+        "title": "Community data aggregation with automated followup",
+        "patent_id": "patent/US10621164B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10621164B1%2Fen"
+      },
+      {
+        "publication_number": "US10775458B2",
+        "primary_language": "en",
+        "priority_date": "2018-03-05",
+        "publication_date": "2020-09-15",
+        "assignee_original": "Texas Tech University System",
+        "title": "Method and system for non-invasive measurement of metabolic health",
+        "patent_id": "patent/US10775458B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10775458B2%2Fen"
+      },
+      {
+        "publication_number": "US10963417B2",
+        "primary_language": "en",
+        "priority_date": "2004-06-04",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Systems and methods for managing diabetes care data",
+        "patent_id": "patent/US10963417B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10963417B2%2Fen"
+      },
+      {
+        "publication_number": "US11109829B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-30",
+        "publication_date": "2021-09-07",
+        "assignee_original": "Canon Medical Systems Corporation",
+        "title": "Medical image diagnostic apparatus",
+        "patent_id": "patent/US11109829B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11109829B2%2Fen"
+      },
+      {
+        "publication_number": "US11534089B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-28",
+        "publication_date": "2022-12-27",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Devices, systems, and methods associated with analyte monitoring devices and devices incorporating the same",
+        "patent_id": "patent/US11534089B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11534089B2%2Fen"
+      },
+      {
+        "publication_number": "US11574712B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-17",
+        "publication_date": "2023-02-07",
+        "assignee_original": "LunaPBC",
+        "title": "Origin protected OMIC data aggregation platform",
+        "patent_id": "patent/US11574712B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11574712B2%2Fen"
+      },
+      {
+        "publication_number": "CN117352170A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-07",
+        "publication_date": "2024-01-05",
+        "assignee_original": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u533b\u5b66\u9662\u7b2c\u4e00\u9644\u5c5e\u533b\u9662",
+        "title": "Community-based puerpera obstetrical information analysis method and system",
+        "patent_id": "patent/CN117352170A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117352170A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7306562B1",
+      "primary_language": "en",
+      "publication_date": "2007-12-11",
+      "title": "Medical risk assessment method and program product",
+      "patent_id": "patent/US7306562B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7306562B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "554366390194940861",
+      "scholar_authors": "Nora et al.",
+      "publication_date": "1980",
+      "title": "Genetic--epidemiologic study of early-onset ischemic heart disease.",
+      "patent_id": "scholar/554366390194940861",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F554366390194940861"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9945163428189537286",
+      "scholar_authors": "Gawande et al.",
+      "publication_date": "2007",
+      "title": "An Apgar score for surgery",
+      "patent_id": "scholar/9945163428189537286",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9945163428189537286"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11080955349205776596",
+      "scholar_authors": "Ram et al.",
+      "publication_date": "1996",
+      "title": "Oral theophylline for chronic obstructive pulmonary disease",
+      "patent_id": "scholar/11080955349205776596",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11080955349205776596"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14528464791626705875",
+      "scholar_authors": "Shepperd et al.",
+      "publication_date": "1996",
+      "title": "Dispositional optimism as a predictor of health changes among cardiac patients",
+      "patent_id": "scholar/14528464791626705875",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14528464791626705875"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1046267103537211034",
+      "scholar_authors": "Folkestad et al.",
+      "publication_date": "2016",
+      "title": "Cardiovascular disease in patients with osteogenesis imperfecta\u2014a nationwide, register-based cohort study",
+      "patent_id": "scholar/1046267103537211034",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1046267103537211034"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12901931942946815810",
+      "scholar_authors": "Herbert et al.",
+      "publication_date": "2004",
+      "title": "Are unaudited records from an outcomes registry database accurate?",
+      "patent_id": "scholar/12901931942946815810",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12901931942946815810"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16396727090113920958",
+      "scholar_authors": "Akosah et al.",
+      "publication_date": "2000",
+      "title": "Mild hypercholesterolemia and premature heart disease: do the national criteria underestimate disease risk?",
+      "patent_id": "scholar/16396727090113920958",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16396727090113920958"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12803436507565060038",
+      "scholar_authors": "Coles et al.",
+      "publication_date": "2022",
+      "title": "Blood pressure targets in adults with hypertension: a clinical practice guideline from the AAFP",
+      "patent_id": "scholar/12803436507565060038",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12803436507565060038"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17947868619160112891",
+      "scholar_authors": "Leaf",
+      "publication_date": "1993",
+      "title": "Preventive medicine for our ailing health care system",
+      "patent_id": "scholar/17947868619160112891",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17947868619160112891"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8217707878692690905",
+      "scholar_authors": "Goto et al.",
+      "publication_date": "2000",
+      "title": "Craniocervical and aortic atherosclerosis as neurologic risk factors in coronary surgery",
+      "patent_id": "scholar/8217707878692690905",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8217707878692690905"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14740009383930964439",
+      "scholar_authors": "Morimoto et al.",
+      "publication_date": "2004",
+      "title": "Development and validation of a clinical prediction rule for angiotensin-converting enzyme inhibitor-induced cough",
+      "patent_id": "scholar/14740009383930964439",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14740009383930964439"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4443402331584561488",
+      "scholar_authors": "Cochrane Vascular Group et al.",
+      "publication_date": "1996",
+      "title": "Vitamin E for intermittent claudication",
+      "patent_id": "scholar/4443402331584561488",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4443402331584561488"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16649268759223819499",
+      "scholar_authors": "Andras et al.",
+      "publication_date": "2013",
+      "title": "Homocysteine lowering interventions for peripheral arterial disease and bypass grafts",
+      "patent_id": "scholar/16649268759223819499",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16649268759223819499"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9707115358560857913",
+      "scholar_authors": "Jamerson",
+      "publication_date": "2004",
+      "title": "The disproportionate impact of hypertensive cardiovascular disease in African Americans: getting to the heart of the issue",
+      "patent_id": "scholar/9707115358560857913",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9707115358560857913"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15605666373914416908",
+      "scholar_authors": "Peigh et al.",
+      "publication_date": "2024",
+      "title": "Impact of atrial fibrillation burden on health care costs and utilization",
+      "patent_id": "scholar/15605666373914416908",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15605666373914416908"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10794477108427640243",
+      "scholar_authors": "Pi-Sunyer et al.",
+      "publication_date": "1998",
+      "title": "Executive summary of the clinical guidelines on the identification, evaluation, and treatment of overweight and obesity in adults",
+      "patent_id": "scholar/10794477108427640243",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10794477108427640243"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9430774288540311616",
+      "scholar_authors": "Descamps et al.",
+      "publication_date": "2003",
+      "title": "Impact of genetic defects on coronary atherosclerosis in patients suspected of having familial hypercholesterolaemia",
+      "patent_id": "scholar/9430774288540311616",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9430774288540311616"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8027727708085735762",
+      "scholar_authors": "Assmann",
+      "publication_date": "1990",
+      "title": "At what levels of total low-or high-density lipoprotein cholesterol should diet/drug therapy be initiated? European guidelines",
+      "patent_id": "scholar/8027727708085735762",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8027727708085735762"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2005285611B2",
+      "primary_language": "en",
+      "publication_date": "2011-06-02",
+      "title": "Computer installation for establishing a diagnosis",
+      "patent_id": "patent/AU2005285611B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2005285611B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16272104627712201336",
+      "scholar_authors": "McIntosh et al.",
+      "publication_date": "2002",
+      "title": "Clinical guidelines and evidence review for type 2 diabetes: lipids management",
+      "patent_id": "scholar/16272104627712201336",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16272104627712201336"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13995180039322199030",
+      "scholar_authors": "Sarikaya et al.",
+      "publication_date": "2022",
+      "title": "POS0602 PULMONARY RHEUMATOID NODULES: DOES SEROLOGIC STATUS MATTER?",
+      "patent_id": "scholar/13995180039322199030",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13995180039322199030"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12273463688022511664",
+      "scholar_authors": "Assmann et al.",
+      "publication_date": "1989",
+      "title": "European lipid guidelines: therapeutic recommendations",
+      "patent_id": "scholar/12273463688022511664",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12273463688022511664"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9116425635585128200",
+      "scholar_authors": "Harper",
+      "publication_date": "2022",
+      "title": "Geriatrics experts explore relationship between heart disease and cancer, the top two leading causes of death",
+      "patent_id": "scholar/9116425635585128200",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9116425635585128200"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3221800124811935023",
+      "scholar_authors": "Liu et al.",
+      "publication_date": "2021",
+      "title": "A risk prediction model of readmission for chinese patients after coronary artery bypass grafting",
+      "patent_id": "scholar/3221800124811935023",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3221800124811935023"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-04-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MEDICAL SOFTWARE, LLC, GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BAYKAL, DEMIR;HERRERA, EDDY A.;REEL/FRAME:015266/0298"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040422"
+        }
+      ]
+    },
+    {
+      "date": "2011-07-18",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2011-12-02",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES FILED (ORIGINAL EVENT CODE: PMFP); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2011-12-06",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES DISMISSED (ORIGINAL EVENT CODE: PMFS); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2011-12-08",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES FILED (ORIGINAL EVENT CODE: PMFP); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2011-12-11",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2011-12-11",
+      "code": "REIN",
+      "title": "Reinstatement after maintenance fee payment confirmed"
+    },
+    {
+      "date": "2012-01-31",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20111211"
+        }
+      ]
+    },
+    {
+      "date": "2012-02-03",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2012-02-03",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2012-08-27",
+      "code": "PRDP",
+      "title": "Patent reinstated due to the acceptance of a late maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20120830"
+        }
+      ]
+    },
+    {
+      "date": "2012-08-30",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-02",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2015-07-24",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2015-12-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-10",
+      "code": "SULP",
+      "title": "Surcharge for late payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-23",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN)"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN)"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-10",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "238000012502",
+        "name": "risk assessment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 88
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 71
+      },
+      {
+        "id": "230000002526",
+        "name": "effect on cardiovascular system",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "230000000747",
+        "name": "cardiac effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "102000004895",
+        "name": "Lipoproteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "108090001030",
+        "name": "Lipoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000036470",
+        "name": "plasma concentration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000029078",
+        "name": "coronary artery disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "208000002223",
+        "name": "abdominal aortic aneurysm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "208000007474",
+        "name": "aortic aneurysm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000000391",
+        "name": "smoking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000018262",
+        "name": "Peripheral vascular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000037849",
+        "name": "arterial hypertension",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000035488",
+        "name": "systolic blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000001072",
+        "name": "type 2 diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000020446",
+        "name": "Cardiac disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000019622",
+        "name": "heart disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002632",
+        "name": "lipids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000024172",
+        "name": "Cardiovascular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006806",
+        "name": "disease prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009533",
+        "name": "lab test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "name": "cholesterol",
+        "domain": "Chemical compound",
+        "smiles": "C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2",
+        "inchi_key": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 74
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 74
+      },
+      {
+        "id": "102000015779",
+        "name": "HDL Lipoproteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 70
+      },
+      {
+        "id": "108010010234",
+        "name": "HDL Lipoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 70
+      },
+      {
+        "id": "108010007622",
+        "name": "LDL Lipoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "102000007330",
+        "name": "LDL Lipoproteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "150000003626",
+        "name": "triacylglycerols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 55
+      },
+      {
+        "id": "238000008214",
+        "name": "LDL Cholesterol",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "PVNIIMVLHYAWGP-UHFFFAOYSA-N",
+        "name": "Niacin",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C1=CC=CN=C1",
+        "inchi_key": "PVNIIMVLHYAWGP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "235000012000",
+        "name": "cholesterol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "235000001968",
+        "name": "nicotinic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000011664",
+        "name": "nicotinic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229940121710",
+        "name": "HMGCoA reductase inhibitor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000004422",
+        "name": "calculation algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229940125753",
+        "name": "fibrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000002471",
+        "name": "hydroxymethylglutaryl coenzyme A reductase inhibitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229940033757",
+        "name": "niaspan",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "UFTFJSFQGQCHQW-UHFFFAOYSA-N",
+        "name": "triformin",
+        "domain": "Chemical compound",
+        "smiles": "O=COCC(OC=O)COC=O",
+        "inchi_key": "UFTFJSFQGQCHQW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "YVPOVOVZCOOSBQ-AXHZAXLDSA-N",
+        "name": "[(1s,3r,7s,8s,8ar)-8-[2-[(2r,4r)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2s)-2-methylbutanoate;pyridine-3-carboxylic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C1=CC=CN=C1.C([C@H]1[C@@H](C)C=CC2=C[C@H](C)C[C@@H]([C@H]12)OC(=O)[C@@H](C)CC)C[C@@H]1C[C@@H](O)CC(=O)O1",
+        "inchi_key": "YVPOVOVZCOOSBQ-AXHZAXLDSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "206010012601",
+        "name": "diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229960003512",
+        "name": "nicotinic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229940034653",
+        "name": "advicor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000005911",
+        "name": "diet",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920001268",
+        "name": "Cholestyramine",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002911",
+        "name": "Colestipol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "HEMJJKBWTPKOJG-UHFFFAOYSA-N",
+        "name": "Gemfibrozil",
+        "domain": "Chemical compound",
+        "smiles": "CC1=CC=C(C)C(OCCCC(C)(C)C(O)=O)=C1",
+        "inchi_key": "HEMJJKBWTPKOJG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010020772",
+        "name": "Hypertension",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108010033266",
+        "name": "Lipoprotein(a)",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "102000057248",
+        "name": "Lipoprotein(a)",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000080",
+        "name": "bile acid sequestrant",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940096699",
+        "name": "bile acid sequestrants",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000037213",
+        "name": "diet",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002651",
+        "name": "drug therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229960002297",
+        "name": "fenofibrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "YMTINGFKWWXKFG-UHFFFAOYSA-N",
+        "name": "fenofibrate",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC(OC(C)(C)C(=O)OC(C)C)=CC=C1C(=O)C1=CC=C(Cl)C=C1",
+        "inchi_key": "YMTINGFKWWXKFG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001965",
+        "name": "increasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001225",
+        "name": "therapeutic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "FJLGEFLZQAZZCD-MCBHFWOFSA-N",
+        "name": "(3R,5S)-fluvastatin",
+        "domain": "Chemical compound",
+        "smiles": "C12=CC=CC=C2N(C(C)C)C(\\C=C\\[C@@H](O)C[C@@H](O)CC(O)=O)=C1C1=CC=C(F)C=C1",
+        "inchi_key": "FJLGEFLZQAZZCD-MCBHFWOFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VTAKZNRDSPNOAU-UHFFFAOYSA-M",
+        "name": "2-(chloromethyl)oxirane;hydron;prop-2-en-1-amine;n-prop-2-enyldecan-1-amine;trimethyl-[6-(prop-2-enylamino)hexyl]azanium;dichloride",
+        "domain": "Chemical compound",
+        "smiles": "Cl.[Cl-].NCC=C.ClCC1CO1.CCCCCCCCCCNCC=C.C[N+](C)(C)CCCCCCNCC=C",
+        "inchi_key": "VTAKZNRDSPNOAU-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002905",
+        "name": "Colesevelam",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PCZOHLXUXFIOCF-UHFFFAOYSA-N",
+        "name": "Monacolin X",
+        "domain": "Natural products",
+        "smiles": "C12C(OC(=O)C(C)CC)CC(C)C=C2C=CC(C)C1CCC1CC(O)CC(=O)O1",
+        "inchi_key": "PCZOHLXUXFIOCF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000208125",
+        "name": "Nicotiana",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000002637",
+        "name": "Nicotiana tabacum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960002604",
+        "name": "colestipol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GMRWGQCZJGVHKL-UHFFFAOYSA-N",
+        "name": "colestipol",
+        "domain": "Chemical compound",
+        "smiles": "ClCC1CO1.NCCNCCNCCNCCN",
+        "inchi_key": "GMRWGQCZJGVHKL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CVSVTCORWBXHQV-UHFFFAOYSA-N",
+        "name": "creatine",
+        "domain": "Chemical compound",
+        "smiles": "NC(=[NH2+])N(C)CC([O-])=O",
+        "inchi_key": "CVSVTCORWBXHQV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013265",
+        "name": "extended release",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960003627",
+        "name": "gemfibrozil",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108010022197",
+        "name": "lipoprotein cholesterol",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PCZOHLXUXFIOCF-BXMDZJJMSA-N",
+        "name": "lovastatin",
+        "domain": "Chemical compound",
+        "smiles": "C([C@H]1[C@@H](C)C=CC2=C[C@H](C)C[C@@H]([C@H]12)OC(=O)[C@@H](C)CC)C[C@@H]1C[C@@H](O)CC(=O)O1",
+        "inchi_key": "PCZOHLXUXFIOCF-BXMDZJJMSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000010125",
+        "name": "myocardial infarction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "TUZYXOIXSAXUGO-PZAWKZKUSA-N",
+        "name": "pravastatin",
+        "domain": "Chemical compound",
+        "smiles": "C1=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(O)=O)[C@H]2[C@@H](OC(=O)[C@@H](C)CC)C[C@H](O)C=C21",
+        "inchi_key": "TUZYXOIXSAXUGO-PZAWKZKUSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "HSINOMROUCMIEA-FGVHQWLLSA-N",
+        "name": "(2s,4r)-4-[(3r,5s,6r,7r,8s,9s,10s,13r,14s,17r)-6-ethyl-3,7-dihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1h-cyclopenta[a]phenanthren-17-yl]-2-methylpentanoic acid",
+        "domain": "Chemical compound",
+        "smiles": "C([C@@]12C)C[C@@H](O)C[C@H]1[C@@H](CC)[C@@H](O)[C@@H]1[C@@H]2CC[C@]2(C)[C@@H]([C@H](C)C[C@H](C)C(O)=O)CC[C@H]21",
+        "inchi_key": "HSINOMROUCMIEA-FGVHQWLLSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ILPUOPPYSQEBNJ-UHFFFAOYSA-N",
+        "name": "2-methyl-2-phenoxypropanoic acid",
+        "domain": "Chemical class",
+        "smiles": "OC(=O)C(C)(C)OC1=CC=CC=C1",
+        "inchi_key": "ILPUOPPYSQEBNJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XUKUURHRXDUEBC-KAYWLYCHSA-N",
+        "name": "Atorvastatin",
+        "domain": "Chemical compound",
+        "smiles": "C=1C=CC=CC=1C1=C(C=2C=CC(F)=CC=2)N(CC[C@@H](O)C[C@@H](O)CC(O)=O)C(C(C)C)=C1C(=O)NC1=CC=CC=C1",
+        "inchi_key": "XUKUURHRXDUEBC-KAYWLYCHSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XUKUURHRXDUEBC-UHFFFAOYSA-N",
+        "name": "Atorvastatin",
+        "domain": "Natural products",
+        "smiles": "C=1C=CC=CC=1C1=C(C=2C=CC(F)=CC=2)N(CCC(O)CC(O)CC(O)=O)C(C(C)C)=C1C(=O)NC1=CC=CC=C1",
+        "inchi_key": "XUKUURHRXDUEBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010014486",
+        "name": "Elevated triglycerides",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "name": "Glucose",
+        "domain": "Natural products",
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010023302",
+        "name": "HDL Cholesterol",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "name": "Hydrochloric acid",
+        "domain": "Chemical compound",
+        "smiles": "Cl",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000035150",
+        "name": "Hypercholesterolemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010028554",
+        "name": "LDL Cholesterol",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "TUZYXOIXSAXUGO-UHFFFAOYSA-N",
+        "name": "Pravastatin",
+        "domain": "Natural products",
+        "smiles": "C1=CC(C)C(CCC(O)CC(O)CC(O)=O)C2C(OC(=O)C(C)CC)CC(O)C=C21",
+        "inchi_key": "TUZYXOIXSAXUGO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004480",
+        "name": "active ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006978",
+        "name": "adaptation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001367",
+        "name": "artery",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013473",
+        "name": "artificial intelligence",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960005370",
+        "name": "atorvastatin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FQCKMBLVYCEXJB-MNSAWQCASA-L",
+        "name": "atorvastatin calcium",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].C=1C=CC=CC=1C1=C(C=2C=CC(F)=CC=2)N(CC[C@@H](O)C[C@@H](O)CC([O-])=O)C(C(C)C)=C1C(=O)NC1=CC=CC=C1.C=1C=CC=CC=1C1=C(C=2C=CC(F)=CC=2)N(CC[C@@H](O)C[C@@H](O)CC([O-])=O)C(C(C)C)=C1C(=O)NC1=CC=CC=C1",
+        "inchi_key": "FQCKMBLVYCEXJB-MNSAWQCASA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003613",
+        "name": "bile acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019504",
+        "name": "cigarettes",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960001152",
+        "name": "colesevelam",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940097479",
+        "name": "colestid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013066",
+        "name": "combination product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940127555",
+        "name": "combination product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003624",
+        "name": "creatine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006046",
+        "name": "creatine",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940066901",
+        "name": "crestor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000034994",
+        "name": "death",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000517",
+        "name": "death",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000378",
+        "name": "dietary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003028",
+        "name": "elevating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009093",
+        "name": "first-line therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003765",
+        "name": "fluvastatin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008103",
+        "name": "glucose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002641",
+        "name": "glycemic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000006575",
+        "name": "hypertriglyceridemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940095570",
+        "name": "lescol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940002661",
+        "name": "lipitor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008604",
+        "name": "lipoprotein metabolism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004185",
+        "name": "liver",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004844",
+        "name": "lovastatin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QLJODMDSTUBWDW-UHFFFAOYSA-N",
+        "name": "lovastatin hydroxy acid",
+        "domain": "Natural products",
+        "smiles": "C1=CC(C)C(CCC(O)CC(O)CC(O)=O)C2C(OC(=O)C(C)CC)CC(C)C=C21",
+        "inchi_key": "QLJODMDSTUBWDW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009245",
+        "name": "menopause",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940099246",
+        "name": "mevacor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GACQNVJDWUAPFY-UHFFFAOYSA-N",
+        "name": "n'-[2-[2-(2-aminoethylamino)ethylamino]ethyl]ethane-1,2-diamine;hydrochloride",
+        "domain": "Chemical compound",
+        "smiles": "Cl.NCCNCCNCCNCCN",
+        "inchi_key": "GACQNVJDWUAPFY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002814",
+        "name": "niacins",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011457",
+        "name": "non-pharmacological treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011422",
+        "name": "pharmacological therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037081",
+        "name": "physical activity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940089484",
+        "name": "pravachol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960002965",
+        "name": "pravastatin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002028",
+        "name": "premature",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940073095",
+        "name": "questran",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960000672",
+        "name": "rosuvastatin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BPRHUIZQVSMCRT-VEUZHWNKSA-N",
+        "name": "rosuvastatin",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)C1=NC(N(C)S(C)(=O)=O)=NC(C=2C=CC(F)=CC=2)=C1\\C=C\\[C@@H](O)C[C@@H](O)CC(O)=O",
+        "inchi_key": "BPRHUIZQVSMCRT-VEUZHWNKSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LALFOYNTGMUKGG-BGRFNVSISA-L",
+        "name": "rosuvastatin calcium",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].CC(C)C1=NC(N(C)S(C)(=O)=O)=NC(C=2C=CC(F)=CC=2)=C1\\C=C\\[C@@H](O)C[C@@H](O)CC([O-])=O.CC(C)C1=NC(N(C)S(C)(=O)=O)=NC(C=2C=CC(F)=CC=2)=C1\\C=C\\[C@@H](O)C[C@@H](O)CC([O-])=O",
+        "inchi_key": "LALFOYNTGMUKGG-BGRFNVSISA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012216",
+        "name": "screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003352",
+        "name": "sequestering agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002966",
+        "name": "serum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013517",
+        "name": "stratification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013268",
+        "name": "sustained release",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012730",
+        "name": "sustained-release form",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011269",
+        "name": "treatment regimen",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004580",
+        "name": "weight loss",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940111503",
+        "name": "welchol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

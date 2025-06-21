@@ -1,0 +1,3915 @@
+{
+  "search_metadata": {
+    "id": "68514e13683863ee46bfbb9e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b366b93b421ff642/68514e13683863ee46bfbb9e.json",
+    "created_at": "2025-06-17 11:14:27 UTC",
+    "processed_at": "2025-06-17 11:14:27 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20040088187A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b366b93b421ff642/68514e13683863ee46bfbb9e.html",
+    "total_time_taken": 2.44
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20040088187A1/en"
+  },
+  "title": "System and method for management of pharmacy workflow",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/f7/1d/0b/09a2b7eb930f77/US20040088187A1.pdf",
+  "publication_number": "US20040088187A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "prescription",
+    "medication",
+    "order",
+    "sequence",
+    "prescription order"
+  ],
+  "prior_art_date": "2002-10-30",
+  "application_number": "US10/283,529",
+  "inventors": [
+    {
+      "name": "Duane Chudy",
+      "link": "https://patents.google.com/?inventor=Duane+Chudy",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Duane+Chudy"
+    },
+    {
+      "name": "David Schultz",
+      "link": "https://patents.google.com/?inventor=David+Schultz",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+Schultz"
+    }
+  ],
+  "assignees": [
+    "Arxium Inc"
+  ],
+  "priority_date": "2002-10-30",
+  "filing_date": "2002-10-30",
+  "publication_date": "2004-05-06",
+  "worldwide_applications": {
+    "2002": [
+      {
+        "filing_date": "2002-10-30",
+        "country_code": "US",
+        "application_number": "US10/283,529",
+        "document_id": "patent/US7860724B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2002-10-31",
+        "country_code": "CA",
+        "application_number": "CA2828034A",
+        "document_id": "patent/CA2828034C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2002-10-31",
+        "country_code": "CA",
+        "application_number": "CA2410397A",
+        "document_id": "patent/CA2410397C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2010": [
+      {
+        "filing_date": "2010-11-23",
+        "country_code": "US",
+        "application_number": "US12/953,140",
+        "document_id": "patent/US8571886B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2013": [
+      {
+        "filing_date": "2013-09-26",
+        "country_code": "US",
+        "application_number": "US14/038,432",
+        "document_id": "patent/US20140095190A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002-10-30",
+      "title": "Priority to US10/283,529",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7860724B2/en"
+    },
+    {
+      "date": "2002-10-30",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2002-10-31",
+      "title": "Priority to CA2828034A",
+      "type": "priority",
+      "document_id": "patent/CA2828034C/en"
+    },
+    {
+      "date": "2002-10-31",
+      "title": "Priority to CA2410397A",
+      "type": "priority",
+      "document_id": "patent/CA2410397C/en"
+    },
+    {
+      "date": "2003-04-07",
+      "title": "Assigned to AUTOMED TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "AUTOMED TECHNOLOGIES, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CHUDY, DUANE S., SCHULTZ, DAVID A."
+      ]
+    },
+    {
+      "date": "2004-05-06",
+      "title": "Publication of US20040088187A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20040088187A1/en"
+    },
+    {
+      "date": "2010-11-23",
+      "title": "Priority to US12/953,140",
+      "type": "priority",
+      "document_id": "patent/US8571886B2/en"
+    },
+    {
+      "date": "2010-12-28",
+      "title": "Publication of US7860724B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7860724B2/en"
+    },
+    {
+      "date": "2010-12-28",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2013-09-26",
+      "title": "Priority to US14/038,432",
+      "type": "priority",
+      "document_id": "patent/US20140095190A1/en"
+    },
+    {
+      "date": "2015-04-02",
+      "title": "Assigned to CALLIDUS CAPITAL CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "CALLIDUS CAPITAL CORPORATION",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: AUTOMED TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2016-02-01",
+      "title": "Assigned to ARXIUM, INC.",
+      "type": "reassignment",
+      "assignee_search": "ARXIUM, INC.",
+      "description": [
+        "MERGER AND CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: AUTOMED TECHNOLOGIES, INC., INTELLIGENT HOSPITAL SYSTEMS, INC."
+      ]
+    },
+    {
+      "date": "2016-12-16",
+      "title": "Assigned to AUTOMED TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "AUTOMED TECHNOLOGIES, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CALLIDUS CAPITAL CORPORATION"
+      ]
+    },
+    {
+      "date": "2017-01-26",
+      "title": "Assigned to ROYAL BANK OF CANADA",
+      "type": "reassignment",
+      "assignee_search": "ROYAL BANK OF CANADA",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ARXIUM, INC."
+      ]
+    },
+    {
+      "date": "2020-04-17",
+      "title": "Assigned to T.E.C.M. LIMITED",
+      "type": "reassignment",
+      "assignee_search": "T.E.C.M. LIMITED",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ARXIUM, INC."
+      ]
+    },
+    {
+      "date": "2020-05-22",
+      "title": "Assigned to ARXIUM, INC.",
+      "type": "reassignment",
+      "assignee_search": "ARXIUM, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ROYAL BANK OF CANADA"
+      ]
+    },
+    {
+      "date": "2022-11-04",
+      "title": "Assigned to ARXIUM, INC.",
+      "type": "reassignment",
+      "assignee_search": "ARXIUM, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: T.E.C.M. LIMITED"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20040088187.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10283529"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20040088187"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2004088187A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10283529/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20040088187"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/32/3d/12/7bd1c33bdeac2f/US20040088187A1-20040506-D00000.png",
+    "https://patentimages.storage.googleapis.com/2c/1c/f2/bd17c40e13ef23/US20040088187A1-20040506-D00001.png",
+    "https://patentimages.storage.googleapis.com/e5/b6/42/d03bfcb9cf6537/US20040088187A1-20040506-D00002.png",
+    "https://patentimages.storage.googleapis.com/e2/be/38/dd9f7da4412f66/US20040088187A1-20040506-D00003.png",
+    "https://patentimages.storage.googleapis.com/75/9f/50/4b6553ada3f506/US20040088187A1-20040506-D00004.png",
+    "https://patentimages.storage.googleapis.com/76/bd/ad/d79f271ed9d9f6/US20040088187A1-20040506-D00005.png",
+    "https://patentimages.storage.googleapis.com/4b/1d/e7/5129715097dd03/US20040088187A1-20040506-D00006.png",
+    "https://patentimages.storage.googleapis.com/ee/bf/50/768fc61f7c66bf/US20040088187A1-20040506-D00007.png",
+    "https://patentimages.storage.googleapis.com/2a/dd/0c/0b4fa3740d51f5/US20040088187A1-20040506-D00008.png",
+    "https://patentimages.storage.googleapis.com/93/50/c8/d04c606a0cc25e/US20040088187A1-20040506-D00009.png",
+    "https://patentimages.storage.googleapis.com/85/d9/d7/5e11bcf73fc984/US20040088187A1-20040506-D00010.png",
+    "https://patentimages.storage.googleapis.com/24/f0/b9/a2141ff27f256f/US20040088187A1-20040506-D00011.png",
+    "https://patentimages.storage.googleapis.com/94/e9/fa/baa132deff306e/US20040088187A1-20040506-D00012.png",
+    "https://patentimages.storage.googleapis.com/65/e8/46/7c3b9c62c5861f/US20040088187A1-20040506-D00013.png",
+    "https://patentimages.storage.googleapis.com/8a/28/2d/98d8af4c441f6a/US20040088187A1-20040506-D00014.png",
+    "https://patentimages.storage.googleapis.com/08/fa/10/5fda051248a056/US20040088187A1-20040506-D00015.png",
+    "https://patentimages.storage.googleapis.com/42/69/23/784b829badb0c9/US20040088187A1-20040506-D00016.png",
+    "https://patentimages.storage.googleapis.com/f7/7c/53/b50adbfdd6ac91/US20040088187A1-20040506-D00017.png",
+    "https://patentimages.storage.googleapis.com/65/90/6c/4f9a0c7e4d3589/US20040088187A1-20040506-D00018.png",
+    "https://patentimages.storage.googleapis.com/b8/0b/a8/15e676bd149fbd/US20040088187A1-20040506-D00019.png",
+    "https://patentimages.storage.googleapis.com/be/47/f6/c48e3db972b74e/US20040088187A1-20040506-D00020.png",
+    "https://patentimages.storage.googleapis.com/4f/ff/a5/d6470736e3e916/US20040088187A1-20040506-D00021.png",
+    "https://patentimages.storage.googleapis.com/bd/8c/5e/12fcb5c55fa652/US20040088187A1-20040506-D00022.png",
+    "https://patentimages.storage.googleapis.com/45/43/d5/ec805f575970f4/US20040088187A1-20040506-D00023.png",
+    "https://patentimages.storage.googleapis.com/0d/d1/e8/37bfcfb1862824/US20040088187A1-20040506-D00024.png",
+    "https://patentimages.storage.googleapis.com/4f/e4/9c/d155b6218b5ff6/US20040088187A1-20040506-D00025.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H20/10",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V20/66",
+      "description": "Trinkets, e.g. shirt buttons or jewellery items",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/20",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the management or administration of healthcare resources or facilities, e.g. managing hospital staff or surgery rooms",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A system and method for optimized management of pharmacy workflow, specifically, workflow associated with fulfillment of prescription orders for medications and health-related products in a pharmacy environment. A computer-controlled system coordinates and controls pharmacy workflow to sequence prescriptions for fulfillment in a most efficient path thereby minimizing a cost function associated with fulfillment of the prescription order. The system coordinates and controls prescription order fulfillment from automated and non-automated storage locations and can be easily adapted to the specific layout and level of automation desired by the operator.",
+  "description_link": "https://serpapi.com/searches/68514e13683863ee46bfbb9e/google_patents_details/description.html",
+  "claims": [
+    "1. A system for optimized management of workflow associated with fulfillment of medication prescription orders in a personnel-driven pharmacy operation, each prescription order including at least one prescription, and for minimizing a pharmacy workflow cost function associated with the fulfillment of the prescription orders, the system comprising: \na plurality of spaced-apart medication storage locations;  a medication inventory including plural medications stored at predetermined storage locations;  a control computer electronically connected to a pharmacy information system, said control computer configured to receive the prescription orders provided by the pharmacy information system and being programmed to perform the workflow optimization, said control computer including: \na medication inventory database adapted to describe the medications stored at each predetermined storage location; \na prescription order database adapted to store the received prescription orders; \nprogrammed instructions adapted to: \nminimize the cost function associated with fulfillment of the prescription orders stored in the prescription order database, said programmed instructions enabling: (1) for each prescription within the prescription order, selection of the medication storage location from which to obtain the medication required to fulfill the prescription; and (2) for each prescription order, determination of a prescription sequence corresponding to the sequence in which each prescription is fulfilled, first to last, within the prescription order; \npresent in human-readable form, for each prescription order, the prescription sequence and the storage location of the medication comprising each sequenced prescription to direct the personnel to the storage locations, first to last, according to the prescription sequence; and \ngenerate a print_label command; and \n\n a label printer electronically connected to the control computer configured to print a label including prescription information and machine-readable indicia for each sequenced prescription responsive to the print_label command, said label being adapted for application to a container for each prescription within the prescription order.",
+    "2. The system of claim 1 further including a work station, said work station having: \na display device electronically connected to the control computer, said display device adapted to visually present the prescription sequence; and \nan input device electronically connected to the control computer configured to permit selection of each sequenced prescription.",
+    "3. The system of claim 2 wherein the prescription sequence includes, for each sequenced prescription: text information; medication image information; and an icon representing each storage location corresponding to the sequenced prescription.",
+    "4. The system of claim 3 wherein the work station further includes: \na printer electronically connected to the control computer, said printer being adapted to print a sequence sheet; and \nthe sequence sheet includes the prescription sequence printed thereon including the machine-readable indicia for each sequenced prescription, said sequence sheet being adapted to be manually carried to each storage location as directed by the prescription sequence.",
+    "5. The system of claim 2 wherein the control computer further includes preprogrammed instructions adapted to: \nreceive an initiate_dispense signal before obtaining each prescription in the order, said initiate_dispense signal being triggered by the input device; \nreceive a medication_dispensed signal during or after obtaining each prescription in the order; and \nthe print_label command is generated in response to agreement between the initiate_dispense signal and the medication_dispensed signal.",
+    "6. The system of claim 3 wherein the work station further includes a work station computer electronically connected to the control computer and the input device includes a reader device electronically connected to the workstation computer, the work station computer including preprogrammed instructions for validating each prescription order before release of the prescription order, said instructions being adapted to: \nreceive a first validation signal generated by selecting, with the input device, a prescription from the prescription sequence presented on the display device; \nreceive a second validation signal generated by reading, with the reader device, the machine-readable indicia on the label applied to the container corresponding to each selected prescription; \ndetermine agreement between the first and second validation signals; and \nrelease the prescription order after agreement for each prescription is determined.",
+    "7. The system of claim 2 wherein the control computer further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes total time required to fulfill the prescription order, thereby minimizing the cost function.",
+    "8. The system of claim 2 wherein the control computer further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes total distance traveled between medication storage locations required to fulfill the prescription order, thereby minimizing the cost function.",
+    "9. The system of claim 2 wherein the control computer further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes a weighted sum of the total time required to fulfill the prescription order and the total distance traveled between medication storage locations required to fulfill the prescription order, thereby minimizing the cost function.",
+    "10. The system of claim 2 wherein the prescription order is a first prescription order and the control computer further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the first prescription order which avoids simultaneous dispensing from the same storage location with prescription orders to be filled immediately after the first prescription order, thereby minimizing the cost function.",
+    "11. A method of managing pharmacy workflow for fulfillment of prescription orders from a medication inventory including medications stored at plural storage locations and for minimizing a cost function associated with said prescription order fulfillment, in a personnel-driven pharmacy operation comprising, the steps of: \nreceiving the prescription orders into an electronic database stored on a control computer, each prescription order comprising at least one prescription;  by means of preprogrammed instructions: \nfor each prescription within each prescription order, selecting the medication storage location from which to obtain the medication required to fulfill the prescription according to the minimized cost function; and \nfor each prescription order, determining a prescription sequence in which each prescription is fulfilled within the prescription order, first to last, according to the minimized cost function; \n for each prescription order, presenting in human-readable form the prescription sequence and the storage location of the medication for each sequenced prescription to direct the personnel to each presented storage location, first to last, according to the prescription sequence; and  for each prescription order, fulfilling each prescription in the prescription sequence, first to last, by: \nobtaining the required medication from the selected storage location; \nprinting a label including information and machine-readable indica identifying the prescription; and \napplying the label to a container holding the required medication.",
+    "12. The method of claim 11 wherein the step of determining the prescription sequence comprises sequencing the prescriptions within the prescription order to minimize total time required to fulfill the prescription order, thereby minimizing the cost function.",
+    "13. The method of claim 11 wherein the step of determining the prescription sequence comprises sequencing the prescriptions within the prescription order to minimize total distance traveled between medication storage locations required to fulfill the prescription order, thereby minimizing the cost function.",
+    "14. The method of claim 11 wherein the step of determining the prescription sequence comprises sequencing the prescriptions within the prescription order wherein the cost function is a weighted sum of the total time required to fulfill the prescription order and the total distance traveled between medication storage locations required to fulfill the prescription order.",
+    "15. The method of claim 11 wherein the step of determining the prescription sequence comprises sequencing the prescriptions within the prescription order to avoid simultaneous dispensing from the same storage location of other prescription orders, thereby minimizing the cost function.",
+    "16. The method of claim 11 further comprising, the steps of: \nbefore the fulfilling step for each prescription, providing an initiate_dispense signal; \nduring or after the obtaining step for each prescription, providing a medication_dispensed signal; \nautomatically comparing the initiate_dispense signal and the medication_dispensed signal; and \ngenerating a print_label command if the signals are in agreement, said print_label command causing a printer to print the label.",
+    "17. The method of claim 16 wherein: \nthe presenting step further comprises presenting the prescription sequence on a visual display device, said prescription sequence including for each prescription, text information, medication image information and an icon representing the storage location corresponding to the prescription; and \nthe step of providing the initiate_dispense signal comprises selecting one of the sequenced prescriptions on the display.",
+    "18. The method of claim 16 wherein: \nthe presenting step further comprises printing the prescription sequence on a sequence sheet, said prescription sequence including for each prescription, text information, medication image information, machine-readable indicia identifying the prescription and an icon representing the storage location corresponding to the prescription; and \nthe step of providing the initiate_dispense signal comprises scanning the machine-readable indicia corresponding to one sequenced prescription.",
+    "19. The method of claim 18 wherein the machine-readable indicia on the sequence sheet is a bar code.",
+    "20. The method of claim 11 further comprising, after the fulfilling step for all prescriptions within the prescription order, performing a prescription order validation, comprising the steps of: \npresenting the prescriptions within the prescription order on a display device for prescription order validation; \nfor each prescription, providing a first validation signal corresponding to selection of the prescription; \nfor each prescription, providing a second validation signal by reading the machine-readable indicia on the label applied to the container of the selected prescription; \nautomatically comparing the first and second validation signals for agreement between the signals; and \nreleasing the prescription order after agreement for each prescription is determined.",
+    "21. The method of claim 20 further including, before the releasing step, the step of visually comparing a medication stock image with the obtained medication.",
+    "22. The method of claim 20 further including, before the presenting step, the steps of: \nentering a personal identification code for a person indicating authority to validate the prescription order; and \nif the code is valid, permitting the person to validate the prescription order or, if the code is not valid, blocking the person from validating the prescription order.",
+    "23. The method of claim 11 further including, before the selecting step, the step of selecting between automatic and manual dispense modes.",
+    "24. The method of claim 23 wherein the step of selecting the manual display mode comprises selecting a patient prescription order from among orders displayed on the display device.",
+    "25. The method of claim 11 further including a replenishment process comprising, the steps of: \nmonitoring the quantities of medication in inventory; \ncomparing the quantities with predetermined replenishment levels; and \nautomatically ordering additional medications when the quantities in inventory are below the predetermined replenishment level.",
+    "26. The method of claim 25 further comprising, the steps of: \nscanning a machine-readable indicia on a container of the additional medication; \nidentifying for an operator a medication storage location corresponding to the additional medication; \nscanning a machine-readable indicia at the identified storage location; \nif there is agreement between the identified storage location and the scanned indicia on the medication container, directing the operator to replenish the medication; and \nautomatically updating the quantity of medication in inventory.",
+    "27. An integrated pharmacy workflow system in a personnel-driven pharmacy operation including automated and manual processes for fulfillment of medication prescription orders, each prescription order including at least one prescription, such system adapted to minimize a pharmacy workflow cost function associated with fulfillment of the prescription orders, the system comprising: \nat least one automated dispensing apparatus, each apparatus automatically dispensing medications from a plurality of medication storage locations;  at least one manually-accessed medication storage apparatus, each apparatus having a plurality of spaced-apart medication storage locations;  a medication inventory including plural medications stored at predetermined storage locations;  at least one input/output apparatus, each apparatus including a visual display and an input device;  at least one label printer adjacent to the automated dispensing apparatus and the manually-accessed medication storage apparatus;  a controller electronically connected to: (1) a pharmacy information system adapted to provide prescription orders; (2) the at least one automated dispensing apparatus; (3) the at least one input/output device; (4) the at least one label printer; (5) a medication inventory database adapted to describe the medications stored at each predetermined storage location; and (6) a prescription order database adapted to store prescription orders received from the pharmacy information system, said controller having preprogrammed workflow management instructions adapted to: \nminimize the cost function associated with fulfillment of the prescription orders stored in the prescription order database, said preprogrammed instructions enabling: (1) for each prescription within the prescription order, selection of the medication storage location from which to obtain the medication required to fulfill the prescription; (2) for each prescription order, determination of a prescription sequence in which each prescription is fulfilled, first to last, within the prescription order; \ndisplay on at least one display device the prescription sequence for each prescription order including the storage location of the medication corresponding to each sequenced prescription to direct the personnel to each displayed storage location, first to last, according to the prescription sequence; and \ngenerate a print_label command to one label printer for each prescription in the prescription order, said command including prescription information for application to the label.",
+    "28. The system of claim 27 wherein the at least one automated dispensing apparatus comprises: \na first automated dispensing apparatus adapted to automatically dispense bulk-form medications from bulk-form medication storage locations; and \na second automated dispensing apparatus adapted to automatically dispense pre-packaged form medications.",
+    "29. The system of claim 27 wherein the preprogrammed instructions enable display of the prescription sequence on the display device, including for each prescription, text information, medication image information and an icon representing the storage location corresponding to the sequenced prescription.",
+    "30. The system of claim 27 wherein the preprogrammed instructions enable, for each sequenced prescription within the prescription order: \ngeneration of an initiate_dispense signal triggered from one of the input devices; \ngeneration of a medication_dispensed signal signifying collection of the medication corresponding to the sequenced prescription; \nan automatic comparison of the initiate_dispense signal and the medication_dispensed signal; and \ngeneration of the print_label command if the signals are in agreement, said print_label command causing the label printer to print the label.",
+    "31. The system of claim 30 further including: \na reader electronically connected to the controller, said reader being configured to read machine-readable indicia; \na printer electronically connected to the controller, said printer being adapted to print a sequence sheet including the prescription sequence; and \nthe sequence sheet includes the prescription sequence printed thereon, such prescription sequence further including machine-readable indicia for each sequenced prescription, said sequence sheet being adapted to be manually carried to each storage location as directed by the prescription sequence.",
+    "32. The system of claim 31 wherein the prescription sequence on the sequence sheet further includes, for each prescription, text information, medication image information. and an icon representing the storage location corresponding to the sequenced prescription.",
+    "33. The system of claim 31 wherein the preprogrammed instructions enable, for each sequenced prescription within the prescription order, generation of the initiate_dispense signal triggered by reading the sequence sheet machine-readable indicia with the reader.",
+    "34. The system of claim 30 wherein one of the input apparatus includes a reader device and the controller further includes preprogrammed instructions for validating each prescription order before completing fulfillment of the prescription order, said instructions being adapted to: \nreceive a first validation signal generated by selecting, with one input apparatus, a prescription from the prescription order presented on the display device; \nreceive a second validation signal generated by reading, with the reader device, the machine-readable indicia on the label applied to the container corresponding to each selected prescription; \ndetermine agreement between the first and second validation signals; and \nrelease the prescription order after agreement for each prescription is determined.",
+    "35. The system of claim 27 wherein the controller comprises a network of computers.",
+    "36. The system of claim 27 wherein the controller further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes total time required to fulfill the prescription order, thereby minimizing the cost function.",
+    "37. The system of claim 27 wherein the controller further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes total distance traveled between medication storage locations required to fulfill the prescription order, thereby minimizing the cost function.",
+    "38. The system of claim 27 wherein the control computer further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the prescription order which minimizes a weighted sum of total time required to fulfill the prescription order and total distance traveled between medication storage locations required to fulfill the prescription order, thereby minimizing the cost function.",
+    "39. The system of claim 27 wherein the prescription order is a first prescription order and the controller further includes preprogrammed instructions adapted to determine the sequence of prescriptions within the first prescription order which avoids simultaneous dispensing of co-pending prescription orders from the same storage location, thereby minimizing the cost function."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US12/953,140",
+      "relation_type": "Division",
+      "representative_publication": "US8571886B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2010-11-23",
+      "title": "System and method for management of pharmacy workflow"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/283,529",
+      "representative_publication": "US7860724B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2002-10-30",
+      "title": "System and method for management of pharmacy workflow"
+    },
+    {
+      "application_number": "CA2828034A",
+      "representative_publication": "CA2828034C",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2002-10-31",
+      "title": "System and method for management of pharmacy workflow"
+    },
+    {
+      "application_number": "CA2410397A",
+      "representative_publication": "CA2410397C",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2002-10-31",
+      "title": "System and method for management of pharmacy workflow"
+    },
+    {
+      "application_number": "US12/953,140",
+      "representative_publication": "US8571886B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2010-11-23",
+      "title": "System and method for management of pharmacy workflow"
+    },
+    {
+      "application_number": "US14/038,432",
+      "representative_publication": "US20140095190A1",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2013-09-26",
+      "title": "System and method for management of pharmacy workflow"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US10/283,529",
+      "representative_publication": "US7860724B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-30",
+      "filing_date": "2002-10-30",
+      "title": "System and method for management of pharmacy workflow"
+    }
+  ],
+  "family_id": "32174676",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4847764A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-05-21",
+        "publication_date": "1989-07-11",
+        "assignee_original": "Meditrol, Inc.",
+        "title": "System for dispensing drugs in health care institutions",
+        "patent_id": "patent/US4847764A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4847764A%2Fen"
+      },
+      {
+        "publication_number": "US4971513A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-03-27",
+        "publication_date": "1990-11-20",
+        "assignee_original": "Societe Anonyme Dite: Compagnie Generale D'automatisme Cga-Hbs",
+        "title": "Method of making up batches of small items",
+        "patent_id": "patent/US4971513A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4971513A%2Fen"
+      },
+      {
+        "publication_number": "US5208762A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-06",
+        "publication_date": "1993-05-04",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Automated prescription vial filling system",
+        "patent_id": "patent/US5208762A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5208762A%2Fen"
+      },
+      {
+        "publication_number": "US5259499A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-12-10",
+        "publication_date": "1993-11-09",
+        "assignee_original": "St. Francis Research Institute",
+        "title": "System and apparatus for accurate drug inventory control",
+        "patent_id": "patent/US5259499A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5259499A%2Fen"
+      },
+      {
+        "publication_number": "US5317506A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-30",
+        "publication_date": "1994-05-31",
+        "assignee_original": "Abbott Laboratories",
+        "title": "Infusion fluid management system",
+        "patent_id": "patent/US5317506A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5317506A%2Fen"
+      },
+      {
+        "publication_number": "US5597995A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-08",
+        "publication_date": "1997-01-28",
+        "assignee_original": "Automated Prescription Systems, Inc.",
+        "title": "Automated medical prescription fulfillment system having work stations for imaging, filling, and checking the dispensed drug product",
+        "patent_id": "patent/US5597995A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5597995A%2Fen"
+      },
+      {
+        "publication_number": "US5666492A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-01-17",
+        "publication_date": "1997-09-09",
+        "assignee_original": "Glaxo Wellcome Inc.",
+        "title": "Flexible computer based pharmaceutical care cognitive services management system and method",
+        "patent_id": "patent/US5666492A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666492A%2Fen"
+      },
+      {
+        "publication_number": "US5713487A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-11",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Scriptpro L.L.C.",
+        "title": "Medicament verification in an automatic dispening system",
+        "patent_id": "patent/US5713487A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5713487A%2Fen"
+      },
+      {
+        "publication_number": "US5713485A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-18",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Adds, Inc.",
+        "title": "Drug dispensing system",
+        "patent_id": "patent/US5713485A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5713485A%2Fen"
+      },
+      {
+        "publication_number": "US5737539A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-28",
+        "publication_date": "1998-04-07",
+        "assignee_original": "Advanced Health Med-E-Systems Corp.",
+        "title": "Prescription creation system",
+        "patent_id": "patent/US5737539A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5737539A%2Fen"
+      },
+      {
+        "publication_number": "US5758095A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-24",
+        "publication_date": "1998-05-26",
+        "assignee_original": "Albaum; David",
+        "title": "Interactive medication ordering system",
+        "patent_id": "patent/US5758095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5758095A%2Fen"
+      },
+      {
+        "publication_number": "US5761877A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-23",
+        "publication_date": "1998-06-09",
+        "assignee_original": "Quandt; W. Gerald",
+        "title": "System for individual dosage medication distribution",
+        "patent_id": "patent/US5761877A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5761877A%2Fen"
+      },
+      {
+        "publication_number": "US5797515A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-18",
+        "publication_date": "1998-08-25",
+        "assignee_original": "Adds, Inc.",
+        "title": "Method for controlling a drug dispensing system",
+        "patent_id": "patent/US5797515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5797515A%2Fen"
+      },
+      {
+        "publication_number": "US5845255A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-28",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Advanced Health Med-E-Systems Corporation",
+        "title": "Prescription management system",
+        "patent_id": "patent/US5845255A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5845255A%2Fen"
+      },
+      {
+        "publication_number": "US5883370A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-08",
+        "publication_date": "1999-03-16",
+        "assignee_original": "Psc Inc.",
+        "title": "Automated method for filling drug prescriptions",
+        "patent_id": "patent/US5883370A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5883370A%2Fen"
+      },
+      {
+        "publication_number": "US5907493A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-31",
+        "publication_date": "1999-05-25",
+        "assignee_original": "Innovation Associates, Inc.",
+        "title": "Pharmaceutical dispensing system",
+        "patent_id": "patent/US5907493A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5907493A%2Fen"
+      },
+      {
+        "publication_number": "US5988858A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-09",
+        "publication_date": "1999-11-23",
+        "assignee_original": "Kabushiki Kaisha Yuyama Seiksakusho",
+        "title": "Method and apparatus for delivering drugs",
+        "patent_id": "patent/US5988858A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5988858A%2Fen"
+      },
+      {
+        "publication_number": "US6021392A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-09",
+        "publication_date": "2000-02-01",
+        "assignee_original": "Pyxis Corporation",
+        "title": "System and method for drug management",
+        "patent_id": "patent/US6021392A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6021392A%2Fen"
+      },
+      {
+        "publication_number": "US6112182A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-16",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Healthcare Computer Corporation",
+        "title": "Method and apparatus for integrated management of pharmaceutical and healthcare services",
+        "patent_id": "patent/US6112182A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6112182A%2Fen"
+      },
+      {
+        "publication_number": "US6152364A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-09",
+        "publication_date": "2000-11-28",
+        "assignee_original": "Consumer Health Entrepreneurs B.V.",
+        "title": "Medicament distribution system and automatic dispenser for such system",
+        "patent_id": "patent/US6152364A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6152364A%2Fen"
+      },
+      {
+        "publication_number": "US6155485A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-09",
+        "publication_date": "2000-12-05",
+        "assignee_original": "Scriptpro Llc",
+        "title": "Medicament dispensing station",
+        "patent_id": "patent/US6155485A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6155485A%2Fen"
+      },
+      {
+        "publication_number": "US6170230B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-04",
+        "publication_date": "2001-01-09",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "Medication collecting system",
+        "patent_id": "patent/US6170230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6170230B1%2Fen"
+      },
+      {
+        "publication_number": "US6181979B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-13",
+        "publication_date": "2001-01-30",
+        "assignee_original": "Kabushiki Kaisha Yuyama Seisakusho",
+        "title": "Medication processing system",
+        "patent_id": "patent/US6181979B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6181979B1%2Fen"
+      },
+      {
+        "publication_number": "US6202923B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-23",
+        "publication_date": "2001-03-20",
+        "assignee_original": "Innovation Associates, Inc.",
+        "title": "Automated pharmacy",
+        "patent_id": "patent/US6202923B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6202923B1%2Fen"
+      },
+      {
+        "publication_number": "US6219587B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-27",
+        "publication_date": "2001-04-17",
+        "assignee_original": "Nextrx Corporation",
+        "title": "Automated pharmaceutical management and dispensing system",
+        "patent_id": "patent/US6219587B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6219587B1%2Fen"
+      },
+      {
+        "publication_number": "US6256967B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-27",
+        "publication_date": "2001-07-10",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "Integrated automated drug dispenser method and apparatus",
+        "patent_id": "patent/US6256967B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6256967B1%2Fen"
+      },
+      {
+        "publication_number": "US20010025208A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-06-11",
+        "publication_date": "2001-09-27",
+        "assignee_original": "Meir Bartur",
+        "title": "Medication dispensing and monitoring system",
+        "patent_id": "patent/US20010025208A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010025208A1%2Fen"
+      },
+      {
+        "publication_number": "US6317648B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-06",
+        "publication_date": "2001-11-13",
+        "assignee_original": "Merck & Co., Inc.",
+        "title": "Customer specific packaging line having containers with tag means containing medication order information",
+        "patent_id": "patent/US6317648B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6317648B1%2Fen"
+      },
+      {
+        "publication_number": "US6330491B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-21",
+        "publication_date": "2001-12-11",
+        "assignee_original": "Nicholas Lion",
+        "title": "Integrated system and method of vending prescription medications using a network of remotely distributed, automated dispensing units",
+        "patent_id": "patent/US6330491B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6330491B1%2Fen"
+      },
+      {
+        "publication_number": "US6330351B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-29",
+        "publication_date": "2001-12-11",
+        "assignee_original": "Kabushiki Kaisha Yuyama Seisakusho",
+        "title": "Drug inspection device and drug packaging device",
+        "patent_id": "patent/US6330351B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6330351B1%2Fen"
+      },
+      {
+        "publication_number": "US6351688B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-13",
+        "publication_date": "2002-02-26",
+        "assignee_original": "Interlott Technologies, Inc.",
+        "title": "Item dispensing system",
+        "patent_id": "patent/US6351688B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6351688B1%2Fen"
+      },
+      {
+        "publication_number": "US20020032582A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-14",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Feeney Robert J.",
+        "title": "System for medication dispensing and integrated data management",
+        "patent_id": "patent/US20020032582A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032582A1%2Fen"
+      },
+      {
+        "publication_number": "US6421584B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-02",
+        "publication_date": "2002-07-16",
+        "assignee_original": "Scriptpro Llc",
+        "title": "Independent counting unit",
+        "patent_id": "patent/US6421584B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6421584B1%2Fen"
+      },
+      {
+        "publication_number": "USRE37829E1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-06",
+        "publication_date": "2002-09-03",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "Automated prescription vial filling system",
+        "patent_id": "patent/USRE37829E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE37829E1%2Fen"
+      },
+      {
+        "publication_number": "US6529801B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-08",
+        "publication_date": "2003-03-04",
+        "assignee_original": "Mendota Healthcare, Inc.",
+        "title": "Automatic prescription drug dispenser",
+        "patent_id": "patent/US6529801B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6529801B1%2Fen"
+      },
+      {
+        "publication_number": "US20030149599A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-01",
+        "publication_date": "2003-08-07",
+        "assignee_original": "Charles Goodall",
+        "title": "Method and apparatus for prescription processing",
+        "patent_id": "patent/US20030149599A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030149599A1%2Fen"
+      },
+      {
+        "publication_number": "US20030225595A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-12-04",
+        "assignee_original": "Merck-Medco Managed Care, Llc",
+        "title": "Prescription management system",
+        "patent_id": "patent/US20030225595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030225595A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US4203562A",
+        "primary_language": "en",
+        "priority_date": "1977-09-08",
+        "publication_date": "1980-05-20",
+        "assignee_original": "Georgia-Pacific Corporation",
+        "title": "Flexible sheet material dispensing of rolls in succession",
+        "patent_id": "patent/US4203562A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4203562A%2Fen"
+      },
+      {
+        "publication_number": "CA2466950A1",
+        "primary_language": "en",
+        "priority_date": "2000-04-28",
+        "publication_date": "2000-10-02",
+        "assignee_original": "Clark R. Jeffery",
+        "title": "Light fixture management system",
+        "patent_id": "patent/CA2466950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2466950A1%2Fen"
+      },
+      {
+        "publication_number": "PE20020360A1",
+        "primary_language": "en",
+        "priority_date": "2000-06-16",
+        "publication_date": "2002-05-21",
+        "assignee_original": "Manugistics Inc",
+        "title": "ADMINISTRATORS OF PLANNING, EXECUTION AND FREIGHT SYSTEM FOR TRANSPORTATION AND RELATED METHODS",
+        "patent_id": "patent/PE20020360A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPE20020360A1%2Fen"
+      },
+      {
+        "publication_number": "US7860724B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-30",
+        "publication_date": "2010-12-28",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "System and method for management of pharmacy workflow",
+        "patent_id": "patent/US7860724B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7860724B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20030016251A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-23",
+        "publication_date": "2003-01-23",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Command execution apparatus and command execution program storage medium",
+        "patent_id": "patent/US20030016251A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030016251A1%2Fen"
+      },
+      {
+        "publication_number": "US20030097368A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-21",
+        "publication_date": "2003-05-22",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Serial data capture and processing",
+        "patent_id": "patent/US20030097368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030097368A1%2Fen"
+      },
+      {
+        "publication_number": "US20050080651A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2005-04-14",
+        "assignee_original": "Morrison Kelly L.",
+        "title": "System and method for remote processing of pharmacy orders",
+        "patent_id": "patent/US20050080651A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050080651A1%2Fen"
+      },
+      {
+        "publication_number": "US20050096941A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-09",
+        "publication_date": "2005-05-05",
+        "assignee_original": "Greg Tong",
+        "title": "Method for saving medication costs by redistributing unused medications",
+        "patent_id": "patent/US20050096941A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050096941A1%2Fen"
+      },
+      {
+        "publication_number": "US20050125097A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-05",
+        "publication_date": "2005-06-09",
+        "assignee_original": "Chudy Duane S.",
+        "title": "Pharmacy dispensing system and method",
+        "patent_id": "patent/US20050125097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050125097A1%2Fen"
+      },
+      {
+        "publication_number": "US20050171813A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-04",
+        "publication_date": "2005-08-04",
+        "assignee_original": "Jordan Mchael L.",
+        "title": "System for identifying and sorting orders",
+        "patent_id": "patent/US20050171813A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050171813A1%2Fen"
+      },
+      {
+        "publication_number": "US20050216310A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-23",
+        "publication_date": "2005-09-29",
+        "assignee_original": "Clements Leon M",
+        "title": "Pharmaceutical inventory and dispensation computer system and methods",
+        "patent_id": "patent/US20050216310A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050216310A1%2Fen"
+      },
+      {
+        "publication_number": "US20050216307A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-23",
+        "publication_date": "2005-09-29",
+        "assignee_original": "Clements Leon M",
+        "title": "Pharmaceutical treatment effectiveness analysis computer system and methods",
+        "patent_id": "patent/US20050216307A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050216307A1%2Fen"
+      },
+      {
+        "publication_number": "US20060025884A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-20",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Claus Henkel",
+        "title": "Systems and methods of automated tablet dispensing, prescription filling, and packaging",
+        "patent_id": "patent/US20060025884A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060025884A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088565A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing for medication payments",
+        "patent_id": "patent/US20070088565A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088565A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088590A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing for out of stock medication",
+        "patent_id": "patent/US20070088590A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088590A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088566A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing for specialty medication",
+        "patent_id": "patent/US20070088566A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088566A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088569A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing for prescription verification",
+        "patent_id": "patent/US20070088569A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088569A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088567A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing for compound medication",
+        "patent_id": "patent/US20070088567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088567A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088596A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "System for separating and distributing pharmacy order processing",
+        "patent_id": "patent/US20070088596A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088596A1%2Fen"
+      },
+      {
+        "publication_number": "US20070100662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-01",
+        "publication_date": "2007-05-03",
+        "assignee_original": "Suwalski Michael W",
+        "title": "Integrated pharmacy error tracking and reporting system and method",
+        "patent_id": "patent/US20070100662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070100662A1%2Fen"
+      },
+      {
+        "publication_number": "US20070112587A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-05-17",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Providing assistance related to health",
+        "patent_id": "patent/US20070112587A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070112587A1%2Fen"
+      },
+      {
+        "publication_number": "US20070112589A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-05-17",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "User interface for providing assistance related to health",
+        "patent_id": "patent/US20070112589A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070112589A1%2Fen"
+      },
+      {
+        "publication_number": "US20070112595A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-05-17",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Assistance related to health",
+        "patent_id": "patent/US20070112595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070112595A1%2Fen"
+      },
+      {
+        "publication_number": "US20070119928A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Jung Edward K",
+        "title": "Generating a nutraceutical request from an inventory",
+        "patent_id": "patent/US20070119928A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070119928A1%2Fen"
+      },
+      {
+        "publication_number": "US20070124219A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Computational and/or control systems related to individualized nutraceutical selection and packaging",
+        "patent_id": "patent/US20070124219A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070124219A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007062523A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-01",
+        "publication_date": "2007-06-07",
+        "assignee_original": "Sanjeev Kaila",
+        "title": "Business practice management system",
+        "patent_id": "patent/WO2007062523A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007062523A1%2Fen"
+      },
+      {
+        "publication_number": "US20070150306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-06-28",
+        "assignee_original": "K Y Jung Edward",
+        "title": "Testing-dependent administration of a nutraceutical",
+        "patent_id": "patent/US20070150306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070150306A1%2Fen"
+      },
+      {
+        "publication_number": "US20070214014A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-03",
+        "publication_date": "2007-09-13",
+        "assignee_original": "Suwalski Michael W",
+        "title": "Pharmacy quality checking and alert system and method",
+        "patent_id": "patent/US20070214014A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070214014A1%2Fen"
+      },
+      {
+        "publication_number": "US20070250346A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-30",
+        "publication_date": "2007-10-25",
+        "assignee_original": "Luciano Robert A Jr",
+        "title": "System and method for processing a multiple prescription order",
+        "patent_id": "patent/US20070250346A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070250346A1%2Fen"
+      },
+      {
+        "publication_number": "US20070299695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-23",
+        "publication_date": "2007-12-27",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Customized visual marking for medication labeling",
+        "patent_id": "patent/US20070299695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070299695A1%2Fen"
+      },
+      {
+        "publication_number": "US20070299693A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-23",
+        "publication_date": "2007-12-27",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation",
+        "title": "Customized visual marking for medication labeling",
+        "patent_id": "patent/US20070299693A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070299693A1%2Fen"
+      },
+      {
+        "publication_number": "US20080004909A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2008-01-03",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Computational systems related to nutraceuticals",
+        "patent_id": "patent/US20080004909A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080004909A1%2Fen"
+      },
+      {
+        "publication_number": "US20080027751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-25",
+        "publication_date": "2008-01-31",
+        "assignee_original": "Marc Pappalardo",
+        "title": "Medical product reservation, distribution and purchasing system and method",
+        "patent_id": "patent/US20080027751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080027751A1%2Fen"
+      },
+      {
+        "publication_number": "US20080046395A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2008-02-21",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Computational systems and methods related to nutraceuticals",
+        "patent_id": "patent/US20080046395A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080046395A1%2Fen"
+      },
+      {
+        "publication_number": "US20080059228A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-24",
+        "publication_date": "2008-03-06",
+        "assignee_original": "Christopher Bossi",
+        "title": "Operation Of A Remote Medication Management System",
+        "patent_id": "patent/US20080059228A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080059228A1%2Fen"
+      },
+      {
+        "publication_number": "US20080077530A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-25",
+        "publication_date": "2008-03-27",
+        "assignee_original": "John Banas",
+        "title": "System and method for project process and workflow optimization",
+        "patent_id": "patent/US20080077530A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080077530A1%2Fen"
+      },
+      {
+        "publication_number": "US20080082272A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Computational systems and methods related to nutraceuticals",
+        "patent_id": "patent/US20080082272A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082272A1%2Fen"
+      },
+      {
+        "publication_number": "US20080086339A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-23",
+        "publication_date": "2008-04-10",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Customized visual marking for medication labeling",
+        "patent_id": "patent/US20080086339A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080086339A1%2Fen"
+      },
+      {
+        "publication_number": "US20080086338A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-23",
+        "publication_date": "2008-04-10",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Customized visual marking for medication labeling",
+        "patent_id": "patent/US20080086338A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080086338A1%2Fen"
+      },
+      {
+        "publication_number": "US20080169046A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-20",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug preparation apparatus including a bluetooth communications network",
+        "patent_id": "patent/US20080169046A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080169046A1%2Fen"
+      },
+      {
+        "publication_number": "US20080171981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-11",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Tamper evident cap for a drug delivery device",
+        "patent_id": "patent/US20080171981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080171981A1%2Fen"
+      },
+      {
+        "publication_number": "US20080193919A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Systems and methods for receiving pathogen related information and responding",
+        "patent_id": "patent/US20080193919A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080193919A1%2Fen"
+      },
+      {
+        "publication_number": "US20080195416A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-08",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated centralized preparation of medications in anticipation of use",
+        "patent_id": "patent/US20080195416A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080195416A1%2Fen"
+      },
+      {
+        "publication_number": "US20080288287A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-09",
+        "publication_date": "2008-11-20",
+        "assignee_original": "Stanners Sydney D",
+        "title": "Saferite system",
+        "patent_id": "patent/US20080288287A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080288287A1%2Fen"
+      },
+      {
+        "publication_number": "US20080312957A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Luciano Jr Robert A",
+        "title": "Method for verifying and assembling a multiple prescription package",
+        "patent_id": "patent/US20080312957A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080312957A1%2Fen"
+      },
+      {
+        "publication_number": "US20090287350A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-16",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Pharmaceutical dispensing systems and graphical user interfaces associated with same",
+        "patent_id": "patent/US20090287350A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090287350A1%2Fen"
+      },
+      {
+        "publication_number": "US20090321296A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2009-12-31",
+        "assignee_original": "Luciano Jr Robert A",
+        "title": "Tablet Dispensing Container",
+        "patent_id": "patent/US20090321296A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090321296A1%2Fen"
+      },
+      {
+        "publication_number": "US20100030667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-04",
+        "publication_date": "2010-02-04",
+        "assignee_original": "The Chudy Group, Llc",
+        "title": "Adaptive Pharmaceutical Product Management Methods and System",
+        "patent_id": "patent/US20100030667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100030667A1%2Fen"
+      },
+      {
+        "publication_number": "US20100030371A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-30",
+        "publication_date": "2010-02-04",
+        "assignee_original": "The Chudy Group, Llc",
+        "title": "Pharmacy Will-Call and Prescription Order Article Management System",
+        "patent_id": "patent/US20100030371A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100030371A1%2Fen"
+      },
+      {
+        "publication_number": "US20100069213A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2010-03-18",
+        "assignee_original": "Luciano Jr Robert A",
+        "title": "Manufacturing Separable Pouches With A Center Cut Blade",
+        "patent_id": "patent/US20100069213A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100069213A1%2Fen"
+      },
+      {
+        "publication_number": "US20100097465A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-20",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug preparation apparatus including syringe loading, preparation and filling",
+        "patent_id": "patent/US20100097465A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100097465A1%2Fen"
+      },
+      {
+        "publication_number": "US20100145500A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-30",
+        "publication_date": "2010-06-10",
+        "assignee_original": "Luciano Jr Robert A",
+        "title": "Multiple prescription production facility",
+        "patent_id": "patent/US20100145500A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100145500A1%2Fen"
+      },
+      {
+        "publication_number": "US20100153129A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Edge Technology",
+        "title": "System and Method for Automatically Managing Inventory in a Multiple Table Order Production Facility",
+        "patent_id": "patent/US20100153129A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100153129A1%2Fen"
+      },
+      {
+        "publication_number": "US20100152884A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-07",
+        "publication_date": "2010-06-17",
+        "assignee_original": "Dennis Wayne Rice",
+        "title": "Automated prescription filling system/method with automated labeling and packaging system/method and automated order consolidation system/method",
+        "patent_id": "patent/US20100152884A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100152884A1%2Fen"
+      },
+      {
+        "publication_number": "US20100174552A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-05",
+        "publication_date": "2010-07-08",
+        "assignee_original": "Paxit Automation Products LLC",
+        "title": "System and methodology for filling prescriptions",
+        "patent_id": "patent/US20100174552A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100174552A1%2Fen"
+      },
+      {
+        "publication_number": "US20100185754A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-20",
+        "publication_date": "2010-07-22",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Methods, systems, and apparatus for determining and automatically programming network addresses for devices operating in a network",
+        "patent_id": "patent/US20100185754A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100185754A1%2Fen"
+      },
+      {
+        "publication_number": "US7900658B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-20",
+        "publication_date": "2011-03-08",
+        "assignee_original": "Fht, Inc.",
+        "title": "Automated drug preparation apparatus including drug vial handling, venting, cannula positioning functionality",
+        "patent_id": "patent/US7900658B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7900658B2%2Fen"
+      },
+      {
+        "publication_number": "US20110101016A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-25",
+        "publication_date": "2011-05-05",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Low vision patient compliant medication management system and method",
+        "patent_id": "patent/US20110101016A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110101016A1%2Fen"
+      },
+      {
+        "publication_number": "US20110100863A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2011-05-05",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Dual dispensing tablet container",
+        "patent_id": "patent/US20110100863A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110100863A1%2Fen"
+      },
+      {
+        "publication_number": "US20110131056A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-30",
+        "publication_date": "2011-06-02",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "System and method for management of pharmacy workflow",
+        "patent_id": "patent/US20110131056A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110131056A1%2Fen"
+      },
+      {
+        "publication_number": "US20110145080A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-15",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Target Brands, Inc.",
+        "title": "Anonymous Pharmacy Order Processing",
+        "patent_id": "patent/US20110145080A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110145080A1%2Fen"
+      },
+      {
+        "publication_number": "US20110160901A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-04",
+        "publication_date": "2011-06-30",
+        "assignee_original": "Abrams Jr George Raymond",
+        "title": "System and Method for Dispensing Prescriptions",
+        "patent_id": "patent/US20110160901A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110160901A1%2Fen"
+      },
+      {
+        "publication_number": "US20110301994A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-07",
+        "publication_date": "2011-12-08",
+        "assignee_original": "Tieman James K",
+        "title": "Wireless put-to-light system and method",
+        "patent_id": "patent/US20110301994A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110301994A1%2Fen"
+      },
+      {
+        "publication_number": "US20120173255A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-29",
+        "publication_date": "2012-07-05",
+        "assignee_original": "Korhnak Daniel J",
+        "title": "Modes and workflows for processing medication requests",
+        "patent_id": "patent/US20120173255A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120173255A1%2Fen"
+      },
+      {
+        "publication_number": "US8271128B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-30",
+        "publication_date": "2012-09-18",
+        "assignee_original": "Kirby Lester, Llc",
+        "title": "Pharmacy workflow management system including plural counters",
+        "patent_id": "patent/US8271128B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8271128B1%2Fen"
+      },
+      {
+        "publication_number": "JPWO2010113436A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2012-10-04",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Drug management method",
+        "patent_id": "patent/JPWO2010113436A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPWO2010113436A1%2Fen"
+      },
+      {
+        "publication_number": "US8353869B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2013-01-15",
+        "assignee_original": "Baxa Corporation",
+        "title": "Anti-tampering apparatus and method for drug delivery devices",
+        "patent_id": "patent/US8353869B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8353869B2%2Fen"
+      },
+      {
+        "publication_number": "US20130042194A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-22",
+        "publication_date": "2013-02-14",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Infusion management",
+        "patent_id": "patent/US20130042194A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130042194A1%2Fen"
+      },
+      {
+        "publication_number": "US20130105568A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-01",
+        "publication_date": "2013-05-02",
+        "assignee_original": "Codonics, Inc.",
+        "title": "Adaptable information extraction and labeling method and system",
+        "patent_id": "patent/US20130105568A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130105568A1%2Fen"
+      },
+      {
+        "publication_number": "US20130173277A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-29",
+        "publication_date": "2013-07-04",
+        "assignee_original": "Express Scripts, Inc.",
+        "title": "Methods and systems for fulfilling drug orders",
+        "patent_id": "patent/US20130173277A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130173277A1%2Fen"
+      },
+      {
+        "publication_number": "US8521557B1",
+        "primary_language": "en",
+        "priority_date": "2008-06-16",
+        "publication_date": "2013-08-27",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "System and methods for processing rejected healthcare claim transactions for over-the-counter products",
+        "patent_id": "patent/US8521557B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8521557B1%2Fen"
+      },
+      {
+        "publication_number": "US8554579B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-13",
+        "publication_date": "2013-10-08",
+        "assignee_original": "Fht, Inc.",
+        "title": "Management, reporting and benchmarking of medication preparation",
+        "patent_id": "patent/US8554579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8554579B2%2Fen"
+      },
+      {
+        "publication_number": "US20130325170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-05",
+        "publication_date": "2013-12-05",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Pharmacy automation optimization system and method",
+        "patent_id": "patent/US20130325170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130325170A1%2Fen"
+      },
+      {
+        "publication_number": "US20140022567A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-17",
+        "publication_date": "2014-01-23",
+        "assignee_original": "Michael Lane Polk",
+        "title": "Direct-to-product transfer of personalized images and tracking labels using a single composite image",
+        "patent_id": "patent/US20140022567A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140022567A1%2Fen"
+      },
+      {
+        "publication_number": "US20140058555A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-23",
+        "publication_date": "2014-02-27",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Device for offloading capped vials useful in system and method for dispensing prescriptions",
+        "patent_id": "patent/US20140058555A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140058555A1%2Fen"
+      },
+      {
+        "publication_number": "US8707630B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-01",
+        "publication_date": "2014-04-29",
+        "assignee_original": "Walgreen Co.",
+        "title": "Pharmacy workspace with clinic station",
+        "patent_id": "patent/US8707630B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8707630B1%2Fen"
+      },
+      {
+        "publication_number": "US8712582B1",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2014-04-29",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for combining different tablets into a pouch",
+        "patent_id": "patent/US8712582B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8712582B1%2Fen"
+      },
+      {
+        "publication_number": "US20140117081A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-01",
+        "publication_date": "2014-05-01",
+        "assignee_original": "Codonics, Inc.",
+        "title": "Adaptable information extraction and labeling method and system",
+        "patent_id": "patent/US20140117081A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140117081A1%2Fen"
+      },
+      {
+        "publication_number": "US20140136255A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-14",
+        "publication_date": "2014-05-15",
+        "assignee_original": "Wal-Mart Stores, Inc.",
+        "title": "Dynamic Task Management",
+        "patent_id": "patent/US20140136255A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140136255A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8776445B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-01",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Walgreen Co.",
+        "title": "Pharmacy workspace",
+        "patent_id": "patent/US8776445B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8776445B1%2Fen"
+      },
+      {
+        "publication_number": "US8776446B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-01",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Walgreen Co.",
+        "title": "Pharmacist workstation",
+        "patent_id": "patent/US8776446B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8776446B1%2Fen"
+      },
+      {
+        "publication_number": "US20140278627A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-15",
+        "publication_date": "2014-09-18",
+        "assignee_original": "Wal-Mart Stores, Inc.",
+        "title": "Flexible store fulfillment",
+        "patent_id": "patent/US20140278627A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140278627A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014152525A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-15",
+        "publication_date": "2014-09-25",
+        "assignee_original": "Cvs Pharmacy, Inc.",
+        "title": "Pharmacy workflow",
+        "patent_id": "patent/WO2014152525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014152525A1%2Fen"
+      },
+      {
+        "publication_number": "US20140350946A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-22",
+        "publication_date": "2014-11-27",
+        "assignee_original": "Professional Compounding Centers Of America",
+        "title": "Methods for Tracking Workflow in Pharmacies Involving Compound Operations",
+        "patent_id": "patent/US20140350946A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140350946A1%2Fen"
+      },
+      {
+        "publication_number": "US8914298B1",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2014-12-16",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for integrated verification and assembly of multi-script pouches into a housing container",
+        "patent_id": "patent/US8914298B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8914298B1%2Fen"
+      },
+      {
+        "publication_number": "US8972288B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2015-03-03",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for online matrix-based dosage scheduling",
+        "patent_id": "patent/US8972288B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8972288B2%2Fen"
+      },
+      {
+        "publication_number": "US20150088532A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-24",
+        "publication_date": "2015-03-26",
+        "assignee_original": "Argus Health Systems, Inc.",
+        "title": "Methods, Systems, and Servers for Processing Health Insurance Claims",
+        "patent_id": "patent/US20150088532A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150088532A1%2Fen"
+      },
+      {
+        "publication_number": "US20150088554A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-24",
+        "publication_date": "2015-03-26",
+        "assignee_original": "Argus Health Systems, Inc.",
+        "title": "Methods, Systems, and Servers for Processing Health Insurance Claims",
+        "patent_id": "patent/US20150088554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150088554A1%2Fen"
+      },
+      {
+        "publication_number": "US20150088632A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-24",
+        "publication_date": "2015-03-26",
+        "assignee_original": "Argus Health Systems, Inc.",
+        "title": "Methods, Systems, and Servers for Processing Applications for Compensation",
+        "patent_id": "patent/US20150088632A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150088632A1%2Fen"
+      },
+      {
+        "publication_number": "US20150088552A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-24",
+        "publication_date": "2015-03-26",
+        "assignee_original": "Argus Health Systems, Inc.",
+        "title": "Methods, Systems, and Servers for Processing Health Insurance Claims",
+        "patent_id": "patent/US20150088552A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150088552A1%2Fen"
+      },
+      {
+        "publication_number": "US9015058B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2015-04-21",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Matrix based dosage scheduling",
+        "patent_id": "patent/US9015058B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9015058B2%2Fen"
+      },
+      {
+        "publication_number": "US20150127412A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-04",
+        "publication_date": "2015-05-07",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Workflow management system",
+        "patent_id": "patent/US20150127412A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150127412A1%2Fen"
+      },
+      {
+        "publication_number": "US9076115B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-30",
+        "publication_date": "2015-07-07",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Component based aggregation of medication orders",
+        "patent_id": "patent/US9076115B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9076115B2%2Fen"
+      },
+      {
+        "publication_number": "US9141764B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-12",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for online integrated multiple tablet ordering",
+        "patent_id": "patent/US9141764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9141764B2%2Fen"
+      },
+      {
+        "publication_number": "JP2015207195A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-22",
+        "publication_date": "2015-11-19",
+        "assignee_original": "\u6771\u65e5\u672c\u30e1\u30c7\u30a3\u30b3\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Progress state management system and program",
+        "patent_id": "patent/JP2015207195A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015207195A%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20150350333A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-02",
+        "publication_date": "2015-12-03",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Enhanced discovery for ad-hoc meetings",
+        "patent_id": "patent/US20150350333A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150350333A1%2Fen"
+      },
+      {
+        "publication_number": "US9238518B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2016-01-19",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Inspection system and method with a control process that inspects different medications",
+        "patent_id": "patent/US9238518B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9238518B2%2Fen"
+      },
+      {
+        "publication_number": "US9272796B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-11",
+        "publication_date": "2016-03-01",
+        "assignee_original": "Chudy Group, LLC",
+        "title": "Automatic drug packaging machine and package-less verification system",
+        "patent_id": "patent/US9272796B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9272796B1%2Fen"
+      },
+      {
+        "publication_number": "US9280863B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-16",
+        "publication_date": "2016-03-08",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Automated dispensing system for pharmaceuticals and other medical items",
+        "patent_id": "patent/US9280863B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9280863B2%2Fen"
+      },
+      {
+        "publication_number": "US9334096B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Multiple inspection system and method that inspects different medications",
+        "patent_id": "patent/US9334096B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9334096B2%2Fen"
+      },
+      {
+        "publication_number": "US9342484B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-30",
+        "publication_date": "2016-05-17",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Variable dose dispensing system",
+        "patent_id": "patent/US9342484B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9342484B2%2Fen"
+      },
+      {
+        "publication_number": "US9382021B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-03",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Automated drug preparation apparatus including automated drug reconstitution",
+        "patent_id": "patent/US9382021B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9382021B2%2Fen"
+      },
+      {
+        "publication_number": "US9428314B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Pill assembly for pill packaging and delivery systems",
+        "patent_id": "patent/US9428314B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9428314B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016141216A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-09",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Pharmacy workflow management with integrated alerts",
+        "patent_id": "patent/WO2016141216A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016141216A1%2Fen"
+      },
+      {
+        "publication_number": "US9466045B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-11",
+        "publication_date": "2016-10-11",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Shipment optimization",
+        "patent_id": "patent/US9466045B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9466045B1%2Fen"
+      },
+      {
+        "publication_number": "US9539179B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-21",
+        "publication_date": "2017-01-10",
+        "assignee_original": "Qualanex, Llc",
+        "title": "Interactive kiosk for counting, labeling, and shipping of recalled medication capsules",
+        "patent_id": "patent/US9539179B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9539179B2%2Fen"
+      },
+      {
+        "publication_number": "US9874914B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-19",
+        "publication_date": "2018-01-23",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Power management contracts for accessory devices",
+        "patent_id": "patent/US9874914B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9874914B2%2Fen"
+      },
+      {
+        "publication_number": "US9927943B2",
+        "primary_language": "en",
+        "priority_date": "2009-09-22",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Integrating action boxes for infusion management",
+        "patent_id": "patent/US9927943B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9927943B2%2Fen"
+      },
+      {
+        "publication_number": "US9977871B2",
+        "primary_language": "en",
+        "priority_date": "2014-01-14",
+        "publication_date": "2018-05-22",
+        "assignee_original": "Capsa Solutions Llc",
+        "title": "Cassette control including presence sensing and verification",
+        "patent_id": "patent/US9977871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9977871B2%2Fen"
+      },
+      {
+        "publication_number": "JP2018139160A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-18",
+        "publication_date": "2018-09-06",
+        "assignee_original": "\u6771\u65e5\u672c\u30e1\u30c7\u30a3\u30b3\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Progress state management system and program",
+        "patent_id": "patent/JP2018139160A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018139160A%2Fen"
+      },
+      {
+        "publication_number": "US10157262B1",
+        "primary_language": "en",
+        "priority_date": "2015-03-10",
+        "publication_date": "2018-12-18",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining patient financial responsibility for multiple prescription products",
+        "patent_id": "patent/US10157262B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10157262B1%2Fen"
+      },
+      {
+        "publication_number": "US20190050977A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-22",
+        "publication_date": "2019-02-14",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Inspection support method and inspection support device",
+        "patent_id": "patent/US20190050977A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190050977A1%2Fen"
+      },
+      {
+        "publication_number": "US10315450B1",
+        "primary_language": "en",
+        "priority_date": "2006-10-24",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for generating an integrated label for container housing multi-script pouches",
+        "patent_id": "patent/US10315450B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10315450B1%2Fen"
+      },
+      {
+        "publication_number": "US10327987B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-30",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Crisi Medical Systems, Inc.",
+        "title": "Medication container encoding, verification, and identification",
+        "patent_id": "patent/US10327987B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10327987B1%2Fen"
+      },
+      {
+        "publication_number": "US10331855B1",
+        "primary_language": "en",
+        "priority_date": "2014-10-16",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Walgreen Co.",
+        "title": "Modular prescription approval system",
+        "patent_id": "patent/US10331855B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10331855B1%2Fen"
+      },
+      {
+        "publication_number": "JP2019149211A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-17",
+        "publication_date": "2019-09-05",
+        "assignee_original": "\u6771\u65e5\u672c\u30e1\u30c7\u30a3\u30b3\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Progress state management system and program",
+        "patent_id": "patent/JP2019149211A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019149211A%2Fen"
+      },
+      {
+        "publication_number": "US10427819B2",
+        "primary_language": "en",
+        "priority_date": "2015-08-25",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Chudy Group, LLC",
+        "title": "Plural-mode automatic medicament packaging system",
+        "patent_id": "patent/US10427819B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10427819B2%2Fen"
+      },
+      {
+        "publication_number": "US10430555B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-13",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining and communicating information to a pharmacy indicating patient eligibility for an intervention service",
+        "patent_id": "patent/US10430555B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10430555B1%2Fen"
+      },
+      {
+        "publication_number": "US10439832B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-02",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Enhanced discovery for AD-HOC meetings",
+        "patent_id": "patent/US10439832B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10439832B2%2Fen"
+      },
+      {
+        "publication_number": "US10435192B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-16",
+        "publication_date": "2019-10-08",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "Multiple inspection system and method that inspects different medications",
+        "patent_id": "patent/US10435192B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10435192B2%2Fen"
+      },
+      {
+        "publication_number": "US10457485B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-05",
+        "publication_date": "2019-10-29",
+        "assignee_original": "Remedi Technology Holdings, Llc",
+        "title": "Pharmaceutical dispensing system and associated method",
+        "patent_id": "patent/US10457485B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10457485B2%2Fen"
+      },
+      {
+        "publication_number": "US10484872B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-23",
+        "publication_date": "2019-11-19",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Device quarantine in a wireless network",
+        "patent_id": "patent/US10484872B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10484872B2%2Fen"
+      },
+      {
+        "publication_number": "US10489552B2",
+        "primary_language": "en",
+        "priority_date": "2014-02-14",
+        "publication_date": "2019-11-26",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining and communicating patient incentive information to a prescriber",
+        "patent_id": "patent/US10489552B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10489552B2%2Fen"
+      },
+      {
+        "publication_number": "US10489555B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-21",
+        "publication_date": "2019-11-26",
+        "assignee_original": "Qualanex, Llc",
+        "title": "Medication processing kiosk",
+        "patent_id": "patent/US10489555B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10489555B2%2Fen"
+      },
+      {
+        "publication_number": "US10492991B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-30",
+        "publication_date": "2019-12-03",
+        "assignee_original": "Crisi Medical Systems, Inc.",
+        "title": "Medication container encoding, verification, and identification",
+        "patent_id": "patent/US10492991B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10492991B2%2Fen"
+      },
+      {
+        "publication_number": "US10543152B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-22",
+        "publication_date": "2020-01-28",
+        "assignee_original": "Walgreen Co.",
+        "title": "Method and apparatus for providing prescription verification",
+        "patent_id": "patent/US10543152B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10543152B1%2Fen"
+      },
+      {
+        "publication_number": "US10642957B1",
+        "primary_language": "en",
+        "priority_date": "2014-10-21",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining, collecting, and configuring patient intervention screening information from a pharmacy",
+        "patent_id": "patent/US10642957B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10642957B1%2Fen"
+      },
+      {
+        "publication_number": "US10642961B2",
+        "primary_language": "en",
+        "priority_date": "2008-11-13",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Integrated medication and infusion monitoring system",
+        "patent_id": "patent/US10642961B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10642961B2%2Fen"
+      },
+      {
+        "publication_number": "US10646405B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Work station for medical dose preparation system",
+        "patent_id": "patent/US10646405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10646405B2%2Fen"
+      },
+      {
+        "publication_number": "US10650380B1",
+        "primary_language": "en",
+        "priority_date": "2017-03-31",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Mckesson Corporation",
+        "title": "System and method for evaluating requests",
+        "patent_id": "patent/US10650380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10650380B1%2Fen"
+      },
+      {
+        "publication_number": "US10688021B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-03",
+        "publication_date": "2020-06-23",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Automated drug preparation apparatus including automated drug reconstitution",
+        "patent_id": "patent/US10688021B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10688021B2%2Fen"
+      },
+      {
+        "publication_number": "US10748108B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-22",
+        "publication_date": "2020-08-18",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Manual station systems and methods",
+        "patent_id": "patent/US10748108B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10748108B2%2Fen"
+      },
+      {
+        "publication_number": "US10818387B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-05",
+        "publication_date": "2020-10-27",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Dose preparation data analytics",
+        "patent_id": "patent/US10818387B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818387B2%2Fen"
+      },
+      {
+        "publication_number": "US10836197B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-01",
+        "publication_date": "2020-11-17",
+        "assignee_original": "Edge Medical Properties, Llc",
+        "title": "System and method for generating an integrated label for container housing multi-script pouches",
+        "patent_id": "patent/US10836197B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10836197B2%2Fen"
+      },
+      {
+        "publication_number": "CN112163806A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-21",
+        "publication_date": "2021-01-01",
+        "assignee_original": "\u6df1\u5733\u5e02\u7a57\u6df1\u51b7\u6c14\u8bbe\u5907\u6709\u9650\u516c\u53f8",
+        "title": "Goods shelf access management method and device and goods shelf applying device",
+        "patent_id": "patent/CN112163806A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112163806A%2Fen"
+      },
+      {
+        "publication_number": "CN112233766A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-02",
+        "publication_date": "2021-01-15",
+        "assignee_original": "\u652f\u4ed8\u5b9d(\u676d\u5dde)\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Information processing method, device, equipment and readable medium",
+        "patent_id": "patent/CN112233766A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112233766A%2Fen"
+      },
+      {
+        "publication_number": "US10971257B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2021-04-06",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Image acquisition for medical dose preparation system",
+        "patent_id": "patent/US10971257B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10971257B2%2Fen"
+      },
+      {
+        "publication_number": "US11107574B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Management of medication preparation with formulary management",
+        "patent_id": "patent/US11107574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11107574B2%2Fen"
+      },
+      {
+        "publication_number": "US11182728B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-30",
+        "publication_date": "2021-11-23",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Medication workflow management",
+        "patent_id": "patent/US11182728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11182728B2%2Fen"
+      },
+      {
+        "publication_number": "US11232399B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-27",
+        "publication_date": "2022-01-25",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Computerized fulfillment device with automated prioritization engine",
+        "patent_id": "patent/US11232399B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11232399B1%2Fen"
+      },
+      {
+        "publication_number": "US11393580B2",
+        "primary_language": "en",
+        "priority_date": "2013-12-31",
+        "publication_date": "2022-07-19",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining and communicating a prescription benefit coverage denial to a prescriber",
+        "patent_id": "patent/US11393580B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11393580B2%2Fen"
+      },
+      {
+        "publication_number": "US11398992B1",
+        "primary_language": "en",
+        "priority_date": "2017-02-01",
+        "publication_date": "2022-07-26",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method and apparatus for parsing and differently processing different portions of a request",
+        "patent_id": "patent/US11398992B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11398992B1%2Fen"
+      },
+      {
+        "publication_number": "US11418468B1",
+        "primary_language": "en",
+        "priority_date": "2018-07-24",
+        "publication_date": "2022-08-16",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Computing system and method for automatically reversing an action indicated by an electronic message",
+        "patent_id": "patent/US11418468B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11418468B1%2Fen"
+      },
+      {
+        "publication_number": "US11514137B1",
+        "primary_language": "en",
+        "priority_date": "2016-03-30",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Alternative therapy identification system",
+        "patent_id": "patent/US11514137B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11514137B1%2Fen"
+      },
+      {
+        "publication_number": "US11562437B1",
+        "primary_language": "en",
+        "priority_date": "2019-06-26",
+        "publication_date": "2023-01-24",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for providing estimated prescription costs",
+        "patent_id": "patent/US11562437B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11562437B1%2Fen"
+      },
+      {
+        "publication_number": "US11587657B2",
+        "primary_language": "en",
+        "priority_date": "2020-09-04",
+        "publication_date": "2023-02-21",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for performing an alternative evaluation procedure in response to an electronic message",
+        "patent_id": "patent/US11587657B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11587657B2%2Fen"
+      },
+      {
+        "publication_number": "US11610240B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-17",
+        "publication_date": "2023-03-21",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for partitioning prescription transaction costs in an electronic prescription transaction",
+        "patent_id": "patent/US11610240B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11610240B1%2Fen"
+      },
+      {
+        "publication_number": "US11636548B1",
+        "primary_language": "en",
+        "priority_date": "2019-06-26",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for providing estimated prescription costs",
+        "patent_id": "patent/US11636548B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11636548B1%2Fen"
+      },
+      {
+        "publication_number": "US12079742B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-22",
+        "publication_date": "2024-09-03",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Medication workflow management",
+        "patent_id": "patent/US12079742B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12079742B2%2Fen"
+      },
+      {
+        "publication_number": "US12131387B1",
+        "primary_language": "en",
+        "priority_date": "2019-08-06",
+        "publication_date": "2024-10-29",
+        "assignee_original": "Walgreen Co.",
+        "title": "Systems and methods of automatically correcting errors associated with patient insurance profiles",
+        "patent_id": "patent/US12131387B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12131387B1%2Fen"
+      },
+      {
+        "publication_number": "US12197972B1",
+        "primary_language": "en",
+        "priority_date": "2022-03-28",
+        "publication_date": "2025-01-14",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for generating alternative evaluation messages",
+        "patent_id": "patent/US12197972B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12197972B1%2Fen"
+      },
+      {
+        "publication_number": "US12229833B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-17",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for reformatting an electronic prescription transaction",
+        "patent_id": "patent/US12229833B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12229833B1%2Fen"
+      },
+      {
+        "publication_number": "US12229834B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-17",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for partitioning prescription transaction costs in an electronic prescription transaction",
+        "patent_id": "patent/US12229834B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12229834B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7698019B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-03",
+        "publication_date": "2010-04-13",
+        "assignee_original": "Tech Pharmacy Services, Inc.",
+        "title": "System and software of enhanced pharmaceutical operations in long-term care facilities and related methods",
+        "patent_id": "patent/US7698019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7698019B2%2Fen"
+      },
+      {
+        "publication_number": "US8374887B1",
+        "primary_language": "en",
+        "priority_date": "2005-02-11",
+        "publication_date": "2013-02-12",
+        "assignee_original": "Emily H. Alexander",
+        "title": "System and method for remotely supervising and verifying pharmacy functions",
+        "patent_id": "patent/US8374887B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8374887B1%2Fen"
+      },
+      {
+        "publication_number": "WO2006099384A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-11",
+        "publication_date": "2006-09-21",
+        "assignee_original": "Itd Holdings, L.L.C.",
+        "title": "Novel methods and systems for prescribing sample prescriptions",
+        "patent_id": "patent/WO2006099384A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006099384A1%2Fen"
+      },
+      {
+        "publication_number": "DE102006028797A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-23",
+        "publication_date": "2007-12-27",
+        "assignee_original": "Khs Ag",
+        "title": "Replaceable drive system",
+        "patent_id": "patent/DE102006028797A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102006028797A1%2Fen"
+      },
+      {
+        "publication_number": "US9930297B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-30",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Becton, Dickinson And Company",
+        "title": "System and method for acquiring images of medication preparations",
+        "patent_id": "patent/US9930297B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9930297B2%2Fen"
+      },
+      {
+        "publication_number": "US20120158425A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-17",
+        "publication_date": "2012-06-21",
+        "assignee_original": "Rhoads Jr Thomas P",
+        "title": "Pharmacy Workflow Process",
+        "patent_id": "patent/US20120158425A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120158425A1%2Fen"
+      },
+      {
+        "publication_number": "US8990099B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-02",
+        "publication_date": "2015-03-24",
+        "assignee_original": "Kit Check, Inc.",
+        "title": "Management of pharmacy kits",
+        "patent_id": "patent/US8990099B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8990099B2%2Fen"
+      },
+      {
+        "publication_number": "US9449296B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-02",
+        "publication_date": "2016-09-20",
+        "assignee_original": "Kit Check, Inc.",
+        "title": "Management of pharmacy kits using multiple acceptance criteria for pharmacy kit segments",
+        "patent_id": "patent/US9449296B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9449296B2%2Fen"
+      },
+      {
+        "publication_number": "US11581079B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-10",
+        "publication_date": "2023-02-14",
+        "assignee_original": "Walgreen Co.",
+        "title": "System and method for virtual review of a pharmaceutical product filling process",
+        "patent_id": "patent/US11581079B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11581079B1%2Fen"
+      },
+      {
+        "publication_number": "PL2870072T3",
+        "primary_language": "en",
+        "priority_date": "2012-07-05",
+        "publication_date": "2018-03-30",
+        "assignee_original": "P.C.O.A. Devices Ltd.",
+        "title": "Medication dispenser",
+        "patent_id": "patent/PL2870072T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL2870072T3%2Fen"
+      },
+      {
+        "publication_number": "EP3284700B1",
+        "primary_language": "en",
+        "priority_date": "2012-07-30",
+        "publication_date": "2019-06-05",
+        "assignee_original": "Dosentrx Ltd.",
+        "title": "A receptacle for containing and dispensing solid medicinal pills",
+        "patent_id": "patent/EP3284700B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3284700B1%2Fen"
+      },
+      {
+        "publication_number": "US20140046676A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-10",
+        "publication_date": "2014-02-13",
+        "assignee_original": "Xerox Corporation",
+        "title": "Image-based validation system for prescription fulfillment",
+        "patent_id": "patent/US20140046676A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140046676A1%2Fen"
+      },
+      {
+        "publication_number": "EP4273486A3",
+        "primary_language": "en",
+        "priority_date": "2012-08-23",
+        "publication_date": "2024-01-03",
+        "assignee_original": "Trumed Systems, Inc.",
+        "title": "Refrigerator and method for a smart storage of temperature sensitive pharmaceuticals",
+        "patent_id": "patent/EP4273486A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4273486A3%2Fen"
+      },
+      {
+        "publication_number": "US9361748B2",
+        "primary_language": "en",
+        "priority_date": "2012-11-28",
+        "publication_date": "2016-06-07",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Pharmaceutical dispensing systems, methods and computer program products for determining and displaying replenishment information",
+        "patent_id": "patent/US9361748B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9361748B2%2Fen"
+      },
+      {
+        "publication_number": "US9477816B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-14",
+        "publication_date": "2016-10-25",
+        "assignee_original": "Arxium, Inc.",
+        "title": "Pharmaceutical tray filling system and method",
+        "patent_id": "patent/US9477816B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9477816B2%2Fen"
+      },
+      {
+        "publication_number": "US9171280B2",
+        "primary_language": "en",
+        "priority_date": "2013-12-08",
+        "publication_date": "2015-10-27",
+        "assignee_original": "Kit Check, Inc.",
+        "title": "Medication tracking",
+        "patent_id": "patent/US9171280B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9171280B2%2Fen"
+      },
+      {
+        "publication_number": "IL233295B",
+        "primary_language": "en",
+        "priority_date": "2014-06-22",
+        "publication_date": "2019-11-28",
+        "assignee_original": "Ilan Paz",
+        "title": "A controlled pill-dispensing system",
+        "patent_id": "patent/IL233295B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL233295B%2Fen"
+      },
+      {
+        "publication_number": "CN107076606A",
+        "primary_language": "en",
+        "priority_date": "2014-09-08",
+        "publication_date": "2017-08-18",
+        "assignee_original": "\u8d1d\u514b\u987f\u00b7\u8fea\u91d1\u68ee\u516c\u53f8",
+        "title": "Input unit for medicine preparation system meets aerodynamic fairing",
+        "patent_id": "patent/CN107076606A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107076606A%2Fen"
+      },
+      {
+        "publication_number": "GB201419498D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-31",
+        "publication_date": "2014-12-17",
+        "assignee_original": "Ocado Innovation Ltd",
+        "title": "System and method for fulfilling E-commerce orders from a hierarchy of fulfilment centres",
+        "patent_id": "patent/GB201419498D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201419498D0%2Fen"
+      },
+      {
+        "publication_number": "US10796256B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-02",
+        "publication_date": "2020-10-06",
+        "assignee_original": "Paragon Health",
+        "title": "Process validation and electronic supervision system",
+        "patent_id": "patent/US10796256B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10796256B2%2Fen"
+      },
+      {
+        "publication_number": "IL238387B",
+        "primary_language": "en",
+        "priority_date": "2015-04-20",
+        "publication_date": "2019-01-31",
+        "assignee_original": "Paz Ilan",
+        "title": "Medication dispenser depilling mechanism",
+        "patent_id": "patent/IL238387B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL238387B%2Fen"
+      },
+      {
+        "publication_number": "AU2016337639B2",
+        "primary_language": "en",
+        "priority_date": "2015-10-15",
+        "publication_date": "2021-07-01",
+        "assignee_original": "DosentRX Ltd",
+        "title": "Image recognition-based dosage form dispensers",
+        "patent_id": "patent/AU2016337639B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2016337639B2%2Fen"
+      },
+      {
+        "publication_number": "US11458072B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-02",
+        "publication_date": "2022-10-04",
+        "assignee_original": "Dosentrx Ltd.",
+        "title": "Lockable advanceable oral dosage form dispenser containers",
+        "patent_id": "patent/US11458072B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11458072B2%2Fen"
+      },
+      {
+        "publication_number": "US10482292B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-03",
+        "publication_date": "2019-11-19",
+        "assignee_original": "Gary L. Sharpe",
+        "title": "RFID scanning device",
+        "patent_id": "patent/US10482292B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10482292B2%2Fen"
+      },
+      {
+        "publication_number": "US10692316B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-03",
+        "publication_date": "2020-06-23",
+        "assignee_original": "Gary L. Sharpe",
+        "title": "RFID scanning device",
+        "patent_id": "patent/US10692316B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10692316B2%2Fen"
+      },
+      {
+        "publication_number": "US10492987B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-26",
+        "publication_date": "2019-12-03",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Methods, systems, and computer program products for managing multiple drug product packaging systems using a common database management system",
+        "patent_id": "patent/US10492987B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10492987B2%2Fen"
+      },
+      {
+        "publication_number": "US20190088354A1",
+        "primary_language": "en",
+        "priority_date": "2017-09-01",
+        "publication_date": "2019-03-21",
+        "assignee_original": "Kit Check, Inc.",
+        "title": "Identifying discrepancies between events from disparate systems",
+        "patent_id": "patent/US20190088354A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190088354A1%2Fen"
+      },
+      {
+        "publication_number": "US11798668B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-02",
+        "publication_date": "2023-10-24",
+        "assignee_original": "Cvs Pharmacy, Inc.",
+        "title": "Systems and methods for a numeric waiting bin for prescription fulfillment",
+        "patent_id": "patent/US11798668B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11798668B1%2Fen"
+      },
+      {
+        "publication_number": "US11037101B2",
+        "primary_language": "en",
+        "priority_date": "2019-05-17",
+        "publication_date": "2021-06-15",
+        "assignee_original": "Direct Supply, Inc.",
+        "title": "Systems, methods, and media for managing inventory associated with a facility",
+        "patent_id": "patent/US11037101B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11037101B2%2Fen"
+      },
+      {
+        "publication_number": "US11551797B2",
+        "primary_language": "en",
+        "priority_date": "2019-08-06",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Kit Check, Inc.",
+        "title": "Selective distribution of pharmacy item data from pharmacy item tracking system",
+        "patent_id": "patent/US11551797B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11551797B2%2Fen"
+      },
+      {
+        "publication_number": "US20210374762A1",
+        "primary_language": "en",
+        "priority_date": "2020-05-29",
+        "publication_date": "2021-12-02",
+        "assignee_original": "Cvs Pharmacy, Inc.",
+        "title": "System and Method for Virtual Verification in Pharmacy Workflow",
+        "patent_id": "patent/US20210374762A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210374762A1%2Fen"
+      },
+      {
+        "publication_number": "US20230307109A1",
+        "primary_language": "en",
+        "priority_date": "2020-07-08",
+        "publication_date": "2023-09-28",
+        "assignee_original": "Tech Pharmacy Services, Llc",
+        "title": "Interaction between pharmaceutical dispensing devices",
+        "patent_id": "patent/US20230307109A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230307109A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7860724B2",
+      "primary_language": "en",
+      "publication_date": "2010-12-28",
+      "title": "System and method for management of pharmacy workflow",
+      "patent_id": "patent/US7860724B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7860724B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9916426B2",
+      "primary_language": "en",
+      "publication_date": "2018-03-13",
+      "title": "Pharmacy dispensing system and method",
+      "patent_id": "patent/US9916426B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9916426B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU702845B2",
+      "primary_language": "en",
+      "publication_date": "1999-03-04",
+      "title": "An automated medical prescription fulfillment system including bar code scanner",
+      "patent_id": "patent/AU702845B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU702845B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2998062C",
+      "primary_language": "en",
+      "publication_date": "2023-10-17",
+      "title": "System and software of enhanced pharmaceutical operations in long-term care facilities and related methods",
+      "patent_id": "patent/CA2998062C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2998062C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6003006A",
+      "primary_language": "en",
+      "publication_date": "1999-12-14",
+      "title": "System of drug distribution to health care providers",
+      "patent_id": "patent/US6003006A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6003006A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7706915B2",
+      "primary_language": "en",
+      "publication_date": "2010-04-27",
+      "title": "System and software of enhanced pharmacy services and related methods",
+      "patent_id": "patent/US7706915B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7706915B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7111780B2",
+      "primary_language": "en",
+      "publication_date": "2006-09-26",
+      "title": "Automated drug substitution, verification, and reporting system",
+      "patent_id": "patent/US7111780B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7111780B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7685026B1",
+      "primary_language": "en",
+      "publication_date": "2010-03-23",
+      "title": "Method of tracking and dispensing medical items",
+      "patent_id": "patent/US7685026B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7685026B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070214014A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-13",
+      "title": "Pharmacy quality checking and alert system and method",
+      "patent_id": "patent/US20070214014A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070214014A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-04-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AUTOMED TECHNOLOGIES, INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHUDY, DUANE S.;SCHULTZ, DAVID A.;REEL/FRAME:013914/0642"
+        },
+        {
+          "label": "Effective date",
+          "value": "20021030"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-08",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2014-06-30",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CALLIDUS CAPITAL CORPORATION, CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:AUTOMED TECHNOLOGIES, INC.;REEL/FRAME:035355/0762"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150306"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-04",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: LTOS); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARXIUM, INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER AND CHANGE OF NAME;ASSIGNORS:AUTOMED TECHNOLOGIES, INC.;INTELLIGENT HOSPITAL SYSTEMS, INC.;REEL/FRAME:037635/0895"
+        },
+        {
+          "label": "Effective date",
+          "value": "20151222"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-16",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AUTOMED TECHNOLOGIES, INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:CALLIDUS CAPITAL CORPORATION;REEL/FRAME:040996/0491"
+        },
+        {
+          "label": "Effective date",
+          "value": "20161212"
+        }
+      ]
+    },
+    {
+      "date": "2017-01-26",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ROYAL BANK OF CANADA, CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:ARXIUM, INC.;REEL/FRAME:041496/0130"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170125"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-28",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "T.E.C.M. LIMITED, CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:ARXIUM, INC.;REEL/FRAME:052432/0157"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200407"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARXIUM, INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:ROYAL BANK OF CANADA;REEL/FRAME:052741/0463"
+        },
+        {
+          "label": "Effective date",
+          "value": "20181219"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-28",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARXIUM, INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:T.E.C.M. LIMITED;REEL/FRAME:061654/0627"
+        },
+        {
+          "label": "Effective date",
+          "value": "20221026"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 88
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 263
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 263
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 141
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 79
+      },
+      {
+        "id": "238000010200",
+        "name": "validation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 54
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012163",
+        "name": "sequencing technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001960",
+        "name": "triggered effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007639",
+        "name": "printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000903",
+        "name": "blocking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "MLVSYGCURCOSKP-ZVXDAELJSA-N",
+        "name": "4,4,14alpha-trimethyl-5alpha-cholest-9(11),24-dien-3beta-ol",
+        "domain": "Chemical compound",
+        "smiles": "CC1(C)[C@@H](O)CC[C@]2(C)C3=CC[C@]4(C)[C@@H]([C@@H](CCC=C(C)C)C)CC[C@@]4(C)C3CC[C@H]21",
+        "inchi_key": "MLVSYGCURCOSKP-ZVXDAELJSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "241000282414",
+        "name": "Homo sapiens",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "name": "Calcium carbonate",
+        "domain": "Chemical class",
+        "smiles": "[Ca+2].[O-]C([O-])=O",
+        "inchi_key": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "241000699666",
+        "name": "Mus <mouse, genus>",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229940057802",
+        "name": "caltrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012790",
+        "name": "confirmation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012795",
+        "name": "verification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010013710",
+        "name": "Drug interaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007689",
+        "name": "inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000699670",
+        "name": "Mus sp.",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940069428",
+        "name": "antacid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003159",
+        "name": "antacid agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001458",
+        "name": "anti-acid effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013329",
+        "name": "compounding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005094",
+        "name": "computer simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000009508",
+        "name": "confectionery",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005429",
+        "name": "filling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009969",
+        "name": "flowable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004081",
+        "name": "narcotic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006187",
+        "name": "pill",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003389",
+        "name": "potentiating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011144",
+        "name": "upstream manufacturing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

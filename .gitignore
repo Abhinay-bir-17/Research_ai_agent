@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+myenv/
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Test coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database / app files
+*.sqlite3
+*.db
+
+# JSON data (optional, if you don’t want to track it)
+# patients.json
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/

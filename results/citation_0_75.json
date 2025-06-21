@@ -1,0 +1,866 @@
+{
+  "search_metadata": {
+    "id": "68514e730fa72ee115df2df0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b74e2ebe7112e9dd/68514e730fa72ee115df2df0.json",
+    "created_at": "2025-06-17 11:16:03 UTC",
+    "processed_at": "2025-06-17 11:16:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080097943A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b74e2ebe7112e9dd/68514e730fa72ee115df2df0.html",
+    "total_time_taken": 6.09
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080097943A1/en"
+  },
+  "title": "Real-time predictive computer program, model, and method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/54/5e/3c/9e444b17ebb65c/US20080097943A1.pdf",
+  "publication_number": "US20080097943A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "event",
+    "variables",
+    "occurrence",
+    "history",
+    "neural network"
+  ],
+  "prior_art_date": "2006-10-23",
+  "application_number": "US11/678,884",
+  "inventors": [
+    {
+      "name": "Bruce Kelly",
+      "link": "https://patents.google.com/?inventor=Bruce+Kelly",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bruce+Kelly"
+    },
+    {
+      "name": "E.R. McDannald",
+      "link": "https://patents.google.com/?inventor=E.R.+McDannald",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=E.R.+McDannald"
+    }
+  ],
+  "assignees": [
+    "HEALTH CARE INFORMATION SERVICES LLC"
+  ],
+  "priority_date": "2006-10-23",
+  "filing_date": "2007-02-26",
+  "publication_date": "2008-04-24",
+  "worldwide_applications": {
+    "2007": [
+      {
+        "filing_date": "2007-02-26",
+        "country_code": "US",
+        "application_number": "US11/678,884",
+        "document_id": "patent/US7707130B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2007-02-26",
+      "title": "Application filed by HEALTH CARE INFORMATION SERVICES LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "HEALTH CARE INFORMATION SERVICES LLC"
+    },
+    {
+      "date": "2007-02-26",
+      "title": "Priority to US11/678,884",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7707130B2/en"
+    },
+    {
+      "date": "2007-03-09",
+      "title": "Priority to US11/684,257",
+      "type": "priority",
+      "document_id": "patent/US7716147B2/en"
+    },
+    {
+      "date": "2007-04-30",
+      "title": "Assigned to HEALTH CARE INFORMATION SERVICES LLC",
+      "type": "reassignment",
+      "assignee_search": "HEALTH CARE INFORMATION SERVICES LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KELLY, BRUCE, MCDANNALD, E.R."
+      ]
+    },
+    {
+      "date": "2008-04-24",
+      "title": "Publication of US20080097943A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080097943A1/en"
+    },
+    {
+      "date": "2010-04-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-04-27",
+      "title": "Publication of US7707130B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7707130B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-05-22",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080097943.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11678884"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080097943"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008097943A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11678884/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080097943"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/9f/96/12/add374ced89381/US20080097943A1-20080424-D00000.png",
+    "https://patentimages.storage.googleapis.com/19/99/1a/3138aaed48a62a/US20080097943A1-20080424-D00001.png",
+    "https://patentimages.storage.googleapis.com/d6/a6/9d/790cea59fdef3a/US20080097943A1-20080424-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06N3/08",
+      "description": "Learning methods",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method for predicting a future occurrence of an event involves obtaining a history of prior occurrences of the event. A plurality of variables is created that are associated with the event. Weights are assigned to each variable. An artificial neural network is accessed and trained with the history of past occurrences of the event by comparing an output of the artificial neural network to the past occurrence of the event. The weights are adjusted until the output corresponds to the past occurrence of the event.",
+  "description_link": "https://serpapi.com/searches/68514e730fa72ee115df2df0/google_patents_details/description.html",
+  "claims": [
+    "1. A method of predicting a future occurrence of an event, the method comprising the steps of:\nobtaining a history of past occurrences of the event; accessing an artificial neural network; and training the artificial neural network with the history of past occurrences of the event to predict the future occurrence of the event.",
+    "2. The method of claim 1, wherein the method further includes creating a plurality of variables associated with the event.",
+    "3. The method of claim 2, wherein the method further includes assigning a weight to each variable.",
+    "4. The method of claim 3, wherein the method further includes adjusting the weights of the variables.",
+    "5. The method of claim 2, wherein the method further includes applying the variables to the artificial neural network.",
+    "6. The method of claim 1, wherein the method further includes comparing an output of the network with the past occurrence of the event.",
+    "7. The method of claim 1, wherein the number of occurrences of the event is a minimum of twenty-five.",
+    "8. A method of predicting a worker's compensation injury, the method comprising the steps of:\nobtaining a history of injuries that required worker's compensation; accessing an artificial neural network; and training the artificial neural network with the history of worker's compensation injuries to predict the occurrence of the next worker's compensation injury.",
+    "9. The method of claim 8, wherein the method further includes creating a plurality of variables associated with worker's compensation injuries.",
+    "10. The method of claim 9, wherein the variables are selected from the group consisting of pre-morbidity condition, post-event condition, post-medical condition, hospitalization, support at home, availability of home care, availability of outpatient services, suitability of individual for his job, availability of light-duty work, availability of job retraining, potential for litigation, the state in which the injury occurred, and miscellaneous factors.",
+    "11. The method of claim 9, wherein the method further includes assigning a weight to each variable.",
+    "12. The method of claim 11, wherein the method further includes adjusting the weights of the variables.",
+    "13. The method of claim 8, wherein the method further includes comparing an output of the network with a past occurrence of the worker's compensation injury.",
+    "14. A method of predicting an acute medical situation, the method comprising the steps of:\nobtaining a history of acute medical situations; accessing an artificial neural network; and training the artificial neural network with the history of acute medical situations to predict the occurrence of the next acute medical situation.",
+    "15. The method of claim 14, wherein the method further includes creating a plurality of variables associated with acute medical situations.",
+    "16. The method of claim 15, wherein the variables are selected from the group consisting of pre-morbidity condition, post-event status for the second day, post-event status for the third day, post-event status for the fourth day, post-event status for the fifth day, co-morbidities, medications, X-rays and diagnostic tests, laboratory tests, physical therapy, occupational therapy, activities of daily living, surgeries, support at home, availability of home care, and miscellaneous factors.",
+    "17. The method of claim 16, wherein the method further includes assigning a weight to each variable.",
+    "18. The method of claim 17, wherein the method further includes adjusting the weights of the variables.",
+    "19. The method of claim 14, wherein the method further includes comparing an output of the network with a past occurrence of the acute medical situation.",
+    "20. A method of predicting a future occurrence of an event, the method comprising the steps of:\nobtaining a history of past occurrences of the event; creating a plurality of variables associated with the event; assigning a weight to each variable; creating an artificial neural network; and training the artificial neural network with the history of past occurrences of the event to predict the future occurrence of the event, including the steps\u2014\napplying the variables to the artificial neural network for each past occurrence of the event,\ncomparing an output of the network with each past occurrence of the event, and\nadjusting the weights of the variables such that the output of the network corresponds to each past occurrence of the event.",
+    "21. The method of claim 20, wherein the event is selected from the group consisting of worker's compensation injuries and acute medical situations."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US11/684,257",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US7716147B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-23",
+      "filing_date": "2007-03-09",
+      "title": "Real-time predictive computer program, model, and method"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/678,884",
+      "representative_publication": "US7707130B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-23",
+      "filing_date": "2007-02-26",
+      "title": "Real-time predictive computer program, model, and method"
+    },
+    {
+      "application_number": "US11/684,257",
+      "representative_publication": "US7716147B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-23",
+      "filing_date": "2007-03-09",
+      "title": "Real-time predictive computer program, model, and method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US86252806P",
+      "priority_date": "2006-10-23",
+      "filing_date": "2006-10-23"
+    },
+    {
+      "application_number": "US11/678,884",
+      "representative_publication": "US7707130B2",
+      "primary_language": "en",
+      "priority_date": "2006-10-23",
+      "filing_date": "2007-02-26",
+      "title": "Real-time predictive computer program, model, and method"
+    }
+  ],
+  "family_id": "39319278",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20030009290A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-30",
+        "publication_date": "2003-01-09",
+        "assignee_original": "Billet Bradford E.",
+        "title": "Predictive method",
+        "patent_id": "patent/US20030009290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030009290A1%2Fen"
+      },
+      {
+        "publication_number": "US6761697B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-01",
+        "publication_date": "2004-07-13",
+        "assignee_original": "L'oreal Sa",
+        "title": "Methods and systems for predicting and/or tracking changes in external body conditions",
+        "patent_id": "patent/US6761697B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6761697B2%2Fen"
+      },
+      {
+        "publication_number": "US6859529B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-12",
+        "publication_date": "2005-02-22",
+        "assignee_original": "Austin Logistics Incorporated",
+        "title": "Method and system for self-service scheduling of inbound inquiries",
+        "patent_id": "patent/US6859529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6859529B2%2Fen"
+      },
+      {
+        "publication_number": "US7023979B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-07",
+        "publication_date": "2006-04-04",
+        "assignee_original": "Wai Wu",
+        "title": "Telephony control system with intelligent call routing",
+        "patent_id": "patent/US7023979B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7023979B1%2Fen"
+      },
+      {
+        "publication_number": "US20060241972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-26",
+        "publication_date": "2006-10-26",
+        "assignee_original": "Lang Robert G",
+        "title": "Medical outcomes systems",
+        "patent_id": "patent/US20060241972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060241972A1%2Fen"
+      },
+      {
+        "publication_number": "US20060259333A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-16",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Inventum Corporation",
+        "title": "Predictive exposure modeling system and method",
+        "patent_id": "patent/US20060259333A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060259333A1%2Fen"
+      },
+      {
+        "publication_number": "US7143091B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-04",
+        "publication_date": "2006-11-28",
+        "assignee_original": "Cataphorn, Inc.",
+        "title": "Method and apparatus for sociological data mining",
+        "patent_id": "patent/US7143091B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7143091B2%2Fen"
+      },
+      {
+        "publication_number": "US20070038479A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-24",
+        "publication_date": "2007-02-15",
+        "assignee_original": "Kay Lay K",
+        "title": "Automated processing of medical data for disability rating determinations",
+        "patent_id": "patent/US20070038479A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070038479A1%2Fen"
+      },
+      {
+        "publication_number": "US20070038480A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-24",
+        "publication_date": "2007-02-15",
+        "assignee_original": "Kay Lay K",
+        "title": "Automated processing of electronic medical data for insurance and disability determinations",
+        "patent_id": "patent/US20070038480A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070038480A1%2Fen"
+      },
+      {
+        "publication_number": "US7197474B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-12",
+        "publication_date": "2007-03-27",
+        "assignee_original": "Vignette Corporation",
+        "title": "Method of modeling product demand subject to a large number of interactions",
+        "patent_id": "patent/US7197474B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7197474B1%2Fen"
+      },
+      {
+        "publication_number": "US7285090B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-16",
+        "publication_date": "2007-10-23",
+        "assignee_original": "Bodymedia, Inc.",
+        "title": "Apparatus for detecting, receiving, deriving and displaying human physiological and contextual information",
+        "patent_id": "patent/US7285090B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7285090B2%2Fen"
+      },
+      {
+        "publication_number": "US7324668B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-01",
+        "publication_date": "2008-01-29",
+        "assignee_original": "L'oreal S.A.",
+        "title": "Feature extraction in beauty analysis",
+        "patent_id": "patent/US7324668B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7324668B2%2Fen"
+      },
+      {
+        "publication_number": "US7366707B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-30",
+        "publication_date": "2008-04-29",
+        "assignee_original": "L'oreal S.A.",
+        "title": "Methods involving artificial intelligence",
+        "patent_id": "patent/US7366707B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7366707B2%2Fen"
+      },
+      {
+        "publication_number": "US7395217B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-17",
+        "publication_date": "2008-07-01",
+        "assignee_original": "P2P Link, Llc",
+        "title": "Workers compensation information processing system",
+        "patent_id": "patent/US7395217B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7395217B1%2Fen"
+      },
+      {
+        "publication_number": "US7437344B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-01",
+        "publication_date": "2008-10-14",
+        "assignee_original": "L'oreal S.A.",
+        "title": "Use of artificial intelligence in providing beauty advice",
+        "patent_id": "patent/US7437344B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7437344B2%2Fen"
+      },
+      {
+        "publication_number": "US20080306893A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2008-12-11",
+        "assignee_original": "Aureon Laboratories, Inc.",
+        "title": "Methods and systems for predicting occurrence of an event",
+        "patent_id": "patent/US20080306893A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080306893A1%2Fen"
+      },
+      {
+        "publication_number": "US7519564B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-16",
+        "publication_date": "2009-04-14",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Building and using predictive models of current and future surprises",
+        "patent_id": "patent/US7519564B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7519564B2%2Fen"
+      },
+      {
+        "publication_number": "US7609150B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-18",
+        "publication_date": "2009-10-27",
+        "assignee_original": "Motorola, Inc.",
+        "title": "User adaptive vehicle hazard warning apparatuses and method",
+        "patent_id": "patent/US7609150B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7609150B2%2Fen"
+      },
+      {
+        "publication_number": "US7634103B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-01",
+        "publication_date": "2009-12-15",
+        "assignee_original": "L'oreal S.A.",
+        "title": "Analysis using a three-dimensional facial image",
+        "patent_id": "patent/US7634103B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7634103B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20090195146A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-31",
+        "publication_date": "2009-08-06",
+        "assignee_original": "Hatwar Tukaram K",
+        "title": "Tandem oled device with intermediate connector",
+        "patent_id": "patent/US20090195146A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090195146A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012094542A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-06",
+        "publication_date": "2012-10-04",
+        "assignee_original": "Qualpact, Inc.",
+        "title": "Devices, systems, and methods for the real-time and individualized prediction of health and economic outcomes",
+        "patent_id": "patent/WO2012094542A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012094542A3%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20160327606A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-03",
+        "publication_date": "2016-11-10",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Calculation of the probability of gradient coil amplifer failure using environment data",
+        "patent_id": "patent/US20160327606A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160327606A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US10366360B2",
+        "primary_language": "en",
+        "priority_date": "2012-11-16",
+        "publication_date": "2019-07-30",
+        "assignee_original": "SPF, Inc.",
+        "title": "System and method for identifying potential future interaction risks between a client and a provider",
+        "patent_id": "patent/US10366360B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10366360B2%2Fen"
+      },
+      {
+        "publication_number": "US20140143010A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-16",
+        "publication_date": "2014-05-22",
+        "assignee_original": "SPF, Inc.",
+        "title": "System and Method for Assessing Interaction Risks Potentially Associated with Transactions Between a Client and a Provider",
+        "patent_id": "patent/US20140143010A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140143010A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7716147B2",
+      "primary_language": "en",
+      "publication_date": "2010-05-11",
+      "title": "Real-time predictive computer program, model, and method",
+      "patent_id": "patent/US7716147B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7716147B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11256876B2",
+      "primary_language": "en",
+      "publication_date": "2022-02-22",
+      "title": "Gap in care determination using a generic repository for healthcare",
+      "patent_id": "patent/US11256876B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11256876B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11688497B2",
+      "primary_language": "en",
+      "publication_date": "2023-06-27",
+      "title": "Systems and methods for predictive data analytics",
+      "patent_id": "patent/US11688497B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11688497B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7707130B2",
+      "primary_language": "en",
+      "publication_date": "2010-04-27",
+      "title": "Real-time predictive computer program, model, and method",
+      "patent_id": "patent/US7707130B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7707130B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6988088B1",
+      "primary_language": "en",
+      "publication_date": "2006-01-17",
+      "title": "Systems and methods for adaptive medical decision support",
+      "patent_id": "patent/US6988088B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6988088B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4450629803048349058",
+      "scholar_authors": "Herrin et al.",
+      "publication_date": "2012",
+      "title": "The effectiveness of implementing an electronic health record on diabetes care and outcomes",
+      "patent_id": "scholar/4450629803048349058",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4450629803048349058"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200143946A1",
+      "primary_language": "en",
+      "publication_date": "2020-05-07",
+      "title": "Patient risk scoring and evaluation systems and methods",
+      "patent_id": "patent/US20200143946A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200143946A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090171696A1",
+      "primary_language": "en",
+      "publication_date": "2009-07-02",
+      "title": "System and method for patient portal with clinical decision intelligence",
+      "patent_id": "patent/US20090171696A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090171696A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8818187304509684690",
+      "scholar_authors": "Perez et al.",
+      "publication_date": "2014",
+      "title": "Characteristics and direct costs of academic pediatric subspecialty outpatient no\u2010show events",
+      "patent_id": "scholar/8818187304509684690",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8818187304509684690"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6002072411811904076",
+      "scholar_authors": "Sanfey et al.",
+      "publication_date": "2011",
+      "title": "Service or education: in the eye of the beholder",
+      "patent_id": "scholar/6002072411811904076",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6002072411811904076"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170177801A1",
+      "primary_language": "en",
+      "publication_date": "2017-06-22",
+      "title": "Decision support to stratify a medical population",
+      "patent_id": "patent/US20170177801A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170177801A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16243193942599181801",
+      "scholar_authors": "Warner et al.",
+      "publication_date": "2015",
+      "title": "The most crowded US hospital emergency departments did not adopt effective interventions to improve flow, 2007\u201310",
+      "patent_id": "scholar/16243193942599181801",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16243193942599181801"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11864048807585864740",
+      "scholar_authors": "Romley et al.",
+      "publication_date": "2015",
+      "title": "The relationship between commercial health care prices and Medicare spending and utilization",
+      "patent_id": "scholar/11864048807585864740",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11864048807585864740"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4555521A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-21",
+      "title": "Systems and methods of patient prioritization scores and measures",
+      "patent_id": "patent/EP4555521A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4555521A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9784052622384966257",
+      "scholar_authors": "Butz et al.",
+      "publication_date": "2016",
+      "title": "Differences in coder and physician perspectives on the transition to ICD-10-CM/PCS: A survey study",
+      "patent_id": "scholar/9784052622384966257",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9784052622384966257"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8667894069149052411",
+      "scholar_authors": "Joshi et al.",
+      "publication_date": "2016",
+      "title": "Simulation study: Improvement for non-urgent patient processes in the emergency department",
+      "patent_id": "scholar/8667894069149052411",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8667894069149052411"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "661106407847057367",
+      "scholar_authors": "Hoff et al.",
+      "publication_date": "2007",
+      "title": "Long-term follow-up data collection and use in state newborn screening programs",
+      "patent_id": "scholar/661106407847057367",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F661106407847057367"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3736887846104053295",
+      "scholar_authors": "Lentz et al.",
+      "publication_date": "2017",
+      "title": "Nursing care management: Influence on bundled payments",
+      "patent_id": "scholar/3736887846104053295",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3736887846104053295"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230105348A1",
+      "primary_language": "en",
+      "publication_date": "2023-04-06",
+      "title": "System for adaptive hospital discharge",
+      "patent_id": "patent/US20230105348A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230105348A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2176640278501196198",
+      "scholar_authors": "Blumenthal",
+      "publication_date": "2016",
+      "title": "Better health care: a way forward",
+      "patent_id": "scholar/2176640278501196198",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2176640278501196198"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11930393777419796588",
+      "scholar_authors": "Mittal et al.",
+      "publication_date": "1999",
+      "title": "Improved continuity of care in a community teaching hospital model",
+      "patent_id": "scholar/11930393777419796588",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11930393777419796588"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "606299349727873377",
+      "scholar_authors": "Ontengco",
+      "publication_date": "2019",
+      "title": "Increasing referrals to a community paramedicine fall prevention program through implementation of a daily management system",
+      "patent_id": "scholar/606299349727873377",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F606299349727873377"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7985055912073830541",
+      "scholar_authors": "Berry Jaeker et al.",
+      "publication_date": "2014",
+      "title": "Increased speed equals increased wait: The impact of a reduction in emergency department ultrasound order processing time",
+      "patent_id": "scholar/7985055912073830541",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7985055912073830541"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7785187811665772139",
+      "scholar_authors": "Fitzgerald",
+      "publication_date": "2015",
+      "title": "When health care gets a healthy dose of data",
+      "patent_id": "scholar/7785187811665772139",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7785187811665772139"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13197184026079875532",
+      "scholar_authors": "Kottmair et al.",
+      "publication_date": "2005",
+      "title": "Germany's disease management program: improving outcomes in congestive heart failure",
+      "patent_id": "scholar/13197184026079875532",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13197184026079875532"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-04-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "HEALTH CARE INFORMATION SERVICES LLC, KANSAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KELLY, BRUCE;MCDANNALD, E.R.;REEL/FRAME:019228/0358"
+        },
+        {
+          "label": "Effective date",
+          "value": "20061106"
+        },
+        {
+          "label": "Owner name",
+          "value": "HEALTH CARE INFORMATION SERVICES LLC,KANSAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KELLY, BRUCE;MCDANNALD, E.R.;REEL/FRAME:019228/0358"
+        },
+        {
+          "label": "Effective date",
+          "value": "20061106"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-06",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2013-12-12",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-12",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2017-12-11",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-28",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-28",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-19",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20180427"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4122 @@
+{
+  "search_metadata": {
+    "id": "68514e00abe7ecbcf5faebec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1df8269c22f7db94/68514e00abe7ecbcf5faebec.json",
+    "created_at": "2025-06-17 11:14:08 UTC",
+    "processed_at": "2025-06-17 11:14:08 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20020198738A1/en",
+    "raw_html_file": "https://serpapi.com/searches/1df8269c22f7db94/68514e00abe7ecbcf5faebec.html",
+    "total_time_taken": 2.53
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20020198738A1/en"
+  },
+  "title": "Parenteral products automation system (PPAS)",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/6d/32/0f/43e55c759381d0/US20020198738A1.pdf",
+  "publication_number": "US20020198738A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "pharmaceutical",
+    "carrier",
+    "measured",
+    "station",
+    "dose"
+  ],
+  "prior_art_date": "1995-08-10",
+  "application_number": "US10/164,288",
+  "inventors": [
+    {
+      "name": "Joel Osborne",
+      "link": "https://patents.google.com/?inventor=Joel+Osborne",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joel+Osborne"
+    }
+  ],
+  "assignees": [
+    "Baxter Corp Englewood"
+  ],
+  "priority_date": "1995-08-10",
+  "filing_date": "2002-06-05",
+  "publication_date": "2002-12-26",
+  "worldwide_applications": {
+    "1995": [
+      {
+        "filing_date": "1995-08-10",
+        "country_code": "US",
+        "application_number": "US08/513,569",
+        "document_id": "patent/US5805454A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2002": [
+      {
+        "filing_date": "2002-06-05",
+        "country_code": "US",
+        "application_number": "US10/164,288",
+        "document_id": "patent/US7260447B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002-06-05",
+      "title": "Application filed by ForHealth Technologies Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "ForHealth Technologies Inc"
+    },
+    {
+      "date": "2002-06-05",
+      "title": "Priority to US10/164,288",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7260447B2/en"
+    },
+    {
+      "date": "2002-08-30",
+      "title": "Assigned to FORHEALTH TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "FORHEALTH TECHNOLOGIES, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: OSBORNE, JOEL A."
+      ]
+    },
+    {
+      "date": "2002-12-26",
+      "title": "Publication of US20020198738A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20020198738A1/en"
+    },
+    {
+      "date": "2007-08-21",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2007-08-21",
+      "title": "Publication of US7260447B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7260447B2/en"
+    },
+    {
+      "date": "2008-11-14",
+      "title": "Assigned to SQUARE 1 BANK",
+      "type": "reassignment",
+      "assignee_search": "SQUARE 1 BANK",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: FORHEALTH TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2009-04-30",
+      "title": "Assigned to BAXA-FHT, INC.",
+      "type": "reassignment",
+      "assignee_search": "BAXA-FHT, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: FORHEALTH TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2009-04-30",
+      "title": "Assigned to FHT, INC.",
+      "type": "reassignment",
+      "assignee_search": "FHT, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BAXA-FHT, INC."
+      ]
+    },
+    {
+      "date": "2009-05-06",
+      "title": "Assigned to FORHEALTH TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "FORHEALTH TECHNOLOGIES, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SQUARE 1 BANK"
+      ]
+    },
+    {
+      "date": "2009-06-03",
+      "title": "Assigned to U.S. BANK NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK NATIONAL ASSOCIATION",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: BAXA CORPORATION, FHT, INC."
+      ]
+    },
+    {
+      "date": "2014-02-11",
+      "title": "Assigned to BAXA CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "BAXA CORPORATION",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: FHT, INC."
+      ]
+    },
+    {
+      "date": "2014-02-19",
+      "title": "Assigned to BAXTER CORPORATION ENGLEWOOD",
+      "type": "reassignment",
+      "assignee_search": "BAXTER CORPORATION ENGLEWOOD",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BAXA CORPORATION"
+      ]
+    },
+    {
+      "date": "2018-08-25",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20020198738.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10164288"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20020198738"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2002198738A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10164288/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20020198738"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/cc/e8/aa/251195282a0c4b/US20020198738A1-20021226-D00000.png",
+    "https://patentimages.storage.googleapis.com/58/5b/30/c561e9be405d7c/US20020198738A1-20021226-D00001.png",
+    "https://patentimages.storage.googleapis.com/b3/67/73/d74954ac92eade/US20020198738A1-20021226-D00002.png",
+    "https://patentimages.storage.googleapis.com/2e/5c/3b/65baa7d32c5ff8/US20020198738A1-20021226-D00003.png",
+    "https://patentimages.storage.googleapis.com/19/ec/bd/04df4411ef8f1c/US20020198738A1-20021226-D00004.png",
+    "https://patentimages.storage.googleapis.com/cc/b5/e9/e9fcf48be417a8/US20020198738A1-20021226-D00005.png",
+    "https://patentimages.storage.googleapis.com/4f/55/74/9abcff9963f69c/US20020198738A1-20021226-D00006.png",
+    "https://patentimages.storage.googleapis.com/d8/8f/43/b6c4fb14fdfb5c/US20020198738A1-20021226-D00007.png",
+    "https://patentimages.storage.googleapis.com/1f/13/1d/d24f0150846098/US20020198738A1-20021226-D00008.png",
+    "https://patentimages.storage.googleapis.com/89/f7/25/b23136486c478c/US20020198738A1-20021226-D00009.png"
+  ],
+  "classifications": [
+    {
+      "code": "B65G51/46",
+      "description": "Automatically distributing the carriers to desired stations according to separate signal systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B01F31/20",
+      "description": "Mixing the contents of independent containers, e.g. test tubes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B01F33/85",
+      "description": "Mixing plants with mixing receptacles or mixing tools that can be indexed into different working positions",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65B57/00",
+      "description": "Automatic control, checking, warning, or safety devices",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65G51/34",
+      "description": "Two-way operation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/13",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients delivered from dispensers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65B3/003",
+      "description": "Filling medical containers such as ampoules, vials, syringes or the like",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An integrated, automated system concerning pharmaceutical products is provided. The system comprises an input queue, a dispensing apparatus comprising a robot device and a number of stations from which the robot device works, and an inspection station. A computer interface provides bi-directional communication between the analytical instruments, robots and peripheral devices and a computer. The robot employed by the system is responsive to computer commands and capable of performing mechanical functions including selection and retrieval of a necessary item and manipulation of retrieved items such that the desired product is produced.",
+  "description_link": "https://serpapi.com/searches/68514e00abe7ecbcf5faebec/google_patents_details/description.html",
+  "claims": [
+    "1. An automated system for preparing a pharmaceutical product, the system comprising: \nat least one computer having a database for receiving and storing criteria related to the preparation and delivery of the pharmaceutical product in a dosage form suitable for administration to a particular patient;  a dispensing apparatus in bi-directional communication with the at least one computer, the dispensing apparatus including a robotic device for performing a series of operations related to the preparation of the dosage form of the pharmaceutical product based upon the criteria stored in the database for the respective pharmaceutical product, the dispensing apparatus having a plurality of work stations at which the robotic device performs the operations resulting in the pharmaceutical product being prepared in accordance with the stored criteria; and  an inspection station for inspecting the resultant pharmaceutical product to determine whether the resultant pharmaceutical product complies with the stored criteria associated with the resultant pharmaceutical product, wherein if the resultant pharmaceutical product fails to comply with the stored criteria, the resultant pharmaceutical product is discarded.",
+    "2. The automated system of claim 1, wherein the robotic device is responsive to commands generated by the at least one computer and has an arm which is movable between the plurality of work stations such that the robotic device is capable of performing mechanical functions including selection and retrieval of a necessary item and manipulation of one or more retrieved items such that the resultant pharmaceutical product is produced.",
+    "3. The automated system of claim 1, wherein the plurality of stations includes: \na first pharmaceutical product station storing a pharmaceutical drug in a vial, a syringe station for storing a syringe used to discharge a diluent into the vial holding the pharmaceutical drug;  a diluent station for storing one or more diluents that are mixed with the pharmaceutical drug;  an agitation station for mixing the one or more diluents with the pharmaceutical drug to produce the resultant pharmaceutical product; and  a labeling station for labeling the resultant pharmaceutical product.",
+    "4. The automated system of claim 1, further including a computer interface which provides bi-directional communication between one or more analytical instruments, the robotic device, peripheral devices and the at least one computer.",
+    "5. The automated system of claim 1, wherein the criteria is stored in a database file associated with a particular patient, the database file including the name, strength, and diluent of a pharmaceutical drug; a name of the patient for whom the pharmaceutical product is intended; and temporal information relating to when the pharmaceutical product is to be administered.",
+    "6. The automated system of claim 5, wherein the database further includes information relating to a room location of the patient and the temporal information includes a time that the pharmaceutical product is due for administration.",
+    "7. The automated system of claim 1, wherein the criteria is encoded onto a label in the form of a barcode which is disposed on the resultant pharmaceutical product.",
+    "8. The automated system of claim 1, wherein the inspection station includes gas chromatography testing.",
+    "9. The automated system of claim 1, wherein the inspection station includes specific gravity testing of the resultant pharmaceutical product.",
+    "10. The automated system of claim 1, wherein the inspection station includes barcode scanning of a label associated with the resultant pharmaceutical product.",
+    "11. An integrated automated system for preparing a measured pharmaceutical dose, the system comprising: \nat least one computer having a database for receiving and storing criteria related to the preparation and delivery of the measured pharmaceutical dose;  at least one robotic device in bi-directional communication with the at least one computer;  a plurality of stations arranged to cooperate with the at least one robotic device in a sequence of operations to produce the measured pharmaceutical dose from a pharmaceutical drug supply; and  an inspection station for inspecting the measured pharmaceutical dose to determine whether the measured pharmaceutical dose complies with the stored criteria associated with the measured pharmaceutical dose, wherein if the measured pharmaceutical dose fails to comply with the stored criteria, the measured pharmaceutical dose is discarded and a second measured pharmaceutical dose is produced by the system for inspection.",
+    "12. An integrated automated system for preparing a measured pharmaceutical dose, the system comprising: \nan input for entering information related to the preparation and delivery of the measured pharmaceutical dose;  a dispensing apparatus including at least one robotic device and a plurality of stations, each station being arranged to cooperate with the at least one robotic device in a sequence of operations to produce the measured pharmaceutical dose from a supply of pharmaceutical substances;  an inspection station for inspecting the measured pharmaceutical dose to determine whether the measured pharmaceutical dose complies with the inputted information associated with the measured pharmaceutical dose, wherein if the measured pharmaceutical dose fails to comply with the inputted information, the measured pharmaceutical dose is discarded and a second pharmaceutical dose is produced for inspection; and  a computer interface which provides bi-directional communication between at least one computer, the dispensing apparatus, including the robotic device, and the inspection station, wherein the at least one computer stores and processes the information that is entered at the input so that the at least one computer generates command signals that are delivered to the dispensing apparatus to instruct the at least one robotic device to prepare the measured pharmaceutical dose in conformance with the inputted information.",
+    "13. The system of claim 12, wherein the dispensing apparatus includes: \na storage facility for holding containers, each container holding a supply of one pharmaceutical substance;  a device for removing a cap of a particular container;  a storage facility for holding a number of syringes;  a device for removing a needle cover of the syringe; and  a mixing station for mixing a selected pharmaceutical substance in the particular container with one or more diluents which are discharged from one or more syringes into the container holding the selected pharmaceutical substance to produce the measured pharmaceutical dose.",
+    "14. The system of claim 13, further including a drug syringe preparation station where the particular container holding the mixed measured pharmaceutical dose is delivered to after the mixing has occurred at the mixing station, the drug syringe preparation station including a supply of syringes, the robotic device retrieving one particular syringe and manipulating it such that a needle of the syringe is inserted into the container holding the measured pharmaceutical dose, the measured pharmaceutical dose then being withdrawn from the container and delivered to a body of the syringe.",
+    "15. The system of claim 14, further including: \na pre-inspection station including a weighing device for weighing the syringe containing the measured pharmaceutical dose, the weighing device being in communication with the at least one computer through the computer interface, wherein the measured weight of the syringe is compared with inputted specifications and if the measured weight is within an acceptable range, the syringe is delivered to the inspection station.",
+    "16. The system of claim 12, wherein the dispensing apparatus includes: \na labeling station for generating a label that is unique to the measured pharmaceutical dose, the label listing at least some of the inputted information; and  a weigh station for weighing the measured pharmaceutical dose, the at least one computer comparing the measured weight to the inputted information to determine whether the measured pharmaceutical dose complies with the inputted information.",
+    "17. The system of claim 12, wherein the at least one robotic device includes at least one movable arm and at least one pair of gripping features that are attached to at least one movable arm, the gripping features having sensors for indicating the presence or absence of an object.",
+    "18. The system of claim 12, further including a unit for storing at least one pharmaceutical drug, the unit being disposed within a distance from the dispensing apparatus so that the at least one robotic device can access the unit and retrieve a particular pharmaceutical drug that is stored therein, the unit having at least one sensor in communication with the computer interface for indicating when particular pharmaceutical drug needs to be replenished.",
+    "19. The system of claim 18, wherein the unit holds a plurality of pharmaceutical products that are arranged in a plurality of columns with each column only containing a pharmaceutical drug of one type, each column having one sensor associated therewith for indicating that the associated column is empty."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US13678698A",
+      "relation_type": "Continuation",
+      "priority_date": "1995-08-10",
+      "filing_date": "1998-08-19"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/164,288",
+      "representative_publication": "US7260447B2",
+      "primary_language": "en",
+      "priority_date": "1995-08-10",
+      "filing_date": "2002-06-05",
+      "title": "Parenteral products automation system (PPAS)"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/513,569",
+      "representative_publication": "US5805454A",
+      "primary_language": "en",
+      "priority_date": "1995-08-10",
+      "filing_date": "1995-08-10",
+      "title": "Parenteral products automation system (PPAS)"
+    },
+    {
+      "application_number": "US13678698A",
+      "priority_date": "1998-08-19",
+      "filing_date": "1998-08-19"
+    },
+    {
+      "application_number": "US10/164,288",
+      "representative_publication": "US7260447B2",
+      "primary_language": "en",
+      "priority_date": "1995-08-10",
+      "filing_date": "2002-06-05",
+      "title": "Parenteral products automation system (PPAS)"
+    }
+  ],
+  "family_id": "24043827",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4546901A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-02-02",
+        "publication_date": "1985-10-15",
+        "assignee_original": "Buttarazzi Patrick J",
+        "title": "Apparatus for dispensing medication",
+        "patent_id": "patent/US4546901A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4546901A%2Fen"
+      },
+      {
+        "publication_number": "US5124434A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-12-04",
+        "publication_date": "1992-06-23",
+        "assignee_original": "Henkel Corporation",
+        "title": "Polyesters for use in blood partitioning compositions",
+        "patent_id": "patent/US5124434A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5124434A%2Fen"
+      },
+      {
+        "publication_number": "US5208762A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-06",
+        "publication_date": "1993-05-04",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Automated prescription vial filling system",
+        "patent_id": "patent/US5208762A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5208762A%2Fen"
+      },
+      {
+        "publication_number": "US5431201A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-03",
+        "publication_date": "1995-07-11",
+        "assignee_original": "Technology 2000 Incororated",
+        "title": "Robotic admixture system",
+        "patent_id": "patent/US5431201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5431201A%2Fen"
+      },
+      {
+        "publication_number": "US5431299A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-01-26",
+        "publication_date": "1995-07-11",
+        "assignee_original": "Andrew E. Brewer",
+        "title": "Medication dispensing and storing system with dispensing modules",
+        "patent_id": "patent/US5431299A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5431299A%2Fen"
+      },
+      {
+        "publication_number": "US5511594A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-06-23",
+        "publication_date": "1996-04-30",
+        "assignee_original": "Brennan; Eric L.",
+        "title": "Modular pharmacy system and pharmacy process",
+        "patent_id": "patent/US5511594A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5511594A%2Fen"
+      },
+      {
+        "publication_number": "US5593267A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-01-24",
+        "publication_date": "1997-01-14",
+        "assignee_original": "Automated Healthcare, Inc.",
+        "title": "Automated system for selecting and delivering packages from a storage area",
+        "patent_id": "patent/US5593267A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5593267A%2Fen"
+      },
+      {
+        "publication_number": "US5753451A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-05-16",
+        "publication_date": "1998-05-19",
+        "assignee_original": "Chimera Research & Chemical, Inc.",
+        "title": "Process for determining specific gravity of adulterants in urine employing an automatic analyzer",
+        "patent_id": "patent/US5753451A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5753451A%2Fen"
+      },
+      {
+        "publication_number": "US5805454A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-10",
+        "publication_date": "1998-09-08",
+        "assignee_original": "Valerino, Sr.; Fred M.",
+        "title": "Parenteral products automation system (PPAS)",
+        "patent_id": "patent/US5805454A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5805454A%2Fen"
+      },
+      {
+        "publication_number": "US6048086A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-10",
+        "publication_date": "2000-04-11",
+        "assignee_original": "Valerino, Sr.; Fred M.",
+        "title": "Parenteral products automatic system (PPAS) with an oral/solid interface",
+        "patent_id": "patent/US6048086A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6048086A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS5244226B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-12-06",
+        "publication_date": "1977-11-05",
+        "patent_id": "patent/JPS5244226B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS5244226B2%2Fen"
+      },
+      {
+        "publication_number": "US5341854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-28",
+        "publication_date": "1994-08-30",
+        "assignee_original": "Alberta Research Council",
+        "title": "Robotic drug dispensing system",
+        "patent_id": "patent/US5341854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5341854A%2Fen"
+      },
+      {
+        "publication_number": "JPH07500521A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-08-19",
+        "publication_date": "1995-01-19",
+        "assignee_original": "\u30d6\u30ea\u30c6\u30a4\u30c4\u30b7\u30e6\u30fb\u30cb\u30e6\u30af\u30ea\u30a2\u30fc\u30fb\u30d5\u30e6\u30fc\u30eb\u30ba\u30fb\u30d4\u30fc\u30fb\u30a8\u30eb\u30fb\u30b7\u30fc",
+        "title": "Equipment for preparing biologically hazardous substances",
+        "patent_id": "patent/JPH07500521A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07500521A%2Fen"
+      },
+      {
+        "publication_number": "US5502944A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-03",
+        "publication_date": "1996-04-02",
+        "assignee_original": "Owen Healthcare, Inc.",
+        "title": "Medication dispenser system",
+        "patent_id": "patent/US5502944A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5502944A%2Fen"
+      },
+      {
+        "publication_number": "US5586686A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-15",
+        "publication_date": "1996-12-24",
+        "assignee_original": "L&P Property Management Company",
+        "title": "Temperature maintained food dispensing system and method",
+        "patent_id": "patent/US5586686A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5586686A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US6814254B2",
+        "primary_language": "en",
+        "priority_date": "1995-10-18",
+        "publication_date": "2004-11-09",
+        "assignee_original": "Telepharmacy Solutions, Incorporated",
+        "title": "Method for controlling a drug dispensing system",
+        "patent_id": "patent/US6814254B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6814254B2%2Fen"
+      },
+      {
+        "publication_number": "US20050224137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-07",
+        "publication_date": "2005-10-13",
+        "assignee_original": "Dennis Tribble",
+        "title": "Device for reconstituting a drug vial and transferring the contents to a syringe in an automated matter",
+        "patent_id": "patent/US20050224137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050224137A1%2Fen"
+      },
+      {
+        "publication_number": "US20050252572A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-13",
+        "publication_date": "2005-11-17",
+        "assignee_original": "Wahid Khan",
+        "title": "Automated use of a vision system to detect foreign matter in reconstituted drugs before transfer to a syringe",
+        "patent_id": "patent/US20050252572A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050252572A1%2Fen"
+      },
+      {
+        "publication_number": "US20050252574A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-13",
+        "publication_date": "2005-11-17",
+        "assignee_original": "Khan Abdul W",
+        "title": "Medication dose underfill detection system and application in an automated syringe preparing system",
+        "patent_id": "patent/US20050252574A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050252574A1%2Fen"
+      },
+      {
+        "publication_number": "US20050279419A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-21",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Dennis Tribble",
+        "title": "Automated use of a vision system to unroll a label to capture and process drug identifying indicia present on the label",
+        "patent_id": "patent/US20050279419A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050279419A1%2Fen"
+      },
+      {
+        "publication_number": "US7006893B2",
+        "primary_language": "en",
+        "priority_date": "1999-09-22",
+        "publication_date": "2006-02-28",
+        "assignee_original": "Telepharmacy Solutions, Inc.",
+        "title": "Systems for dispensing medical products",
+        "patent_id": "patent/US7006893B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7006893B2%2Fen"
+      },
+      {
+        "publication_number": "US20060136095A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-22",
+        "publication_date": "2006-06-22",
+        "assignee_original": "Rob Ronald H",
+        "title": "Automated pharmacy admixture system (APAS)",
+        "patent_id": "patent/US20060136095A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060136095A1%2Fen"
+      },
+      {
+        "publication_number": "US20060178578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-10",
+        "publication_date": "2006-08-10",
+        "assignee_original": "Dennis Tribble",
+        "title": "Vision system to calculate a fluid volume in a container",
+        "patent_id": "patent/US20060178578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060178578A1%2Fen"
+      },
+      {
+        "publication_number": "US20070125442A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2007-06-07",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug preparation apparatus including automated drug reconstitution",
+        "patent_id": "patent/US20070125442A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070125442A1%2Fen"
+      },
+      {
+        "publication_number": "US20070196236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-21",
+        "publication_date": "2007-08-23",
+        "assignee_original": "Richter Daniel T",
+        "title": "Delivering samples to and controlling analytical instruments",
+        "patent_id": "patent/US20070196236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070196236A1%2Fen"
+      },
+      {
+        "publication_number": "US20080035234A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-10",
+        "publication_date": "2008-02-14",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated system and process for filling drug delivery devices of multiple sizes",
+        "patent_id": "patent/US20080035234A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080035234A1%2Fen"
+      },
+      {
+        "publication_number": "US20080051937A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-23",
+        "publication_date": "2008-02-28",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug delivery bag filling system",
+        "patent_id": "patent/US20080051937A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080051937A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009095904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-01",
+        "publication_date": "2009-08-06",
+        "assignee_original": "Rescue Dose Ltd.",
+        "title": "Dosage dispensing device",
+        "patent_id": "patent/WO2009095904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009095904A1%2Fen"
+      },
+      {
+        "publication_number": "US7601966B2",
+        "primary_language": "en",
+        "priority_date": "2006-06-28",
+        "publication_date": "2009-10-13",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Imaging techniques for reducing blind spots",
+        "patent_id": "patent/US7601966B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7601966B2%2Fen"
+      },
+      {
+        "publication_number": "US7783383B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-22",
+        "publication_date": "2010-08-24",
+        "assignee_original": "Intelligent Hospital Systems Ltd.",
+        "title": "Automated pharmacy admixture system (APAS)",
+        "patent_id": "patent/US7783383B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7783383B2%2Fen"
+      },
+      {
+        "publication_number": "US7814731B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-20",
+        "publication_date": "2010-10-19",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug preparation apparatus including a bluetooth communications network",
+        "patent_id": "patent/US7814731B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7814731B2%2Fen"
+      },
+      {
+        "publication_number": "US7900658B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-20",
+        "publication_date": "2011-03-08",
+        "assignee_original": "Fht, Inc.",
+        "title": "Automated drug preparation apparatus including drug vial handling, venting, cannula positioning functionality",
+        "patent_id": "patent/US7900658B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7900658B2%2Fen"
+      },
+      {
+        "publication_number": "US7913720B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-31",
+        "publication_date": "2011-03-29",
+        "assignee_original": "Fht, Inc.",
+        "title": "Automated drug preparation apparatus including serial dilution functionality",
+        "patent_id": "patent/US7913720B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7913720B2%2Fen"
+      },
+      {
+        "publication_number": "US7931859B2",
+        "primary_language": "en",
+        "priority_date": "2005-12-22",
+        "publication_date": "2011-04-26",
+        "assignee_original": "Intelligent Hospital Systems Ltd.",
+        "title": "Ultraviolet sanitization in pharmacy environments",
+        "patent_id": "patent/US7931859B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7931859B2%2Fen"
+      },
+      {
+        "publication_number": "US20110138743A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-22",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Robert Terzini",
+        "title": "Pneumatic container transport system",
+        "patent_id": "patent/US20110138743A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110138743A1%2Fen"
+      },
+      {
+        "publication_number": "US20110146835A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-23",
+        "publication_date": "2011-06-23",
+        "assignee_original": "Robert Terzini",
+        "title": "Automated pharmacy drug handling and prescription verification system and method",
+        "patent_id": "patent/US20110146835A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110146835A1%2Fen"
+      },
+      {
+        "publication_number": "US8225824B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-16",
+        "publication_date": "2012-07-24",
+        "assignee_original": "Intelligent Hospital Systems, Ltd.",
+        "title": "Method and apparatus for automated fluid transfer operations",
+        "patent_id": "patent/US8225824B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8225824B2%2Fen"
+      },
+      {
+        "publication_number": "US8271138B2",
+        "primary_language": "en",
+        "priority_date": "2007-09-12",
+        "publication_date": "2012-09-18",
+        "assignee_original": "Intelligent Hospital Systems Ltd.",
+        "title": "Gripper device",
+        "patent_id": "patent/US8271138B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8271138B2%2Fen"
+      },
+      {
+        "publication_number": "US8267129B2",
+        "primary_language": "en",
+        "priority_date": "2006-11-09",
+        "publication_date": "2012-09-18",
+        "assignee_original": "Intelligent Hospital Systems Ltd.",
+        "title": "Control of fluid transfer operations",
+        "patent_id": "patent/US8267129B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8267129B2%2Fen"
+      },
+      {
+        "publication_number": "US8353869B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-02",
+        "publication_date": "2013-01-15",
+        "assignee_original": "Baxa Corporation",
+        "title": "Anti-tampering apparatus and method for drug delivery devices",
+        "patent_id": "patent/US8353869B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8353869B2%2Fen"
+      },
+      {
+        "publication_number": "USD676482S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-30",
+        "publication_date": "2013-02-19",
+        "assignee_original": "Pevco Systems International, Inc.",
+        "title": "Carrier apparatus for pneumatic tube delivery system",
+        "patent_id": "patent/USD676482S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD676482S1%2Fen"
+      },
+      {
+        "publication_number": "US8386070B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-18",
+        "publication_date": "2013-02-26",
+        "assignee_original": "Intelligent Hospital Systems, Ltd",
+        "title": "Automated pharmacy admixture system",
+        "patent_id": "patent/US8386070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8386070B2%2Fen"
+      },
+      {
+        "publication_number": "US8423125B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2013-04-16",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Radioimaging",
+        "patent_id": "patent/US8423125B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8423125B2%2Fen"
+      },
+      {
+        "publication_number": "US8445851B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2013-05-21",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Radioimaging",
+        "patent_id": "patent/US8445851B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8445851B2%2Fen"
+      },
+      {
+        "publication_number": "US8489176B1",
+        "primary_language": "en",
+        "priority_date": "2000-08-21",
+        "publication_date": "2013-07-16",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Radioactive emission detector equipped with a position tracking system and utilization thereof with medical systems and in medical procedures",
+        "patent_id": "patent/US8489176B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8489176B1%2Fen"
+      },
+      {
+        "publication_number": "US8492725B2",
+        "primary_language": "en",
+        "priority_date": "2009-07-29",
+        "publication_date": "2013-07-23",
+        "assignee_original": "Biosensors International Group Ltd.",
+        "title": "Method and system of optimized volumetric imaging",
+        "patent_id": "patent/US8492725B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8492725B2%2Fen"
+      },
+      {
+        "publication_number": "US8521253B2",
+        "primary_language": "en",
+        "priority_date": "2007-10-29",
+        "publication_date": "2013-08-27",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Prostate imaging",
+        "patent_id": "patent/US8521253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8521253B2%2Fen"
+      },
+      {
+        "publication_number": "US8565860B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-21",
+        "publication_date": "2013-10-22",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Radioactive emission detector equipped with a position tracking system",
+        "patent_id": "patent/US8565860B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8565860B2%2Fen"
+      },
+      {
+        "publication_number": "US8571881B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2013-10-29",
+        "assignee_original": "Spectrum Dynamics, Llc",
+        "title": "Radiopharmaceutical dispensing, administration, and imaging",
+        "patent_id": "patent/US8571881B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8571881B2%2Fen"
+      },
+      {
+        "publication_number": "US8606349B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2013-12-10",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Radioimaging using low dose isotope",
+        "patent_id": "patent/US8606349B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8606349B2%2Fen"
+      },
+      {
+        "publication_number": "US8610075B2",
+        "primary_language": "en",
+        "priority_date": "2006-11-13",
+        "publication_date": "2013-12-17",
+        "assignee_original": "Biosensors International Group Ltd.",
+        "title": "Radioimaging applications of and novel formulations of teboroxime",
+        "patent_id": "patent/US8610075B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8610075B2%2Fen"
+      },
+      {
+        "publication_number": "US8615405B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2013-12-24",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Imaging system customization using data from radiopharmaceutical-associated data carrier",
+        "patent_id": "patent/US8615405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8615405B2%2Fen"
+      },
+      {
+        "publication_number": "US8620046B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-21",
+        "publication_date": "2013-12-31",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Radioactive-emission-measurement optimization to specific body structures",
+        "patent_id": "patent/US8620046B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8620046B2%2Fen"
+      },
+      {
+        "publication_number": "US8644910B2",
+        "primary_language": "en",
+        "priority_date": "2005-07-19",
+        "publication_date": "2014-02-04",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Imaging protocols",
+        "patent_id": "patent/US8644910B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8644910B2%2Fen"
+      },
+      {
+        "publication_number": "US8676292B2",
+        "primary_language": "en",
+        "priority_date": "2004-01-13",
+        "publication_date": "2014-03-18",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Multi-dimensional image reconstruction",
+        "patent_id": "patent/US8676292B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8676292B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8837793B2",
+        "primary_language": "en",
+        "priority_date": "2005-07-19",
+        "publication_date": "2014-09-16",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Reconstruction stabilizer and active vision",
+        "patent_id": "patent/US8837793B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8837793B2%2Fen"
+      },
+      {
+        "publication_number": "US8894974B2",
+        "primary_language": "en",
+        "priority_date": "2006-05-11",
+        "publication_date": "2014-11-25",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Radiopharmaceuticals for diagnosis and therapy",
+        "patent_id": "patent/US8894974B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8894974B2%2Fen"
+      },
+      {
+        "publication_number": "US8909325B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-21",
+        "publication_date": "2014-12-09",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Radioactive emission detector equipped with a position tracking system and utilization thereof with medical systems and in medical procedures",
+        "patent_id": "patent/US8909325B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8909325B2%2Fen"
+      },
+      {
+        "publication_number": "US9040016B2",
+        "primary_language": "en",
+        "priority_date": "2004-01-13",
+        "publication_date": "2015-05-26",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Diagnostic kit and methods for radioimaging myocardial perfusion",
+        "patent_id": "patent/US9040016B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9040016B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9275451B2",
+        "primary_language": "en",
+        "priority_date": "2006-12-20",
+        "publication_date": "2016-03-01",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "Method, a system, and an apparatus for using and processing multidimensional data",
+        "patent_id": "patent/US9275451B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9275451B2%2Fen"
+      },
+      {
+        "publication_number": "US9316743B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2016-04-19",
+        "assignee_original": "Biosensors International Group, Ltd.",
+        "title": "System and method for radioactive emission measurement",
+        "patent_id": "patent/US9316743B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9316743B2%2Fen"
+      },
+      {
+        "publication_number": "US9470801B2",
+        "primary_language": "en",
+        "priority_date": "2004-01-13",
+        "publication_date": "2016-10-18",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Gating with anatomically varying durations",
+        "patent_id": "patent/US9470801B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9470801B2%2Fen"
+      },
+      {
+        "publication_number": "US9533300B2",
+        "primary_language": "en",
+        "priority_date": "2012-03-08",
+        "publication_date": "2017-01-03",
+        "assignee_original": "Daniel T. Richter",
+        "title": "Delivery system for analytical samples",
+        "patent_id": "patent/US9533300B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9533300B2%2Fen"
+      },
+      {
+        "publication_number": "US9943274B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-09",
+        "publication_date": "2018-04-17",
+        "assignee_original": "Spectrum Dynamics Medical Limited",
+        "title": "Radioimaging using low dose isotope",
+        "patent_id": "patent/US9943274B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9943274B2%2Fen"
+      },
+      {
+        "publication_number": "US20180238923A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-11",
+        "publication_date": "2018-08-23",
+        "assignee_original": "Kabushiki Kaisha Yaskawa Denki",
+        "title": "Dispensing system, and dispensing method",
+        "patent_id": "patent/US20180238923A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180238923A1%2Fen"
+      },
+      {
+        "publication_number": "US20200090124A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-08",
+        "publication_date": "2020-03-19",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Automated centralized preparation of medications in anticipation of use",
+        "patent_id": "patent/US20200090124A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200090124A1%2Fen"
+      },
+      {
+        "publication_number": "US10964075B2",
+        "primary_language": "en",
+        "priority_date": "2004-01-13",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Spectrum Dynamics Llc",
+        "title": "Gating with anatomically varying durations",
+        "patent_id": "patent/US10964075B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10964075B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20010056311A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-09-25",
+        "publication_date": "2001-12-27",
+        "assignee_original": "Fred M. Valerino",
+        "title": "Automatic empty carrier storage, retrieval and distribuition system",
+        "patent_id": "patent/US20010056311A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010056311A1%2Fen"
+      },
+      {
+        "publication_number": "US6173212B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-10",
+        "publication_date": "2001-01-09",
+        "assignee_original": "Fred M. Valerino, Sr.",
+        "title": "Autoacceptertube delivery system",
+        "patent_id": "patent/US6173212B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6173212B1%2Fen"
+      },
+      {
+        "publication_number": "US5805454A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-10",
+        "publication_date": "1998-09-08",
+        "assignee_original": "Valerino, Sr.; Fred M.",
+        "title": "Parenteral products automation system (PPAS)",
+        "patent_id": "patent/US5805454A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5805454A%2Fen"
+      },
+      {
+        "publication_number": "US6202004B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-10",
+        "publication_date": "2001-03-13",
+        "assignee_original": "Fred M. Valerino, Sr.",
+        "title": "Autoacceptertube delivery system with a robotic interface",
+        "patent_id": "patent/US6202004B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6202004B1%2Fen"
+      },
+      {
+        "publication_number": "US6219587B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-27",
+        "publication_date": "2001-04-17",
+        "assignee_original": "Nextrx Corporation",
+        "title": "Automated pharmaceutical management and dispensing system",
+        "patent_id": "patent/US6219587B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6219587B1%2Fen"
+      },
+      {
+        "publication_number": "US7069226B1",
+        "primary_language": "en",
+        "priority_date": "1999-07-07",
+        "publication_date": "2006-06-27",
+        "assignee_original": "Synetic, Incorporated",
+        "title": "Prescription data processing system for determining new therapy starts",
+        "patent_id": "patent/US7069226B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7069226B1%2Fen"
+      },
+      {
+        "publication_number": "US6564121B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-22",
+        "publication_date": "2003-05-13",
+        "assignee_original": "Telepharmacy Solutions, Inc.",
+        "title": "Systems and methods for drug dispensing",
+        "patent_id": "patent/US6564121B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6564121B1%2Fen"
+      },
+      {
+        "publication_number": "US6722404B2",
+        "primary_language": "en",
+        "priority_date": "2001-11-15",
+        "publication_date": "2004-04-20",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Syringe bandolier with control feature",
+        "patent_id": "patent/US6722404B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6722404B2%2Fen"
+      },
+      {
+        "publication_number": "US7096212B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-21",
+        "publication_date": "2006-08-22",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Serial data capture and processing",
+        "patent_id": "patent/US7096212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7096212B2%2Fen"
+      },
+      {
+        "publication_number": "US6604903B2",
+        "primary_language": "en",
+        "priority_date": "2001-11-30",
+        "publication_date": "2003-08-12",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug vial safety cap removal",
+        "patent_id": "patent/US6604903B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6604903B2%2Fen"
+      },
+      {
+        "publication_number": "US6616771B2",
+        "primary_language": "en",
+        "priority_date": "2001-11-30",
+        "publication_date": "2003-09-09",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Method and system for cleaning and reusing a cannula",
+        "patent_id": "patent/US6616771B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6616771B2%2Fen"
+      },
+      {
+        "publication_number": "AU2002360840B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-31",
+        "publication_date": "2008-10-23",
+        "assignee_original": "B. Braun Medical, Inc.",
+        "title": "Pharmaceutical compounding information management system",
+        "patent_id": "patent/AU2002360840B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2002360840B2%2Fen"
+      },
+      {
+        "publication_number": "US6672807B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-17",
+        "publication_date": "2004-01-06",
+        "assignee_original": "Diebold, Incorporated",
+        "title": "Pneumatic transfer terminal and method of operation",
+        "patent_id": "patent/US6672807B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6672807B1%2Fen"
+      },
+      {
+        "publication_number": "US6672808B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-17",
+        "publication_date": "2004-01-06",
+        "assignee_original": "Diebold, Incorporated",
+        "title": "Pneumatic transfer terminal and method of operation",
+        "patent_id": "patent/US6672808B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6672808B1%2Fen"
+      },
+      {
+        "publication_number": "US7017622B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2006-03-28",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated means for removing, parking and replacing a syringe tip cap from a syringe",
+        "patent_id": "patent/US7017622B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7017622B2%2Fen"
+      },
+      {
+        "publication_number": "US10688021B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-03",
+        "publication_date": "2020-06-23",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Automated drug preparation apparatus including automated drug reconstitution",
+        "patent_id": "patent/US10688021B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10688021B2%2Fen"
+      },
+      {
+        "publication_number": "US6915823B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2005-07-12",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated apparatus and process for reconstitution and delivery of medication to an automated syringe preparation apparatus",
+        "patent_id": "patent/US6915823B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6915823B2%2Fen"
+      },
+      {
+        "publication_number": "US6877530B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2005-04-12",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated means for withdrawing a syringe plunger",
+        "patent_id": "patent/US6877530B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6877530B2%2Fen"
+      },
+      {
+        "publication_number": "US7117902B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2006-10-10",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated means of storing, dispensing and orienting injectable drug vials for a robotic application",
+        "patent_id": "patent/US7117902B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7117902B2%2Fen"
+      },
+      {
+        "publication_number": "US6991002B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-03",
+        "publication_date": "2006-01-31",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Tamper evident syringe tip cap and automated method for preparing tamper-evident syringes",
+        "patent_id": "patent/US6991002B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6991002B2%2Fen"
+      },
+      {
+        "publication_number": "US6986234B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-27",
+        "publication_date": "2006-01-17",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "System and method for bandoliering syringes",
+        "patent_id": "patent/US6986234B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6986234B2%2Fen"
+      },
+      {
+        "publication_number": "US20050234580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-16",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "Automated replenishment notification systems and methods",
+        "patent_id": "patent/US20050234580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234580A1%2Fen"
+      },
+      {
+        "publication_number": "US8296162B1",
+        "primary_language": "en",
+        "priority_date": "2005-02-01",
+        "publication_date": "2012-10-23",
+        "assignee_original": "Webmd Llc.",
+        "title": "Systems, devices, and methods for providing healthcare information",
+        "patent_id": "patent/US8296162B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8296162B1%2Fen"
+      },
+      {
+        "publication_number": "JP2006280916A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-11",
+        "publication_date": "2006-10-19",
+        "assignee_original": "Yuyama Manufacturing Co Ltd",
+        "title": "Medicine-weighing apparatus",
+        "patent_id": "patent/JP2006280916A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006280916A%2Fen"
+      },
+      {
+        "publication_number": "US20080169044A1",
+        "primary_language": "en",
+        "priority_date": "2006-10-20",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Forhealth Technologies, Inc.",
+        "title": "Automated drug preparation apparatus including syringe loading, preparation and filling",
+        "patent_id": "patent/US20080169044A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080169044A1%2Fen"
+      },
+      {
+        "publication_number": "US8322601B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-03",
+        "publication_date": "2012-12-04",
+        "assignee_original": "Diebold, Incorporated",
+        "title": "In wall rotating device for exchanging items between service provider and drive-through lane customer",
+        "patent_id": "patent/US8322601B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8322601B1%2Fen"
+      },
+      {
+        "publication_number": "US8380530B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-02",
+        "publication_date": "2013-02-19",
+        "assignee_original": "Webmd Llc.",
+        "title": "Personalized health records with associative relationships",
+        "patent_id": "patent/US8380530B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8380530B2%2Fen"
+      },
+      {
+        "publication_number": "US7950879B2",
+        "primary_language": "en",
+        "priority_date": "2008-06-13",
+        "publication_date": "2011-05-31",
+        "assignee_original": "Translogic Corporation",
+        "title": "Variable speed drive for pneumatic transport system",
+        "patent_id": "patent/US7950879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7950879B2%2Fen"
+      },
+      {
+        "publication_number": "US8554579B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-13",
+        "publication_date": "2013-10-08",
+        "assignee_original": "Fht, Inc.",
+        "title": "Management, reporting and benchmarking of medication preparation",
+        "patent_id": "patent/US8554579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8554579B2%2Fen"
+      },
+      {
+        "publication_number": "US8700207B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-16",
+        "publication_date": "2014-04-15",
+        "assignee_original": "Fredrick M. Valerino, SR.",
+        "title": "Pneumatic tube carrier tracking system",
+        "patent_id": "patent/US8700207B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8700207B2%2Fen"
+      },
+      {
+        "publication_number": "US8116906B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2012-02-14",
+        "assignee_original": "Pevco Systems International, Inc.",
+        "title": "Pneumatic tube carrier tracking system",
+        "patent_id": "patent/US8116906B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8116906B2%2Fen"
+      },
+      {
+        "publication_number": "CA2703256C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-05",
+        "publication_date": "2015-02-24",
+        "assignee_original": "Translogic Corporation",
+        "title": "Pneumatic tube system recovery",
+        "patent_id": "patent/CA2703256C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2703256C%2Fen"
+      },
+      {
+        "publication_number": "US8029212B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-29",
+        "publication_date": "2011-10-04",
+        "assignee_original": "Pevco Systems International, Inc.",
+        "title": "Method and system for sealing products in a pneumatic tube carrier",
+        "patent_id": "patent/US8029212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8029212B2%2Fen"
+      },
+      {
+        "publication_number": "US8790047B2",
+        "primary_language": "en",
+        "priority_date": "2009-07-29",
+        "publication_date": "2014-07-29",
+        "assignee_original": "Fredrick M. Valerino, SR.",
+        "title": "Method and system for sealing products in a pneumatic tube carrier",
+        "patent_id": "patent/US8790047B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8790047B2%2Fen"
+      },
+      {
+        "publication_number": "ES3004613T3",
+        "primary_language": "en",
+        "priority_date": "2009-07-29",
+        "publication_date": "2025-03-12",
+        "assignee_original": "Icu Medical Inc",
+        "title": "Fluid transfer devices",
+        "patent_id": "patent/ES3004613T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES3004613T3%2Fen"
+      },
+      {
+        "publication_number": "US8721231B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-25",
+        "publication_date": "2014-05-13",
+        "assignee_original": "Swisslog Healthcare Solutions",
+        "title": "Deadlock alleviation for pneumatic tube systems",
+        "patent_id": "patent/US8721231B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8721231B2%2Fen"
+      },
+      {
+        "publication_number": "US8641329B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-25",
+        "publication_date": "2014-02-04",
+        "assignee_original": "Swisslog Healthcare Solutions",
+        "title": "Pneumatic transport zone exchange system and method",
+        "patent_id": "patent/US8641329B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8641329B2%2Fen"
+      },
+      {
+        "publication_number": "US9466088B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-17",
+        "publication_date": "2016-10-11",
+        "assignee_original": "National Instrument, Llc",
+        "title": "Automated oral syringe packaging system for hospital pharmacies",
+        "patent_id": "patent/US9466088B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9466088B2%2Fen"
+      },
+      {
+        "publication_number": "US10695490B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-17",
+        "publication_date": "2020-06-30",
+        "assignee_original": "Nicholas J Perazzo",
+        "title": "Syringe filling and packaging system for hospital pharmacies",
+        "patent_id": "patent/US10695490B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10695490B2%2Fen"
+      },
+      {
+        "publication_number": "US9033006B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-17",
+        "publication_date": "2015-05-19",
+        "assignee_original": "Nicholas J. Perazzo",
+        "title": "Oral syringe packaging system for hospital pharmacies",
+        "patent_id": "patent/US9033006B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9033006B2%2Fen"
+      },
+      {
+        "publication_number": "IT1403938B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-16",
+        "publication_date": "2013-11-08",
+        "assignee_original": "Inpeco Ip Ltd Ora Inpeco Holding Ltd",
+        "title": "INTERFACE SYSTEM BETWEEN A PNEUMATIC MAIL PLANT AND A SYSTEM OF FEEDING CONTAINERS OF BIOLOGICAL PRODUCTS TOWARDS A LABORATORY AUTOMATION PLANT.",
+        "patent_id": "patent/IT1403938B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1403938B1%2Fen"
+      },
+      {
+        "publication_number": "US9733221B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-09",
+        "publication_date": "2017-08-15",
+        "assignee_original": "Agilent Technologies, Inc.",
+        "title": "Injection needle cartridge with integrated sealing force generator",
+        "patent_id": "patent/US9733221B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9733221B2%2Fen"
+      },
+      {
+        "publication_number": "DE102011054080A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-30",
+        "publication_date": "2013-04-04",
+        "assignee_original": "Krones Aktiengesellschaft",
+        "title": "Integrated quality control of consumables for packaging machines",
+        "patent_id": "patent/DE102011054080A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102011054080A1%2Fen"
+      },
+      {
+        "publication_number": "EP4218857A3",
+        "primary_language": "en",
+        "priority_date": "2011-12-22",
+        "publication_date": "2023-10-25",
+        "assignee_original": "ICU Medical, Inc.",
+        "title": "Fluid transfer devices and methods of use",
+        "patent_id": "patent/EP4218857A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4218857A3%2Fen"
+      },
+      {
+        "publication_number": "KR102674051B1",
+        "primary_language": "en",
+        "priority_date": "2012-08-31",
+        "publication_date": "2024-06-12",
+        "assignee_original": "\ubc31\uc2a4\ud130 \ucf54\ud3ec\ub808\uc774\uc158 \uc789\uae00\uc6b0\ub4dc",
+        "title": "Medication requisition fulfillment system and method",
+        "patent_id": "patent/KR102674051B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102674051B1%2Fen"
+      },
+      {
+        "publication_number": "WO2014054183A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-05",
+        "publication_date": "2014-04-10",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u5b89\u5ddd\u96fb\u6a5f",
+        "title": "Automatic preparation system",
+        "patent_id": "patent/WO2014054183A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014054183A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014065872A1",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2014-05-01",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Improved work station for medical dose preparation system",
+        "patent_id": "patent/WO2014065872A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014065872A1%2Fen"
+      },
+      {
+        "publication_number": "BR112015009108A2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2017-07-04",
+        "assignee_original": "Baxter Corp Englewood",
+        "title": "medical dose preparation management system and method for processing and capturing medical dose preparation image data",
+        "patent_id": "patent/BR112015009108A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBR112015009108A2%2Fen"
+      },
+      {
+        "publication_number": "EP2983993B1",
+        "primary_language": "en",
+        "priority_date": "2013-03-07",
+        "publication_date": "2019-08-21",
+        "assignee_original": "National Instrument L.L.C.",
+        "title": "Automated oral syringe packaging system for hospital pharmacies",
+        "patent_id": "patent/EP2983993B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2983993B1%2Fen"
+      },
+      {
+        "publication_number": "US9592969B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-03",
+        "publication_date": "2017-03-14",
+        "assignee_original": "Aethon, Inc.",
+        "title": "System and method for locking a carrier/container for tracking, controlling access, and providing delivery confirmation",
+        "patent_id": "patent/US9592969B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9592969B2%2Fen"
+      },
+      {
+        "publication_number": "FI126653B",
+        "primary_language": "en",
+        "priority_date": "2013-11-08",
+        "publication_date": "2017-03-31",
+        "assignee_original": "Newlcon Oy",
+        "title": "Method and apparatus for using a medicament syringe and for dissolving drugs in liquid",
+        "patent_id": "patent/FI126653B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI126653B%2Fen"
+      },
+      {
+        "publication_number": "EP3073982B1",
+        "primary_language": "en",
+        "priority_date": "2013-11-25",
+        "publication_date": "2020-04-08",
+        "assignee_original": "ICU Medical, Inc.",
+        "title": "Methods and system for filling iv bags with therapeutic fluid",
+        "patent_id": "patent/EP3073982B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3073982B1%2Fen"
+      },
+      {
+        "publication_number": "JP5958486B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-05",
+        "publication_date": "2016-08-02",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u5b89\u5ddd\u96fb\u6a5f",
+        "title": "Fluid transfer system, drug manufacturing method, fluid transfer device, and fluid transfer control method",
+        "patent_id": "patent/JP5958486B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5958486B2%2Fen"
+      },
+      {
+        "publication_number": "US9352914B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-16",
+        "publication_date": "2016-05-31",
+        "assignee_original": "Ngoc Minh Le",
+        "title": "Pneumatic tube carrier system and method",
+        "patent_id": "patent/US9352914B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9352914B2%2Fen"
+      },
+      {
+        "publication_number": "AU2015284368A1",
+        "primary_language": "en",
+        "priority_date": "2014-06-30",
+        "publication_date": "2017-01-12",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Managed medical information exchange",
+        "patent_id": "patent/AU2015284368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2015284368A1%2Fen"
+      },
+      {
+        "publication_number": "US11575673B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Central user management in a distributed healthcare information management system",
+        "patent_id": "patent/US11575673B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11575673B2%2Fen"
+      },
+      {
+        "publication_number": "US11107574B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Management of medication preparation with formulary management",
+        "patent_id": "patent/US11107574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11107574B2%2Fen"
+      },
+      {
+        "publication_number": "US10818387B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-05",
+        "publication_date": "2020-10-27",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Dose preparation data analytics",
+        "patent_id": "patent/US10818387B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818387B2%2Fen"
+      },
+      {
+        "publication_number": "CA2978455A1",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-09",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Pharmacy workflow management with integrated alerts",
+        "patent_id": "patent/CA2978455A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2978455A1%2Fen"
+      },
+      {
+        "publication_number": "US10611505B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-04",
+        "publication_date": "2020-04-07",
+        "assignee_original": "Rai Strategic Holdings, Inc.",
+        "title": "Dispensing machine for aerosol precursor",
+        "patent_id": "patent/US10611505B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10611505B2%2Fen"
+      },
+      {
+        "publication_number": "US10837977B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-11",
+        "publication_date": "2020-11-17",
+        "assignee_original": "Kabushiki Kaisha Yaskawa Denki",
+        "title": "Rack for dispensing and dispensing system",
+        "patent_id": "patent/US10837977B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10837977B2%2Fen"
+      },
+      {
+        "publication_number": "JP7264415B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-26",
+        "publication_date": "2023-04-25",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30a4\u30b7\u30c0",
+        "title": "Production line components",
+        "patent_id": "patent/JP7264415B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7264415B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017096072A1",
+        "primary_language": "en",
+        "priority_date": "2015-12-04",
+        "publication_date": "2017-06-08",
+        "assignee_original": "Icu Medical, Inc.",
+        "title": "Systems methods and components for transferring medical fluids",
+        "patent_id": "patent/WO2017096072A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017096072A1%2Fen"
+      },
+      {
+        "publication_number": "US9539178B1",
+        "primary_language": "en",
+        "priority_date": "2016-05-17",
+        "publication_date": "2017-01-10",
+        "assignee_original": "Fredrick M. Valerino, SR.",
+        "title": "Medical object distribution system and method",
+        "patent_id": "patent/US9539178B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9539178B1%2Fen"
+      },
+      {
+        "publication_number": "US9549784B1",
+        "primary_language": "en",
+        "priority_date": "2016-05-17",
+        "publication_date": "2017-01-24",
+        "assignee_original": "Fredrick M. Valerino, SR.",
+        "title": "Sharps disposing system and method",
+        "patent_id": "patent/US9549784B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9549784B1%2Fen"
+      },
+      {
+        "publication_number": "USD851745S1",
+        "primary_language": "en",
+        "priority_date": "2016-07-19",
+        "publication_date": "2019-06-18",
+        "assignee_original": "Icu Medical, Inc.",
+        "title": "Medical fluid transfer system",
+        "patent_id": "patent/USD851745S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD851745S1%2Fen"
+      },
+      {
+        "publication_number": "EP3487468A4",
+        "primary_language": "en",
+        "priority_date": "2016-07-25",
+        "publication_date": "2020-03-25",
+        "assignee_original": "ICU Medical, Inc.",
+        "title": "SYSTEMS, METHODS AND COMPONENTS FOR CAPTURING BUBBLES IN MEDICAL LIQUID TRANSFER MODULES AND SYSTEMS",
+        "patent_id": "patent/EP3487468A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3487468A4%2Fen"
+      },
+      {
+        "publication_number": "CN106773808A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-23",
+        "publication_date": "2017-05-31",
+        "assignee_original": "\u6cb3\u6c60\u5b66\u9662",
+        "title": "A kind of robot automation's seedling growth system",
+        "patent_id": "patent/CN106773808A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106773808A%2Fen"
+      },
+      {
+        "publication_number": "US10759554B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-02",
+        "publication_date": "2020-09-01",
+        "assignee_original": "Rai Strategic Holdings, Inc.",
+        "title": "Dispenser unit for aerosol precursor",
+        "patent_id": "patent/US10759554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10759554B2%2Fen"
+      },
+      {
+        "publication_number": "SE541776C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-10",
+        "publication_date": "2019-12-10",
+        "assignee_original": "Il Granito Ab",
+        "title": "Identifying, sorting and manipulating test tubes",
+        "patent_id": "patent/SE541776C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE541776C2%2Fen"
+      },
+      {
+        "publication_number": "US20190183737A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-14",
+        "publication_date": "2019-06-20",
+        "assignee_original": "Fredrick M. Valerino, SR.",
+        "title": "Medical object distribution system and method",
+        "patent_id": "patent/US20190183737A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190183737A1%2Fen"
+      },
+      {
+        "publication_number": "CA3084066A1",
+        "primary_language": "en",
+        "priority_date": "2018-01-17",
+        "publication_date": "2019-07-25",
+        "assignee_original": "Rxsafe Llc",
+        "title": "System and method for dispensing orders",
+        "patent_id": "patent/CA3084066A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3084066A1%2Fen"
+      },
+      {
+        "publication_number": "US12026657B2",
+        "primary_language": "en",
+        "priority_date": "2019-04-11",
+        "publication_date": "2024-07-02",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "Outbound hazmat handling system",
+        "patent_id": "patent/US12026657B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12026657B2%2Fen"
+      },
+      {
+        "publication_number": "US11590057B2",
+        "primary_language": "en",
+        "priority_date": "2020-04-03",
+        "publication_date": "2023-02-28",
+        "assignee_original": "Icu Medical, Inc.",
+        "title": "Systems, methods, and components for transferring medical fluids",
+        "patent_id": "patent/US11590057B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11590057B2%2Fen"
+      },
+      {
+        "publication_number": "US11840409B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-06",
+        "publication_date": "2023-12-12",
+        "assignee_original": "Derrick Bliss",
+        "title": "Pneumatic delivery system and method of using the same",
+        "patent_id": "patent/US11840409B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11840409B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7260447B2",
+      "primary_language": "en",
+      "publication_date": "2007-08-21",
+      "title": "Parenteral products automation system (PPAS)",
+      "patent_id": "patent/US7260447B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7260447B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6048086A",
+      "primary_language": "en",
+      "publication_date": "2000-04-11",
+      "title": "Parenteral products automatic system (PPAS) with an oral/solid interface",
+      "patent_id": "patent/US6048086A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6048086A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7751930B2",
+      "primary_language": "en",
+      "publication_date": "2010-07-06",
+      "title": "Automatic empty carrier storage, retrieval and distribution system",
+      "patent_id": "patent/US7751930B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7751930B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6477442B1",
+      "primary_language": "en",
+      "publication_date": "2002-11-05",
+      "title": "Autoacceptertube delivery system with a robotic interface",
+      "patent_id": "patent/US6477442B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6477442B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6202004B1",
+      "primary_language": "en",
+      "publication_date": "2001-03-13",
+      "title": "Autoacceptertube delivery system with a robotic interface",
+      "patent_id": "patent/US6202004B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6202004B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6173212B1",
+      "primary_language": "en",
+      "publication_date": "2001-01-09",
+      "title": "Autoacceptertube delivery system",
+      "patent_id": "patent/US6173212B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6173212B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10898659B1",
+      "primary_language": "en",
+      "publication_date": "2021-01-26",
+      "title": "System for handling and dispensing a plurality of products",
+      "patent_id": "patent/US10898659B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10898659B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8276623B2",
+      "primary_language": "en",
+      "publication_date": "2012-10-02",
+      "title": "Device for automatically filling product containers with a liquid comprising one or more medicines",
+      "patent_id": "patent/US8276623B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8276623B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4415085A",
+      "primary_language": "en",
+      "publication_date": "1983-11-15",
+      "title": "Dry pharmaceutical system",
+      "patent_id": "patent/US4415085A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4415085A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101501693B",
+      "primary_language": "en",
+      "publication_date": "2011-09-14",
+      "title": "Automated pharmacy admixture system (apas)",
+      "patent_id": "patent/CN101501693B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101501693B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190183737A1",
+      "primary_language": "en",
+      "publication_date": "2019-06-20",
+      "title": "Medical object distribution system and method",
+      "patent_id": "patent/US20190183737A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190183737A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8386070B2",
+      "primary_language": "en",
+      "publication_date": "2013-02-26",
+      "title": "Automated pharmacy admixture system",
+      "patent_id": "patent/US8386070B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8386070B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6729369B2",
+      "primary_language": "en",
+      "publication_date": "2004-05-04",
+      "title": "Vessel for containing/transporting a fluent substance",
+      "patent_id": "patent/US6729369B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6729369B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5011020A",
+      "primary_language": "en",
+      "publication_date": "1991-04-30",
+      "title": "Cytotoxic agent containment kit",
+      "patent_id": "patent/US5011020A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5011020A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8024913B2",
+      "primary_language": "en",
+      "publication_date": "2011-09-27",
+      "title": "Prepared medication bagging system and method",
+      "patent_id": "patent/US8024913B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8024913B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060136095A1",
+      "primary_language": "en",
+      "publication_date": "2006-06-22",
+      "title": "Automated pharmacy admixture system (APAS)",
+      "patent_id": "patent/US20060136095A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060136095A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040057801A1",
+      "primary_language": "en",
+      "publication_date": "2004-03-25",
+      "title": "Disposal of sharps in a healthcare environment",
+      "patent_id": "patent/US20040057801A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040057801A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2285337A1",
+      "primary_language": "en",
+      "publication_date": "2011-02-23",
+      "title": "Automated workstation for the secure preparation of a final product for medical or pharmaceutical use",
+      "patent_id": "patent/EP2285337A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2285337A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110142554A1",
+      "primary_language": "en",
+      "publication_date": "2011-06-16",
+      "title": "Container for use in pneumatic transport system",
+      "patent_id": "patent/US20110142554A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110142554A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7913475B2",
+      "primary_language": "en",
+      "publication_date": "2011-03-29",
+      "title": "Multi-stage end-to-end cytotoxin handling system",
+      "patent_id": "patent/US7913475B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7913475B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA1317262C",
+      "primary_language": "en",
+      "publication_date": "1993-05-04",
+      "title": "Robotic drug dispensing system",
+      "patent_id": "patent/CA1317262C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1317262C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2009530363A",
+      "primary_language": "en",
+      "publication_date": "2009-08-27",
+      "title": "Apparatus and method for dilution and preparation of antiblastic drugs",
+      "patent_id": "patent/JP2009530363A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009530363A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240210432A1",
+      "primary_language": "en",
+      "publication_date": "2024-06-27",
+      "title": "Container and automated accessioning and assembly platform",
+      "patent_id": "patent/US20240210432A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240210432A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110850108A",
+      "primary_language": "en",
+      "publication_date": "2020-02-28",
+      "title": "Rapid detection table system for biological pharmacy",
+      "patent_id": "patent/CN110850108A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110850108A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2336692C",
+      "primary_language": "en",
+      "publication_date": "2008-06-03",
+      "title": "Vessel for containing/transporting a fluent substance",
+      "patent_id": "patent/CA2336692C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2336692C%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2002-08-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FORHEALTH TECHNOLOGIES, INC., OKLAHOMA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OSBORNE, JOEL A.;REEL/FRAME:013247/0138"
+        },
+        {
+          "label": "Effective date",
+          "value": "20020807"
+        }
+      ]
+    },
+    {
+      "date": "2006-11-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2007-08-01",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2008-03-18",
+      "code": "RR",
+      "title": "Request for reexamination filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20080130"
+        }
+      ]
+    },
+    {
+      "date": "2008-11-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SQUARE 1 BANK, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:FORHEALTH TECHNOLOGIES, INC.;REEL/FRAME:021838/0856"
+        },
+        {
+          "label": "Effective date",
+          "value": "20081031"
+        },
+        {
+          "label": "Owner name",
+          "value": "SQUARE 1 BANK,NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:FORHEALTH TECHNOLOGIES, INC.;REEL/FRAME:021838/0856"
+        },
+        {
+          "label": "Effective date",
+          "value": "20081031"
+        }
+      ]
+    },
+    {
+      "date": "2009-04-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BAXA-FHT, INC., COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:FORHEALTH TECHNOLOGIES, INC.;REEL/FRAME:022619/0055"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090303"
+        },
+        {
+          "label": "Owner name",
+          "value": "FHT, INC., COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:BAXA-FHT, INC.;REEL/FRAME:022619/0213"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090414"
+        },
+        {
+          "label": "Owner name",
+          "value": "BAXA-FHT, INC.,COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:FORHEALTH TECHNOLOGIES, INC.;REEL/FRAME:022619/0055"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090303"
+        },
+        {
+          "label": "Owner name",
+          "value": "FHT, INC.,COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:BAXA-FHT, INC.;REEL/FRAME:022619/0213"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090414"
+        }
+      ]
+    },
+    {
+      "date": "2009-05-06",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FORHEALTH TECHNOLOGIES, INC., COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:SQUARE 1 BANK;REEL/FRAME:022634/0985"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090505"
+        },
+        {
+          "label": "Owner name",
+          "value": "FORHEALTH TECHNOLOGIES, INC.,COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:SQUARE 1 BANK;REEL/FRAME:022634/0985"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090505"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK NATIONAL ASSOCIATION, MISSOURI"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNORS:FHT, INC.;BAXA CORPORATION;REEL/FRAME:022773/0268"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090529"
+        },
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK NATIONAL ASSOCIATION,MISSOURI"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNORS:FHT, INC.;BAXA CORPORATION;REEL/FRAME:022773/0268"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090529"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-08",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-09",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2010-01-12",
+      "code": "FPB1",
+      "title": "Reexamination decision cancelled all claims"
+    },
+    {
+      "date": "2011-01-21",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BAXA CORPORATION, COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:FHT, INC.;REEL/FRAME:032197/0586"
+        },
+        {
+          "label": "Effective date",
+          "value": "20121214"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-19",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BAXTER CORPORATION ENGLEWOOD, COLORADO"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:BAXA CORPORATION;REEL/FRAME:032287/0159"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130101"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-04",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-08",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000007689",
+        "name": "inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "239000000825",
+        "name": "pharmaceutical preparation",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "229940127557",
+        "name": "pharmaceutical product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "230000007175",
+        "name": "bidirectional communication",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000005226",
+        "name": "mechanical processes and functions",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 55
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "239000003085",
+        "name": "diluting agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000013019",
+        "name": "agitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000002372",
+        "name": "labelling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000006854",
+        "name": "communication",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004817",
+        "name": "gas chromatography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000005303",
+        "name": "weighing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000002552",
+        "name": "dosage form",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002123",
+        "name": "temporal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000969",
+        "name": "carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "230000032258",
+        "name": "transport",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000001990",
+        "name": "intravenous administration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+        "name": "Toluene",
+        "domain": "Chemical compound",
+        "smiles": "CC1=CC=CC=C1",
+        "inchi_key": "YXFVVABEGXRONW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+        "name": "Isopropanol",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)O",
+        "inchi_key": "KFZMGEQAYNKOFK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229920001971",
+        "name": "elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000008227",
+        "name": "sterile water for injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "241000894006",
+        "name": "Bacteria",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000005911",
+        "name": "diet",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000378",
+        "name": "dietary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "BQJCRHHNABKAKU-KBQPJGBKSA-N",
+        "name": "morphine",
+        "domain": "Chemical compound",
+        "smiles": "O([C@H]1[C@H](C=C[C@H]23)O)C4=C5[C@@]12CCN(C)[C@@H]3CC5=CC=C4O",
+        "inchi_key": "BQJCRHHNABKAKU-KBQPJGBKSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010821",
+        "name": "sharps waste",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003612",
+        "name": "virological effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+        "name": "Benzene",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=CC=C1",
+        "inchi_key": "UHOVQNZJYSORNB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011109",
+        "name": "contamination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003780",
+        "name": "insertion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000037431",
+        "name": "insertion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000013011",
+        "name": "mating",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013190",
+        "name": "sterility testing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000742",
+        "name": "Cotton",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000725303",
+        "name": "Human immunodeficiency virus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003466",
+        "name": "anti-cipated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013329",
+        "name": "compounding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940125368",
+        "name": "controlled substance",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000599",
+        "name": "controlled substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012050",
+        "name": "conventional carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000994",
+        "name": "depressogenic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000006260",
+        "name": "foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960005181",
+        "name": "morphine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005096",
+        "name": "rolling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000011664",
+        "name": "signaling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000153",
+        "name": "supplemental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "231100000331",
+        "name": "toxic",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002588",
+        "name": "toxic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XFXPMWWXUTWYJX-UHFFFAOYSA-N",
+        "name": "Cyanide",
+        "domain": "Chemical compound",
+        "smiles": "N#[C-]",
+        "inchi_key": "XFXPMWWXUTWYJX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101710112752",
+        "name": "Cytotoxin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000011001",
+        "name": "Ebola Hemorrhagic Fever",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920004142",
+        "name": "LEXAN\u2122",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "name": "Sodium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Cl-]",
+        "inchi_key": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GKLVYJBZJHMRIY-OUBTZVSYSA-N",
+        "name": "Technetium-99",
+        "domain": "Chemical compound",
+        "smiles": "[99Tc]",
+        "inchi_key": "GKLVYJBZJHMRIY-OUBTZVSYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000036142",
+        "name": "Viral infection",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000700605",
+        "name": "Viruses",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000003118",
+        "name": "aryl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012865",
+        "name": "aseptic processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013475",
+        "name": "authorization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010923",
+        "name": "batch production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000481",
+        "name": "chemical toxicant",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000599",
+        "name": "cytotoxic agent",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002619",
+        "name": "cytotoxin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010790",
+        "name": "dilution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012895",
+        "name": "dilution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940126534",
+        "name": "drug product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000428",
+        "name": "dust",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000887",
+        "name": "face",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001821",
+        "name": "foam rubber",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003517",
+        "name": "fume",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000014509",
+        "name": "gene expression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004247",
+        "name": "hand",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000383",
+        "name": "hazardous chemical",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003100",
+        "name": "immobilizing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036512",
+        "name": "infertility",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000005700",
+        "name": "microbiome",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000465",
+        "name": "moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004081",
+        "name": "narcotic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013618",
+        "name": "particulate matter",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001084",
+        "name": "poly(chloroprene)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000515",
+        "name": "polycarbonate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004417",
+        "name": "polycarbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003908",
+        "name": "quality control method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001954",
+        "name": "sterilising effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004659",
+        "name": "sterilization and disinfection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940056501",
+        "name": "technetium 99m",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003440",
+        "name": "toxic substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009423",
+        "name": "ventilation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009385",
+        "name": "viral infection",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004078",
+        "name": "waterproofing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003245",
+        "name": "working effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000707",
+        "name": "wrist",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

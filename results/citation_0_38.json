@@ -1,0 +1,1514 @@
+{
+  "search_metadata": {
+    "id": "68514dfa16a5a8708cf286a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8058371cc9826741/68514dfa16a5a8708cf286a9.json",
+    "created_at": "2025-06-17 11:14:02 UTC",
+    "processed_at": "2025-06-17 11:14:02 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20020087276A1/en",
+    "raw_html_file": "https://serpapi.com/searches/8058371cc9826741/68514dfa16a5a8708cf286a9.html",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20020087276A1/en"
+  },
+  "title": "Methods, systems, and computer program products for analyzing and presenting NMR lipoprotein-based risk assessment results",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/74/ae/52/354bd5da45f703/US20020087276A1.pdf",
+  "publication_number": "US20020087276A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "computer program",
+    "risk",
+    "lipoprotein",
+    "program code",
+    "values"
+  ],
+  "prior_art_date": "1999-02-26",
+  "application_number": "US09/992,068",
+  "inventors": [
+    {
+      "name": "James Otvos",
+      "link": "https://patents.google.com/?inventor=James+Otvos",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+Otvos"
+    }
+  ],
+  "assignees": [
+    "North Carolina State University",
+    "Labcorp Holdings Inc"
+  ],
+  "priority_date": "1999-02-26",
+  "filing_date": "2001-11-14",
+  "publication_date": "2002-07-04",
+  "worldwide_applications": {
+    "1999": [
+      {
+        "filing_date": "1999-12-15",
+        "country_code": "WO",
+        "application_number": "PCT/US1999/029730",
+        "document_id": "patent/WO2000051054A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "1999-12-15",
+        "country_code": "AU",
+        "application_number": "AU20540/00A",
+        "document_id": "patent/AU2054000A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2001": [
+      {
+        "filing_date": "2001-11-14",
+        "country_code": "US",
+        "application_number": "US09/992,068",
+        "document_id": "patent/US6576471B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-11-14",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2001-11-14",
+      "title": "Priority to US09/992,068",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6576471B2/en"
+    },
+    {
+      "date": "2002-07-04",
+      "title": "Publication of US20020087276A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20020087276A1/en"
+    },
+    {
+      "date": "2002-07-30",
+      "title": "Assigned to LIPOSCIENCE, INC.",
+      "type": "reassignment",
+      "assignee_search": "LIPOSCIENCE, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LIPOMED, INC."
+      ]
+    },
+    {
+      "date": "2003-06-10",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2003-06-10",
+      "title": "Publication of US6576471B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6576471B2/en"
+    },
+    {
+      "date": "2013-01-25",
+      "title": "Assigned to LIPOSCIENCE, INC. (PREVIOUSLY LIPOMED, INC.)",
+      "type": "reassignment",
+      "assignee_search": "LIPOSCIENCE, INC. (PREVIOUSLY LIPOMED, INC.)",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LIPOMED, INC."
+      ]
+    },
+    {
+      "date": "2013-01-25",
+      "title": "Assigned to NORTH CAROLINA STATE UNIVERSITY, LIPOSCIENCE, INC.",
+      "type": "reassignment",
+      "assignee_search": "NORTH CAROLINA STATE UNIVERSITY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: OTVOS, JAMES D."
+      ]
+    },
+    {
+      "date": "2019-02-26",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "2025-04-04",
+      "title": "Assigned to LABORATORY CORPORATION OF AMERICA HOLDINGS",
+      "type": "reassignment",
+      "assignee_search": "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LIPOSCIENCE, INC."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20020087276.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09992068"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20020087276"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2002087276A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09992068/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20020087276"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/1f/8b/09/20c13a9c32662f/US20020087276A1-20020704-D00001.png",
+    "https://patentimages.storage.googleapis.com/93/d7/a5/dbe31a9a76738b/US20020087276A1-20020704-D00002.png",
+    "https://patentimages.storage.googleapis.com/5c/a1/f0/151d638042afb2/US20020087276A1-20020704-D00003.png",
+    "https://patentimages.storage.googleapis.com/23/a5/05/33ba350ed31edd/US20020087276A1-20020704-D00004.png",
+    "https://patentimages.storage.googleapis.com/92/37/7b/97ea8373b673d4/US20020087276A1-20020704-D00005.png",
+    "https://patentimages.storage.googleapis.com/a5/20/06/141fd8bf785a79/US20020087276A1-20020704-D00006.png",
+    "https://patentimages.storage.googleapis.com/87/60/a9/15acd2e11cde47/US20020087276A1-20020704-D00007.png",
+    "https://patentimages.storage.googleapis.com/a4/5d/69/696bf8a025299c/US20020087276A1-20020704-D00008.png",
+    "https://patentimages.storage.googleapis.com/a4/2e/e6/988df263726ed4/US20020087276A1-20020704-D00009.png",
+    "https://patentimages.storage.googleapis.com/f9/91/ab/d775e9c0d365ae/US20020087276A1-20020704-D00010.png",
+    "https://patentimages.storage.googleapis.com/c0/9e/99/6099caf6ae1425/US20020087276A1-20020704-D00011.png",
+    "https://patentimages.storage.googleapis.com/2b/14/32/fc066375aeefbc/US20020087276A1-20020704-D00012.png",
+    "https://patentimages.storage.googleapis.com/c9/90/6a/1e871a4df55743/US20020087276A1-20020704-D00013.png",
+    "https://patentimages.storage.googleapis.com/b1/06/dd/af24c64e317fb3/US20020087276A1-20020704-D00014.png",
+    "https://patentimages.storage.googleapis.com/5c/9e/ba/b5eaccd7142d9a/US20020087276A1-20020704-D00015.png",
+    "https://patentimages.storage.googleapis.com/da/ec/e1/c1fb214639b546/US20020087276A1-20020704-D00016.png",
+    "https://patentimages.storage.googleapis.com/66/df/4f/623c2d670529ec/US20020087276A1-20020704-D00017.png"
+  ],
+  "classifications": [
+    {
+      "code": "G01N33/92",
+      "description": "Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing involving lipids, e.g. cholesterol, lipoproteins, or their receptors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01N2333/775",
+      "description": "Apolipopeptides",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01N2800/324",
+      "description": "Coronary artery diseases, e.g. angina pectoris, myocardial infarction",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T436/104165",
+      "description": "Lipid, cholesterol, or triglyceride standard or control",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T436/106664",
+      "description": "Blood serum or blood plasma standard or control",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T436/24",
+      "description": "Nuclear magnetic resonance, electron spin resonance or other spin effects or mass spectrometry",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method for analyzing a patient's risk of coronary heart disease by determining the presence of NMR-derived or based lipoprotein constituent value abnormalities includes determining the presence of atherogenic dyslipidemia based on the existence of a clustering of lipoprotein constituent abnormalities as defined by predetermined test criteria. Computer program products and automatically produced reports for presenting NMR-derived lipoprotein risk assessment based on patient-specific lipoprotein subclass results present the measurement results adjacent to a segmented reference risk analysis portion. The actual measured results are visually aligned and enhanced within the risk analysis portion to provide easy reference and understanding of the results relative to a risk of developing coronary heart disease.",
+  "description_link": "https://serpapi.com/searches/68514dfa16a5a8708cf286a9/google_patents_details/description.html",
+  "claims": [
+    "1. A computer program product for automatically generating personalized lipoprotein-based information for a plurality of subjects, the computer program product comprising: \na computer readable storage medium having computer readable program code embodied in said medium, said computer-readable program code comprising: \ncomputer readable program code for generating lipoprotein measurement values for a patient's blood and/or plasma sample, the lipoprotein measurement values including a plurality of lipoprotein subclass variable measurements, including at least two of: LDL size, LDL density or concentration, large HDL density or concentration, and large VLDL triglyceride density or concentration; \ncomputer readable program code for comparing the plurality of patient lipoprotein subclass variable values with respective predetermined test criteria for determining whether the subclass variable values are associated with a higher or lower risk of developing coronary heart disease; and \ncomputer readable program code for automatically generating personalized lipoprotein-based reports for a plurality of patients, wherein the computer program code for generating the report includes computer program code for generating a plurality of risk analysis portions, one for each measured lipoprotein subclass, so that a respective one risk analysis portion is aligned adjacent the corresponding measured subclass lipoprotein value, each of the respective risk analysis portions visually indicating when there is a higher risk of coronary heart disease for the measured value to thereby provide a contemporaneous reference guideline for interpretation of the measured value.",
+    "2. A computer program product according to claim 1, further comprising computer readable program code for comparing a plurality of the lipoprotein measurement values to predetermined test criteria to determine the presence of an increased risk of metabolic syndrome or atherogenic dyslipidemia.",
+    "3. A computer program product according to claim 2, wherein the computer program code for generating the report comprises computer program code for visually indicating when an increased risk of metabolic syndrome or atherogenic dyslipidemia is determined to be present.",
+    "4. A computer program product according to claim 1, wherein the computer readable program code for generating lipoprotein measurement values for a patient's blood sample comprises computer program code for obtaining NMR-based lipoprotein measurements.",
+    "5. A computer program product according to claim 1, wherein the lipoprotein measurement values include the major lipoprotein constituents of total cholesterol as well as the plurality of lipoprotein subclass constituents, wherein the computer program code is configured to arrange the total cholesterol values above the subclass constituent values in the report, and wherein the major lipoprotein constituents include LDL concentration in cholesterol equivalents, HDL concentration in cholesterol equivalents, and triglycerides.",
+    "6. A computer program product according to claim 1 wherein the plurality of subclass values comprise LDL size, LDL concentration, large HDL concentration, and large VLDL triglyceride concentration.",
+    "7. A computer program product according to claim 1, wherein the computer program code for generating the reports comprises computer program code for generating linear horizontal line graphs representing lower to higher degrees of coronary heart disease risk in a plurality of the subclass risk analysis portions so that the measured value is illustrated by the length of the line in the graph to visibly indicate the level of risk associated therewith.",
+    "8. A computer program product according to claim 1, wherein the computer program code for generating the reports includes computer program code for: \nanalyzing the lipoprotein measurements and providing at least three different lipoprotein result summary segments, a lipid profile segment and a lipoprotein-subclass profile segment, and a separate metabolic abnormality summary segment, wherein the lipid profile segment presents values for total cholesterol, LDL cholesterol, HDL cholesterol, and Triglycerides, wherein the subclass profile segment presents the results of the lipoprotein measurements for the level and size of LDL particles, the level of large HDL, and the level of large VLDL, and wherein the metabolic abnormality summary segment presents the patient's risk identification for having a metabolic abnormality.",
+    "9. A computer program product according to claim 1, wherein the computer readable program code for generating the reports comprises computer program code for arranging the measured lipoprotein values such that each of the lipoprotein measurement values is substantially vertically aligned, and wherein the computer program code for generating the risk analysis portion for LDL particle size generates three discrete boxed segments of risk categories, one associated with lower risk for Pattern A, one associated with intermediate risk for Pattern AB, and one associated with higher risk for Pattern B.",
+    "10. A computer program product according to claim 1, wherein the computer program code for generating lipoprotein measurement values for a patient's blood sample comprises computer program code for obtaining NMR-based lipoprotein measurements, and wherein the computer readable program code for comparing the NMR-based lipoprotein measurement values to predetermined test criteria to determine the presence of atherogenic dyslipidemia includes computer program code for comparing the measurement values to predetermined test criteria to determine the presence of small LDL, a low level of large HDL, and an elevated level of large VLDL, whereby the determination is made based on the positive test criteria match of at least two of the conditions.",
+    "11. A computer program product according to claim 2, wherein the computer readable program code for generating the risk analysis portions in the reports includes computer readable program code for presenting a plurality of the measured lipoprotein subclass values as a series of horizontally extending line graphs which graphically represents the subclass value in a continuum of low to high risk.",
+    "12. A computer program product according to claim 1, further comprising computer program code for monitoring the patient's lipoprotein measurements over time to thereby monitor the trend or impact of drug therapy or other treatment.",
+    "13. A computer program product according to claim 1, further comprising computer program code for evaluating the lipoprotein measurement values to present a patient-specific treatment guideline based on the presence or absence of predetermined risk criteria.",
+    "14. A computer program product according to claim 13, wherein the computer code for evaluating considers selected parameters from both the patient's medical and behavioral history.",
+    "15. A computer program product according to claim 14, wherein the computer program code evaluates whether the patient is diabetic.",
+    "16. A computer program product according to claim 14, wherein the computer program code evaluates whether the patient has been diagnosed with CHD.",
+    "17. A computer program product according to claim 1, further comprising computer program code for adjusting the defined coronary heart disease risk associated with the predetermined test criteria as well as the associated risk analysis portions for a particular patient relative to the general population based upon the existence of or susceptibility to an identified high-risk medical condition in the patient.",
+    "18. A computer program product according to claim 1, wherein the measured lipoprotein subclass measured values are presented in columnated numerical format as a quantitative number adjacent a corresponding columnated textual label identifying the corresponding subclass variable value.",
+    "19. A computer program product according to claim 1, further comprising computer program code for electronically generating the report and transmitting the report via email to a physician or clinic.",
+    "20. A computer program product for providing patient specific NMR-measured lipoprotein information, the computer program product comprising: \na computer readable storage medium having computer readable program code means embodied in said medium, said computer-readable program code means comprising: \ncomputer readable program code for obtaining NMR-measured measurements for a plurality of lipoprotein subclass constituents including at least LDL particle size, LDL concentration, and large HDL concentration; \ncomputer readable program code for determining a coronary heart disease risk level associated with each of the plurality of NMR-measured lipoprotein subclass measurements; and \ncomputer readable program code for automatically generating a lipoprotein report for a plurality of patients with data corresponding to patient specific NMR-measured lipoprotein subclasses, the computer readable program code for generating the reports including computer readable program code for generating, for each reported measured subclass value, an adjacently positioned associated risk analysis portion that visually indicates when there is an increased risk of coronary heart disease associated with the respective lipoprotein subclass measurement to thereby provide a contemporaneous reference guideline for interpretation of the measured lipoprotein subclass value.",
+    "21. A computer program product according to claim 20, wherein the computer readable program code means for generating the risk analysis portion presents the LDL particle size value as one of: Pattern A corresponding to lower risk, Pattern B corresponding to higher risk, and Pattern AB corresponding to an intermediate risk; and wherein said LDL subclass value is identified in said risk analysis portion by visually enhancing the specified pattern associated with the patient-specific LDL subclass value.",
+    "22. A computer program product according to claim 21, wherein the computer readable program code for generating the risk analysis portion includes computer readable program code for presenting each of a plurality of the measured subclass values as a horizontally extending linear bar graph which graphically represents the subclass value relative to a continuum of low to high risk.",
+    "23. A computer program product according to claim 20, further comprising computer program code for evaluating the lipoprotein measurement values to present a patient-specific goal that is more conservative than for the general population for certain of the measured lipoprotein values based on the presence or absence of predetermined risk criteria.",
+    "24. A computer program product according to claim 23, wherein the computer code for evaluating considers selected parameters from both the patient's medical and behavioral history.",
+    "25. A computer program product according to claim 23, further comprising computer program code for evaluating whether the patient is diabetic.",
+    "26. A computer program product according to claim 23, wherein the computer program code for evaluating considers whether the patient has already been diagnosed with CHD.",
+    "27. A computer program product according to claim 20, further comprising the steps of electronically generating the report and transmitting the report via email to a physician.",
+    "28. A computer program product according to claim 20, wherein the NMR-measured lipoprotein values include levels of the major lipoprotein constituents of total cholesterol, LDL cholesterol, HDL cholesterol, and triglycerides, and wherein the measured subclass lipoprotein values include the values associated with LDL size, the level of LDL particles, the level of large HDL cholesterol, and the level of large VLDL triglyceride.",
+    "29. A computer program product according to claim 20, further comprising computer program code for adjusting the defined risk associated with the risk analysis portions based upon the existence of or susceptibility to an identified high-risk medical condition in the patient.",
+    "30. A computer program product according to claim 20, wherein the plurality of NMR-measured lipoprotein subclass variable values includes data corresponding to LDL particle size, LDL concentration, large HDL cholesterol concentration, and large VLDL triglyceride concentration.",
+    "31. A computer program product according to claim 20, further comprising computer readable program code for comparing a plurality of the NMR-measured lipoprotein values to predetermined test criteria to determine the presence of an increased risk of metabolic syndrome or atherogenic dyslipidemia.",
+    "32. A computer program product according to claim 31, wherein the computer program code for generating the report includes program code for visually indicating when the increased risk of metabolic syndrome or atherogenic dyslipidemia is determined.",
+    "33. A computer program product according to claim 20, further comprising computer program code for monitoring the patient's lipoprotein measurements over time to thereby monitor the trend or impact of drug therapy or other treatment on the lipoprotein values.",
+    "34. A computer program product according to claim 20, further comprising computer program code for adjusting the defined risk associated with the measured lipoprotein subclass values as presented in the associated risk analysis portions of the display format based upon the existence of or an identified susceptibility to an at-risk medical condition of the patient.",
+    "35. A computer program product for automatically generating personalized lipoprotein-based assessed risk of coronary heart disease information for a plurality of subjects, the computer program product comprising: \na computer readable storage medium having computer readable program code embodied in said medium, said computer-readable program code comprising: \ncomputer readable program code for generating NMR-based lipoprotein measurement values for a patient's blood plasma or serum sample, the NMR-based lipoprotein measurement values comprising a plurality of lipoprotein constituent values including a constituent value for LDL particle concentration; \ncomputer readable program code for comparing the LDL particle concentration with predetermined test criteria for determining whether the LDL particle concentration is elevated; \ncomputer readable program code for comparing a plurality of NMR-based lipoprotein subclass constituent values to predetermined test criteria associated with abnormal lipoprotein values to determine if there is a clustering of abnormal values to determine the presence of a metabolic abnormality or atherogenic dyslipidemia; and \ncomputer readable program code for assessing a patient's risk of coronary heart disease based on the presence of at least one of an elevated LDL particle concentration and/or the metabolic abnormality or atherogenic dyslipidemia.",
+    "36. A computer program product according to claim 35, wherein the NMR based lipoprotein constituent values include the major lipoprotein constituents of total cholesterol, LDL concentration in cholesterol equivalents, HDL concentration in cholesterol equivalents, and triglycerides, and wherein the measured lipoprotein constituent values also include the values associated with LDL particle size, the level of LDL particles, the level of large HDL cholesterol, and the level of large VLDL triglyceride.",
+    "37. A computer program product according to claim 35, wherein the computer program product for comparing to determine the presence of the metabolic abnormality or atherogenic dyslipidemia does not consider NMR based lipoprotein constituent values for LDL particle concentration or LDL-C.",
+    "38. A computer program product according to claim 35, wherein the computer program code for comparing the plurality of NMR-based lipoprotein constituent values to determine the presence of the metabolic abnormality or atherogenic dyslipidemia comprises comparing the NMR based values associated with LDL size, the level of large HDL cholesterol, and the level of large VLDL triglyceride to respective predetermined test criteria.",
+    "39. A computer program product according to claim 35, comprising computer program code for automatically generating a report of the risk assessment for each patient sample, the computer program code for generating the report including computer program code for: \n(a) arranging each of the obtained lipoprotein subclass constituent values in a viewable format which positions the lipoprotein subclass constituent values as a quantified number adjacent to a corresponding risk analysis portion such that a respective risk analysis portion for each lipoprotein subclass constituent value is positioned in side by side alignment with the corresponding lipoprotein subclass constituent value to act as a contemporaneous guide, the risk analysis portion having a plurality of segments characterizing the lipoprotein subclass constituent value's determined risk level;  (b) visually enhancing the NMR-measured subclass constituent risk result corresponding to the actual constituent value within the respective risk analysis portion such that the risk associated with the lipoprotein constituent value is readily apparent; and  (c) providing a metabolic abnormality summary in a viewable format identifying whether there is a clustering of abnormal values and indicating which of the plurality of the measured lipoprotein subclass constituent values are abnormal and indicate an increased risk of CHD.",
+    "40. A computer program product according to claim 39, further comprising computer program code for defining a target or optimal value that is a reduced target value set at about or below about a 20th percentile value for at-risk patients relative to the general population.",
+    "41. A computer program product according to claim 40, wherein the computer program code for generating the report includes computer program code for: \nproviding at least three different result summary segments, a lipid profile segment and a lipoprotein-subclass profile segment, and a separate metabolic abnormality summary segment, wherein the lipid profile segment presents the results of the lipoprotein measurements for total cholesterol, LDL concentration cholesterol equivalent, HDL concentration cholesterol equivalent, and Triglycerides, wherein the subclass profile segment presents the results of the lipoprotein measurements for concentration and size of LDL particles, large HDL, and large VLDL, and wherein the metabolic abnormality summary segment presents the patient's risk identification of a metabolic abnormality.",
+    "42. A computer program product according to claim 39, wherein the lipoprotein constituent values for LDL size, the level of large HDL, and the level of large VLDL triglyceride are associated with a risk analysis portion which includes three discrete segments, and wherein the discrete segments therefor identify the respective lipoprotein constituent value as having a particular percentage or risk associated therewith.",
+    "43. A computer program product according to claim 42, wherein certain of the risk analysis portions having three discrete segments define a first desirable risk segment, a second borderline risk segment, and a third high risk segment, and wherein other of the risk analysis portions having three discrete segments define a first lower or negative risk, a second intermediate, and a third higher or positive risk.",
+    "44. A computer program product according to claim 42, wherein the discrete segments are arranged and aligned such that the risk analysis portions present the higher risk values in a vertically aligned manner along the same end of a viewing format, and wherein the measured values for the lipoprotein constituents are arranged in a box on a first side of the viewing format laterally away from the higher risk values such that the measured values are arranged in vertical alignment proximate one side of the viewing format and the risk analysis portions are arranged about the opposing side of the viewing format.",
+    "45. A computer program product according to claim 35, wherein the computer program code for assessing a patient's risk of coronary heart disease is based on the detected presence of both an elevated LDL particle concentration and the determination of the metabolic abnormality and/or atherogenic dyslipidemia, and wherein the NMR based lipoprotein constituent values used to determine the presence of atherogenic dyslipidemia lack a LDL particle concentration value.",
+    "46. A computer program product according to claim 45, further comprising computer program code for adjusting the risk associated with the predetermined test criteria based upon the existence of or susceptibility to an identified high-risk medical condition in the patient.",
+    "47. A computer program product according to claim 35, further comprising computer program code for evaluating the lipoprotein measurement values and generating a patient-specific treatment guideline based on the presence or absence of predetermined risk criteria.",
+    "48. A computer program product according to claim 47, wherein the computer program code for evaluating to generate specific treatment guideline considers selected parameters from both the patient's medical and behavioral history.",
+    "49. A computer program product according to claim 47, wherein the computer program code for evaluating to generate specific treatment guideline considers whether the patient is diabetic.",
+    "50. A computer program product according to claim 47, wherein the computer program code for evaluating to generate specific treatment guideline considers whether the patient has been diagnosed with CHD.",
+    "51. A computer program product according to claim 35, further comprising computer program code for electronically generating the report and transmitting the report via email to a physician."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US29173699A",
+      "relation_type": "Division",
+      "priority_date": "1999-02-26",
+      "filing_date": "1999-04-14"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/992,068",
+      "representative_publication": "US6576471B2",
+      "primary_language": "en",
+      "priority_date": "1999-02-26",
+      "filing_date": "2001-11-14",
+      "title": "Methods, systems, and computer program products for analyzing and presenting NMR lipoprotein-based risk assessment results"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US25874099A",
+      "priority_date": "1999-02-26",
+      "filing_date": "1999-02-26"
+    },
+    {
+      "application_number": "US29173699A",
+      "priority_date": "1999-04-14",
+      "filing_date": "1999-04-14"
+    },
+    {
+      "application_number": "US09/992,068",
+      "representative_publication": "US6576471B2",
+      "primary_language": "en",
+      "priority_date": "1999-02-26",
+      "filing_date": "2001-11-14",
+      "title": "Methods, systems, and computer program products for analyzing and presenting NMR lipoprotein-based risk assessment results"
+    }
+  ],
+  "family_id": "26946844",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US4464122A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-12-02",
+        "publication_date": "1984-08-07",
+        "assignee_original": "Berkeley Fuller",
+        "title": "Health potential summary and incentive system",
+        "patent_id": "patent/US4464122A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4464122A%2Fen"
+      },
+      {
+        "publication_number": "DE3817747A1",
+        "primary_language": "en",
+        "priority_date": "1988-05-25",
+        "publication_date": "1989-11-30",
+        "assignee_original": "Johannes Dr Med Aufenanger",
+        "title": "METHOD FOR DETERMINING THE RELATIVE VOLUME OF ALL CHOLESTERO-CONTAINING LIPOPROTEINS IN KOERPER FLUIDS",
+        "patent_id": "patent/DE3817747A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3817747A1%2Fen"
+      },
+      {
+        "publication_number": "US4933844A",
+        "primary_language": "en",
+        "priority_date": "1988-09-26",
+        "publication_date": "1990-06-12",
+        "assignee_original": "Otvos James D",
+        "title": "Measurement of blood lipoprotein constituents by analysis of data acquired from an NMR spectrometer",
+        "patent_id": "patent/US4933844A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4933844A%2Fen"
+      },
+      {
+        "publication_number": "FI922887A7",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-12-21",
+        "publication_date": "1992-06-18",
+        "assignee_original": "The Beth Israel Hospital Ass",
+        "title": "Method for predicting atherosclerosis risk",
+        "patent_id": "patent/FI922887A7/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI922887A7%2Fen"
+      },
+      {
+        "publication_number": "WO1993003450A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-07-30",
+        "publication_date": "1993-02-18",
+        "assignee_original": "North Carolina State University",
+        "title": "Method and apparatus for measuring blood lipoprotein levels by nmr spectroscopy",
+        "patent_id": "patent/WO1993003450A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1993003450A1%2Fen"
+      },
+      {
+        "publication_number": "EP0590200A1",
+        "primary_language": "en",
+        "priority_date": "1992-10-02",
+        "publication_date": "1994-04-06",
+        "assignee_original": "E.R. SQUIBB &amp; SONS, INC.",
+        "title": "Device and method for the visualisation of cardiovascular risk factors",
+        "patent_id": "patent/EP0590200A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0590200A1%2Fen"
+      },
+      {
+        "publication_number": "US5692501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-20",
+        "publication_date": "1997-12-02",
+        "assignee_original": "Minturn; Paul",
+        "title": "Scientific wellness personal/clinical/laboratory assessments, profile and health risk managment system with insurability rankings on cross-correlated 10-point optical health/fitness/wellness scales",
+        "patent_id": "patent/US5692501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5692501A%2Fen"
+      },
+      {
+        "publication_number": "EP0846296A1",
+        "primary_language": "en",
+        "priority_date": "1995-03-31",
+        "publication_date": "1998-06-10",
+        "assignee_original": "Richard I. Levin",
+        "title": "System and method of generating prognosis reports for coronary health management",
+        "patent_id": "patent/EP0846296A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0846296A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20040102904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-20",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Roger Bennison",
+        "title": "Clinical laboratory quality control randomizer",
+        "patent_id": "patent/US20040102904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040102904A1%2Fen"
+      },
+      {
+        "publication_number": "US20040142496A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-23",
+        "publication_date": "2004-07-22",
+        "assignee_original": "Nicholson Jeremy Kirk",
+        "title": "Methods for analysis of spectral data and their applications: atherosclerosis/coronary heart disease",
+        "patent_id": "patent/US20040142496A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040142496A1%2Fen"
+      },
+      {
+        "publication_number": "JP2007531884A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-01",
+        "publication_date": "2007-11-08",
+        "assignee_original": "\u30ea\u30dd\u30b5\u30a4\u30a8\u30f3\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "NMR clinical analyzer and related methods, systems, modules and computer program products for clinical evaluation of biosamples",
+        "patent_id": "patent/JP2007531884A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007531884A%2Fen"
+      },
+      {
+        "publication_number": "US7306562B1",
+        "primary_language": "en",
+        "priority_date": "2004-04-23",
+        "publication_date": "2007-12-11",
+        "assignee_original": "Medical Software, Llc",
+        "title": "Medical risk assessment method and program product",
+        "patent_id": "patent/US7306562B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7306562B1%2Fen"
+      },
+      {
+        "publication_number": "US7647234B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-24",
+        "publication_date": "2010-01-12",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Cardiovascular healthcare management system and method",
+        "patent_id": "patent/US7647234B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7647234B1%2Fen"
+      },
+      {
+        "publication_number": "US20120108914A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-27",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Bravomalo Mario J",
+        "title": "System and method for assessment of health risks and visualization of weight loss and muscle gain",
+        "patent_id": "patent/US20120108914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120108914A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "WO2014203258A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-19",
+        "publication_date": "2014-12-24",
+        "assignee_original": "Medial Research Ltd.",
+        "title": "Managing medical examinations in a population",
+        "patent_id": "patent/WO2014203258A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014203258A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016081471A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-17",
+        "publication_date": "2016-05-26",
+        "assignee_original": "Boston Heart Diagnostic Corporation",
+        "title": "Cardiovascular disease risk assessment",
+        "patent_id": "patent/WO2016081471A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016081471A1%2Fen"
+      },
+      {
+        "publication_number": "US9551768B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2017-01-24",
+        "assignee_original": "East Carolina University",
+        "title": "NMR method for monitoring changes in the core of lipoprotein particles in metabolism and disease",
+        "patent_id": "patent/US9551768B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9551768B2%2Fen"
+      },
+      {
+        "publication_number": "US10775458B2",
+        "primary_language": "en",
+        "priority_date": "2018-03-05",
+        "publication_date": "2020-09-15",
+        "assignee_original": "Texas Tech University System",
+        "title": "Method and system for non-invasive measurement of metabolic health",
+        "patent_id": "patent/US10775458B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10775458B2%2Fen"
+      },
+      {
+        "publication_number": "US11156621B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-07",
+        "publication_date": "2021-10-26",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "Multi-parameter metabolic vulnerability index evaluations",
+        "patent_id": "patent/US11156621B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11156621B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7329489B2",
+        "primary_language": "en",
+        "priority_date": "2000-04-14",
+        "publication_date": "2008-02-12",
+        "assignee_original": "Matabolon, Inc.",
+        "title": "Methods for drug discovery, disease treatment, and diagnosis using metabolomics",
+        "patent_id": "patent/US7329489B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7329489B2%2Fen"
+      },
+      {
+        "publication_number": "EP2330219A3",
+        "primary_language": "en",
+        "priority_date": "2000-04-14",
+        "publication_date": "2011-11-23",
+        "assignee_original": "Metabolon, Inc.",
+        "title": "Method for drug discovery, disease treatment and diagnosis using metabolomics",
+        "patent_id": "patent/EP2330219A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2330219A3%2Fen"
+      },
+      {
+        "publication_number": "US20020046278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-17",
+        "publication_date": "2002-04-18",
+        "assignee_original": "Roy Hays",
+        "title": "Method and system for global log on in a distributed system",
+        "patent_id": "patent/US20020046278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020046278A1%2Fen"
+      },
+      {
+        "publication_number": "US20020120471A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-30",
+        "publication_date": "2002-08-29",
+        "assignee_original": "Healtheheart, Inc.",
+        "title": "Patient analysis and research system and associated methods",
+        "patent_id": "patent/US20020120471A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020120471A1%2Fen"
+      },
+      {
+        "publication_number": "US20050192841A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-01",
+        "publication_date": "2005-09-01",
+        "assignee_original": "Roy Hays",
+        "title": "Method and system for collecting information before user registration",
+        "patent_id": "patent/US20050192841A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050192841A1%2Fen"
+      },
+      {
+        "publication_number": "US20040236673A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-17",
+        "publication_date": "2004-11-25",
+        "assignee_original": "Eder Jeff Scott",
+        "title": "Collaborative risk transfer system",
+        "patent_id": "patent/US20040236673A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040236673A1%2Fen"
+      },
+      {
+        "publication_number": "CA2331116A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-15",
+        "publication_date": "2002-07-15",
+        "assignee_original": "Chenomx, Inc.",
+        "title": "Compound identification and quantitation in liquid mixtures -- method and process using an automated nuclear magnetic resonance measurement system",
+        "patent_id": "patent/CA2331116A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2331116A1%2Fen"
+      },
+      {
+        "publication_number": "EP1417629B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-06",
+        "publication_date": "2008-02-20",
+        "assignee_original": "Lipomics Technologies, Inc.",
+        "title": "Generating, viewing, interpreting, and utilizing a quantitative database of metabolites",
+        "patent_id": "patent/EP1417629B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1417629B1%2Fen"
+      },
+      {
+        "publication_number": "CA2459508A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-24",
+        "publication_date": "2003-04-03",
+        "assignee_original": "Lipomics Technologies, Inc.",
+        "title": "Methods of using quantitative lipid metabolome data",
+        "patent_id": "patent/CA2459508A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2459508A1%2Fen"
+      },
+      {
+        "publication_number": "CN1613088A",
+        "primary_language": "en",
+        "priority_date": "2001-11-02",
+        "publication_date": "2005-05-04",
+        "assignee_original": "\u7f8e\u56fd\u897f\u95e8\u5b50\u533b\u7597\u89e3\u51b3\u516c\u53f8",
+        "title": "Patient data mining for cardiology screening",
+        "patent_id": "patent/CN1613088A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1613088A%2Fen"
+      },
+      {
+        "publication_number": "WO2003042704A1",
+        "primary_language": "en",
+        "priority_date": "2001-11-13",
+        "publication_date": "2003-05-22",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Ion mobility analysis of biological particles",
+        "patent_id": "patent/WO2003042704A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003042704A1%2Fen"
+      },
+      {
+        "publication_number": "US20040018501A1",
+        "primary_language": "en",
+        "priority_date": "2001-11-21",
+        "publication_date": "2004-01-29",
+        "assignee_original": "Keith Allen",
+        "title": "Methods and systems for analyzing complex biological systems",
+        "patent_id": "patent/US20040018501A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040018501A1%2Fen"
+      },
+      {
+        "publication_number": "US20080027769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-09",
+        "publication_date": "2008-01-31",
+        "assignee_original": "Jeff Scott Eder",
+        "title": "Knowledge based performance management system",
+        "patent_id": "patent/US20080027769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080027769A1%2Fen"
+      },
+      {
+        "publication_number": "US20070011049A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-09",
+        "publication_date": "2007-01-11",
+        "assignee_original": "Eder Jeffrey S",
+        "title": "Intelligent, personalized commerce chain",
+        "patent_id": "patent/US20070011049A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070011049A1%2Fen"
+      },
+      {
+        "publication_number": "US7426499B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-08",
+        "publication_date": "2008-09-16",
+        "assignee_original": "Asset Trust, Inc.",
+        "title": "Search ranking system",
+        "patent_id": "patent/US7426499B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7426499B2%2Fen"
+      },
+      {
+        "publication_number": "US7730063B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-10",
+        "publication_date": "2010-06-01",
+        "assignee_original": "Asset Trust, Inc.",
+        "title": "Personalized medicine service",
+        "patent_id": "patent/US7730063B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7730063B2%2Fen"
+      },
+      {
+        "publication_number": "US6812033B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-12",
+        "publication_date": "2004-11-02",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Method for identifying risk cardiovascular disease patients",
+        "patent_id": "patent/US6812033B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6812033B2%2Fen"
+      },
+      {
+        "publication_number": "AU2003221918A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-12",
+        "publication_date": "2003-10-27",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "A method for identifying at risk cardiovascular disease patients",
+        "patent_id": "patent/AU2003221918A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2003221918A1%2Fen"
+      },
+      {
+        "publication_number": "US7416895B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-21",
+        "publication_date": "2008-08-26",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Method for identifying at risk cardiovascular disease patients",
+        "patent_id": "patent/US7416895B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7416895B2%2Fen"
+      },
+      {
+        "publication_number": "US20030208106A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-03",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Cortex Biophysik Gmbh",
+        "title": "Method of cardiac risk assessment",
+        "patent_id": "patent/US20030208106A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030208106A1%2Fen"
+      },
+      {
+        "publication_number": "US20040043496A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-21",
+        "publication_date": "2004-03-04",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Method for identifying patients who will require multiple invasive cardiovascular procedures",
+        "patent_id": "patent/US20040043496A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040043496A1%2Fen"
+      },
+      {
+        "publication_number": "WO2004040407A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-25",
+        "publication_date": "2004-05-13",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "Methods, systems and computer programs for deconvolving the spectral contribution of chemical constituents with overlapping signals",
+        "patent_id": "patent/WO2004040407A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004040407A2%2Fen"
+      },
+      {
+        "publication_number": "US7226792B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-27",
+        "publication_date": "2007-06-05",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Method for selecting an optimal diet and exercise regimen based on LDL and HDL subclass determination",
+        "patent_id": "patent/US7226792B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7226792B2%2Fen"
+      },
+      {
+        "publication_number": "CA2542107A1",
+        "primary_language": "en",
+        "priority_date": "2003-10-23",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "Methods, systems and computer programs for assessing chd risk using mathematical models that consider in vivo concentration gradients of ldl particle subclasses of discrete size",
+        "patent_id": "patent/CA2542107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2542107A1%2Fen"
+      },
+      {
+        "publication_number": "US20050244892A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2005-11-03",
+        "assignee_original": "Lazar Mitchell A",
+        "title": "Resistin as a marker and therapeutic target for cardiovascular disease",
+        "patent_id": "patent/US20050244892A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050244892A1%2Fen"
+      },
+      {
+        "publication_number": "US7849002B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-01",
+        "publication_date": "2010-12-07",
+        "assignee_original": "Swiss Reinsurance Company",
+        "title": "System and method for evaluating preferred risk definitions",
+        "patent_id": "patent/US7849002B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7849002B2%2Fen"
+      },
+      {
+        "publication_number": "US7422224B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-13",
+        "publication_date": "2008-09-09",
+        "assignee_original": "Kimir Seatpost",
+        "title": "Adjustable bicycle seat post assembly",
+        "patent_id": "patent/US7422224B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7422224B2%2Fen"
+      },
+      {
+        "publication_number": "DE102004026903B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-01",
+        "publication_date": "2006-05-18",
+        "assignee_original": "Universit\u00e4t Regensburg",
+        "title": "Determination of lipoprotein classes in body fluids comprises analyzing NMR spectra of a plasma or serum sample and measuring under different measuring conditions; and determining the different effects of these measuring conditions",
+        "patent_id": "patent/DE102004026903B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102004026903B4%2Fen"
+      },
+      {
+        "publication_number": "US8751266B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-04",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and system for facilitating clinical decisions",
+        "patent_id": "patent/US8751266B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751266B2%2Fen"
+      },
+      {
+        "publication_number": "EP1929290A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-29",
+        "publication_date": "2008-12-31",
+        "assignee_original": "Berkeley Heartlab",
+        "title": "Method for quantitatively determining the ldl particle number in a distribution of ldl cholesterol subfractions",
+        "patent_id": "patent/EP1929290A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1929290A4%2Fen"
+      },
+      {
+        "publication_number": "US20100081941A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-22",
+        "publication_date": "2010-04-01",
+        "assignee_original": "Endothelix, Inc.",
+        "title": "Cardiovascular health station methods and apparatus",
+        "patent_id": "patent/US20100081941A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100081941A1%2Fen"
+      },
+      {
+        "publication_number": "US8498915B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-02",
+        "publication_date": "2013-07-30",
+        "assignee_original": "Asset Reliance, Inc.",
+        "title": "Data processing framework for financial services",
+        "patent_id": "patent/US8498915B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8498915B2%2Fen"
+      },
+      {
+        "publication_number": "WO2007133593A2",
+        "primary_language": "en",
+        "priority_date": "2006-05-10",
+        "publication_date": "2007-11-22",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "Methods, systems and computer programs for assessing chd risk using weighted hdl particle number measurements",
+        "patent_id": "patent/WO2007133593A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007133593A2%2Fen"
+      },
+      {
+        "publication_number": "US8849577B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-15",
+        "publication_date": "2014-09-30",
+        "assignee_original": "Metabolon, Inc.",
+        "title": "Methods of identifying biochemical pathways",
+        "patent_id": "patent/US8849577B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8849577B2%2Fen"
+      },
+      {
+        "publication_number": "US8247235B2",
+        "primary_language": "en",
+        "priority_date": "2007-06-08",
+        "publication_date": "2012-08-21",
+        "assignee_original": "Quest Diagnostics Investments Incorporated",
+        "title": "Lipoprotein analysis by differential charged-particle mobility",
+        "patent_id": "patent/US8247235B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8247235B2%2Fen"
+      },
+      {
+        "publication_number": "JP5025371B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-31",
+        "publication_date": "2012-09-12",
+        "assignee_original": "\u30b7\u30b9\u30e1\u30c3\u30af\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Blood analyzer",
+        "patent_id": "patent/JP5025371B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5025371B2%2Fen"
+      },
+      {
+        "publication_number": "CA2710248A1",
+        "primary_language": "en",
+        "priority_date": "2007-12-19",
+        "publication_date": "2009-07-09",
+        "assignee_original": "Eli Lilly And Company",
+        "title": "Methods, systems and computer program products for predicting responsiveness to a pharmaceutical therapy for obesity or evaluating investigational pharmaceutical agents",
+        "patent_id": "patent/CA2710248A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2710248A1%2Fen"
+      },
+      {
+        "publication_number": "US20090240524A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-21",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Computerized Screening, Inc.",
+        "title": "Community based managed health kiosk and remote diagnosis system",
+        "patent_id": "patent/US20090240524A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090240524A1%2Fen"
+      },
+      {
+        "publication_number": "US9354200B1",
+        "primary_language": "en",
+        "priority_date": "2008-08-07",
+        "publication_date": "2016-05-31",
+        "assignee_original": "Quest Diagnostics Investments Incorporated",
+        "title": "Detection apparatus for differential-charged particle mobility analyzer",
+        "patent_id": "patent/US9354200B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9354200B1%2Fen"
+      },
+      {
+        "publication_number": "EP2443458A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-17",
+        "publication_date": "2012-12-26",
+        "assignee_original": "Maine Standards Company Llc",
+        "title": "Method for measuring lipoprotein-specific apolipoproteins",
+        "patent_id": "patent/EP2443458A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2443458A4%2Fen"
+      },
+      {
+        "publication_number": "AT508113B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-07",
+        "publication_date": "2010-11-15",
+        "assignee_original": "Levett Rene Dr",
+        "title": "METHOD FOR ASSESSING THE HEALTH RISK OF A PROBAND",
+        "patent_id": "patent/AT508113B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAT508113B1%2Fen"
+      },
+      {
+        "publication_number": "US8560479B2",
+        "primary_language": "en",
+        "priority_date": "2009-11-23",
+        "publication_date": "2013-10-15",
+        "assignee_original": "Keas, Inc.",
+        "title": "Risk factor coaching engine that determines a user health score",
+        "patent_id": "patent/US8560479B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8560479B2%2Fen"
+      },
+      {
+        "publication_number": "US20110153347A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-23",
+        "publication_date": "2011-06-23",
+        "assignee_original": "Adam Bosworth",
+        "title": "Analysis of User Laboratory Test Results",
+        "patent_id": "patent/US20110153347A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110153347A1%2Fen"
+      },
+      {
+        "publication_number": "US10943676B2",
+        "primary_language": "en",
+        "priority_date": "2010-06-08",
+        "publication_date": "2021-03-09",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Healthcare information technology system for predicting or preventing readmissions",
+        "patent_id": "patent/US10943676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10943676B2%2Fen"
+      },
+      {
+        "publication_number": "US9250211B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-30",
+        "publication_date": "2016-02-02",
+        "assignee_original": "Quest Diagnostics Investments Incorporated",
+        "title": "Magnetic separation of lipoproteins using dextran sulfate",
+        "patent_id": "patent/US9250211B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9250211B2%2Fen"
+      },
+      {
+        "publication_number": "US10282703B1",
+        "primary_language": "en",
+        "priority_date": "2011-07-28",
+        "publication_date": "2019-05-07",
+        "assignee_original": "Intuit Inc.",
+        "title": "Enterprise risk management",
+        "patent_id": "patent/US10282703B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10282703B1%2Fen"
+      },
+      {
+        "publication_number": "US9483612B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-27",
+        "publication_date": "2016-11-01",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "CHD risk stratification evaluations for subjects with high levels of large HDL-P",
+        "patent_id": "patent/US9483612B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9483612B2%2Fen"
+      },
+      {
+        "publication_number": "US9470771B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-08",
+        "publication_date": "2016-10-18",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "NMR measurements of NMR biomarker GlycA",
+        "patent_id": "patent/US9470771B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9470771B2%2Fen"
+      },
+      {
+        "publication_number": "US9928345B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-08",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Liposciences, Inc.",
+        "title": "Multiple-marker risk parameters predictive of conversion to diabetes",
+        "patent_id": "patent/US9928345B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9928345B2%2Fen"
+      },
+      {
+        "publication_number": "US9361429B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-08",
+        "publication_date": "2016-06-07",
+        "assignee_original": "Liposcience, Inc.",
+        "title": "Multi-parameter diabetes risk evaluations",
+        "patent_id": "patent/US9361429B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9361429B2%2Fen"
+      },
+      {
+        "publication_number": "US20150260631A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-17",
+        "publication_date": "2015-09-17",
+        "assignee_original": "Health Diagnostic Laboratory, Inc.",
+        "title": "System and method for assessing quanitites or sizes of lipoprotein particles from lipoprotein particle compositions",
+        "patent_id": "patent/US20150260631A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150260631A1%2Fen"
+      },
+      {
+        "publication_number": "US20160327578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-07",
+        "publication_date": "2016-11-10",
+        "assignee_original": "Boston Heart Diagnostics Corporation",
+        "title": "Cholesterol efflux capacity assessment",
+        "patent_id": "patent/US20160327578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160327578A1%2Fen"
+      },
+      {
+        "publication_number": "US10602964B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-17",
+        "publication_date": "2020-03-31",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Location, activity, and health compliance monitoring using multidimensional context analysis",
+        "patent_id": "patent/US10602964B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10602964B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6576471B2",
+      "primary_language": "en",
+      "publication_date": "2003-06-10",
+      "title": "Methods, systems, and computer program products for analyzing and presenting NMR lipoprotein-based risk assessment results",
+      "patent_id": "patent/US6576471B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6576471B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6653140B2",
+      "primary_language": "en",
+      "publication_date": "2003-11-25",
+      "title": "Methods for providing personalized lipoprotein-based risk assessments",
+      "patent_id": "patent/US6653140B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6653140B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16153784044083992335",
+      "scholar_authors": "L\u00e9gar\u00e9 et al.",
+      "publication_date": "2018",
+      "title": "Interventions for increasing the use of shared decision making by healthcare professionals",
+      "patent_id": "scholar/16153784044083992335",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16153784044083992335"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2164538030929927150",
+      "scholar_authors": "McGlynn",
+      "publication_date": "1998",
+      "title": "Choosing and evaluating clinical performance measures",
+      "patent_id": "scholar/2164538030929927150",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2164538030929927150"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "664037321457086122",
+      "scholar_authors": "Roberts et al.",
+      "publication_date": "2006",
+      "title": "FEV1/FVC ratio of 70% misclassifies patients with obstruction at the extremes of age",
+      "patent_id": "scholar/664037321457086122",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F664037321457086122"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11100748635424868401",
+      "scholar_authors": "Gilbody et al.",
+      "publication_date": "2005",
+      "title": "Screening and case finding instruments for depression",
+      "patent_id": "scholar/11100748635424868401",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11100748635424868401"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3760745946435566317",
+      "scholar_authors": "Rikoon et al.",
+      "publication_date": "2006",
+      "title": "Predicting DSM-IV dependence diagnoses from Addiction Severity Index composite scores",
+      "patent_id": "scholar/3760745946435566317",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3760745946435566317"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3560030911702438609",
+      "scholar_authors": "Shaw et al.",
+      "publication_date": "1999",
+      "title": "Psychological impact of predicting individuals\u2019 risks of illness: a systematic review",
+      "patent_id": "scholar/3560030911702438609",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3560030911702438609"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11764229839580371411",
+      "scholar_authors": "Murff et al.",
+      "publication_date": "2007",
+      "title": "The comprehensiveness of family cancer history assessments in primary care",
+      "patent_id": "scholar/11764229839580371411",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11764229839580371411"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11988679B2",
+      "primary_language": "en",
+      "publication_date": "2024-05-21",
+      "title": "Cardiovascular risk evaluations using a risk parameter that includes an HDL and inflammatory biomarker interaction parameter",
+      "patent_id": "patent/US11988679B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11988679B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14204589021876094785",
+      "scholar_authors": "Baldwin et al.",
+      "publication_date": "2002",
+      "title": "Interpretation of occupational peak flow records: level of agreement between expert clinicians and Oasys-2",
+      "patent_id": "scholar/14204589021876094785",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14204589021876094785"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030167188A1",
+      "primary_language": "en",
+      "publication_date": "2003-09-04",
+      "title": "Method of supporting health checkup, an apparatus for implementing the same and a medium recording their processing programs",
+      "patent_id": "patent/US20030167188A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030167188A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18441070132229053133",
+      "scholar_authors": "Rao et al.",
+      "publication_date": "2005",
+      "title": "Assessing quality and efficiency of discharge summaries",
+      "patent_id": "scholar/18441070132229053133",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18441070132229053133"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13307178679859472241",
+      "scholar_authors": "Ehrmeyer et al.",
+      "publication_date": "2004",
+      "title": "Has compliance with CLIA requirements really improved quality in US clinical laboratories?",
+      "patent_id": "scholar/13307178679859472241",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13307178679859472241"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16654169528440215498",
+      "scholar_authors": "Unic et al.",
+      "publication_date": "1998",
+      "title": "Assessment of the Time-tradeoff Val ues for Prophylactic Mastectomy of Women with a Suspected Genetic Predisposition to Breast Cancer",
+      "patent_id": "scholar/16654169528440215498",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16654169528440215498"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200003752A1",
+      "primary_language": "en",
+      "publication_date": "2020-01-02",
+      "title": "CHD Risk Stratification Evaluations for Subjects With High Levels of Large HDL-P",
+      "patent_id": "patent/US20200003752A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200003752A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3061153974154937187",
+      "scholar_authors": "Greendyke",
+      "publication_date": "1992",
+      "title": "Cost analysis: bedside blood glucose testing",
+      "patent_id": "scholar/3061153974154937187",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3061153974154937187"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10077110840896126796",
+      "scholar_authors": "Lee et al.",
+      "publication_date": "2024",
+      "title": "Spirometric interpretation and clinical relevance according to different reference equations",
+      "patent_id": "scholar/10077110840896126796",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10077110840896126796"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7258120783750218696",
+      "scholar_authors": "Jackson et al.",
+      "publication_date": "2023",
+      "title": "Cognitive impairment in people with multiple sclerosis: Perception vs. performance\u2013factors that drive perception of impairment differ for patients and clinicians",
+      "patent_id": "scholar/7258120783750218696",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7258120783750218696"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "113371592482763851",
+      "scholar_authors": "Harris et al.",
+      "publication_date": "2020",
+      "title": "REPRINT of: Current methods of the US Preventive Services Task Force: A review of the process",
+      "patent_id": "scholar/113371592482763851",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F113371592482763851"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9365058169435415737",
+      "scholar_authors": "La Rue et al.",
+      "publication_date": "1993",
+      "title": "First symptoms of dementia: A study of relatives' reports",
+      "patent_id": "scholar/9365058169435415737",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9365058169435415737"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16650570529954948425",
+      "scholar_authors": "Pelletier et al.",
+      "publication_date": "2002",
+      "title": "The complexities of documenting clinical information in long-term care settings in Australia",
+      "patent_id": "scholar/16650570529954948425",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16650570529954948425"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18407286956919738433",
+      "scholar_authors": "GOLDSTEIN et al.",
+      "publication_date": "1975",
+      "title": "Data for Peer Review: Acquisition and Use: Results in the Experimental Medical Care Review Organization Program",
+      "patent_id": "scholar/18407286956919738433",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18407286956919738433"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8136096041630217714",
+      "scholar_authors": "Zunic et al.",
+      "publication_date": "2011",
+      "title": "Economic Analysis of Requests for Laboratory Tests in Primary Health Care Centers",
+      "patent_id": "scholar/8136096041630217714",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8136096041630217714"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2633946721386592390",
+      "scholar_authors": "Chang et al.",
+      "publication_date": "2012",
+      "title": "Machine learning amplifies the effect of parental family history of Alzheimer's disease on list learning strategy",
+      "patent_id": "scholar/2633946721386592390",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2633946721386592390"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2002-07-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "LIPOSCIENCE, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:LIPOMED, INC.;REEL/FRAME:013147/0510"
+        },
+        {
+          "label": "Effective date",
+          "value": "20020722"
+        }
+      ]
+    },
+    {
+      "date": "2003-05-21",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2004-04-13",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2006-12-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2013-01-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "LIPOSCIENCE, INC. (PREVIOUSLY LIPOMED, INC.), NORT"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:LIPOMED, INC.;REEL/FRAME:029698/0924"
+        },
+        {
+          "label": "Effective date",
+          "value": "20020124"
+        },
+        {
+          "label": "Owner name",
+          "value": "NORTH CAROLINA STATE UNIVERSITY, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OTVOS, JAMES D.;REEL/FRAME:029698/0920"
+        },
+        {
+          "label": "Effective date",
+          "value": "20001206"
+        },
+        {
+          "label": "Owner name",
+          "value": "LIPOSCIENCE, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OTVOS, JAMES D.;REEL/FRAME:029698/0920"
+        },
+        {
+          "label": "Effective date",
+          "value": "20001206"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "LABORATORY CORPORATION OF AMERICA HOLDINGS, NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LIPOSCIENCE, INC.;REEL/FRAME:070742/0835"
+        },
+        {
+          "label": "Effective date",
+          "value": "20241220"
+        }
+      ]
+    }
+  ]
+}

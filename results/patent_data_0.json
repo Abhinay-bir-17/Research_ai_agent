@@ -1,0 +1,3287 @@
+{
+  "search_metadata": {
+    "id": "68514f8022abf7469f4cf45a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e95e2b75088a6250/68514f8022abf7469f4cf45a.json",
+    "created_at": "2025-06-17 11:20:32 UTC",
+    "processed_at": "2025-06-17 11:20:32 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN111949131B/en",
+    "raw_html_file": "https://serpapi.com/searches/e95e2b75088a6250/68514f8022abf7469f4cf45a.html",
+    "total_time_taken": 0.77
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN111949131B/en"
+  },
+  "title": "Eye movement interaction method, system and equipment based on eye movement tracking technology",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/3a/ff/ff/07b95aba313266/CN111949131B.pdf",
+  "publication_number": "CN111949131B",
+  "country": "China",
+  "prior_art_keywords": [
+    "eye",
+    "eye movement",
+    "interaction",
+    "user",
+    "movement"
+  ],
+  "prior_art_date": "2020-08-17",
+  "application_number": "CN202010827022.0A",
+  "inventors": [
+    {
+      "name": "\u9648\u6d9b",
+      "link": "https://patents.google.com/?inventor=%E9%99%88%E6%B6%9B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%99%88%E6%B6%9B"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2020-08-17",
+  "filing_date": "2020-08-17",
+  "publication_date": "2023-04-25",
+  "worldwide_applications": {
+    "2020": [
+      {
+        "filing_date": "2020-08-17",
+        "country_code": "CN",
+        "application_number": "CN202010827022.0A",
+        "document_id": "patent/CN111949131B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-08-17",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2020-08-17",
+      "title": "Priority to CN202010827022.0A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN111949131B/en"
+    },
+    {
+      "date": "2020-11-17",
+      "title": "Publication of CN111949131A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN111949131A/en"
+    },
+    {
+      "date": "2023-04-25",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2023-04-25",
+      "title": "Publication of CN111949131B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN111949131B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2040-08-17",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=111949131B&KC=B&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/202010827022/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN111949131B"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/0f/f2/f9/4b92864b6707f1/HDA0002636589250000011.png",
+    "https://patentimages.storage.googleapis.com/54/c1/37/6b342919778dc6/HDA0002636589250000021.png",
+    "https://patentimages.storage.googleapis.com/dc/d7/26/6c1d603035e1e3/HDA0002636589250000031.png",
+    "https://patentimages.storage.googleapis.com/33/db/26/55d939e92cb732/HDA0002636589250000041.png",
+    "https://patentimages.storage.googleapis.com/d4/63/b6/8c7f0bbb758359/HDA0002636589250000051.png",
+    "https://patentimages.storage.googleapis.com/0b/75/ec/cdcea547175295/HDA0002636589250000052.png",
+    "https://patentimages.storage.googleapis.com/df/f1/32/9db85fcd089862/HDA0002636589250000061.png",
+    "https://patentimages.storage.googleapis.com/0f/55/52/5827de5c7edc48/HDA0002636589250000062.png",
+    "https://patentimages.storage.googleapis.com/a0/e3/86/5db80a703ab09b/HDA0002636589250000071.png",
+    "https://patentimages.storage.googleapis.com/f8/cd/88/de2706340cb8fb/HDA0002636589250000072.png",
+    "https://patentimages.storage.googleapis.com/a9/5c/d6/4d50d74c4239b0/HDA0002636589250000081.png",
+    "https://patentimages.storage.googleapis.com/d3/18/4e/ceed6788e4f02a/HDA0002636589250000082.png",
+    "https://patentimages.storage.googleapis.com/e2/05/50/fd0e47972c8b97/HDA0002636589250000091.png",
+    "https://patentimages.storage.googleapis.com/d6/8e/d3/84dca59e77e05c/HDA0002636589250000092.png",
+    "https://patentimages.storage.googleapis.com/97/0b/dd/3f99501969a55f/HDA0002636589250000101.png",
+    "https://patentimages.storage.googleapis.com/a2/4f/b5/476cb966d0b6df/HDA0002636589250000102.png",
+    "https://patentimages.storage.googleapis.com/81/1c/ab/7ec8a0908077bb/HDA0002636589250000111.png",
+    "https://patentimages.storage.googleapis.com/e1/29/29/f1646bf37c23f0/HDA0002636589250000112.png",
+    "https://patentimages.storage.googleapis.com/eb/74/e3/e4d8f2e6dd5f1e/HDA0002636589250000121.png",
+    "https://patentimages.storage.googleapis.com/41/10/bb/d9de947f320426/HDA0002636589250000122.png",
+    "https://patentimages.storage.googleapis.com/a0/60/6b/45a31c143b4d61/HDA0002636589250000131.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06F3/013",
+      "description": "Eye tracking input arrangements",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/014",
+      "description": "Hand-worn input/output arrangements, e.g. data gloves",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/017",
+      "description": "Gesture based interaction, e.g. based on a set of recognized hand gestures",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/0484",
+      "description": "Interaction techniques based on graphical user interfaces [GUI] for the control of specific functions or operations, e.g. selecting or manipulating an object, an image or a displayed text element, setting a parameter value or selecting a range",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/0487",
+      "description": "Interaction techniques based on graphical user interfaces [GUI] using specific features provided by the input device, e.g. functions controlled by the rotation of a mouse with dual sensing arrangements, or of the nature of the input device, e.g. tap gestures based on pressure sensed by a digitiser",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/16",
+      "description": "Sound input; Sound output",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N3/045",
+      "description": "Combinations of networks",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N3/049",
+      "description": "Temporal neural networks, e.g. delay elements, oscillating neurons or pulsed inputs",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N3/084",
+      "description": "Backpropagation, e.g. using gradient descent",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention belongs to the technical field of eye movement tracking, and discloses an eye movement interaction method, an eye movement interaction system and eye movement interaction equipment based on an eye movement tracking technology, wherein a sensing area is set for passively adsorbing a fixation cursor or the eye movement interaction intention is used for predicting the active adsorption fixation cursor to select a target; by setting corresponding sensing areas, namely effective clicking areas, for different targets, when a cursor contacts or covers the sensing area of a certain target, whether eye shake exists or not and whether the glancing distance exceeds a threshold value or not are detected at the same time, so that a target object is adsorbed or highlighted. The method also adopts a machine learning algorithm to train the eye movement behavior data of the user, filters, processes and analyzes the data, trains out the eye movement behavior rule, and obtains the subjective consciousness eye movement interaction intention model of the user. By the method, stability and accuracy in the eye movement interaction process are improved, and user experience of eye movement interaction is improved.",
+  "description_link": "https://serpapi.com/searches/68514f8022abf7469f4cf45a/google_patents_details/description.html",
+  "claims": [
+    "1. The eye movement interaction method based on the eye movement tracking technology is characterized in that a sensing area is set for passive fixation of a cursor or eye movement interaction intention prediction for active fixation of the cursor is adopted to select a target;\n      the method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the steps of setting corresponding sensing areas, namely effective clicking areas, for different targets, when the cursor contacts or covers the sensing area of a certain target, or/and simultaneously detecting whether the eye shake exists or not, and whether the glance distance exceeds the threshold eye movement behavior, if so, dynamically adsorbing the cursor on the target, and detecting the eyeball state of a user and the contact condition of the sensing areas, wherein the cursor is passively adsorbed on an interaction target;\n      the method for predicting the target selection by actively adsorbing and gazing the cursor through the eye movement interaction intention adopts an artificial intelligent machine learning algorithm to train the eye movement behavior data of the user, filters, processes and analyzes the data, trains out an eye movement behavior rule, obtains an eye movement interaction intention model of subjective consciousness of the user, predicts the eye movement landing point of the next step on the basis of the eye movement interaction intention model, and actively selects the adsorption target near the landing point by the system; \n      The method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the following steps:\n      step one, a display system presents a virtual interaction target;\n      capturing the position coordinates of the gaze point of the user by an eye movement tracking module of the device, wherein the gaze point is mapped in a screen or/and a three-dimensional space of the display device in a cursor mode;\n      step three, the equipment client detects whether the gaze point cursor position collides with the sensing area of the virtual interaction target in real time;\n      detecting that the gazing time of a user exceeds a certain threshold value, the glancing distance is within a preset threshold value range, repeated eye trembling is performed near the sensing area, and gazing point cloud, special sight line movement track eye behavior data or/and user emotion are formed by the equipment client side when the equipment client side collides with the sensing area;\n      step five, passively adsorbing the interactive cursor on the virtual target and selecting the interactive cursor according to the detection result of the step four, and/or displaying a highlighting effect;\n      and step six, after the eye movement cursor selects the target button according to the method, the feedback device of the MR glasses sends feedback information to the user, and click operation is carried out by other interaction modules or by directly detecting the action of eyes.",
+    "2. An eye movement interaction method based on an eye movement tracking technology as in claim 1, wherein in the second step, the eye movement tracking hardware technology method for capturing the eye gaze point coordinates and the line of sight movement track of the user and the related eyeball behavior data by the eye movement tracking module comprises: \n      (1) The eye movement tracking is performed by calculating the connecting line between the pupil center and the cornea center by receiving the eye reflected light rays through a plurality of invisible infrared light sources, a miniature camera, a reflecting heat mirror, an optical waveguide lens and other hardware;\n      (2) Capturing an eye image or calculating the image of retina or the intensity of the reflected light of retina by using an invisible infrared light source, a photosensitive sensor, a MEMS micro-mechanical system reflecting mirror and an optical waveguide lens for eye movement tracking;\n      (3) Modeling an eye by emitting structured light, and calculating a visual center of the eye model to track eye movements;\n      (4) The invisible infrared light source, the photosensitive sensor, the MEMS micro-mechanical system reflecting mirror and the optical waveguide lens are utilized to receive reflected light of the cornea of the eye, and the light with the maximum intensity reflected by the center of the cornea is calculated to track eye movement.",
+    "3. The eye movement interaction method based on the eye movement tracking technology as in claim 1, wherein in the second step, the eye movement data is a digital signal which is converted into real-time change by the movement data of the eyes of the user collected by the eye movement tracking module; the eye movement data comprises x, y, z coordinates of an eye gaze point, visual depth, frequency of eye jumps, distance of eye jumps, movement acceleration, eye tremors, gaze duration, blink, pupil diameter variation.",
+    "4. An eye-movement interaction method based on an eye-movement tracking technology as in claim 1, wherein in the second step, the mapping the gaze point to the display device screen or the physical/virtual three-dimensional space in the form of a cursor comprises:\n      mapping eye sight coordinates of a user into a mixed reality space of the MR glasses or/and an optical display coordinate system, and presenting the eye sight coordinates in a cursor form;\n      inputting stable real-time dynamic change eye movement data to the geometric center of a dynamic cursor, and mapping the stable real-time dynamic change eye movement data on an optical imaging screen of the equipment in real time to obtain a dynamic eye movement cursor with stable and smooth movement track;\n      the dynamic cursor is a macroscopic graph presented on the optical imaging screen; or invisible cursors; or a graphic that is visible when interacted and invisible when not interacted;\n      the eye-movement cursor may have a circular, rectangular, rounded rectangular, triangular, rounded triangular, and other polygonal/rounded polygonal shapes; the size of the eye movement cursor is determined according to the use habit of a user or the design and layout of an interactive interface.",
+    "5. The eye-movement interaction method based on the eye-movement tracking technology according to claim 1, wherein in the third step, the virtual interaction target comprises clickable interaction target images presented on an optical imaging screen of MR glasses, and all clickable buttons, UIs, pictures and text menus; or the actual object is identified by the image identification module.",
+    "6. The eye-movement interaction method based on the eye-movement tracking technology as claimed in claim 1, wherein in the third step, the method for detecting in real time whether the gaze point cursor position collides with the sensing area of the virtual target by the device client specifically comprises: the method comprises the steps that executable code program components for detecting contact conditions between an eye movement cursor and an interaction target and between the eye movement cursor and an induction zone are loaded by client software or internal system software when the client software or the internal system software runs; the web browser needs to install some plug-in for contact detection of the cursor with the interaction target, and the code program component can be configured by the client/system when developed, or can be realized by an API callable program interface.",
+    "7. The eye-movement interaction method based on the eye-movement tracking technology as in claim 1, wherein in the third step, the method for detecting the contact condition between the eye-movement cursor and the sensing area of each interaction target in real time comprises: the contact feedback of the eye movement cursor and any interaction target induction zone is realized through a software program, feedback information comprises start and stop time of contact of the cursor and the target induction zone, area of overlapping parts of the cursor and each target induction zone, and geometric center distance between the cursor and the interaction target, and the contact condition is detected through the feedback information.",
+    "8. The eye-movement interaction method based on the eye-movement tracking technology as in claim 6, wherein in the third step, the method for setting the interaction target setting induction area specifically comprises: automatically setting a sensing area plug-in, firstly detecting a code of an interaction instruction and/or a code of a defined UI layer in a programming interface, determining an interaction target of the UI interface, and then automatically adding an eye sensing area according to the geometric center coordinates, the size, the shape and the level of the UI layer after confirmation by a development engineer; the client software or internal system software loads executable code program components for setting induction areas for all clickable interaction targets at the time of starting/running, and the web browser may need to install some plug-in for induction area setting of the interaction targets;\n      the sensing area is an effective clicking area of an interactive target, is set by the plug-in according to a certain proportion of the size and the shape of the target or according to the distribution of the target and a Thiessen polygon algorithm, and is generally invisible and also comprises visible settings; the certain proportion takes any suitable proportion not less than 1 according to the size of the interaction target.",
+    "9. The eye-movement interaction method according to claim 1, wherein in the fourth step, the contact/collision condition includes: when collision occurs with the sensing area, the equipment client detects that the gazing time of the user exceeds a certain threshold value, and repeatedly shakes eyes to form gazing point cloud, glancing distance and special sight movement track eye behavior data; the eye behavior data refers to information in the eye movement process of a user, which is collected by the eye movement tracking module, the eye movement information is converted into a digital signal, and the digital signal is changed in real time, and the eye movement tracking module is configured to detect eye behavior data including but not limited to: the x, y, z coordinates of the eye gaze point, visual depth, frequency of eye jumps, eye jump distance, movement acceleration, eye tremors, gaze duration, blink, pupil diameter variation, and analyzing the eye movement data into a thermodynamic diagram, visual trace diagram analysis chart.",
+    "10. The eye-movement interaction method based on the eye-movement tracking technology as claimed in claim 9, wherein the gaze point cloud is specifically: the fixation point cloud is a cloud-shaped fixation range formed by a plurality of detected fixation positions, and appears as a single cursor or as a dynamic cursor; a shape that changes with changes in the detected plurality of gaze locations; the number of gaze points is any number and any sampling rate to collect a sequence of detected gaze locations, of any duration.",
+    "11. The eye-movement interaction method based on the eye-movement tracking technology as claimed in claim 1, wherein in the fifth step, the eye-movement cursor is passively adsorbed to an interaction target and selected to be selected as a calculation target of the next step in the program processing layer; when the fourth step judges that the user has the interaction intention on the interaction button, the eye movement cursor is separated from the original fixation point mapping relation and is actively adsorbed on the interaction target, the interaction button is selected, wherein the interaction target is a three-dimensional model and a plane image, and the eye movement cursor is adsorbed on the geometric center;\n      the system starts a highlighting effect by taking the gazing position at which the eye shake occurs as the center, wherein the highlighting effect is specifically a window with a spherical/hexagonal fish eye shape, and the content displayed in the window is an image of the current gazing position after a certain proportion of the current gazing position is amplified; the position of the highlight window cannot be changed along with the movement of the position of the fixation point, and a cursor for fixation interaction can more accurately select an amplified interaction target in the highlight window; \n      When the eye movement tracking device detects that the fixation point of the eye leaves the highlighting window, the eye movement tracking device of the MR glasses can close the highlighting window or stop the adsorption state by detecting that the distance between the first eye jump drop point position after the eye leaves the sensing area and the center point of the highlighting window exceeds a certain threshold value.",
+    "12. An eye movement interaction method based on an eye movement tracking technology as in claim 1, wherein in the sixth step, the clicking operation performed by other interaction modules or directly detecting the eye movement comprises:\n      1) Clicking operation is carried out through the mobile controller;\n      the movement controller includes: a multi-degree-of-freedom key controller, a fingertip controller, a ring controller and a bracelet controller;\n      2) Clicking operation is carried out through the gesture recognition module;\n      the gesture recognition module includes: gesture recognition cameras or structured light cameras;\n      the gesture recognition camera or the structured light camera captures action images of the hands of the user, and the specific gestures are compared and recognized through the computer to interact;\n      3) Clicking operation is carried out through the voice recognition module;\n      the voice recognition module comprises: a voiced speech recognition module includes a recording device, a voice filter, a speech recognition device, or a unvoiced speech recognition module includes a muscle electricity receiving and recognition device.",
+    "13. An eye-movement interaction method based on an eye-movement tracking technique according to claim 1, wherein the method for establishing clickable interaction targets for objects in the real physical world comprises:\n      acquiring a real environment picture in front of a user through an image recognition camera at the front end of the MR glasses, and converting video picture/image picture information into electric information;\n      preprocessing image information;\n      performing feature extraction and selection, inputting image convolutional neural network model training to obtain an image recognition model, and superposing virtual holographic interaction frames on edges of objects in the real physical world through an optical imaging screen of equipment after the image recognition model recognizes the objects;\n      the user interacts with the object by controlling an eye-movement cursor through eye-movement tracking.",
+    "14. The eye-movement interaction method based on the eye-movement tracking technology according to claim 1, wherein the eye-movement interaction method based on the eye-movement tracking technology comprises the following steps of:\n      the method comprises the steps that firstly, a display system presents a virtual interaction target and simultaneously obtains the position coordinates of the virtual interaction target; \n      Secondly, acquiring one or more groups of eye movement behavior data, head movement data, user attribute data, terminal local data and user emotion/mind state of a user from a database by a script, a plug-in unit or a script arranged in a system of the MR glasses or the vehicle-mounted display, and selecting at least one proper eye movement prediction model through the information;\n      step three, preprocessing the data, identifying corresponding behavior events and classifying, wherein the steps comprise identifying whether glancing and head swing behaviors occur, and if so, performing a step four;\n      inputting the eye movement data, the head movement data and the interaction target position coordinates of the user detected in real time into the eye movement interaction intention prediction model selected in the second step to perform matching calculation, so as to predict the interaction intention of the user on the target button and/or the eye movement landing point;\n      fifthly, actively adsorbing the interactive cursor on the virtual target and selecting the interactive cursor according to the prediction result of the fourth step, and/or displaying a highlighting effect;\n      sixthly, after the eye movement cursor selects the target button as in the method, the feedback device of the MR glasses or the vehicle-mounted display sends feedback information to the user, and clicking operation is carried out by other interaction modules or by directly detecting the action of eyes; \n      And seventh, recording the final selection result of the user, and feeding back real-time eye movement data to the eye movement interaction intention model to continue training.",
+    "15. The eye-movement interaction method based on the eye-movement tracking technology according to claim 14, wherein in the second step, a script, plug-in or a database provided in the MR glasses client, system collects one or more groups of eye-movement behavior data, head movement data, user attribute data, terminal local data, user emotion/mind state of the user, and selects at least one suitable eye-movement interaction intention prediction model through information;\n      collecting the information includes collecting gaze location information, collecting head location information, and collecting image data;\n      the head position tracking system includes position and motion sensors, accelerometer light sources and/or other devices for acquiring the position, orientation and motion of the MR glasses; receiving head position information from a head position tracking system; a head position tracking system that provides head position information to the eye movement interaction intent prediction model; forming an inertial measurement unit on the MR glasses; the head position information may help determine the head movement, rotation or direction of the user; \n      The eye movement interaction intention prediction model comprises a general eye movement prediction model, an individual eye movement prediction model and an application software eye movement prediction model;\n      the selection mechanism of the eye movement interaction intention prediction model is as follows:\n      if the terminal MR glasses are just activated and/or certain application software is installed for the first time and/or no account matched with the current user is retrieved in the network/local database and no UI interface information of the application software is retrieved in the database, only the universal eye movement prediction model is used;\n      if the system searches the account matched with the current user and searches the personal information of the user, the historical eye movement track and the eye movement habit data in the server database, a trained personal eye movement prediction model is used, and the universal eye movement prediction model is completely replaced by the personal eye movement prediction model; the personal eye movement prediction model is obtained by optimizing the general eye movement prediction model through data generated in the historical use process of the user, namely the personal eye movement prediction model is further trained and obtained on the basis of the general eye movement prediction model; wherein the personal user data includes the user's age, the user's gender, the learning, reading or/and cognition habits, the individual's glance speed, the user's current environment, the starting time at which the user's current eye movement occurs, and the characteristics of multiple dimensions over time; \n      If the system retrieves the current application software information and the application software UI interface information from the database, loading a trained application software eye movement prediction model of the software; the application software eye movement prediction model, the individual eye movement prediction model and the general eye movement prediction model are arbitrarily overlapped and used;\n      the eye movement interaction intention model comprises a general eye movement interaction intention model, a personal eye movement prediction model and an application software eye movement prediction model;\n      first, the general eye movement interaction intention model: obtaining eye behavior data samples of different users through thousands of different MR glasses terminal devices in a training way; the eye movement landing point is used for the next step of the user according to the eye movement interaction which occurs currently, and moves to an adsorption target near the landing point;\n      the training data comprise eyeball behavior data of interaction buttons with different ages, sexes, groups of different students and different functions or meanings; the eyeball behavior data includes: visual search trajectory, eye jump amplitude, eye movement speed, pupil diameter;\n      secondly, the personal eye movement prediction model: acquiring age, gender, academic, current environment, reading or/and cognition habit, starting time and time-dependent information data of current eye movement behavior of a user; uploading personal data of a user to a server for artificial intelligent operation, so as to obtain a personal eye movement prediction model aiming at the individual; \n      Finally, an eye movement prediction model is applied to the software: capturing local data of a webpage or terminal software and a history eye movement behavior, namely a cognitive track, in the using process of the webpage or terminal software through a built-in plug-in unit of an MR (magnetic resonance) eyeglass client, and sending the data to a cloud server for artificial intelligence AI training to obtain an application software eye movement prediction model;\n      the local data of the web page or the terminal software includes the position coordinates of the interactive UI button, the action of the interactive UI button, the software information, the terminal equipment information and the local network information.",
+    "16. An eye movement interaction method based on an eye movement tracking technique according to claim 14, wherein in the third step, the data is preprocessed, corresponding behavior events are identified and classified, including identifying whether saccadic behavior occurs, and if so, performing the fourth step;\n      after collecting the information, performing a pre-processing and event detection/classification therein, the event detection/classification including identifying different eye/head movement types, the pre-processing possibly including an initial processing of the received information to place the data in a better format for further analysis, performing data interpolation to fill any missing data points or to place samples at regular intervals if the sampling rate of the gaze tracking system or the head position tracking system is variable; filtering the data to smooth the data; obtaining a moving average of the data to help smooth the data; performing downsampling and/or upsampling; \n      In identifying whether glance activity is occurring to evaluate the data to determine whether glance is occurring;\n      the system also needs to identify the large-amplitude head-swing and glance behaviors of the user at the same time, and the user predicts the interaction intention of the user;\n      if no saccade is detected in the third step, recirculating to the second step and detecting new eye movement data;\n      if a glance is detected in the third step, determining other features using the preprocessed data from the third step; each feature is an independently measurable attribute or feature that is used by the machine learning predictive network.",
+    "17. The eye-movement interaction method based on the eye-movement tracking technology as claimed in claim 14, wherein in the fourth step, the eye-movement data, the head-movement data and the possible position coordinates of the interaction target detected in real time are input into the eye-movement interaction intention prediction model selected in the second step for matching calculation, so as to predict the interaction intention and/or the eye-movement landing point of the user on the target button at the next moment;\n      the target or the position of the landing point selected by the user at the next moment is obtained according to the prediction model, wherein the direction, the distance and the coordinates of the position of the predicted target are included;\n      the target eye movement landing point selected by the user next step refers to the position coordinates of the arrival of the target to be selected by the sight of the user after the next moment, and the eye movement landing point represents the interaction intention or the target position to be searched which the user wants to take place; \n      In the sixth step, the method for performing click operation by sending interactive feedback information after selecting the target and directly detecting eye actions through other interactive modules;\n      a seventh step of recording a final selection result of the user, and feeding back the eye movement history data to the eye movement interaction intention model to continue training under the condition of network permission; the final user selection result is: the eye movement and eye movement interaction intention model predicts the eye movement landing point interaction target position of the next step according to eye movement behavior data which has occurred by the user, and moves the eye movement cursor to the position of the predicted landing point or the final interaction result of the predicted result by the user after the eye movement cursor adsorbs the target near the landing point; the result has two conditions, one is that the prediction is correct, and the user performs interactive operation on the predicted interactive target; the other is prediction error, and the user does not conduct interactive operation on the predicted interactive target; and if the final selected result of the user is different from the predicted result of the eye movement and eye movement interaction intention model, the system feeds back the result to the prediction model to continue training and optimize model parameters.",
+    "18. A computer device comprising a memory and a processor, the memory storing a computer program which, when executed by the processor, causes the processor to perform the steps of: \n      The method comprises the steps that a passive adsorption fixation cursor or eye movement interaction intention of a set induction area is adopted to predict an active adsorption fixation cursor to select a target;\n      the method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the steps of setting corresponding sensing areas, namely effective clicking areas, for different targets, when the cursor contacts or covers the sensing area of a certain target, or/and detecting whether the saccade distance exceeds a threshold eye movement behavior, if so, dynamically adsorbing the cursor on the target or highlighting the target image, and detecting the eyeball state of a user and the contact condition of the sensing areas, wherein the cursor is passively adsorbed on an interaction target;\n      the method for predicting the target selection by actively adsorbing and gazing the cursor through the eye movement interaction intention adopts an artificial intelligent machine learning algorithm to train the eye movement behavior data of the user, filters, processes and analyzes the data, trains out an eye movement behavior rule, obtains an eye movement interaction intention model of subjective consciousness of the user, predicts the eye movement landing point of the next step on the basis of the eye movement interaction intention model, and actively selects the adsorption target near the landing point by the system; \n      The method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the following steps:\n      step one, a display system presents a virtual interaction target;\n      capturing the position coordinates of the gaze point of the user by an eye movement tracking module of the device, wherein the gaze point is mapped in a screen or/and a three-dimensional space of the display device in a cursor mode;\n      step three, the equipment client detects whether the gaze point cursor position collides with the sensing area of the virtual interaction target in real time;\n      detecting that the gazing time of a user exceeds a certain threshold value, the glancing distance is within a preset threshold value range, repeated eye trembling is performed near the sensing area, and gazing point cloud, special sight line movement track eye behavior data or/and user emotion are formed by the equipment client side when the equipment client side collides with the sensing area;\n      step five, passively adsorbing the interactive cursor on the virtual target and selecting the interactive cursor according to the detection result of the step four, and/or displaying a highlighting effect;\n      and step six, after the eye movement cursor selects the target button according to the method, the feedback device of the MR glasses sends feedback information to the user, and click operation is carried out by other interaction modules or by directly detecting the action of eyes.",
+    "19. A computer readable storage medium storing a computer program which, when executed by a processor, causes the processor to perform the steps of: \n      The method comprises the steps that a passive adsorption fixation cursor or eye movement interaction intention of a set induction area is adopted to predict an active adsorption fixation cursor to select a target;\n      the method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the steps of setting corresponding sensing areas, namely effective clicking areas, for different targets, when the cursor contacts or covers the sensing area of a certain target, or/and simultaneously detecting whether the eye shake exists or not, and whether the glance distance exceeds the threshold eye movement behavior, if so, dynamically adsorbing the cursor on the target, and detecting the eyeball state of a user and the contact condition of the sensing areas, wherein the cursor is passively adsorbed on an interaction target;\n      the method for predicting the target selection by actively adsorbing and gazing the cursor through the eye movement interaction intention adopts an artificial intelligent machine learning algorithm to train the eye movement behavior data of the user, filters, processes and analyzes the data, trains out an eye movement behavior rule, obtains an eye movement interaction intention model of subjective consciousness of the user, predicts the eye movement landing point of the next step on the basis of the eye movement interaction intention model, and actively selects the adsorption target near the landing point by the system;\n      the method for setting the sensing area to passively adsorb and watch the cursor to select the target comprises the following steps: \n      Step one, a display system presents a virtual interaction target;\n      capturing the position coordinates of the gaze point of the user by an eye movement tracking module of the device, wherein the gaze point is mapped in a screen or/and a three-dimensional space of the display device in a cursor mode;\n      step three, the equipment client detects whether the gaze point cursor position collides with the sensing area of the virtual interaction target in real time;\n      detecting that the gazing time of a user exceeds a certain threshold value, the glancing distance is within a preset threshold value range, repeated eye trembling is performed near the sensing area, and gazing point cloud, special sight line movement track eye behavior data or/and user emotion are formed by the equipment client side when the equipment client side collides with the sensing area;\n      step five, passively adsorbing the interactive cursor on the virtual target and selecting the interactive cursor according to the detection result of the step four, and/or displaying a highlighting effect;\n      and step six, after the eye movement cursor selects the target button according to the method, the feedback device of the MR glasses sends feedback information to the user, and click operation is carried out by other interaction modules or by directly detecting the action of eyes.",
+    "20. An eye-movement interaction system based on an eye-movement tracking technique for implementing the eye-movement interaction method based on an eye-movement tracking technique according to any one of claims 1 to 17, characterized in that the eye-movement interaction system based on an eye-movement tracking technique comprises: \n      MR glasses, display devices, device frames, and microcomputer systems;\n      the MR glasses comprise MR glasses, AR glasses or XR glasses, and are intelligent near-to-eye imaging display equipment based on augmented reality AR, virtual reality VR and mixed reality MR technology;\n      the display device is partially transparent or fully transparent; for viewing physical real world objects in a physical environment through one or more partially transparent pixels displaying a virtual target;\n      the sensor is arranged in the equipment frame; the equipment frame comprises an image processing unit GPU, a 5G network communication module, a front camera, an inertial measurement unit IMU and an eye movement tracking system; an add-on component for supporting MR glasses;\n      the microcomputer system includes a logic and configured associated computer memory; for receiving sensory signals from the IMU and other sensors and providing display signals to the display device, deriving information from the collected data.",
+    "21. MR glasses implementing the eye-movement interaction method based on the eye-movement tracking technology according to any one of claims 1-17, wherein the eye-movement tracking module of the MR glasses captures the coordinates of the point of gaze of the user and interacts through the eye gaze."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202010827022.0A",
+      "representative_publication": "CN111949131B",
+      "primary_language": "en",
+      "priority_date": "2020-08-17",
+      "filing_date": "2020-08-17",
+      "title": "Eye movement interaction method, system and equipment based on eye movement tracking technology"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN202010827022.0A",
+      "representative_publication": "CN111949131B",
+      "primary_language": "en",
+      "priority_date": "2020-08-17",
+      "filing_date": "2020-08-17",
+      "title": "Eye movement interaction method, system and equipment based on eye movement tracking technology"
+    }
+  ],
+  "family_id": "73343199",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN109597489A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-27",
+        "publication_date": "2019-04-09",
+        "assignee_original": "\u6b66\u6c49\u5e02\u5929\u874e\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of method and system of the eye movement tracking interaction of near-eye display device",
+        "patent_id": "patent/CN109597489A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109597489A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US10127680B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-28",
+        "publication_date": "2018-11-13",
+        "assignee_original": "Google Llc",
+        "title": "Eye gaze tracking using neural networks",
+        "patent_id": "patent/US10127680B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10127680B2%2Fen"
+      },
+      {
+        "publication_number": "US10942564B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-17",
+        "publication_date": "2021-03-09",
+        "assignee_original": "Sony Interactive Entertainment Inc.",
+        "title": "Dynamic graphics rendering based on predicted saccade landing point",
+        "patent_id": "patent/US10942564B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10942564B2%2Fen"
+      },
+      {
+        "publication_number": "CN109144262B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-28",
+        "publication_date": "2021-11-26",
+        "assignee_original": "\u5e7f\u4e1c\u5de5\u4e1a\u5927\u5b66",
+        "title": "Human-computer interaction method, device, equipment and storage medium based on eye movement",
+        "patent_id": "patent/CN109144262B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109144262B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US12204689B2",
+        "primary_language": "en",
+        "priority_date": "2022-09-27",
+        "publication_date": "2025-01-21",
+        "assignee_original": "Tobii Dynavox Ab",
+        "title": "Method, system, and computer program product for drawing and fine-tuned motor controls",
+        "patent_id": "patent/US12204689B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12204689B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102021100645B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-14",
+        "publication_date": "2024-12-19",
+        "assignee_original": "Schwind Eye-Tech-Solutions Gmbh",
+        "title": "Method for predicting a future position of a target point of an eye to compensate for a latency of an image evaluation; control device and treatment device",
+        "patent_id": "patent/DE102021100645B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102021100645B4%2Fen"
+      },
+      {
+        "publication_number": "CN115423468A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-06",
+        "publication_date": "2022-12-02",
+        "assignee_original": "\u5b59\u4f1f\u5609",
+        "title": "Public transportation operation management system based on smart city",
+        "patent_id": "patent/CN115423468A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115423468A%2Fen"
+      },
+      {
+        "publication_number": "TR202105355A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-24",
+        "publication_date": "2021-07-26",
+        "assignee_original": "Tarik Oezkul",
+        "title": "AI-BASED NISTAGUS IDENTIFICATION SYSTEM WITH DIAGNOSTIC SUPPORT MECHANISM",
+        "patent_id": "patent/TR202105355A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTR202105355A2%2Fen"
+      },
+      {
+        "publication_number": "CN113192600A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-06",
+        "publication_date": "2021-07-30",
+        "assignee_original": "\u56db\u5ddd\u5927\u5b66\u534e\u897f\u533b\u9662",
+        "title": "Cognitive assessment and correction training system based on virtual reality and eye movement tracking",
+        "patent_id": "patent/CN113192600A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113192600A%2Fen"
+      },
+      {
+        "publication_number": "EP4295213A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-21",
+        "publication_date": "2023-12-27",
+        "assignee_original": "Google LLC",
+        "title": "Implicit calibration from screen content for gaze tracking",
+        "patent_id": "patent/EP4295213A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4295213A1%2Fen"
+      },
+      {
+        "publication_number": "US20220343189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-22",
+        "publication_date": "2022-10-27",
+        "assignee_original": "Adobe Inc.",
+        "title": "Machine-learning techniques applied to interaction data for determining sequential content and facilitating interactions in online environments",
+        "patent_id": "patent/US20220343189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220343189A1%2Fen"
+      },
+      {
+        "publication_number": "CN113326733B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-26",
+        "publication_date": "2022-07-08",
+        "assignee_original": "\u5409\u6797\u5927\u5b66",
+        "title": "A method and system for constructing an eye-tracking data classification model",
+        "patent_id": "patent/CN113326733B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113326733B%2Fen"
+      },
+      {
+        "publication_number": "CN113095297B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-11",
+        "publication_date": "2022-07-15",
+        "assignee_original": "\u6606\u660e\u7406\u5de5\u5927\u5b66",
+        "title": "Fatigue detection method based on one-dimensional projection tracking eye movement rate",
+        "patent_id": "patent/CN113095297B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113095297B%2Fen"
+      },
+      {
+        "publication_number": "ES2928611B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-18",
+        "publication_date": "2023-07-20",
+        "assignee_original": "Univ Leon",
+        "title": "METHOD AND AUTOMATED SYSTEM FOR GENERATION OF A DIGITAL SIGNATURE FOR VERIFICATION OF A FACE",
+        "patent_id": "patent/ES2928611B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2928611B2%2Fen"
+      },
+      {
+        "publication_number": "CN113327663B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-19",
+        "publication_date": "2023-03-31",
+        "assignee_original": "\u90d1\u5dde\u5927\u5b66",
+        "title": "Mobile terminal assisted stroke interactive exercise control system",
+        "patent_id": "patent/CN113327663B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113327663B%2Fen"
+      },
+      {
+        "publication_number": "CN113283354B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-31",
+        "publication_date": "2023-08-18",
+        "assignee_original": "\u4e2d\u56fd\u822a\u5929\u79d1\u5de5\u96c6\u56e2\u7b2c\u4e8c\u7814\u7a76\u9662",
+        "title": "Method, system and storage medium for analyzing eye movement signal behavior",
+        "patent_id": "patent/CN113283354B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113283354B%2Fen"
+      },
+      {
+        "publication_number": "CN113391699B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-10",
+        "publication_date": "2022-06-21",
+        "assignee_original": "\u6606\u660e\u7406\u5de5\u5927\u5b66",
+        "title": "An eye gesture interaction model method based on dynamic eye movement indicators",
+        "patent_id": "patent/CN113391699B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113391699B%2Fen"
+      },
+      {
+        "publication_number": "CN113325956A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-29",
+        "publication_date": "2021-08-31",
+        "assignee_original": "\u534e\u5357\u7406\u5de5\u5927\u5b66",
+        "title": "Eye movement control system based on neural network and implementation method",
+        "patent_id": "patent/CN113325956A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113325956A%2Fen"
+      },
+      {
+        "publication_number": "CN113361696B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-30",
+        "publication_date": "2024-02-27",
+        "assignee_original": "\u4e2d\u56fd\u519c\u4e1a\u94f6\u884c\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Page reading identification method and device",
+        "patent_id": "patent/CN113361696B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113361696B%2Fen"
+      },
+      {
+        "publication_number": "CN113469056B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-02",
+        "publication_date": "2024-11-26",
+        "assignee_original": "\u4e0a\u6d77\u5546\u6c64\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Behavior recognition method, device, electronic device and computer-readable storage medium",
+        "patent_id": "patent/CN113469056B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113469056B%2Fen"
+      },
+      {
+        "publication_number": "CN113269160B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-15",
+        "publication_date": "2021-10-12",
+        "assignee_original": "\u5317\u4eac\u79d1\u6280\u5927\u5b66",
+        "title": "Colonoscope operation predicament intelligent identification system based on eye movement characteristics",
+        "patent_id": "patent/CN113269160B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113269160B%2Fen"
+      },
+      {
+        "publication_number": "CN113627312B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-04",
+        "publication_date": "2025-01-10",
+        "assignee_original": "\u4e1c\u5357\u5927\u5b66",
+        "title": "A system that uses eye tracking to assist paralyzed aphasics in language output",
+        "patent_id": "patent/CN113627312B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113627312B%2Fen"
+      },
+      {
+        "publication_number": "CN113655883B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-17",
+        "publication_date": "2022-10-14",
+        "assignee_original": "\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u519b\u4e8b\u79d1\u5b66\u9662\u6218\u4e89\u7814\u7a76\u9662",
+        "title": "Human-computer interface eye movement interaction mode ergonomics experimental analysis system and method",
+        "patent_id": "patent/CN113655883B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113655883B%2Fen"
+      },
+      {
+        "publication_number": "CN113655927B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-24",
+        "publication_date": "2024-04-26",
+        "assignee_original": "\u4eae\u98ce\u53f0\uff08\u4e0a\u6d77\uff09\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Interface interaction method and device",
+        "patent_id": "patent/CN113655927B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113655927B%2Fen"
+      },
+      {
+        "publication_number": "CN113689138B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-06",
+        "publication_date": "2024-04-26",
+        "assignee_original": "\u5317\u4eac\u90ae\u7535\u5927\u5b66",
+        "title": "Phishing susceptibility prediction method based on eye movement tracking and social work factors",
+        "patent_id": "patent/CN113689138B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113689138B%2Fen"
+      },
+      {
+        "publication_number": "CN113780414B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-10",
+        "publication_date": "2024-08-23",
+        "assignee_original": "\u4eac\u4e1c\u65b9\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Eye movement behavior analysis method, image rendering method, component, device and medium",
+        "patent_id": "patent/CN113780414B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113780414B%2Fen"
+      },
+      {
+        "publication_number": "CN113805334B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-18",
+        "publication_date": "2025-01-21",
+        "assignee_original": "\u4eac\u4e1c\u65b9\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Eye tracking system, control method, and display panel",
+        "patent_id": "patent/CN113805334B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113805334B%2Fen"
+      },
+      {
+        "publication_number": "CN114115532B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-11",
+        "publication_date": "2023-09-29",
+        "assignee_original": "\u73ca\u745a\u77f3(\u4e0a\u6d77)\u89c6\u8baf\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "AR labeling method and system based on display content",
+        "patent_id": "patent/CN114115532B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114115532B%2Fen"
+      },
+      {
+        "publication_number": "CN114036623B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-19",
+        "publication_date": "2024-05-28",
+        "assignee_original": "\u6e05\u534e\u5927\u5b66",
+        "title": "Graphic design method based on artificial factor data of built-up space",
+        "patent_id": "patent/CN114036623B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114036623B%2Fen"
+      },
+      {
+        "publication_number": "CN114187866B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-26",
+        "publication_date": "2023-11-14",
+        "assignee_original": "\u6c5f\u95e8\u5e02\u6d69\u8fdc\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Deep learning-based mini-led display control method and device",
+        "patent_id": "patent/CN114187866B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114187866B%2Fen"
+      },
+      {
+        "publication_number": "CN114285751B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-07",
+        "publication_date": "2023-01-20",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u8ba1\u7b97\u6280\u672f\u7814\u7a76\u6240",
+        "title": "A traffic engineering method and system",
+        "patent_id": "patent/CN114285751B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114285751B%2Fen"
+      },
+      {
+        "publication_number": "CN116338941A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2023-06-27",
+        "assignee_original": "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Eye tracking device, display apparatus, and storage medium",
+        "patent_id": "patent/CN116338941A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116338941A%2Fen"
+      },
+      {
+        "publication_number": "SE545378C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-30",
+        "publication_date": "2023-07-25",
+        "assignee_original": "Tobii Ab",
+        "title": "Method and system for determining a current gaze direction",
+        "patent_id": "patent/SE545378C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE545378C2%2Fen"
+      },
+      {
+        "publication_number": "CN114356482B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-30",
+        "publication_date": "2023-12-12",
+        "assignee_original": "\u4e1a\u6210\u79d1\u6280\uff08\u6210\u90fd\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Method for interaction with human-computer interface by using line-of-sight drop point",
+        "patent_id": "patent/CN114356482B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114356482B%2Fen"
+      },
+      {
+        "publication_number": "CN114373003B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-12",
+        "publication_date": "2024-08-23",
+        "assignee_original": "\u82cf\u5dde\u5bfb\u662f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Binocular vision-based passive infrared marking surgical instrument registration method",
+        "patent_id": "patent/CN114373003B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114373003B%2Fen"
+      },
+      {
+        "publication_number": "CN116483191A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-13",
+        "publication_date": "2023-07-25",
+        "assignee_original": "\u5317\u4eac\u4e03\u946b\u6613\u7ef4\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Vehicle-mounted eye movement interaction system and method",
+        "patent_id": "patent/CN116483191A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116483191A%2Fen"
+      },
+      {
+        "publication_number": "CN114468977B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-21",
+        "publication_date": "2023-03-28",
+        "assignee_original": "\u6df1\u5733\u5e02\u773c\u79d1\u533b\u9662",
+        "title": "Ophthalmologic vision examination data collection and analysis method, system and computer storage medium",
+        "patent_id": "patent/CN114468977B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114468977B%2Fen"
+      },
+      {
+        "publication_number": "CN114578966B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-07",
+        "publication_date": "2024-02-06",
+        "assignee_original": "\u5317\u4eac\u767e\u5ea6\u7f51\u8baf\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Interaction method, interaction device, head-mounted display device, electronic device and medium",
+        "patent_id": "patent/CN114578966B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114578966B%2Fen"
+      },
+      {
+        "publication_number": "US11726340B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-28",
+        "publication_date": "2023-08-15",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Systems and methods for transforming video data in an indirect vision system",
+        "patent_id": "patent/US11726340B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11726340B1%2Fen"
+      },
+      {
+        "publication_number": "CN114995412B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-27",
+        "publication_date": "2025-02-25",
+        "assignee_original": "\u4e1c\u5357\u5927\u5b66",
+        "title": "A remote control car control system and method based on eye tracking technology",
+        "patent_id": "patent/CN114995412B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114995412B%2Fen"
+      },
+      {
+        "publication_number": "CN114972599A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-31",
+        "publication_date": "2022-08-30",
+        "assignee_original": "\u4eac\u4e1c\u65b9\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A way to virtualize a scene",
+        "patent_id": "patent/CN114972599A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114972599A%2Fen"
+      },
+      {
+        "publication_number": "US12254717B2",
+        "primary_language": "en",
+        "priority_date": "2022-06-23",
+        "publication_date": "2025-03-18",
+        "assignee_original": "Universal City Studios Llc",
+        "title": "Interactive imagery systems and methods",
+        "patent_id": "patent/US12254717B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12254717B2%2Fen"
+      },
+      {
+        "publication_number": "CN119403602A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-23",
+        "publication_date": "2025-02-07",
+        "assignee_original": "\u73af\u7403\u57ce\u5e02\u7535\u5f71\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Interactive imaging system and method",
+        "patent_id": "patent/CN119403602A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119403602A%2Fen"
+      },
+      {
+        "publication_number": "CN119452331A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-28",
+        "publication_date": "2025-02-14",
+        "assignee_original": "\u82f9\u679c\u516c\u53f8",
+        "title": "Gaze behavior detection",
+        "patent_id": "patent/CN119452331A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119452331A%2Fen"
+      },
+      {
+        "publication_number": "CN115509345B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-22",
+        "publication_date": "2023-08-18",
+        "assignee_original": "\u5317\u4eac\u5fae\u89c6\u5a01\u4fe1\u606f\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Virtual reality scene display processing method and virtual reality device",
+        "patent_id": "patent/CN115509345B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115509345B%2Fen"
+      },
+      {
+        "publication_number": "CN115494944A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-27",
+        "publication_date": "2022-12-20",
+        "assignee_original": "\u5bcc\u6cf0\u534e\u5de5\u4e1a\uff08\u6df1\u5733\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Distance measuring device, method, apparatus and storage medium",
+        "patent_id": "patent/CN115494944A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115494944A%2Fen"
+      },
+      {
+        "publication_number": "WO2024069473A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-27",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Tobii Dynavox Ab",
+        "title": "Method, system, and computer program product for drawing and fine-tuned motor controls",
+        "patent_id": "patent/WO2024069473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024069473A1%2Fen"
+      },
+      {
+        "publication_number": "CN115562490B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-12",
+        "publication_date": "2024-01-09",
+        "assignee_original": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66\u592a\u4ed3\u957f\u4e09\u89d2\u7814\u7a76\u9662",
+        "title": "Deep learning-based aircraft cockpit cross-screen-eye movement interaction method and system",
+        "patent_id": "patent/CN115562490B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115562490B%2Fen"
+      },
+      {
+        "publication_number": "TWI836680B",
+        "primary_language": "en",
+        "priority_date": "2022-10-26",
+        "publication_date": "2024-03-21",
+        "assignee_original": "\u5e7b\u666f\u555f\u52d5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "System for interactive simulation with three-dimensional images and method for operating the same",
+        "patent_id": "patent/TWI836680B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI836680B%2Fen"
+      },
+      {
+        "publication_number": "WO2024113312A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-01",
+        "publication_date": "2024-06-06",
+        "assignee_original": "The Regents Of The University Of Michigan",
+        "title": "Identifying causal attention of subject based on gaze and visual content analysis",
+        "patent_id": "patent/WO2024113312A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024113312A1%2Fen"
+      },
+      {
+        "publication_number": "CN116594496A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-29",
+        "publication_date": "2023-08-15",
+        "assignee_original": "\u5317\u4eac\u6d25\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Eye movement data visualization method, device and storage medium based on gaze track",
+        "patent_id": "patent/CN116594496A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116594496A%2Fen"
+      },
+      {
+        "publication_number": "CN116212371A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-01-03",
+        "publication_date": "2023-06-06",
+        "assignee_original": "\u4e2d\u56fd\u7b2c\u4e00\u6c7d\u8f66\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "An ARHUD-based vehicle game system, method, ARHUD and medium",
+        "patent_id": "patent/CN116212371A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116212371A%2Fen"
+      },
+      {
+        "publication_number": "CN116301357A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-28",
+        "publication_date": "2023-06-23",
+        "assignee_original": "\u7ef4\u6c83\u79fb\u52a8\u901a\u4fe1\u6709\u9650\u516c\u53f8",
+        "title": "Display method and device and wearable equipment",
+        "patent_id": "patent/CN116301357A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116301357A%2Fen"
+      },
+      {
+        "publication_number": "CN116228748B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-04",
+        "publication_date": "2023-07-14",
+        "assignee_original": "\u5929\u6d25\u5fd7\u542c\u533b\u7597\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A method and system for analyzing balance function based on eye tracking",
+        "patent_id": "patent/CN116228748B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116228748B%2Fen"
+      },
+      {
+        "publication_number": "CN116594510B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-15",
+        "publication_date": "2024-04-16",
+        "assignee_original": "\u6df1\u5733\u84dd\u666e\u89c6\u8baf\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Interaction method and intelligent interaction system based on big data and big screen",
+        "patent_id": "patent/CN116594510B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116594510B%2Fen"
+      },
+      {
+        "publication_number": "CN117632330B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-12",
+        "publication_date": "2024-07-16",
+        "assignee_original": "\u6d59\u6c5f\u5927\u5b66",
+        "title": "A method and system for interactive target layout of eye-controlled interface in virtual environment",
+        "patent_id": "patent/CN117632330B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117632330B%2Fen"
+      },
+      {
+        "publication_number": "CN117237786B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-14",
+        "publication_date": "2024-01-30",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u7a7a\u5929\u4fe1\u606f\u521b\u65b0\u7814\u7a76\u9662",
+        "title": "Evaluation data acquisition methods, devices, systems, electronic equipment and storage media",
+        "patent_id": "patent/CN117237786B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117237786B%2Fen"
+      },
+      {
+        "publication_number": "TWI857883B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-13",
+        "publication_date": "2024-10-01",
+        "assignee_original": "\u5b8f\u7881\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electronic device with dynamic lighting effect and method for generating dynamic lighting effect",
+        "patent_id": "patent/TWI857883B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI857883B%2Fen"
+      },
+      {
+        "publication_number": "CN118865384B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-07-01",
+        "publication_date": "2025-02-18",
+        "assignee_original": "\u91cd\u5e86\u83f2\u5229\u4fe1\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Quick labeling method and device for automatic driving scene pictures",
+        "patent_id": "patent/CN118865384B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118865384B%2Fen"
+      },
+      {
+        "publication_number": "CN118942696B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-07-19",
+        "publication_date": "2025-04-11",
+        "assignee_original": "\u6df1\u5733\u5e02\u534e\u5f18\u667a\u8c37\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Multimodal recognition device for health screening based on eye imaging and eye tracking",
+        "patent_id": "patent/CN118942696B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118942696B%2Fen"
+      },
+      {
+        "publication_number": "CN119541827A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-11-01",
+        "publication_date": "2025-02-28",
+        "assignee_original": "\u9752\u5c9b\u9e4f\u950b\u8bda\u533b\u7597\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Eye movement data processing method and system for autism spectrum disorder detection",
+        "patent_id": "patent/CN119541827A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119541827A%2Fen"
+      },
+      {
+        "publication_number": "CN119165967A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-11-20",
+        "publication_date": "2024-12-20",
+        "assignee_original": "\u4e2d\u56fd\u4eba\u6c11\u89e3\u653e\u519b\u6d77\u519b\u822a\u7a7a\u5927\u5b66",
+        "title": "A human-computer interaction system and method based on eye tracking",
+        "patent_id": "patent/CN119165967A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119165967A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN111949131B",
+      "primary_language": "en",
+      "publication_date": "2023-04-25",
+      "title": "Eye movement interaction method, system and equipment based on eye movement tracking technology",
+      "patent_id": "patent/CN111949131B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111949131B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112507799B",
+      "primary_language": "en",
+      "publication_date": "2023-11-24",
+      "title": "Image recognition method based on eye movement fixation point guidance, MR glasses and medium",
+      "patent_id": "patent/CN112507799B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112507799B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2021202479B2",
+      "primary_language": "en",
+      "publication_date": "2022-06-09",
+      "title": "Head mounted display system configured to exchange biometric information",
+      "patent_id": "patent/AU2021202479B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2021202479B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10890968B2",
+      "primary_language": "en",
+      "publication_date": "2021-01-12",
+      "title": "Electronic device with foveated display and gaze prediction",
+      "patent_id": "patent/US10890968B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10890968B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111897435B",
+      "primary_language": "en",
+      "publication_date": "2022-08-02",
+      "title": "Man-machine identification method, identification system, MR intelligent glasses and application",
+      "patent_id": "patent/CN111897435B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111897435B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220164035A1",
+      "primary_language": "en",
+      "publication_date": "2022-05-26",
+      "title": "Systems and methods for triggering actions based on touch-free gesture detection",
+      "patent_id": "patent/US20220164035A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220164035A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102230172B1",
+      "primary_language": "en",
+      "publication_date": "2021-03-19",
+      "title": "Systems and methods for biomechanically-based eye signals for interacting with real and virtual objects",
+      "patent_id": "patent/KR102230172B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102230172B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111966223B",
+      "primary_language": "en",
+      "publication_date": "2022-06-28",
+      "title": "Method, system, device and storage medium for human-machine identification of non-perception MR glasses",
+      "patent_id": "patent/CN111966223B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111966223B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114546102A",
+      "primary_language": "en",
+      "publication_date": "2022-05-27",
+      "title": "Eye tracking sliding input method and system, intelligent terminal and eye tracking device",
+      "patent_id": "patent/CN114546102A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114546102A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5676980490466235464",
+      "scholar_authors": "Lei et al.",
+      "publication_date": "2023",
+      "title": "An end-to-end review of gaze estimation and its interactive applications on handheld mobile devices",
+      "patent_id": "scholar/5676980490466235464",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5676980490466235464"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-11-17",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2020-11-17",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2020-12-04",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2020-12-04",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2023-04-25",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2023-04-25",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000004424",
+        "name": "eye movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 715
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 536
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 238
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 65
+      },
+      {
+        "id": "230000006399",
+        "name": "behavior",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 146
+      },
+      {
+        "id": "238000001179",
+        "name": "sorption measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 72
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "238000004422",
+        "name": "calculation algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "238000010801",
+        "name": "machine learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "210000001508",
+        "name": "eye",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 295
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 150
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 107
+      },
+      {
+        "id": "230000033001",
+        "name": "locomotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 87
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 67
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 54
+      },
+      {
+        "id": "210000003128",
+        "name": "head",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "230000004886",
+        "name": "head movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "238000013473",
+        "name": "artificial intelligence",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "238000001914",
+        "name": "filtration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "230000004434",
+        "name": "saccadic eye movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "206010044565",
+        "name": "Tremor",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "210000005252",
+        "name": "bulbus oculi",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "238000007781",
+        "name": "pre-processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "230000008451",
+        "name": "emotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "210000001747",
+        "name": "pupil",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000013515",
+        "name": "script",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000003190",
+        "name": "augmentative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000013527",
+        "name": "convolutional neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000001149",
+        "name": "cognitive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000012634",
+        "name": "optical imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000013507",
+        "name": "mapping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000019771",
+        "name": "cognition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000001711",
+        "name": "saccadic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000005070",
+        "name": "sampling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "210000004087",
+        "name": "cornea",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000004438",
+        "name": "eyesight",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "210000001525",
+        "name": "retina",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001953",
+        "name": "sensory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012790",
+        "name": "confirmation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000003205",
+        "name": "muscle",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "241000251468",
+        "name": "Actinopterygii",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008093",
+        "name": "supporting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011068",
+        "name": "loading method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003134",
+        "name": "recirculating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000036962",
+        "name": "time dependent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001976",
+        "name": "improved effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000013528",
+        "name": "artificial neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "230000000875",
+        "name": "corresponding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "230000004397",
+        "name": "blinking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000013135",
+        "name": "deep learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000001994",
+        "name": "activation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000008186",
+        "name": "active pharmaceutical agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000006073",
+        "name": "displacement reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000013057",
+        "name": "hereditary mucoepithelial dysplasia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000001960",
+        "name": "triggered effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008878",
+        "name": "coupling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000010168",
+        "name": "coupling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000005859",
+        "name": "coupling reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "210000002569",
+        "name": "neuron",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000009792",
+        "name": "diffusion process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000004247",
+        "name": "hand",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000002747",
+        "name": "voluntary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001788",
+        "name": "irregular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000010355",
+        "name": "oscillation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000009466",
+        "name": "transformation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012795",
+        "name": "verification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001720",
+        "name": "vestibular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012935",
+        "name": "Averaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000282412",
+        "name": "Homo",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013475",
+        "name": "authorization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010061592",
+        "name": "cardiac fibrillation",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002600",
+        "name": "fibrillogenic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000000554",
+        "name": "iris",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010606",
+        "name": "normalization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012217",
+        "name": "deletion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000037430",
+        "name": "deletion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003795",
+        "name": "desorption",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007717",
+        "name": "exclusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000000744",
+        "name": "eyelid",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001815",
+        "name": "facial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000003195",
+        "name": "fascia",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011049",
+        "name": "filling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000001475",
+        "name": "halogen functional group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012417",
+        "name": "linear regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007477",
+        "name": "logistic regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004466",
+        "name": "optokinetic reflex",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000036961",
+        "name": "partial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011176",
+        "name": "pooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003672",
+        "name": "processing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000033764",
+        "name": "rhythmic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000003786",
+        "name": "sclera",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006403",
+        "name": "short-term memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004984",
+        "name": "smart glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003867",
+        "name": "tiredness",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000016255",
+        "name": "tiredness",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007704",
+        "name": "transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004462",
+        "name": "vestibulo-ocular reflex",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000021542",
+        "name": "voluntary musculoskeletal movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000981770",
+        "name": "Buddleja asiatica",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000012661",
+        "name": "Dyskinesia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000015592",
+        "name": "Involuntary movements",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003213",
+        "name": "activating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013477",
+        "name": "bayesian statistics method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002146",
+        "name": "bilateral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000903",
+        "name": "blocking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004556",
+        "name": "brain",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008602",
+        "name": "contraction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007405",
+        "name": "data analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013075",
+        "name": "data extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003066",
+        "name": "decision tree",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001934",
+        "name": "delay",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002716",
+        "name": "delivery method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000881",
+        "name": "depressing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005474",
+        "name": "detonation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010339",
+        "name": "dilation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000193",
+        "name": "eyeblink",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010016256",
+        "name": "fatigue",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009499",
+        "name": "grossing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003064",
+        "name": "k means clustering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003340",
+        "name": "mental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000017311",
+        "name": "musculoskeletal movement, spinal reflex action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004379",
+        "name": "myopia",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000001491",
+        "name": "myopia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001537",
+        "name": "neural effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010004",
+        "name": "neural pathway",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000118",
+        "name": "neural pathway",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000018360",
+        "name": "neuromuscular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010029864",
+        "name": "nystagmus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005192",
+        "name": "partition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001575",
+        "name": "pathological effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035479",
+        "name": "physiological effects, processes and functions",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008092",
+        "name": "positive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003825",
+        "name": "pressing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000513",
+        "name": "principal component analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001902",
+        "name": "propagating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013139",
+        "name": "quantization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000306",
+        "name": "recurrent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007670",
+        "name": "refining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000011514",
+        "name": "reflex",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036279",
+        "name": "refractory period",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004270",
+        "name": "retinal projection",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004065",
+        "name": "semiconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000011664",
+        "name": "signaling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007619",
+        "name": "statistical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013589",
+        "name": "supplement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010408",
+        "name": "sweeping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008719",
+        "name": "thickening",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000844",
+        "name": "transformation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011426",
+        "name": "transformation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010200",
+        "name": "validation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000707",
+        "name": "wrist",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002759",
+        "name": "z-score normalization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,1461 @@
+{
+  "search_metadata": {
+    "id": "68514fad9b762dc427412a5f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/17bb0f5c741f8370/68514fad9b762dc427412a5f.json",
+    "created_at": "2025-06-17 11:21:17 UTC",
+    "processed_at": "2025-06-17 11:21:17 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20090121930A1/en",
+    "raw_html_file": "https://serpapi.com/searches/17bb0f5c741f8370/68514fad9b762dc427412a5f.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20090121930A1/en"
+  },
+  "title": "Personal locator and locating method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/7d/d9/75/badeac8d44e223/US20090121930A1.pdf",
+  "publication_number": "US20090121930A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "message",
+    "gps",
+    "emergency",
+    "personal",
+    "location"
+  ],
+  "prior_art_date": "2007-08-27",
+  "application_number": "US12/215,462",
+  "inventors": [
+    {
+      "name": "Robert S. Bennett",
+      "link": "https://patents.google.com/?inventor=Robert+S.+Bennett",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Robert+S.+Bennett"
+    },
+    {
+      "name": "Joseph Rembert, III",
+      "link": "https://patents.google.com/?inventor=Joseph+Rembert%2C+III",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joseph+Rembert%2C+III"
+    },
+    {
+      "name": "Paul A. Monte",
+      "link": "https://patents.google.com/?inventor=Paul+A.+Monte",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+A.+Monte"
+    }
+  ],
+  "assignees": [
+    "Globalstar Inc"
+  ],
+  "priority_date": "2007-08-27",
+  "filing_date": "2008-06-27",
+  "publication_date": "2009-05-14",
+  "worldwide_applications": {
+    "2008": [
+      {
+        "filing_date": "2008-06-27",
+        "country_code": "US",
+        "application_number": "US12/215,462",
+        "document_id": "patent/US8106820B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2008-08-20",
+        "country_code": "GB",
+        "application_number": "GB0815147A",
+        "document_id": "patent/GB2452386A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2008-08-21",
+        "country_code": "CA",
+        "application_number": "CA 2639004",
+        "document_id": "patent/CA2639004C/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2008-06-27",
+      "title": "Assigned to GLOBALSTAR. INC.",
+      "type": "reassignment",
+      "assignee_search": "GLOBALSTAR. INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BENNETT, ROBERT S., MONTE, PAUL A., REMBERT III, JOSEPH"
+      ]
+    },
+    {
+      "date": "2008-06-27",
+      "title": "Priority to US12/215,462",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US8106820B2/en"
+    },
+    {
+      "date": "2008-06-27",
+      "title": "Application filed by Globalstar Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Globalstar Inc"
+    },
+    {
+      "date": "2008-08-20",
+      "title": "Priority to GB0815147A",
+      "type": "priority",
+      "document_id": "patent/GB2452386A/en"
+    },
+    {
+      "date": "2008-08-21",
+      "title": "Priority to CA 2639004",
+      "type": "priority",
+      "document_id": "patent/CA2639004C/en"
+    },
+    {
+      "date": "2009-05-14",
+      "title": "Publication of US20090121930A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20090121930A1/en"
+    },
+    {
+      "date": "2009-06-23",
+      "title": "Assigned to BNP PARIBAS",
+      "type": "reassignment",
+      "assignee_search": "BNP PARIBAS",
+      "description": [
+        "GRANT OF SECURITY INTEREST",
+        "Assignors: GLOBALSTAR, INC."
+      ]
+    },
+    {
+      "date": "2012-01-31",
+      "title": "Publication of US8106820B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8106820B2/en"
+    },
+    {
+      "date": "2012-01-31",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2019-11-27",
+      "title": "Assigned to GLAS TRUST CORPORATION LIMITED, AS SECURITY AGENT AND GRANTEE",
+      "type": "reassignment",
+      "assignee_search": "GLAS TRUST CORPORATION LIMITED, AS SECURITY AGENT AND GRANTEE",
+      "description": [
+        "GRANT OF SECURITY INTEREST IN UNITED STATES PATENTS",
+        "Assignors: GLOBALST AR, INC."
+      ]
+    },
+    {
+      "date": "2021-11-12",
+      "title": "Assigned to GLOBALSTAR, INC.",
+      "type": "reassignment",
+      "assignee_search": "GLOBALSTAR, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BNP PARIBAS"
+      ]
+    },
+    {
+      "date": "2023-04-04",
+      "title": "Assigned to GLOBALSTAR, INC.",
+      "type": "reassignment",
+      "assignee_search": "GLOBALSTAR, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GLAS TRUST CORPORATION LIMITED, AS SECURITY AGENT"
+      ]
+    },
+    {
+      "date": "2023-04-12",
+      "title": "Assigned to APPLE INC.",
+      "type": "reassignment",
+      "assignee_search": "APPLE INC.",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GLOBALSTAR, INC."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2029-05-18",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20090121930.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/12215462"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20090121930"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2009121930A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/12215462/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20090121930"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/9e/12/34/39b02f839a8c96/US20090121930A1-20090514-D00000.png",
+    "https://patentimages.storage.googleapis.com/c8/49/0a/8458e80b2cdff9/US20090121930A1-20090514-D00001.png",
+    "https://patentimages.storage.googleapis.com/0d/2f/ab/3a9782fca0b965/US20090121930A1-20090514-D00002.png",
+    "https://patentimages.storage.googleapis.com/fe/ed/a5/67a3697b29f839/US20090121930A1-20090514-D00003.png",
+    "https://patentimages.storage.googleapis.com/63/9c/8f/2d12093e5e2572/US20090121930A1-20090514-D00004.png",
+    "https://patentimages.storage.googleapis.com/bb/68/7c/671844dfb5d847/US20090121930A1-20090514-D00005.png",
+    "https://patentimages.storage.googleapis.com/cb/6c/13/2a090c460e5887/US20090121930A1-20090514-D00006.png"
+  ],
+  "classifications": [
+    {
+      "code": "G01S5/0027",
+      "description": "Transmission from mobile station to base station of actual mobile position, i.e. position determined on mobile",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01S19/35",
+      "description": "Constructional details or hardware or software details of the signal processing chain",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/02",
+      "description": "Alarms for ensuring the safety of persons",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/001",
+      "description": "Alarm cancelling procedures or alarm forwarding decisions, e.g. based on absence of alarm confirmation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/006",
+      "description": "Alarm destination chosen according to type of event, e.g. in case of fire phone the fire service, in case of medical emergency phone the ambulance",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/016",
+      "description": "Personal emergency signalling and security systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H04B7/1853",
+      "description": "Satellite systems for providing telephony service to a mobile station, i.e. mobile satellite service",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01S2205/006",
+      "description": "Transmission of position information to remote stations for emergency situations",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Disclosed are systems; apparatus and methods for tracking or locating a person that is lost or has an emergency. Personal locating apparatus is employed comprising a plurality of buttons, and/or a keypad and display, that define an on/off element, an OK element, a help element and a 911 emergency element, wherein the elements are used to select and deselect one of a predetermined number of operational modes. A global positioning system (GPS) receiver in the apparatus processes GPS signals received from GPS satellites to generate location data indicative of the location of the apparatus. A satellite transmitter is coupled to the processor that transmits the location data and a desired operational mode signal to a remotely located processing center via one or more communication satellites. A processor is coupled to the GPS receiver and the satellite transmitter that is programmed to respond to user selections to generate the desired operational mode signal, process the location signals from the GPS receiver, the desired operational mode signal, and optionally a user message, generate a signal for transmission to the processing center, and transmit the signal to the remotely located processing center via one or more communication satellites. The message is processed at the processing center and sent as an email message to one or more designated email addresses, as a short message service (SMS) message to one or more designated cell phones, or as a message to a 911 emergency center.",
+  "description_link": "https://serpapi.com/searches/68514fad9b762dc427412a5f/google_patents_details/description.html",
+  "claims": [
+    "1. Personal locating apparatus comprising:\na housing; a plurality of buttons including an on/off button for turning the apparatus on and off, and a plurality of selectable buttons, that are selectable to select and deselect one of a predetermined number of operational modes; a global positioning system (GPS) receiver for processing GPS signals received from GPS satellites to generate location data indicative of the location of the apparatus; a satellite transmitter coupled to the processor for transmitting the location data and a desired operational mode signal to a remotely location via one or more communication satellites; a processor coupled to the GPS receiver and the satellite transmitter that is programmed to respond to the buttons that are selected to generate the desired operational mode signal, process the location signals from the GPS receiver and the desired operational mode signal to generate a signal for transmission to the remote location, and for transmitting the signal to the remotely remote location via the one or mom communication satellites.",
+    "2. The apparatus recited in claim 1 further comprising a plurality of indicator lights that are respectively associated with the a plurality of buttons.",
+    "3. The apparatus recited in claim 1 wherein the selectable buttons comprise an OK button, a help button and an emergency button.",
+    "4. The apparatus recited in claim 1 wherein the signal for transmission comprises one of a plurality of preprogrammed signals indicative of the status of a user of the apparatus.",
+    "5. The apparatus recited in claim 1 wherein the selectable buttons comprise a keypad and selection buttons for selecting and deselecting the operational modes, and wherein the apparatus further comprises a display that presents a plurality of selectable function icons.",
+    "6. The apparatus recited in claim 1 wherein the signal for transmission comprises one of a plurality of preprogrammed messages indicative of the status of a user of the apparatus or a message that is entered by way of the keypad by the user.",
+    "7. A personal locating system comprising:\na plurality of GPS satellites for generating GPS signals that are used to determine position; one or more communication satellites for transmitting a personal locating signal; a remotely located processing center for receiving and processing the personal locating signal and for creating and forwarding a corresponding message to one or more designated locations; and a locating device comprising (1) a plurality of selectable elements that are selectable to select and deselect one of a predetermined number of operational modes, (2) a global positioning system (GPS) receiver for processing GPS signals received from he GPS satellites to generate location data indicative of the location of the locating device, (3) a satellite transmitter coupled to the processor for transmitting the location data and a desired operational mode signal, and (4) a processor coupled to the GPS receiver and the satellite transmitter that is programmed to respond to the elements that are selected to generate the desired operational mode signal, process the location signals from the GPS receiver and the desired operational mode signal to generate a personal locating signal for transmission to the processing center, and for transmitting the locating signal to the remotely located processing center via the one or more communication satellites.",
+    "8. The system recited in claim 7 wherein the remotely located processing center forwards an email message to one or more email addresses.",
+    "9. The system recited in claim 7 wherein the remotely located processing center forwards a short message service (SMS) message to one or more selected cell phones.",
+    "10. The system recited in claim 7 wherein the remotely located processing center notifies a 911 emergency service with at least the location of the emergency.",
+    "11. The system recited in claim 7 wherein the personal locating signal is transmitted by way of one of the one or more communication satellites to multiple remote locations.",
+    "12. The system recited in claim 7 wherein the personal locating signal is transmitted by way of the one or more communication satellites to multiple remote locations.",
+    "13. The system recited in claim 7 wherein the selectable elements comprise a keypad and selection buttons for selecting and deselecting the operational modes, and wherein the device further comprises a display that presents a plurality of selectable function icons.",
+    "14. The system recited in claim 13 wherein the locating device further comprises a receiver for receiving a remotely-generated message, which remotely-generated message is displayed on the display.",
+    "15. The system recited in claim 7 wherein the locating signal comprises one of a plurality of preprogrammed messages indicative of the status of a user of the device or a message that is entered by way of the keypad by the user.",
+    "16. A personal locating method comprising:\nprogramming a personal locator comprising a processor coupled to a plurality of selection elements that are selectable to define different operational modes and that create a message for transmission depending upon the selection elements that are depressed; receiving and processing GPS signals to generate location data indicative of the location of the personal locator; selecting one or more of the selection elements to select one of a predetermined number of message modes; processing the selected message mode and the location data regarding the current location of the personal locator to generate a personal locating message; transmitting the personal locating message via one or more communication satellites to a remotely located processing center; processing the transmitted message at the remotely located processing center to generate and forward a message to one or more designated recipients.",
+    "17. The method recited in claim 16 wherein the remotely located processing center forwards an email message to one or more email addresses.",
+    "18. The method recited in claim 16 wherein the remotely located processing center forwards a short message service (SMS) message to one or more selected cell phones.",
+    "19. The method recited in claim 16 wherein the remotely located processing center forwards a short message service (SMS) message to a 911 emergency service.",
+    "20. The method recited in claim 16 wherein the personal locating message is transmitted by way of one of the one or more communication satellites to multiple remote locations.",
+    "21. The method recited in claim 16 wherein the personal locating message is transmitted by way of the one or more communication satellites to multiple remote locations.",
+    "22. The method recited in claim 16 wherein the selection elements comprise a keypad and selection elements for selecting and deselecting the operational modes, and wherein the apparatus further comprises a display that presents a plurality of selectable function elements.",
+    "23. The method recited in claim 22 further comprising:\nreceiving and displaying a remotely-generated message.",
+    "24. The method recited in claim 16 wherein the locating message comprises one of a plurality of preprogrammed messages indicative of the status of a user of the apparatus or a message that is entered by way of the keypad by the user."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US12/215,462",
+      "representative_publication": "US8106820B2",
+      "primary_language": "en",
+      "priority_date": "2007-08-27",
+      "filing_date": "2008-06-27",
+      "title": "Personal locator and locating method"
+    },
+    {
+      "application_number": "GB0815147A",
+      "representative_publication": "GB2452386A",
+      "primary_language": "en",
+      "priority_date": "2007-08-27",
+      "filing_date": "2008-08-20",
+      "title": "Means for tracking and locating a person in an emergency"
+    },
+    {
+      "application_number": "CA 2639004",
+      "representative_publication": "CA2639004C",
+      "primary_language": "en",
+      "priority_date": "2007-08-27",
+      "filing_date": "2008-08-21",
+      "title": "Personal locator and locating method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US99635007P",
+      "priority_date": "2007-08-27",
+      "filing_date": "2007-08-27"
+    },
+    {
+      "application_number": "US12/215,462",
+      "representative_publication": "US8106820B2",
+      "primary_language": "en",
+      "priority_date": "2007-08-27",
+      "filing_date": "2008-06-27",
+      "title": "Personal locator and locating method"
+    }
+  ],
+  "family_id": "39812271",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5414432A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-03-04",
+        "publication_date": "1995-05-09",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Position locating transceiver",
+        "patent_id": "patent/US5414432A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5414432A%2Fen"
+      },
+      {
+        "publication_number": "US5914675A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-23",
+        "publication_date": "1999-06-22",
+        "assignee_original": "Sun Microsystems, Inc.",
+        "title": "Emergency locator device transmitting location data by wireless telephone communications",
+        "patent_id": "patent/US5914675A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5914675A%2Fen"
+      },
+      {
+        "publication_number": "US20040072583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-09",
+        "publication_date": "2004-04-15",
+        "assignee_original": "Weng Yuan Sung",
+        "title": "Mobile phone device with function of emergency notification",
+        "patent_id": "patent/US20040072583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040072583A1%2Fen"
+      },
+      {
+        "publication_number": "US7042338B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-04",
+        "publication_date": "2006-05-09",
+        "assignee_original": "Savvystuff Property Trust",
+        "title": "Alerting a care-provider when an elderly or infirm person in distress fails to acknowledge a periodically recurrent interrogative cue",
+        "patent_id": "patent/US7042338B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7042338B1%2Fen"
+      },
+      {
+        "publication_number": "US7053822B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-02",
+        "publication_date": "2006-05-30",
+        "assignee_original": "Rickerson Jr Donald",
+        "title": "Wearable satellite tracker",
+        "patent_id": "patent/US7053822B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7053822B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229109A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-06",
+        "publication_date": "2006-10-12",
+        "assignee_original": "General Motors Corporation",
+        "title": "Method and system for initiating communication from a vehicle",
+        "patent_id": "patent/US20060229109A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229109A1%2Fen"
+      },
+      {
+        "publication_number": "US20070101274A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-28",
+        "publication_date": "2007-05-03",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Aggregation of multi-modal devices",
+        "patent_id": "patent/US20070101274A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070101274A1%2Fen"
+      },
+      {
+        "publication_number": "US20070257889A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-05",
+        "publication_date": "2007-11-08",
+        "assignee_original": "Clemens Croy",
+        "title": "Display lit soft keys that have multiple states of activation potentially associated with each soft key",
+        "patent_id": "patent/US20070257889A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070257889A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5731785A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-13",
+        "publication_date": "1998-03-24",
+        "assignee_original": "Lemelson; Jerome H.",
+        "title": "System and method for locating objects including an inhibiting feature",
+        "patent_id": "patent/US5731785A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5731785A%2Fen"
+      },
+      {
+        "publication_number": "US20070293186A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-11",
+        "publication_date": "2007-12-20",
+        "assignee_original": "Ctl Analyzers, Llc",
+        "title": "Systems and Methods for a Personal Safety Device",
+        "patent_id": "patent/US20070293186A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070293186A1%2Fen"
+      },
+      {
+        "publication_number": "US7215282B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-09",
+        "publication_date": "2007-05-08",
+        "assignee_original": "Procon, Inc.",
+        "title": "Two-way distress alert and emergency location apparatus and method",
+        "patent_id": "patent/US7215282B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7215282B2%2Fen"
+      },
+      {
+        "publication_number": "US7460019B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-06",
+        "publication_date": "2008-12-02",
+        "assignee_original": "Henderson Penny S",
+        "title": "Personal locator system",
+        "patent_id": "patent/US7460019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7460019B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20090215427A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-21",
+        "publication_date": "2009-08-27",
+        "assignee_original": "Embarq Holdings Company, Llc",
+        "title": "System and method for updating location information of voice-over-internet protocol based devices for E911 service",
+        "patent_id": "patent/US20090215427A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090215427A1%2Fen"
+      },
+      {
+        "publication_number": "US20100003952A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-03",
+        "publication_date": "2010-01-07",
+        "assignee_original": "Embarq Holdings Company, Llc",
+        "title": "Emergency message menu",
+        "patent_id": "patent/US20100003952A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100003952A1%2Fen"
+      },
+      {
+        "publication_number": "US20100267361A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-20",
+        "publication_date": "2010-10-21",
+        "assignee_original": "Guardianlion Wireless, LLC",
+        "title": "Monitoring device and system",
+        "patent_id": "patent/US20100267361A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100267361A1%2Fen"
+      },
+      {
+        "publication_number": "US20110140884A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-23",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Globalstar, Inc.",
+        "title": "Simplex Personal and Asset Tracker",
+        "patent_id": "patent/US20110140884A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110140884A1%2Fen"
+      },
+      {
+        "publication_number": "USD642940S1",
+        "primary_language": "en",
+        "priority_date": "2010-06-04",
+        "publication_date": "2011-08-09",
+        "assignee_original": "Jacob Daniels",
+        "title": "Cell phone with GPS screen",
+        "patent_id": "patent/USD642940S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD642940S1%2Fen"
+      },
+      {
+        "publication_number": "US20120051405A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-27",
+        "publication_date": "2012-03-01",
+        "assignee_original": "Piesinger Gregory H",
+        "title": "Secure satellite modem for personal digital assistant method and apparatus",
+        "patent_id": "patent/US20120051405A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120051405A1%2Fen"
+      },
+      {
+        "publication_number": "US8676121B1",
+        "primary_language": "en",
+        "priority_date": "2011-05-31",
+        "publication_date": "2014-03-18",
+        "assignee_original": "Globalstar, Inc.",
+        "title": "Method and apparatus for transmitting message from short-range wireless device over a satellite network",
+        "patent_id": "patent/US8676121B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8676121B1%2Fen"
+      },
+      {
+        "publication_number": "US9892626B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2018-02-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Tracking device program",
+        "patent_id": "patent/US9892626B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9892626B2%2Fen"
+      },
+      {
+        "publication_number": "US20190065970A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-30",
+        "publication_date": "2019-02-28",
+        "assignee_original": "P Tech, Llc",
+        "title": "Artificial intelligence and/or virtual reality for activity optimization/personalization",
+        "patent_id": "patent/US20190065970A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190065970A1%2Fen"
+      },
+      {
+        "publication_number": "CN109831241A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-21",
+        "publication_date": "2019-05-31",
+        "assignee_original": "\u6df1\u5733\u661f\u8054\u5929\u901a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of method of rescue, router and computer readable storage medium",
+        "patent_id": "patent/CN109831241A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109831241A%2Fen"
+      },
+      {
+        "publication_number": "US10361800B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-18",
+        "publication_date": "2019-07-23",
+        "assignee_original": "PB, Inc",
+        "title": "Radiobeacon data sharing by forwarding low energy transmissions to a cloud host",
+        "patent_id": "patent/US10361800B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10361800B2%2Fen"
+      },
+      {
+        "publication_number": "US10389459B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-18",
+        "publication_date": "2019-08-20",
+        "assignee_original": "PB, Inc.",
+        "title": "Radiobeacon data sharing by forwarding low energy transmissions to a cloud host",
+        "patent_id": "patent/US10389459B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10389459B2%2Fen"
+      },
+      {
+        "publication_number": "US10580281B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2020-03-03",
+        "assignee_original": "PB, Inc.",
+        "title": "Tracking device system",
+        "patent_id": "patent/US10580281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10580281B2%2Fen"
+      },
+      {
+        "publication_number": "IT201800009680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-22",
+        "publication_date": "2020-04-22",
+        "assignee_original": "Controllocasa Srl",
+        "title": "SYSTEM FOR SENDING, RECEIVING AND MANAGING REQUESTS FOR AID OR HELP IN REAL TIME, BASED ON A CLIENT-SERVER ARCHITECTURE CONNECTED VIA THE INTERNET",
+        "patent_id": "patent/IT201800009680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT201800009680A1%2Fen"
+      },
+      {
+        "publication_number": "US10937286B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-03-02",
+        "assignee_original": "Pb Inc.",
+        "title": "Radiobeacon data sharing by forwarding low energy transmissions to a cloud host",
+        "patent_id": "patent/US10937286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10937286B2%2Fen"
+      },
+      {
+        "publication_number": "US10979862B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Tracking device system",
+        "patent_id": "patent/US10979862B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10979862B2%2Fen"
+      },
+      {
+        "publication_number": "US11145183B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-10-12",
+        "assignee_original": "PB, Inc",
+        "title": "Tracking device programs, systems and methods",
+        "patent_id": "patent/US11145183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11145183B2%2Fen"
+      },
+      {
+        "publication_number": "US11184858B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-18",
+        "publication_date": "2021-11-23",
+        "assignee_original": "PB, Inc.",
+        "title": "Bluecell devices and methods",
+        "patent_id": "patent/US11184858B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11184858B2%2Fen"
+      },
+      {
+        "publication_number": "US11488423B1",
+        "primary_language": "en",
+        "priority_date": "2021-06-04",
+        "publication_date": "2022-11-01",
+        "assignee_original": "Geotab Inc.",
+        "title": "Methods for operating battery devices for use with telematics",
+        "patent_id": "patent/US11488423B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11488423B1%2Fen"
+      },
+      {
+        "publication_number": "US11496877B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-04",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Geotab Inc.",
+        "title": "Emergency user interfaces in telematic systems",
+        "patent_id": "patent/US11496877B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11496877B1%2Fen"
+      },
+      {
+        "publication_number": "US11522235B1",
+        "primary_language": "en",
+        "priority_date": "2021-06-04",
+        "publication_date": "2022-12-06",
+        "assignee_original": "Geotab Inc.",
+        "title": "Battery systems for use with telematics",
+        "patent_id": "patent/US11522235B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11522235B1%2Fen"
+      },
+      {
+        "publication_number": "US11678141B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-18",
+        "publication_date": "2023-06-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Hybrid cellular Bluetooth tracking devices, methods and systems",
+        "patent_id": "patent/US11678141B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11678141B2%2Fen"
+      },
+      {
+        "publication_number": "US11792605B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2023-10-17",
+        "assignee_original": "PB, Inc.",
+        "title": "Tracking device systems",
+        "patent_id": "patent/US11792605B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11792605B2%2Fen"
+      },
+      {
+        "publication_number": "US12054052B2",
+        "primary_language": "en",
+        "priority_date": "2021-06-04",
+        "publication_date": "2024-08-06",
+        "assignee_original": "Geotab Inc.",
+        "title": "Battery devices for use with telematics",
+        "patent_id": "patent/US12054052B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12054052B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB2470376B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-20",
+        "publication_date": "2016-02-17",
+        "assignee_original": "Cellhire Plc",
+        "title": "Improvements in relation to remote tracking systems",
+        "patent_id": "patent/GB2470376B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2470376B%2Fen"
+      },
+      {
+        "publication_number": "DE102010005582B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-22",
+        "publication_date": "2015-06-25",
+        "assignee_original": "Astrium Gmbh",
+        "title": "Improvement of satellite-based SAR services",
+        "patent_id": "patent/DE102010005582B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010005582B4%2Fen"
+      },
+      {
+        "publication_number": "GB2517668A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-17",
+        "publication_date": "2015-03-04",
+        "assignee_original": "Christian Derbyshire",
+        "title": "Personal tracker device",
+        "patent_id": "patent/GB2517668A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2517668A%2Fen"
+      },
+      {
+        "publication_number": "EP3304514B1",
+        "primary_language": "en",
+        "priority_date": "2015-05-26",
+        "publication_date": "2024-10-16",
+        "assignee_original": "Noonlight, Inc.",
+        "title": "Systems and methods for providing assistance in an emergency",
+        "patent_id": "patent/EP3304514B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3304514B1%2Fen"
+      },
+      {
+        "publication_number": "US11682291B1",
+        "primary_language": "en",
+        "priority_date": "2020-11-17",
+        "publication_date": "2023-06-20",
+        "assignee_original": "HD Group Enterprises LLC",
+        "title": "Two way portable emergency communicator device, system and method",
+        "patent_id": "patent/US11682291B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11682291B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8106820B2",
+      "primary_language": "en",
+      "publication_date": "2012-01-31",
+      "title": "Personal locator and locating method",
+      "patent_id": "patent/US8106820B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8106820B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7830305B2",
+      "primary_language": "en",
+      "publication_date": "2010-11-09",
+      "title": "Locator beacon system having global communication capability",
+      "patent_id": "patent/US7830305B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7830305B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2557390C",
+      "primary_language": "en",
+      "publication_date": "2011-05-03",
+      "title": "Flexible position tracking system and tracking and research methods utilizing such systems",
+      "patent_id": "patent/CA2557390C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2557390C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6275164B1",
+      "primary_language": "en",
+      "publication_date": "2001-08-14",
+      "title": "Emergency locator system",
+      "patent_id": "patent/US6275164B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6275164B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8554173B2",
+      "primary_language": "en",
+      "publication_date": "2013-10-08",
+      "title": "Position locating device and position determining system",
+      "patent_id": "patent/US8554173B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8554173B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8102316B1",
+      "primary_language": "en",
+      "publication_date": "2012-01-24",
+      "title": "System and method for tracking lost subjects",
+      "patent_id": "patent/US8102316B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8102316B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8154440B2",
+      "primary_language": "en",
+      "publication_date": "2012-04-10",
+      "title": "GPS pathfinder cell phone and method",
+      "patent_id": "patent/US8154440B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8154440B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140323079A1",
+      "primary_language": "en",
+      "publication_date": "2014-10-30",
+      "title": "Personal locator device",
+      "patent_id": "patent/US20140323079A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140323079A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9235972B2",
+      "primary_language": "en",
+      "publication_date": "2016-01-12",
+      "title": "Personal security and tracking system",
+      "patent_id": "patent/US9235972B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9235972B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6898526B2",
+      "primary_language": "en",
+      "publication_date": "2005-05-24",
+      "title": "Method and apparatus for enhanced safety in hunting environments",
+      "patent_id": "patent/US6898526B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6898526B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110177790A1",
+      "primary_language": "en",
+      "publication_date": "2011-07-21",
+      "title": "Simplex personal and asset tracker",
+      "patent_id": "patent/US20110177790A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110177790A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8508361B2",
+      "primary_language": "en",
+      "publication_date": "2013-08-13",
+      "title": "Personal locator device for a child having an integrated mobile communication device that qualifies to be carried in an educational setting",
+      "patent_id": "patent/US8508361B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8508361B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7834760B2",
+      "primary_language": "en",
+      "publication_date": "2010-11-16",
+      "title": "System and method for locating an individual",
+      "patent_id": "patent/US7834760B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7834760B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1996027972A1",
+      "primary_language": "en",
+      "publication_date": "1996-09-12",
+      "title": "Personal communication system and method of use",
+      "patent_id": "patent/WO1996027972A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996027972A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9661483B2",
+      "primary_language": "en",
+      "publication_date": "2017-05-23",
+      "title": "Multi-function emergency assistance request, tracking, and communication system",
+      "patent_id": "patent/US9661483B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9661483B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140213214A1",
+      "primary_language": "en",
+      "publication_date": "2014-07-31",
+      "title": "Emergency number calling with personal communications devices",
+      "patent_id": "patent/US20140213214A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140213214A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008124433A1",
+      "primary_language": "en",
+      "publication_date": "2008-10-16",
+      "title": "Gps pathfinder method and device",
+      "patent_id": "patent/WO2008124433A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008124433A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8120528B2",
+      "primary_language": "en",
+      "publication_date": "2012-02-21",
+      "title": "Apparatus for satellite telecommunications",
+      "patent_id": "patent/US8120528B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8120528B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7003278B2",
+      "primary_language": "en",
+      "publication_date": "2006-02-21",
+      "title": "Portable search and rescue system",
+      "patent_id": "patent/US7003278B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7003278B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10117078B1",
+      "primary_language": "en",
+      "publication_date": "2018-10-30",
+      "title": "Medical information communication method",
+      "patent_id": "patent/US10117078B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10117078B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200277029A1",
+      "primary_language": "en",
+      "publication_date": "2020-09-03",
+      "title": "Distress alert systems and processes related thereto",
+      "patent_id": "patent/US20200277029A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200277029A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220139206A1",
+      "primary_language": "en",
+      "publication_date": "2022-05-05",
+      "title": "Distress alert systems and processes related thereto",
+      "patent_id": "patent/US20220139206A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220139206A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050017901A1",
+      "primary_language": "en",
+      "publication_date": "2005-01-27",
+      "title": "Personal locator and security system",
+      "patent_id": "patent/US20050017901A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050017901A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15570766897663833493",
+      "scholar_authors": "Sarwar et al.",
+      "publication_date": "2012",
+      "title": "SPOT GNSS in emergency and location based services",
+      "patent_id": "scholar/15570766897663833493",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15570766897663833493"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230025224A1",
+      "primary_language": "en",
+      "publication_date": "2023-01-26",
+      "title": "Beacon Location Estimation",
+      "patent_id": "patent/US20230025224A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230025224A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2008-06-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GLOBALSTAR. INC., CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BENNETT, ROBERT S.;REMBERT III, JOSEPH;MONTE, PAUL A.;REEL/FRAME:021225/0083"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080613"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BNP PARIBAS, FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF SECURITY INTEREST;ASSIGNOR:GLOBALSTAR, INC.;REEL/FRAME:022856/0308"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090622"
+        },
+        {
+          "label": "Owner name",
+          "value": "BNP PARIBAS,FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF SECURITY INTEREST;ASSIGNOR:GLOBALSTAR, INC.;REEL/FRAME:022856/0308"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090622"
+        }
+      ]
+    },
+    {
+      "date": "2012-01-11",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2015-06-22",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-20",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GLAS TRUST CORPORATION LIMITED, AS SECURITY AGENT"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF SECURITY INTEREST IN UNITED STATES PATENTS;ASSIGNOR:GLOBALST AR, INC.;REEL/FRAME:051144/0001"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191125"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GLOBALSTAR, INC., LOUISIANA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:BNP PARIBAS;REEL/FRAME:058220/0028"
+        },
+        {
+          "label": "Effective date",
+          "value": "20211108"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GLOBALSTAR, INC., LOUISIANA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:GLAS TRUST CORPORATION LIMITED, AS SECURITY AGENT;REEL/FRAME:063212/0249"
+        },
+        {
+          "label": "Effective date",
+          "value": "20230403"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "APPLE INC., CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:GLOBALSTAR, INC.;REEL/FRAME:063296/0431"
+        },
+        {
+          "label": "Effective date",
+          "value": "20230406"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-13",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000994",
+        "name": "depressogenic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241001503987",
+        "name": "Clematis vitalba",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010011906",
+        "name": "Death",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000276420",
+        "name": "Lophius piscatorius",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FHNINJWBTRXEBC-UHFFFAOYSA-N",
+        "name": "Sudan III",
+        "domain": "Chemical compound",
+        "smiles": "OC1=CC=C2C=CC=CC2=C1N=NC(C=C1)=CC=C1N=NC1=CC=CC=C1",
+        "inchi_key": "FHNINJWBTRXEBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000245032",
+        "name": "Trillium",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000881",
+        "name": "depressing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008014",
+        "name": "freezing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007710",
+        "name": "freezing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

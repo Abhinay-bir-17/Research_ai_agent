@@ -1,0 +1,4069 @@
+{
+  "search_metadata": {
+    "id": "68514dbf3d34dd6ffe8b63b0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f6510c8132138584/68514dbf3d34dd6ffe8b63b0.json",
+    "created_at": "2025-06-17 11:13:03 UTC",
+    "processed_at": "2025-06-17 11:13:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5807256A/en",
+    "raw_html_file": "https://serpapi.com/searches/f6510c8132138584/68514dbf3d34dd6ffe8b63b0.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5807256A/en"
+  },
+  "title": "Medical information processing system for supporting diagnosis",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/6f/df/ef/e4c3f31ae3c0d7/US5807256.pdf",
+  "publication_number": "US5807256A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "image",
+    "data",
+    "abnormality",
+    "examination",
+    "information"
+  ],
+  "prior_art_date": "1993-03-01",
+  "application_number": "US08/775,893",
+  "inventors": [
+    {
+      "name": "Katsuyuki Taguchi",
+      "link": "https://patents.google.com/?inventor=Katsuyuki+Taguchi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Katsuyuki+Taguchi"
+    },
+    {
+      "name": "Shinich Yamada",
+      "link": "https://patents.google.com/?inventor=Shinich+Yamada",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shinich+Yamada"
+    },
+    {
+      "name": "Takehiro Ema",
+      "link": "https://patents.google.com/?inventor=Takehiro+Ema",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Takehiro+Ema"
+    }
+  ],
+  "assignees": [
+    "Toshiba Corp"
+  ],
+  "priority_date": "1993-03-01",
+  "filing_date": "1997-01-02",
+  "publication_date": "1998-09-15",
+  "worldwide_applications": {
+    "1994": [
+      {
+        "filing_date": "1994-02-28",
+        "country_code": "EP",
+        "application_number": "EP94102996A",
+        "document_id": "patent/EP0616290B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1994-02-28",
+        "country_code": "EP",
+        "application_number": "EP99119619A",
+        "document_id": "patent/EP0973116A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "1994-02-28",
+        "country_code": "DE",
+        "application_number": "DE69432089T",
+        "document_id": "patent/DE69432089T2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "1997": [
+      {
+        "filing_date": "1997-01-02",
+        "country_code": "US",
+        "application_number": "US08/775,893",
+        "document_id": "patent/US5807256A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1993-03-01",
+      "title": "Priority claimed from JP5039996A",
+      "type": "external-priority",
+      "document_id": "patent/JPH06251038A/en"
+    },
+    {
+      "date": "1993-03-09",
+      "title": "Priority claimed from JP4836693A",
+      "type": "external-priority",
+      "document_id": "patent/JPH06259486A/en"
+    },
+    {
+      "date": "1993-04-12",
+      "title": "Priority claimed from JP08429693A",
+      "type": "external-priority",
+      "document_id": "patent/JP3450371B2/en"
+    },
+    {
+      "date": "1993-07-19",
+      "title": "Priority claimed from JP17785993A",
+      "type": "external-priority",
+      "document_id": "patent/JP3332104B2/en"
+    },
+    {
+      "date": "1993-07-20",
+      "title": "Priority claimed from JP5178934A",
+      "type": "external-priority",
+      "document_id": "patent/JPH0737061A/en"
+    },
+    {
+      "date": "1993-07-23",
+      "title": "Priority claimed from JP18231993A",
+      "type": "external-priority",
+      "document_id": "patent/JP3192834B2/en"
+    },
+    {
+      "date": "1997-01-02",
+      "title": "Application filed by Toshiba Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Toshiba Corp"
+    },
+    {
+      "date": "1997-01-02",
+      "title": "Priority to US08/775,893",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5807256A/en"
+    },
+    {
+      "date": "1998-09-15",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1998-09-15",
+      "title": "Publication of US5807256A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5807256A/en"
+    },
+    {
+      "date": "2014-02-28",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5807256.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08775893"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5807256"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5807256A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08775893/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5807256"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/4f/1d/c2/e3583b606f72e4/US5807256-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/5d/1a/cc/40e0730246bbb1/US5807256-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/c2/9d/ff/ac95cd68dc5d90/US5807256-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/fb/4a/27/2f742caa09c249/US5807256-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/78/ca/43/2854ddcb4125e4/US5807256-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/68/cd/77/730e3e206c0b17/US5807256-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/df/7e/a6/93391e9f295b96/US5807256-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/df/97/2f/e1b5659696a6e6/US5807256-drawings-page-9.png",
+    "https://patentimages.storage.googleapis.com/0d/1e/44/7704f7a8c70abe/US5807256-drawings-page-10.png",
+    "https://patentimages.storage.googleapis.com/67/b4/8a/f19dbd8cf30ee8/US5807256-drawings-page-11.png",
+    "https://patentimages.storage.googleapis.com/5f/da/e8/389e4b109454b7/US5807256-drawings-page-12.png",
+    "https://patentimages.storage.googleapis.com/aa/1f/76/5af8c51c73e8fd/US5807256-drawings-page-13.png",
+    "https://patentimages.storage.googleapis.com/88/75/28/04c66651b8c92a/US5807256-drawings-page-14.png",
+    "https://patentimages.storage.googleapis.com/ac/3f/1d/a3020b2a2a242d/US5807256-drawings-page-15.png",
+    "https://patentimages.storage.googleapis.com/24/f0/c8/7586290f707963/US5807256-drawings-page-16.png",
+    "https://patentimages.storage.googleapis.com/17/0a/6e/4906c1550f4640/US5807256-drawings-page-17.png",
+    "https://patentimages.storage.googleapis.com/6a/61/4a/fd04aea7cfad23/US5807256-drawings-page-18.png",
+    "https://patentimages.storage.googleapis.com/61/6b/43/ddadabc3d4b407/US5807256-drawings-page-19.png",
+    "https://patentimages.storage.googleapis.com/10/e1/83/8140a4b9f50498/US5807256-drawings-page-20.png",
+    "https://patentimages.storage.googleapis.com/8a/aa/ce/d8cf22e369ed30/US5807256-drawings-page-21.png",
+    "https://patentimages.storage.googleapis.com/3e/c1/3e/214504a03ce782/US5807256-drawings-page-22.png",
+    "https://patentimages.storage.googleapis.com/b2/9e/18/860eb94c53ef19/US5807256-drawings-page-23.png",
+    "https://patentimages.storage.googleapis.com/ef/d8/1c/aaf6b435dc9a41/US5807256-drawings-page-24.png",
+    "https://patentimages.storage.googleapis.com/d2/45/b9/7455c4f950fd11/US5807256-drawings-page-25.png",
+    "https://patentimages.storage.googleapis.com/82/cb/d3/f34c3aa7af899c/US5807256-drawings-page-26.png",
+    "https://patentimages.storage.googleapis.com/20/b2/60/1cf92ba9bb4c90/US5807256-drawings-page-27.png",
+    "https://patentimages.storage.googleapis.com/ce/23/66/ba441860f89248/US5807256-drawings-page-28.png",
+    "https://patentimages.storage.googleapis.com/2d/9f/ac/e9ab446b0b2242/US5807256-drawings-page-29.png",
+    "https://patentimages.storage.googleapis.com/92/d2/3e/6a9fc1dfc41ea6/US5807256-drawings-page-30.png",
+    "https://patentimages.storage.googleapis.com/9f/f4/26/51efd165f4b6a9/US5807256-drawings-page-31.png",
+    "https://patentimages.storage.googleapis.com/40/d8/7c/d8172e25a47cfb/US5807256-drawings-page-32.png",
+    "https://patentimages.storage.googleapis.com/e2/a5/7a/2e6c05674a09fe/US5807256-drawings-page-33.png",
+    "https://patentimages.storage.googleapis.com/87/fb/e6/9e7fc7700120d1/US5807256-drawings-page-34.png",
+    "https://patentimages.storage.googleapis.com/62/49/99/2b6c892678773d/US5807256-drawings-page-35.png",
+    "https://patentimages.storage.googleapis.com/eb/43/38/5803ca153e5613/US5807256-drawings-page-36.png",
+    "https://patentimages.storage.googleapis.com/85/8f/bf/6c942f74bde102/US5807256-drawings-page-37.png",
+    "https://patentimages.storage.googleapis.com/c9/1c/02/daa8defb7ba226/US5807256-drawings-page-38.png",
+    "https://patentimages.storage.googleapis.com/00/24/fc/9f2490d17f4752/US5807256-drawings-page-39.png",
+    "https://patentimages.storage.googleapis.com/79/e8/b4/5b6a023ae873b5/US5807256-drawings-page-40.png",
+    "https://patentimages.storage.googleapis.com/d1/cf/85/686002822681eb/US5807256-drawings-page-41.png",
+    "https://patentimages.storage.googleapis.com/5f/b1/c4/5acc57bebb99d2/US5807256-drawings-page-42.png",
+    "https://patentimages.storage.googleapis.com/e7/3b/12/644694a4c0df50/US5807256-drawings-page-43.png",
+    "https://patentimages.storage.googleapis.com/c6/dc/f1/832e9a9dbf922a/US5807256-drawings-page-44.png",
+    "https://patentimages.storage.googleapis.com/55/3f/96/a9c027d82170da/US5807256-drawings-page-45.png",
+    "https://patentimages.storage.googleapis.com/74/a0/0c/cf89bf1f29d9c9/US5807256-drawings-page-46.png",
+    "https://patentimages.storage.googleapis.com/c3/83/62/27251958d3c897/US5807256-drawings-page-47.png",
+    "https://patentimages.storage.googleapis.com/14/5c/c7/38af5604763f8b/US5807256-drawings-page-48.png",
+    "https://patentimages.storage.googleapis.com/09/09/ff/4747d323686340/US5807256-drawings-page-49.png",
+    "https://patentimages.storage.googleapis.com/ad/82/d7/aa35249ff51fc3/US5807256-drawings-page-50.png",
+    "https://patentimages.storage.googleapis.com/29/98/73/d3d83600d3e11b/US5807256-drawings-page-51.png",
+    "https://patentimages.storage.googleapis.com/3c/03/e1/04b641a0213af6/US5807256-drawings-page-52.png",
+    "https://patentimages.storage.googleapis.com/dd/6e/47/2fff6b3d65679d/US5807256-drawings-page-53.png",
+    "https://patentimages.storage.googleapis.com/59/44/83/35a71a7fb7d662/US5807256-drawings-page-54.png",
+    "https://patentimages.storage.googleapis.com/8d/ab/bb/1e874d7a7c0d10/US5807256-drawings-page-55.png",
+    "https://patentimages.storage.googleapis.com/2a/b8/70/24cdefe82fb5df/US5807256-drawings-page-56.png",
+    "https://patentimages.storage.googleapis.com/41/6d/3b/15356f6cea3f4e/US5807256-drawings-page-57.png",
+    "https://patentimages.storage.googleapis.com/ea/09/bd/9fa602e1fa23c1/US5807256-drawings-page-58.png",
+    "https://patentimages.storage.googleapis.com/12/2d/eb/7c109d007518b7/US5807256-drawings-page-59.png",
+    "https://patentimages.storage.googleapis.com/92/ae/fa/218a520d571d53/US5807256-drawings-page-60.png",
+    "https://patentimages.storage.googleapis.com/f7/ce/6a/76a466e840b052/US5807256-drawings-page-61.png",
+    "https://patentimages.storage.googleapis.com/ca/6b/85/baed04ca1bb44b/US5807256-drawings-page-62.png",
+    "https://patentimages.storage.googleapis.com/d0/03/31/1e8c93a77c9d1a/US5807256-drawings-page-63.png",
+    "https://patentimages.storage.googleapis.com/0d/8e/9f/429f6aa6317071/US5807256-drawings-page-64.png",
+    "https://patentimages.storage.googleapis.com/e0/c9/76/93c86e8a0d7cf7/US5807256-drawings-page-65.png",
+    "https://patentimages.storage.googleapis.com/e1/e2/56/e2601b1a865d19/US5807256-drawings-page-66.png",
+    "https://patentimages.storage.googleapis.com/19/4c/6a/061c7824536bd4/US5807256-drawings-page-67.png",
+    "https://patentimages.storage.googleapis.com/43/2a/c2/7c76b8044fb568/US5807256-drawings-page-68.png",
+    "https://patentimages.storage.googleapis.com/03/7d/15/37d4a1f631b62a/US5807256-drawings-page-69.png",
+    "https://patentimages.storage.googleapis.com/1c/01/02/cea9b537649749/US5807256-drawings-page-70.png",
+    "https://patentimages.storage.googleapis.com/39/52/72/2a62e51aa7451d/US5807256-drawings-page-71.png",
+    "https://patentimages.storage.googleapis.com/67/b7/70/bd6e67e13658a6/US5807256-drawings-page-72.png",
+    "https://patentimages.storage.googleapis.com/ff/ad/9d/1162a5138c547b/US5807256-drawings-page-73.png",
+    "https://patentimages.storage.googleapis.com/f0/7e/5b/3054916ec90211/US5807256-drawings-page-74.png",
+    "https://patentimages.storage.googleapis.com/75/ca/48/d4f246ad674861/US5807256-drawings-page-75.png",
+    "https://patentimages.storage.googleapis.com/9c/5f/76/4bd4112bc5afb9/US5807256-drawings-page-76.png",
+    "https://patentimages.storage.googleapis.com/6a/12/ee/602b7e5d4c4842/US5807256-drawings-page-77.png",
+    "https://patentimages.storage.googleapis.com/21/f4/43/1d045379587a08/US5807256-drawings-page-78.png",
+    "https://patentimages.storage.googleapis.com/73/1a/c2/11d6a8abac083b/US5807256-drawings-page-79.png",
+    "https://patentimages.storage.googleapis.com/e4/9e/c1/64b4c59c84a0a7/US5807256-drawings-page-80.png",
+    "https://patentimages.storage.googleapis.com/8f/82/a1/980b193f4b04ce/US5807256-drawings-page-81.png",
+    "https://patentimages.storage.googleapis.com/fe/23/58/9408a31b6ea079/US5807256-drawings-page-82.png",
+    "https://patentimages.storage.googleapis.com/a8/8c/28/f539f330454427/US5807256-drawings-page-83.png",
+    "https://patentimages.storage.googleapis.com/e2/31/3b/929f14b8cb887f/US5807256-drawings-page-84.png",
+    "https://patentimages.storage.googleapis.com/2c/7f/58/821c087578e93f/US5807256-drawings-page-85.png",
+    "https://patentimages.storage.googleapis.com/dc/e5/05/068490c5e6d0db/US5807256-drawings-page-86.png",
+    "https://patentimages.storage.googleapis.com/15/7c/84/f616e55313cd76/US5807256-drawings-page-87.png",
+    "https://patentimages.storage.googleapis.com/04/f4/87/c5b03499216221/US5807256-drawings-page-88.png",
+    "https://patentimages.storage.googleapis.com/09/17/74/0648b7a706f0fc/US5807256-drawings-page-89.png",
+    "https://patentimages.storage.googleapis.com/dc/ab/6e/6a3121d0b3d8d9/US5807256-drawings-page-90.png",
+    "https://patentimages.storage.googleapis.com/fa/f9/40/9a0ec4fe4d772b/US5807256-drawings-page-91.png",
+    "https://patentimages.storage.googleapis.com/99/50/d9/7206085a913711/US5807256-drawings-page-92.png",
+    "https://patentimages.storage.googleapis.com/c2/72/c5/61e3c89184400e/US5807256-drawings-page-93.png",
+    "https://patentimages.storage.googleapis.com/cb/47/c5/4a47ad86205aa0/US5807256-drawings-page-94.png",
+    "https://patentimages.storage.googleapis.com/b7/32/c4/c10961b70a5872/US5807256-drawings-page-95.png",
+    "https://patentimages.storage.googleapis.com/b8/5e/30/4f4d1bb97b8e54/US5807256-drawings-page-96.png",
+    "https://patentimages.storage.googleapis.com/22/c9/6e/0248490cc8236d/US5807256-drawings-page-97.png",
+    "https://patentimages.storage.googleapis.com/89/15/ed/74fe6bdbea0167/US5807256-drawings-page-98.png",
+    "https://patentimages.storage.googleapis.com/96/37/3c/95e9a858d2e4e7/US5807256-drawings-page-99.png",
+    "https://patentimages.storage.googleapis.com/95/e2/8f/dd97407e9f0f19/US5807256-drawings-page-100.png",
+    "https://patentimages.storage.googleapis.com/e4/96/01/136ce8765bb9f9/US5807256-drawings-page-101.png",
+    "https://patentimages.storage.googleapis.com/9f/18/63/e613ef16ad6a8d/US5807256-drawings-page-102.png",
+    "https://patentimages.storage.googleapis.com/72/b4/cd/2194778b90d450/US5807256-drawings-page-103.png",
+    "https://patentimages.storage.googleapis.com/45/e1/62/d6dd57b6beacdd/US5807256-drawings-page-104.png",
+    "https://patentimages.storage.googleapis.com/1e/8e/a8/eaab5f93bfb021/US5807256-drawings-page-105.png",
+    "https://patentimages.storage.googleapis.com/17/67/3d/3d355bb3cb56f6/US5807256-drawings-page-106.png",
+    "https://patentimages.storage.googleapis.com/72/0d/07/d930c0bde98b62/US5807256-drawings-page-107.png",
+    "https://patentimages.storage.googleapis.com/17/84/6f/526f8518a5db7b/US5807256-drawings-page-108.png",
+    "https://patentimages.storage.googleapis.com/1a/bf/bb/afe7cf34dcadb7/US5807256-drawings-page-109.png",
+    "https://patentimages.storage.googleapis.com/ee/79/f9/7185356a8815d8/US5807256-drawings-page-110.png",
+    "https://patentimages.storage.googleapis.com/48/ce/fa/8796961097ea59/US5807256-drawings-page-111.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06T7/0012",
+      "description": "Biomedical image inspection",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06T7/11",
+      "description": "Region-based segmentation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H30/20",
+      "description": "ICT specially adapted for the handling or processing of medical images for handling medical images, e.g. DICOM, HL7 or PACS",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06T2207/10116",
+      "description": "X-ray image",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06T2207/30064",
+      "description": "Lung nodule",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A medical information processing system for supporting diagnosis, capable of displaying an original image and a minified image over the original image without being interfered to each other, capable of optimal man-power & time saving configurations and methods, capable of realizing an optimal classifying technique for doctor's interpretation and CAD-processed result, and capable of optimizing efficiency in forming accurate interpretation report by using PACS in a mass survey. The system includes: a detecting unit for detecting location of abnormality from a first medical image in accordance with a predetermined algorithm; an image forming unit for forming a second medical image in which a marker indicating the location of the abnormality is overlapped; and a display unit for displaying the first medical image and the second medical image in an optimally efficient way.",
+  "description_link": "https://serpapi.com/searches/68514dbf3d34dd6ffe8b63b0/google_patents_details/description.html",
+  "claims": [
+    "1. A medical information processing system for supporting a diagnosis, the system comprising:a first diagnosis processing portion obtaining first diagnostic results relative to a computer-aided diagnosis of medical images of a portion of a patient's body; a second diagnosis processing portion obtaining second diagnostic results from at least one doctor relative to a diagnosis performed by the at least one doctor relative to the portion of the patient's body; a selection and display device displaying selected ones of the medical images of the portion of the patient's body related to obtained first diagnostic results; a display detecting portion detecting that particular ones of the medical images relating to particular ones of the obtained first diagnostic results have been displayed and storing a first list indicating which particular ones of the first diagnostic results have had related medical images selected and displayed; a comparison and classification portion for comparing the first diagnostic results and the second results and, when the first and second diagnostic results do not agree, for creating a second list including a listing of examination identification numbers corresponding to any of the first diagnostic results not on said first list; and a control portion controlling the selection and display device so as to display the medical images associated with the first diagnostic results appearing on the second list for the at least one doctor's further interpretation.",
+    "2. A medical information processing system according to claim 1, wherein the first diagnosis processing portion obtains the first diagnostic results relative to the computer-aided diagnosis of medical images of a small nodular shadow.",
+    "3. A medical information processing system according to claim 1, wherein the first diagnosis processing portion obtains the first diagnostic results relative to the computer-aided diagnosis of medical images of interstitial malady shadow of a lung.",
+    "4. A medical information processing system according to claim 1, wherein the first list and the second list are lists of examination ID numbers of images."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US20274494A",
+      "relation_type": "Continuation",
+      "priority_date": "1993-03-01",
+      "filing_date": "1994-02-28"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/775,893",
+      "representative_publication": "US5807256A",
+      "primary_language": "en",
+      "priority_date": "1993-03-01",
+      "filing_date": "1997-01-02",
+      "title": "Medical information processing system for supporting diagnosis"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP5-039996",
+      "filing_date": "1993-03-01"
+    },
+    {
+      "application_number": "JP5039996A",
+      "representative_publication": "JPH06251038A",
+      "primary_language": "en",
+      "priority_date": "1993-03-01",
+      "filing_date": "1993-03-01",
+      "title": "Medical diagnosis support system"
+    },
+    {
+      "application_number": "JP4836693A",
+      "representative_publication": "JPH06259486A",
+      "primary_language": "en",
+      "priority_date": "1993-03-09",
+      "filing_date": "1993-03-09",
+      "title": "Medical diagnosis support system"
+    },
+    {
+      "application_number": "JP5-048366",
+      "filing_date": "1993-03-09"
+    },
+    {
+      "application_number": "JP5-084296",
+      "filing_date": "1993-04-12"
+    },
+    {
+      "application_number": "JP08429693A",
+      "representative_publication": "JP3450371B2",
+      "primary_language": "en",
+      "priority_date": "1993-04-12",
+      "filing_date": "1993-04-12",
+      "title": "Medical diagnosis support system"
+    },
+    {
+      "application_number": "JP17785993A",
+      "representative_publication": "JP3332104B2",
+      "primary_language": "en",
+      "priority_date": "1993-07-19",
+      "filing_date": "1993-07-19",
+      "title": "Interpretation report creation support device"
+    },
+    {
+      "application_number": "JP5-177859",
+      "filing_date": "1993-07-19"
+    },
+    {
+      "application_number": "JP5-178934",
+      "filing_date": "1993-07-20"
+    },
+    {
+      "application_number": "JP5178934A",
+      "representative_publication": "JPH0737061A",
+      "primary_language": "en",
+      "priority_date": "1993-07-20",
+      "filing_date": "1993-07-20",
+      "title": "Medical diagnosis support device"
+    },
+    {
+      "application_number": "JP18231993A",
+      "representative_publication": "JP3192834B2",
+      "primary_language": "en",
+      "priority_date": "1993-07-23",
+      "filing_date": "1993-07-23",
+      "title": "Reference image preparation support device"
+    },
+    {
+      "application_number": "JP5-182319",
+      "filing_date": "1993-07-23"
+    },
+    {
+      "application_number": "US20274494A",
+      "priority_date": "1994-02-28",
+      "filing_date": "1994-02-28"
+    },
+    {
+      "application_number": "US08/775,893",
+      "representative_publication": "US5807256A",
+      "primary_language": "en",
+      "priority_date": "1993-03-01",
+      "filing_date": "1997-01-02",
+      "title": "Medical information processing system for supporting diagnosis"
+    }
+  ],
+  "family_id": "27549969",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4839807A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-08-03",
+        "publication_date": "1989-06-13",
+        "assignee_original": "University Of Chicago",
+        "title": "Method and system for automated classification of distinction between normal lungs and abnormal lungs with interstitial disease in digital chest radiographs",
+        "patent_id": "patent/US4839807A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4839807A%2Fen"
+      },
+      {
+        "publication_number": "US4851984A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-08-03",
+        "publication_date": "1989-07-25",
+        "assignee_original": "University Of Chicago",
+        "title": "Method and system for localization of inter-rib spaces and automated lung texture analysis in digital chest radiographs",
+        "patent_id": "patent/US4851984A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4851984A%2Fen"
+      },
+      {
+        "publication_number": "US4945476A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-02-26",
+        "publication_date": "1990-07-31",
+        "assignee_original": "Elsevier Science Publishing Company, Inc.",
+        "title": "Interactive system and method for creating and editing a knowledge base for use as a computerized aid to the cognitive process of diagnosis",
+        "patent_id": "patent/US4945476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4945476A%2Fen"
+      },
+      {
+        "publication_number": "EP0487110A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-11-22",
+        "publication_date": "1992-05-27",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Computer-aided diagnosis system for medical use",
+        "patent_id": "patent/EP0487110A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0487110A2%2Fen"
+      },
+      {
+        "publication_number": "US5233519A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-06-26",
+        "publication_date": "1993-08-03",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Radiation image diagnostic apparatus",
+        "patent_id": "patent/US5233519A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5233519A%2Fen"
+      },
+      {
+        "publication_number": "US5289374A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-02-28",
+        "publication_date": "1994-02-22",
+        "assignee_original": "Arch Development Corporation",
+        "title": "Method and system for analysis of false positives produced by an automated scheme for the detection of lung nodules in digital chest radiographs",
+        "patent_id": "patent/US5289374A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5289374A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP2851057B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-08-02",
+        "publication_date": "1999-01-27",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Method and apparatus for automated analysis in digital x-ray images",
+        "patent_id": "patent/JP2851057B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2851057B2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Diagnostic Imaging International, vol. 8, No. 5, pp. 29 31 and 35 37, Jul. 1992, Swett, Computers: Power Tool For Imaging Diagnosis .",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Diagnostic Imaging International, vol. 8, No. 5, pp. 29-31 and 35-37, Jul. 1992, Swett, \"Computers: Power Tool For Imaging Diagnosis\"."
+    },
+    {
+      "title": "Medical Physics, vol. 15, No. 2, pp. 158 166, Mar. 1988, Giger, et al., Image Feature Analysis And Computer Aided Diagnosis In Digital Radiography. 3. Automated Detection Of Modules In Peripheral Lung Fields .",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Medical Physics, vol. 15, No. 2, pp. 158-166, Mar. 1988, Giger, et al., \"Image Feature Analysis And Computer-Aided Diagnosis In Digital Radiography. 3. Automated Detection Of Modules In Peripheral Lung Fields\"."
+    },
+    {
+      "title": "Patent Abstracts of Japan, vol. 14, No. 581 (P 1147), Dec. 26, 1990, JP A 02 250180, Oct. 5, 1990.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Patent Abstracts of Japan, vol. 14, No. 581 (P-1147), Dec. 26, 1990, JP-A-02 250180, Oct. 5, 1990."
+    },
+    {
+      "title": "Proceedings of the Fourth Annual IEEE Symposium on Computer Based Medical Systems, pp. 28 35, May 1991, Chong Yen Lee, et al., Recommending Tests In A Multimembership Bayesian Diagnostic Expert System .",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Proceedings of the Fourth Annual IEEE Symposium on Computer-Based Medical Systems, pp. 28-35, May 1991, Chong-Yen Lee, et al., \"Recommending Tests In A Multimembership Bayesian Diagnostic Expert System\"."
+    },
+    {
+      "title": "Shortcliffe et al, Readings in Medical Artificial Intelligence, \"Knowledge Engineering For Medical Decision Making: A Review Of Computer-Based Clinical Decision Aids\", pp. 35-71, 1984."
+    },
+    {
+      "title": "Shortcliffe et al, Readings in Medical Artificial Intelligence, Knowledge Engineering For Medical Decision Making: A Review Of Computer Based Clinical Decision Aids , pp. 35 71, 1984.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US6001060A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-04",
+        "publication_date": "1999-12-14",
+        "assignee_original": "Regents Of The University Of California",
+        "title": "Video data representation of physiological data",
+        "patent_id": "patent/US6001060A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6001060A%2Fen"
+      },
+      {
+        "publication_number": "US6269178B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-11",
+        "publication_date": "2001-07-31",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Method and apparatus for detecting prospective abnormal patterns",
+        "patent_id": "patent/US6269178B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6269178B1%2Fen"
+      },
+      {
+        "publication_number": "US20010032099A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-18",
+        "publication_date": "2001-10-18",
+        "assignee_original": "Joao Raymond Anthony",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US20010032099A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010032099A1%2Fen"
+      },
+      {
+        "publication_number": "US20010044576A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-27",
+        "publication_date": "2001-11-22",
+        "assignee_original": "Vining David J.",
+        "title": "Method and system for producing interactive three-dimensional renderings of selected body organs having hollow lumens to enable simulated movement through the lumen",
+        "patent_id": "patent/US20010044576A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010044576A1%2Fen"
+      },
+      {
+        "publication_number": "US20020012386A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-09",
+        "publication_date": "2002-01-31",
+        "assignee_original": "Shanbhag Abhijit G.",
+        "title": "Method and apparatus for the construction and transmission of binary quasi orthogonal vectors",
+        "patent_id": "patent/US20020012386A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020012386A1%2Fen"
+      },
+      {
+        "publication_number": "US20020032583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-18",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Joao Raymond Anthony",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US20020032583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032583A1%2Fen"
+      },
+      {
+        "publication_number": "US20020122579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-24",
+        "publication_date": "2002-09-05",
+        "assignee_original": "Fuji Photo Film Co., Ltd",
+        "title": "Image information processing system",
+        "patent_id": "patent/US20020122579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020122579A1%2Fen"
+      },
+      {
+        "publication_number": "US20020131625A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-09",
+        "publication_date": "2002-09-19",
+        "assignee_original": "Vining David J.",
+        "title": "Image reporting method and system",
+        "patent_id": "patent/US20020131625A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020131625A1%2Fen"
+      },
+      {
+        "publication_number": "US20020164059A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-04",
+        "publication_date": "2002-11-07",
+        "assignee_original": "Difilippo Frank P.",
+        "title": "Remote medical image analysis",
+        "patent_id": "patent/US20020164059A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020164059A1%2Fen"
+      },
+      {
+        "publication_number": "US20020193687A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-27",
+        "publication_date": "2002-12-19",
+        "assignee_original": "Vining David J.",
+        "title": "Automatic analysis in virtual endoscopy",
+        "patent_id": "patent/US20020193687A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020193687A1%2Fen"
+      },
+      {
+        "publication_number": "US20030018245A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-17",
+        "publication_date": "2003-01-23",
+        "assignee_original": "Accuimage Diagnostics Corp.",
+        "title": "Methods for generating a lung report",
+        "patent_id": "patent/US20030018245A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030018245A1%2Fen"
+      },
+      {
+        "publication_number": "US20030016850A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-17",
+        "publication_date": "2003-01-23",
+        "assignee_original": "Leon Kaufman",
+        "title": "Systems and graphical user interface for analyzing body images",
+        "patent_id": "patent/US20030016850A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030016850A1%2Fen"
+      },
+      {
+        "publication_number": "US20030018395A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-18",
+        "publication_date": "2003-01-23",
+        "assignee_original": "Crnkovich Martin J.",
+        "title": "Method and system for controlling a medical device",
+        "patent_id": "patent/US20030018395A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030018395A1%2Fen"
+      },
+      {
+        "publication_number": "US20030028368A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-01",
+        "publication_date": "2003-02-06",
+        "assignee_original": "Grandy Woodrow W.",
+        "title": "Method for entering, recording, distributing and reporting data",
+        "patent_id": "patent/US20030028368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030028368A1%2Fen"
+      },
+      {
+        "publication_number": "US20030028401A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-17",
+        "publication_date": "2003-02-06",
+        "assignee_original": "Leon Kaufman",
+        "title": "Customizable lung report generator",
+        "patent_id": "patent/US20030028401A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030028401A1%2Fen"
+      },
+      {
+        "publication_number": "US20030095693A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-20",
+        "publication_date": "2003-05-22",
+        "assignee_original": "Acculmage Diagnostics Corp.",
+        "title": "Method and software for improving coronary calcium scoring consistency",
+        "patent_id": "patent/US20030095693A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030095693A1%2Fen"
+      },
+      {
+        "publication_number": "US20030095696A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-14",
+        "publication_date": "2003-05-22",
+        "assignee_original": "Reeves Anthony P.",
+        "title": "System, method and apparatus for small pulmonary nodule computer aided diagnosis from computed tomography scans",
+        "patent_id": "patent/US20030095696A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030095696A1%2Fen"
+      },
+      {
+        "publication_number": "EP1056046A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-14",
+        "publication_date": "2003-06-25",
+        "assignee_original": "Heimann Systems GmbH",
+        "title": "Radiographic image processing method",
+        "patent_id": "patent/EP1056046A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1056046A3%2Fen"
+      },
+      {
+        "publication_number": "US20030149342A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-01",
+        "publication_date": "2003-08-07",
+        "assignee_original": "Hanover Barry Keith",
+        "title": "System and method for wireless voice control of an interventional or diagnostic medical device",
+        "patent_id": "patent/US20030149342A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030149342A1%2Fen"
+      },
+      {
+        "publication_number": "US20030167001A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-23",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Allain Pascal Raymond",
+        "title": "Method for the detection and automatic characterization of nodules in a tomographic image and a system of medical imaging by tomodensimetry",
+        "patent_id": "patent/US20030167001A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030167001A1%2Fen"
+      },
+      {
+        "publication_number": "JP3450371B2",
+        "primary_language": "en",
+        "priority_date": "1993-04-12",
+        "publication_date": "2003-09-22",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Medical diagnosis support system",
+        "patent_id": "patent/JP3450371B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3450371B2%2Fen"
+      },
+      {
+        "publication_number": "US20030179915A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-30",
+        "publication_date": "2003-09-25",
+        "assignee_original": "Yoshihiro Goto",
+        "title": "Image diagnosis supporting device",
+        "patent_id": "patent/US20030179915A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030179915A1%2Fen"
+      },
+      {
+        "publication_number": "US20030187362A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-30",
+        "publication_date": "2003-10-02",
+        "assignee_original": "Gregory Murphy",
+        "title": "System and method for facilitating cardiac intervention",
+        "patent_id": "patent/US20030187362A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030187362A1%2Fen"
+      },
+      {
+        "publication_number": "US20030190064A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-03",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Hitoshi Inoue",
+        "title": "Radiographic image processing method, radiographic image processing apparatus, radiographic image processing system, program, computer-readable storage medium, image diagnosis assisting method, and image diagnosis assisting system",
+        "patent_id": "patent/US20030190064A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030190064A1%2Fen"
+      },
+      {
+        "publication_number": "US20030191671A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-06",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Ulrich Dennis A.",
+        "title": "System and method for implementing medical risk algorithms at the point of care",
+        "patent_id": "patent/US20030191671A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191671A1%2Fen"
+      },
+      {
+        "publication_number": "WO2002035468A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-25",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Geus Inc",
+        "title": "Method and system for remote image reconstitution and processing and imaging data collectors communicating with the system",
+        "patent_id": "patent/WO2002035468A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002035468A3%2Fen"
+      },
+      {
+        "publication_number": "US20030233215A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-13",
+        "publication_date": "2003-12-18",
+        "assignee_original": "Claude Scher",
+        "title": "Diagnostic system for a data acquisition system",
+        "patent_id": "patent/US20030233215A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030233215A1%2Fen"
+      },
+      {
+        "publication_number": "US20040003001A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-03",
+        "publication_date": "2004-01-01",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Similar image search system",
+        "patent_id": "patent/US20040003001A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040003001A1%2Fen"
+      },
+      {
+        "publication_number": "US6675039B2",
+        "primary_language": "en",
+        "priority_date": "2001-08-31",
+        "publication_date": "2004-01-06",
+        "assignee_original": "Ge Medical Systems Global Technology Company, Llc",
+        "title": "Computed tomography scan protocol",
+        "patent_id": "patent/US6675039B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6675039B2%2Fen"
+      },
+      {
+        "publication_number": "US20040024292A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-25",
+        "publication_date": "2004-02-05",
+        "assignee_original": "Meddetect Inc.",
+        "title": "System and method for assigning a computer aided detection application to a digital image",
+        "patent_id": "patent/US20040024292A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040024292A1%2Fen"
+      },
+      {
+        "publication_number": "US20040024612A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-31",
+        "publication_date": "2004-02-05",
+        "assignee_original": "Gerntholtz Otto Carl",
+        "title": "Infectious disease surveillance system",
+        "patent_id": "patent/US20040024612A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040024612A1%2Fen"
+      },
+      {
+        "publication_number": "US6690914B2",
+        "primary_language": "en",
+        "priority_date": "2000-12-22",
+        "publication_date": "2004-02-10",
+        "assignee_original": "Aidentity Matrix Medical, Inc.",
+        "title": "Multi-agent collaborative architecture for problem solving and tutoring",
+        "patent_id": "patent/US6690914B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6690914B2%2Fen"
+      },
+      {
+        "publication_number": "US20040041807A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-19",
+        "publication_date": "2004-03-04",
+        "assignee_original": "Joachim Hornegger",
+        "title": "Method for generating a 3D image dataset",
+        "patent_id": "patent/US20040041807A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040041807A1%2Fen"
+      },
+      {
+        "publication_number": "US20040049116A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-30",
+        "publication_date": "2004-03-11",
+        "assignee_original": "Chase Medical, L.P.",
+        "title": "System and method for facilitating cardiac intervention",
+        "patent_id": "patent/US20040049116A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040049116A1%2Fen"
+      },
+      {
+        "publication_number": "US20040078232A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-03",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Troiani John S.",
+        "title": "System and method for predicting acute, nonspecific health events",
+        "patent_id": "patent/US20040078232A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078232A1%2Fen"
+      },
+      {
+        "publication_number": "US20040086160A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-21",
+        "publication_date": "2004-05-06",
+        "assignee_original": "Sirona Dental Systems Gmbh",
+        "title": "Tooth identification digital X-ray images and assignment of information to digital X-ray images",
+        "patent_id": "patent/US20040086160A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040086160A1%2Fen"
+      },
+      {
+        "publication_number": "US6738531B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-10",
+        "publication_date": "2004-05-18",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Image processing method and apparatus",
+        "patent_id": "patent/US6738531B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6738531B1%2Fen"
+      },
+      {
+        "publication_number": "US20040102689A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-27",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Metz Stephen W.",
+        "title": "Workflow for computer aided detection",
+        "patent_id": "patent/US20040102689A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040102689A1%2Fen"
+      },
+      {
+        "publication_number": "US20040105527A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-22",
+        "publication_date": "2004-06-03",
+        "assignee_original": "Matthieu Ferrant",
+        "title": "Methods and apparatus for the classification of nodules",
+        "patent_id": "patent/US20040105527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040105527A1%2Fen"
+      },
+      {
+        "publication_number": "US20040120580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Computer-assisted reconciliation of multiple image reads",
+        "patent_id": "patent/US20040120580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040120580A1%2Fen"
+      },
+      {
+        "publication_number": "US20040120561A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-30",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Yoshihiro Goto",
+        "title": "Image diagnosis supporting device",
+        "patent_id": "patent/US20040120561A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040120561A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122702A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Medical data processing system and method",
+        "patent_id": "patent/US20040122702A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122702A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Patient-driven medical data processing system and method",
+        "patent_id": "patent/US20040122707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122707A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122704A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Integrated medical knowledge base interface system and method",
+        "patent_id": "patent/US20040122704A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122704A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122703A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-19",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Walker Matthew J.",
+        "title": "Medical data operating model development system and method",
+        "patent_id": "patent/US20040122703A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122703A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122787A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Avinash Gopal B.",
+        "title": "Enhanced computer-assisted medical data processing system and method",
+        "patent_id": "patent/US20040122787A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122787A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122708A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Avinash Gopal B.",
+        "title": "Medical data analysis method and apparatus incorporating in vitro test data",
+        "patent_id": "patent/US20040122708A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122708A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122790A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Walker Matthew J.",
+        "title": "Computer-assisted data processing system and method incorporating automated learning",
+        "patent_id": "patent/US20040122790A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122790A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122706A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Walker Matthew J.",
+        "title": "Patient data acquisition system and method",
+        "patent_id": "patent/US20040122706A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122706A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122709A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Avinash Gopal B.",
+        "title": "Medical procedure prioritization system and method utilizing integrated knowledge base",
+        "patent_id": "patent/US20040122709A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122709A1%2Fen"
+      },
+      {
+        "publication_number": "US20040120558A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M",
+        "title": "Computer assisted data reconciliation method and apparatus",
+        "patent_id": "patent/US20040120558A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040120558A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122719A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Medical resource processing system and method utilizing multiple resource type data",
+        "patent_id": "patent/US20040122719A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122719A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122705A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Multilevel integrated medical knowledge base system and method",
+        "patent_id": "patent/US20040122705A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122705A1%2Fen"
+      },
+      {
+        "publication_number": "US6760468B1",
+        "primary_language": "en",
+        "priority_date": "1996-02-06",
+        "publication_date": "2004-07-06",
+        "assignee_original": "Deus Technologies, Llc",
+        "title": "Method and system for the detection of lung nodule in radiological images using digital image processing and artificial neural network",
+        "patent_id": "patent/US6760468B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6760468B1%2Fen"
+      },
+      {
+        "publication_number": "US20040151356A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-31",
+        "publication_date": "2004-08-05",
+        "assignee_original": "University Of Chicago",
+        "title": "Method, system, and computer program product for computer-aided detection of nodules with three dimensional shape enhancement filters",
+        "patent_id": "patent/US20040151356A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040151356A1%2Fen"
+      },
+      {
+        "publication_number": "US20040153128A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-30",
+        "publication_date": "2004-08-05",
+        "assignee_original": "Mitta Suresh",
+        "title": "Method and system for image processing and contour assessment",
+        "patent_id": "patent/US20040153128A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040153128A1%2Fen"
+      },
+      {
+        "publication_number": "US6819785B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-09",
+        "publication_date": "2004-11-16",
+        "assignee_original": "Wake Forest University Health Sciences",
+        "title": "Image reporting method and system",
+        "patent_id": "patent/US6819785B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6819785B1%2Fen"
+      },
+      {
+        "publication_number": "US20040249806A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-31",
+        "publication_date": "2004-12-09",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Server and method for searching for images using image pre-fetch, designating database and storage devices for searching, and setting retrieval and processing parameters for search",
+        "patent_id": "patent/US20040249806A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040249806A1%2Fen"
+      },
+      {
+        "publication_number": "US20040254763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-05",
+        "publication_date": "2004-12-16",
+        "assignee_original": "Shuji Sakai",
+        "title": "Medical system",
+        "patent_id": "patent/US20040254763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040254763A1%2Fen"
+      },
+      {
+        "publication_number": "US20050010107A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-23",
+        "publication_date": "2005-01-13",
+        "assignee_original": "Hong Shen",
+        "title": "Thoracic cage coordinate system for recording pathologies in lung CT volume data",
+        "patent_id": "patent/US20050010107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050010107A1%2Fen"
+      },
+      {
+        "publication_number": "US20050043609A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-30",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Gregory Murphy",
+        "title": "System and method for facilitating cardiac intervention",
+        "patent_id": "patent/US20050043609A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050043609A1%2Fen"
+      },
+      {
+        "publication_number": "US20050041772A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-20",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Akihiko Nishide",
+        "title": "X-ray CT system, information processing method, and storage medium",
+        "patent_id": "patent/US20050041772A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050041772A1%2Fen"
+      },
+      {
+        "publication_number": "US20050053190A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-05",
+        "publication_date": "2005-03-10",
+        "assignee_original": "Makoto Gohno",
+        "title": "Imaging condition determining method and an X-ray CT apparatus",
+        "patent_id": "patent/US20050053190A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050053190A1%2Fen"
+      },
+      {
+        "publication_number": "US20050053270A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-05",
+        "publication_date": "2005-03-10",
+        "assignee_original": "Konica Minolta Medical & Graphic, Inc.",
+        "title": "Image processing apparatus and signal processing apparatus",
+        "patent_id": "patent/US20050053270A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050053270A1%2Fen"
+      },
+      {
+        "publication_number": "US20050069184A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-26",
+        "publication_date": "2005-03-31",
+        "assignee_original": "Konica Minolta Medical & Graphic, Inc.",
+        "title": "Medical image processing apparatus",
+        "patent_id": "patent/US20050069184A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050069184A1%2Fen"
+      },
+      {
+        "publication_number": "US20050070783A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-30",
+        "publication_date": "2005-03-31",
+        "assignee_original": "Akiko Yanagita",
+        "title": "Medical image processing apparatus",
+        "patent_id": "patent/US20050070783A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050070783A1%2Fen"
+      },
+      {
+        "publication_number": "US20050113961A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-26",
+        "publication_date": "2005-05-26",
+        "assignee_original": "Sabol John M.",
+        "title": "Image temporal change detection and display method and apparatus",
+        "patent_id": "patent/US20050113961A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050113961A1%2Fen"
+      },
+      {
+        "publication_number": "US20050152592A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-25",
+        "publication_date": "2005-07-14",
+        "assignee_original": "Konica Minolta Medical & Graphic, Inc.",
+        "title": "Medical image processing apparatus and medical image processing system",
+        "patent_id": "patent/US20050152592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050152592A1%2Fen"
+      },
+      {
+        "publication_number": "US20050163357A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-22",
+        "publication_date": "2005-07-28",
+        "assignee_original": "Sherif Makram-Ebeid",
+        "title": "Medical viewing system and image processing for integrated visualisation of medical data",
+        "patent_id": "patent/US20050163357A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050163357A1%2Fen"
+      },
+      {
+        "publication_number": "US20050187461A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-30",
+        "publication_date": "2005-08-25",
+        "assignee_original": "Gregory Murphy",
+        "title": "System and method for facilitating cardiac intervention",
+        "patent_id": "patent/US20050187461A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050187461A1%2Fen"
+      },
+      {
+        "publication_number": "US20050201599A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-11",
+        "publication_date": "2005-09-15",
+        "assignee_original": "Konica Minolta Medical & Graphic, Inc.",
+        "title": "Diagnostic imaging support apparatus and diagnostic imaging support method",
+        "patent_id": "patent/US20050201599A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050201599A1%2Fen"
+      },
+      {
+        "publication_number": "US20050223045A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-30",
+        "publication_date": "2005-10-06",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Diagnosis support system and method and server to be used therein",
+        "patent_id": "patent/US20050223045A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050223045A1%2Fen"
+      },
+      {
+        "publication_number": "US20050238218A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-07",
+        "publication_date": "2005-10-27",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Image display method, apparatus and program",
+        "patent_id": "patent/US20050238218A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050238218A1%2Fen"
+      },
+      {
+        "publication_number": "US20050254729A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-12",
+        "publication_date": "2005-11-17",
+        "assignee_original": "Motoaki Saito",
+        "title": "Reporting system in a networked environment",
+        "patent_id": "patent/US20050254729A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050254729A1%2Fen"
+      },
+      {
+        "publication_number": "US20050259882A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-18",
+        "publication_date": "2005-11-24",
+        "assignee_original": "Agfa-Gevaert N.V.",
+        "title": "Method for automatically mapping of geometric objects in digital medical images",
+        "patent_id": "patent/US20050259882A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050259882A1%2Fen"
+      },
+      {
+        "publication_number": "US20050265606A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-27",
+        "publication_date": "2005-12-01",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Method, apparatus, and program for detecting abnormal patterns",
+        "patent_id": "patent/US20050265606A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050265606A1%2Fen"
+      },
+      {
+        "publication_number": "US20060025671A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-27",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Image display apparatus, image display method and the program",
+        "patent_id": "patent/US20060025671A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060025671A1%2Fen"
+      },
+      {
+        "publication_number": "US20060031093A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-04",
+        "publication_date": "2006-02-09",
+        "assignee_original": "Serrano Laura K",
+        "title": "Computerized method and system for communicating agreements and/or discrepancies in image interpretation",
+        "patent_id": "patent/US20060031093A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060031093A1%2Fen"
+      },
+      {
+        "publication_number": "US20060034503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-12",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Medical image processing system",
+        "patent_id": "patent/US20060034503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060034503A1%2Fen"
+      },
+      {
+        "publication_number": "US20060034521A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-16",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Sectra Imtec Ab",
+        "title": "Computer program product and method for analysis of medical image data in a medical imaging system",
+        "patent_id": "patent/US20060034521A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060034521A1%2Fen"
+      },
+      {
+        "publication_number": "US20060050654A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-10",
+        "publication_date": "2006-03-09",
+        "assignee_original": "Dieter Feichtinger",
+        "title": "Method for checking the completeness and consistency of an information library",
+        "patent_id": "patent/US20060050654A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060050654A1%2Fen"
+      },
+      {
+        "publication_number": "US20060059145A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-02",
+        "publication_date": "2006-03-16",
+        "assignee_original": "Claudia Henschke",
+        "title": "System and method for analyzing medical data to determine diagnosis and treatment",
+        "patent_id": "patent/US20060059145A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060059145A1%2Fen"
+      },
+      {
+        "publication_number": "US20060067568A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-21",
+        "publication_date": "2006-03-30",
+        "assignee_original": "Sirona Dental Systems Gmbh",
+        "title": "Tooth identification in digital X-ray images and assignment of information to digital X-ray images",
+        "patent_id": "patent/US20060067568A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060067568A1%2Fen"
+      },
+      {
+        "publication_number": "US20060136259A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-17",
+        "publication_date": "2006-06-22",
+        "assignee_original": "General Electric Company",
+        "title": "Multi-dimensional analysis of medical data",
+        "patent_id": "patent/US20060136259A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060136259A1%2Fen"
+      },
+      {
+        "publication_number": "US20060136417A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-17",
+        "publication_date": "2006-06-22",
+        "assignee_original": "General Electric Company",
+        "title": "Method and system for search, analysis and display of structured data",
+        "patent_id": "patent/US20060136417A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060136417A1%2Fen"
+      },
+      {
+        "publication_number": "US20060155585A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-13",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Konica Minolta Medical & Graphic, Inc.",
+        "title": "Image information processing apparatus, image information processing method and medical image information processing system",
+        "patent_id": "patent/US20060155585A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060155585A1%2Fen"
+      },
+      {
+        "publication_number": "US20060190805A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-14",
+        "publication_date": "2006-08-24",
+        "assignee_original": "Bo-In Lin",
+        "title": "Graphic-aided and audio-commanded document management and display systems",
+        "patent_id": "patent/US20060190805A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060190805A1%2Fen"
+      },
+      {
+        "publication_number": "US7119841B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-27",
+        "publication_date": "2006-10-10",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Image processing apparatus method and storage medium therefor",
+        "patent_id": "patent/US7119841B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7119841B1%2Fen"
+      },
+      {
+        "publication_number": "US20060241404A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-04",
+        "publication_date": "2006-10-26",
+        "assignee_original": "De La Barrera Jose Luis M",
+        "title": "Enhanced shape characterization device and method",
+        "patent_id": "patent/US20060241404A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060241404A1%2Fen"
+      },
+      {
+        "publication_number": "US7149331B1",
+        "primary_language": "en",
+        "priority_date": "2002-09-03",
+        "publication_date": "2006-12-12",
+        "assignee_original": "Cedara Software Corp.",
+        "title": "Methods and software for improving thresholding of coronary calcium scoring",
+        "patent_id": "patent/US7149331B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7149331B1%2Fen"
+      },
+      {
+        "publication_number": "US20070014452A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-01",
+        "publication_date": "2007-01-18",
+        "assignee_original": "Mitta Suresh",
+        "title": "Method and system for image processing and assessment of a state of a heart",
+        "patent_id": "patent/US20070014452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070014452A1%2Fen"
+      },
+      {
+        "publication_number": "US20070014448A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-30",
+        "publication_date": "2007-01-18",
+        "assignee_original": "Wheeler Frederick W",
+        "title": "Method and system for lateral comparative image analysis and diagnosis",
+        "patent_id": "patent/US20070014448A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070014448A1%2Fen"
+      },
+      {
+        "publication_number": "US20070036415A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-22",
+        "publication_date": "2007-02-15",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Abnormal pattern detection processing method and system",
+        "patent_id": "patent/US20070036415A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070036415A1%2Fen"
+      },
+      {
+        "publication_number": "US20070078873A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-30",
+        "publication_date": "2007-04-05",
+        "assignee_original": "Avinash Gopal B",
+        "title": "Computer assisted domain specific entity mapping method and system",
+        "patent_id": "patent/US20070078873A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070078873A1%2Fen"
+      },
+      {
+        "publication_number": "US7206462B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-17",
+        "publication_date": "2007-04-17",
+        "assignee_original": "The General Hospital Corporation",
+        "title": "Method and system for the detection, comparison and volumetric quantification of pulmonary nodules on medical computed tomography scans",
+        "patent_id": "patent/US7206462B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7206462B1%2Fen"
+      },
+      {
+        "publication_number": "US20070172103A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-28",
+        "publication_date": "2007-07-26",
+        "assignee_original": "Takayuki Kadomura",
+        "title": "Image diagnosis supporting system and method",
+        "patent_id": "patent/US20070172103A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070172103A1%2Fen"
+      },
+      {
+        "publication_number": "US20070195061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-16",
+        "publication_date": "2007-08-23",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Image reproduction apparatus and program therefor",
+        "patent_id": "patent/US20070195061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070195061A1%2Fen"
+      },
+      {
+        "publication_number": "US20070201735A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-23",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Lutz Gundel",
+        "title": "Method and apparatus for the improved automatic detection of salient features in medical image data",
+        "patent_id": "patent/US20070201735A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070201735A1%2Fen"
+      },
+      {
+        "publication_number": "US20070217667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2007-09-20",
+        "assignee_original": "Koninklijke Philips Electronics, N.V.",
+        "title": "Image processing device for processing x-ray images",
+        "patent_id": "patent/US20070217667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070217667A1%2Fen"
+      },
+      {
+        "publication_number": "US20070248252A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-18",
+        "publication_date": "2007-10-25",
+        "assignee_original": "Sylvia Heywang-Kobrunner",
+        "title": "Method for monitoring during an image-based clinical study",
+        "patent_id": "patent/US20070248252A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070248252A1%2Fen"
+      },
+      {
+        "publication_number": "US20070260488A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-18",
+        "publication_date": "2007-11-08",
+        "assignee_original": "Sylvia Heywang-Kobrunner",
+        "title": "Medical reference image data, and method for producing them",
+        "patent_id": "patent/US20070260488A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070260488A1%2Fen"
+      },
+      {
+        "publication_number": "US20070286469A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-08",
+        "publication_date": "2007-12-13",
+        "assignee_original": "Hitoshi Yamagata",
+        "title": "Computer-aided image diagnostic processing device and computer-aided image diagnostic processing program product",
+        "patent_id": "patent/US20070286469A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070286469A1%2Fen"
+      },
+      {
+        "publication_number": "US20080044800A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-28",
+        "publication_date": "2008-02-21",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Examination information management apparatus",
+        "patent_id": "patent/US20080044800A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080044800A1%2Fen"
+      },
+      {
+        "publication_number": "US20080095416A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-18",
+        "publication_date": "2008-04-24",
+        "assignee_original": "Varian Medical Systems Technologies, Inc.",
+        "title": "Marker system and method of using the same",
+        "patent_id": "patent/US20080095416A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080095416A1%2Fen"
+      },
+      {
+        "publication_number": "US20080215525A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-28",
+        "publication_date": "2008-09-04",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Medical image retrieval system",
+        "patent_id": "patent/US20080215525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080215525A1%2Fen"
+      },
+      {
+        "publication_number": "US20080228061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-19",
+        "publication_date": "2008-09-18",
+        "assignee_original": "Koninklijke Philips Electronic, N.V.",
+        "title": "Method and Apparatus Providing Flexible Measurement Functionality for Medical Images",
+        "patent_id": "patent/US20080228061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080228061A1%2Fen"
+      },
+      {
+        "publication_number": "US20080249807A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-03",
+        "publication_date": "2008-10-09",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Interpretation support system",
+        "patent_id": "patent/US20080249807A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080249807A1%2Fen"
+      },
+      {
+        "publication_number": "US20080262874A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-03",
+        "publication_date": "2008-10-23",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Medical report generating system and a medical report generating method",
+        "patent_id": "patent/US20080262874A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080262874A1%2Fen"
+      },
+      {
+        "publication_number": "US7483919B2",
+        "primary_language": "en",
+        "priority_date": "1999-08-09",
+        "publication_date": "2009-01-27",
+        "assignee_original": "Almen Laboratories",
+        "title": "Object based image retrieval",
+        "patent_id": "patent/US7483919B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7483919B2%2Fen"
+      },
+      {
+        "publication_number": "US20090041324A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-09",
+        "publication_date": "2009-02-12",
+        "assignee_original": "Hitoshi Yamagata",
+        "title": "Image diagnosis support system, medical image management apparatus, image diagnosis support processing apparatus and image diagnosis support method",
+        "patent_id": "patent/US20090041324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090041324A1%2Fen"
+      },
+      {
+        "publication_number": "US20090083075A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-02",
+        "publication_date": "2009-03-26",
+        "assignee_original": "Cornell University",
+        "title": "System and method for analyzing medical data to determine diagnosis and treatment",
+        "patent_id": "patent/US20090083075A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090083075A1%2Fen"
+      },
+      {
+        "publication_number": "US20090136111A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-25",
+        "publication_date": "2009-05-28",
+        "assignee_original": "General Electric Company",
+        "title": "System and method of diagnosing a medical condition",
+        "patent_id": "patent/US20090136111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090136111A1%2Fen"
+      },
+      {
+        "publication_number": "US20090287663A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-19",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Fujitsu Limited",
+        "title": "Disease name input support program, method and apparatus",
+        "patent_id": "patent/US20090287663A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090287663A1%2Fen"
+      },
+      {
+        "publication_number": "US20090292210A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-17",
+        "publication_date": "2009-11-26",
+        "assignee_original": "Washington University In St. Louis",
+        "title": "Task-less optical mapping of brain function using resting state functional connectivity",
+        "patent_id": "patent/US20090292210A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090292210A1%2Fen"
+      },
+      {
+        "publication_number": "US20100099974A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-20",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "System for Generating a Multi-Modality Imaging Examination Report",
+        "patent_id": "patent/US20100099974A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100099974A1%2Fen"
+      },
+      {
+        "publication_number": "US7747055B1",
+        "primary_language": "en",
+        "priority_date": "1998-11-25",
+        "publication_date": "2010-06-29",
+        "assignee_original": "Wake Forest University Health Sciences",
+        "title": "Virtual endoscopy with improved image segmentation and lesion detection",
+        "patent_id": "patent/US7747055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7747055B1%2Fen"
+      },
+      {
+        "publication_number": "US20100238175A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-13",
+        "publication_date": "2010-09-23",
+        "assignee_original": "Gilbert Harry M",
+        "title": "Graphing Device and Method",
+        "patent_id": "patent/US20100238175A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100238175A1%2Fen"
+      },
+      {
+        "publication_number": "US20100256459A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-28",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Medical diagnosis support system",
+        "patent_id": "patent/US20100256459A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100256459A1%2Fen"
+      },
+      {
+        "publication_number": "US20100256991A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-27",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Medical diagnosis support apparatus",
+        "patent_id": "patent/US20100256991A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100256991A1%2Fen"
+      },
+      {
+        "publication_number": "US20100265251A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-25",
+        "publication_date": "2010-10-21",
+        "assignee_original": "Vining David J",
+        "title": "Virtual Endoscopy with Improved Image Segmentation and Lesion Detection",
+        "patent_id": "patent/US20100265251A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100265251A1%2Fen"
+      },
+      {
+        "publication_number": "US20100318510A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-08",
+        "publication_date": "2010-12-16",
+        "assignee_original": "Olaworks, Inc.",
+        "title": "Method for attaching tag to image of person",
+        "patent_id": "patent/US20100318510A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100318510A1%2Fen"
+      },
+      {
+        "publication_number": "US7860283B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-25",
+        "publication_date": "2010-12-28",
+        "assignee_original": "Rcadia Medical Imaging Ltd.",
+        "title": "Method and system for the presentation of blood vessel structures and identified pathologies",
+        "patent_id": "patent/US7860283B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7860283B2%2Fen"
+      },
+      {
+        "publication_number": "US7873194B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-25",
+        "publication_date": "2011-01-18",
+        "assignee_original": "Rcadia Medical Imaging Ltd.",
+        "title": "Method and system for automatic analysis of blood vessel structures and pathologies in support of a triple rule-out procedure",
+        "patent_id": "patent/US7873194B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7873194B2%2Fen"
+      },
+      {
+        "publication_number": "US20110019882A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-28",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Information processing apparatus and information processing method",
+        "patent_id": "patent/US20110019882A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110019882A1%2Fen"
+      },
+      {
+        "publication_number": "US20110022553A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-03",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Diagnosis support system, diagnosis support method therefor, and information processing apparatus",
+        "patent_id": "patent/US20110022553A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110022553A1%2Fen"
+      },
+      {
+        "publication_number": "US20110087115A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-17",
+        "publication_date": "2011-04-14",
+        "assignee_original": "Adidas Ag",
+        "title": "Systems and Methods For Ambulatory Monitoring of Physiological Signs",
+        "patent_id": "patent/US20110087115A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110087115A1%2Fen"
+      },
+      {
+        "publication_number": "US7940970B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-25",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Rcadia Medical Imaging, Ltd",
+        "title": "Method and system for automatic quality control used in computerized analysis of CT angiography",
+        "patent_id": "patent/US7940970B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7940970B2%2Fen"
+      },
+      {
+        "publication_number": "US7940977B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-25",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Rcadia Medical Imaging Ltd.",
+        "title": "Method and system for automatic analysis of blood vessel structures to identify calcium or soft plaque pathologies",
+        "patent_id": "patent/US7940977B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7940977B2%2Fen"
+      },
+      {
+        "publication_number": "WO2011066597A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-04",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Enotefile Pty Ltd",
+        "title": "Method of and apparatus for recording information",
+        "patent_id": "patent/WO2011066597A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011066597A1%2Fen"
+      },
+      {
+        "publication_number": "US20110268336A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-23",
+        "publication_date": "2011-11-03",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "System for monitoring medical abnormalities and method of operation thereof",
+        "patent_id": "patent/US20110268336A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110268336A1%2Fen"
+      },
+      {
+        "publication_number": "US8103074B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-25",
+        "publication_date": "2012-01-24",
+        "assignee_original": "Rcadia Medical Imaging Ltd.",
+        "title": "Identifying aorta exit points from imaging data",
+        "patent_id": "patent/US8103074B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8103074B2%2Fen"
+      },
+      {
+        "publication_number": "GB2485883A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-26",
+        "publication_date": "2012-05-30",
+        "assignee_original": "Siemens Medical Solutions",
+        "title": "Retrieval and reviewing of medical image processing",
+        "patent_id": "patent/GB2485883A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2485883A%2Fen"
+      },
+      {
+        "publication_number": "US20130169674A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-04",
+        "publication_date": "2013-07-04",
+        "assignee_original": "Samsung Medison Co., Ltd.",
+        "title": "Method and apparatus for displaying medical image",
+        "patent_id": "patent/US20130169674A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130169674A1%2Fen"
+      },
+      {
+        "publication_number": "US20130190593A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-24",
+        "publication_date": "2013-07-25",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Image diagnosis assistance apparatus, processing method thereof, and storage medium",
+        "patent_id": "patent/US20130190593A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130190593A1%2Fen"
+      },
+      {
+        "publication_number": "US20130218026A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-29",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Convergent Medical Solutions, Inc.",
+        "title": "Automated assessment of skin lesions using image library",
+        "patent_id": "patent/US20130218026A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130218026A1%2Fen"
+      },
+      {
+        "publication_number": "US20130278764A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-28",
+        "publication_date": "2013-10-24",
+        "assignee_original": "Objectvideo, Inc.",
+        "title": "View handling in video surveillance systems",
+        "patent_id": "patent/US20130278764A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130278764A1%2Fen"
+      },
+      {
+        "publication_number": "US20140140591A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-21",
+        "publication_date": "2014-05-22",
+        "assignee_original": "Mckesson Financial Holdings",
+        "title": "Method and apparatus integrating clinical data with the review of medical images",
+        "patent_id": "patent/US20140140591A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140140591A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140253544A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-27",
+        "publication_date": "2014-09-11",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Medical image processing apparatus",
+        "patent_id": "patent/US20140253544A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140253544A1%2Fen"
+      },
+      {
+        "publication_number": "US9092851B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-31",
+        "publication_date": "2015-07-28",
+        "assignee_original": "Nec Corporation",
+        "title": "Information processing system, information processing method, information processing apparatus, control method therefor, and storage medium storing control program therefor",
+        "patent_id": "patent/US9092851B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9092851B2%2Fen"
+      },
+      {
+        "publication_number": "US9129361B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-24",
+        "publication_date": "2015-09-08",
+        "assignee_original": "Jianguo Zhang",
+        "title": "Visual indexing system for medical diagnostic data",
+        "patent_id": "patent/US9129361B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9129361B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20160100810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-02",
+        "publication_date": "2016-04-14",
+        "assignee_original": "Searete Llc",
+        "title": "Medical Overlay Mirror",
+        "patent_id": "patent/US20160100810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160100810A1%2Fen"
+      },
+      {
+        "publication_number": "US20160328517A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-27",
+        "publication_date": "2016-11-10",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Extraction of information from an image and inclusion thereof in a clinical report",
+        "patent_id": "patent/US20160328517A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160328517A1%2Fen"
+      },
+      {
+        "publication_number": "US9495604B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-09",
+        "publication_date": "2016-11-15",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Intelligent management of computerized advanced processing",
+        "patent_id": "patent/US9495604B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9495604B1%2Fen"
+      },
+      {
+        "publication_number": "US9672477B1",
+        "primary_language": "en",
+        "priority_date": "2006-11-22",
+        "publication_date": "2017-06-06",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Exam scheduling with customer configured notifications",
+        "patent_id": "patent/US9672477B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9672477B1%2Fen"
+      },
+      {
+        "publication_number": "US9684762B2",
+        "primary_language": "en",
+        "priority_date": "2009-09-28",
+        "publication_date": "2017-06-20",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Rules-based approach to rendering medical imaging data",
+        "patent_id": "patent/US9684762B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9684762B2%2Fen"
+      },
+      {
+        "publication_number": "US9727938B1",
+        "primary_language": "en",
+        "priority_date": "2004-11-04",
+        "publication_date": "2017-08-08",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Systems and methods for retrieval of medical data",
+        "patent_id": "patent/US9727938B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9727938B1%2Fen"
+      },
+      {
+        "publication_number": "US9734576B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-04",
+        "publication_date": "2017-08-15",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Systems and methods for interleaving series of medical images",
+        "patent_id": "patent/US9734576B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9734576B2%2Fen"
+      },
+      {
+        "publication_number": "US9836202B1",
+        "primary_language": "en",
+        "priority_date": "2004-11-04",
+        "publication_date": "2017-12-05",
+        "assignee_original": "D.R. Systems, Inc.",
+        "title": "Systems and methods for viewing medical images",
+        "patent_id": "patent/US9836202B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9836202B1%2Fen"
+      },
+      {
+        "publication_number": "US20180008226A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-05",
+        "publication_date": "2018-01-11",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Radiation imaging apparatus, radiation imaging system, radiation imaging method, and storage medium",
+        "patent_id": "patent/US20180008226A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180008226A1%2Fen"
+      },
+      {
+        "publication_number": "US20180025112A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-22",
+        "publication_date": "2018-01-25",
+        "assignee_original": "Topcon Corporation",
+        "title": "Medical information processing system and medical information processing method",
+        "patent_id": "patent/US20180025112A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180025112A1%2Fen"
+      },
+      {
+        "publication_number": "US20180286049A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-11",
+        "publication_date": "2018-10-04",
+        "assignee_original": "Mauna Kea Technologies",
+        "title": "Method for characterizing images acquired through a video medical device",
+        "patent_id": "patent/US20180286049A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180286049A1%2Fen"
+      },
+      {
+        "publication_number": "US10417792B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-28",
+        "publication_date": "2019-09-17",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Information processing apparatus to display an individual input region for individual findings and a group input region for group findings",
+        "patent_id": "patent/US10417792B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10417792B2%2Fen"
+      },
+      {
+        "publication_number": "US10540763B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-04",
+        "publication_date": "2020-01-21",
+        "assignee_original": "Merge Healthcare Solutions Inc.",
+        "title": "Systems and methods for matching, naming, and displaying medical images",
+        "patent_id": "patent/US10540763B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10540763B2%2Fen"
+      },
+      {
+        "publication_number": "US10579903B1",
+        "primary_language": "en",
+        "priority_date": "2011-08-11",
+        "publication_date": "2020-03-03",
+        "assignee_original": "Merge Healthcare Solutions Inc.",
+        "title": "Dynamic montage reconstruction",
+        "patent_id": "patent/US10579903B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10579903B1%2Fen"
+      },
+      {
+        "publication_number": "US10592688B2",
+        "primary_language": "en",
+        "priority_date": "2008-11-19",
+        "publication_date": "2020-03-17",
+        "assignee_original": "Merge Healthcare Solutions Inc.",
+        "title": "System and method of providing dynamic and customizable medical examination forms",
+        "patent_id": "patent/US10592688B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10592688B2%2Fen"
+      },
+      {
+        "publication_number": "US10614615B2",
+        "primary_language": "en",
+        "priority_date": "2004-11-04",
+        "publication_date": "2020-04-07",
+        "assignee_original": "Merge Healthcare Solutions Inc.",
+        "title": "Systems and methods for viewing medical 3D imaging volumes",
+        "patent_id": "patent/US10614615B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10614615B2%2Fen"
+      },
+      {
+        "publication_number": "US20200111558A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-05",
+        "publication_date": "2020-04-09",
+        "assignee_original": "Konica Minolta, Inc.",
+        "title": "Information processing apparatus, medical image display apparatus, and storage medium",
+        "patent_id": "patent/US20200111558A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200111558A1%2Fen"
+      },
+      {
+        "publication_number": "US20200160993A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-16",
+        "publication_date": "2020-05-21",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Artificial Intelligence Based Alert System",
+        "patent_id": "patent/US20200160993A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200160993A1%2Fen"
+      },
+      {
+        "publication_number": "CN111344569A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-20",
+        "publication_date": "2020-06-26",
+        "assignee_original": "\u7f8e\u56fd\u897f\u95e8\u5b50\u533b\u5b66\u8bca\u65ad\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "User interface for managing multiple diagnostic engine environments",
+        "patent_id": "patent/CN111344569A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111344569A%2Fen"
+      },
+      {
+        "publication_number": "US10909168B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-30",
+        "publication_date": "2021-02-02",
+        "assignee_original": "Merge Healthcare Solutions Inc.",
+        "title": "Database systems and interactive user interfaces for dynamic interaction with, and review of, digital medical image data",
+        "patent_id": "patent/US10909168B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10909168B2%2Fen"
+      },
+      {
+        "publication_number": "CN112419405A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-23",
+        "publication_date": "2021-02-26",
+        "assignee_original": "\u676d\u5dde\u6d77\u5eb7\u5a01\u89c6\u6570\u5b57\u6280\u672f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Target tracking joint display method, security system and electronic equipment",
+        "patent_id": "patent/CN112419405A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112419405A%2Fen"
+      },
+      {
+        "publication_number": "US11197645B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-04",
+        "publication_date": "2021-12-14",
+        "assignee_original": "Kaohsiung Chang Gung Memorial Hospital",
+        "title": "System and method of throat abnormal object recognition",
+        "patent_id": "patent/US11197645B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11197645B1%2Fen"
+      },
+      {
+        "publication_number": "US20220391599A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-03",
+        "publication_date": "2022-12-08",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Information saving apparatus, method, and program and analysis record generation apparatus, method, and program",
+        "patent_id": "patent/US20220391599A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220391599A1%2Fen"
+      },
+      {
+        "publication_number": "US11574112B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-06",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Keya Medical Technology Co., Ltd.",
+        "title": "System and method for generating and editing diagnosis reports based on medical images",
+        "patent_id": "patent/US11574112B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11574112B2%2Fen"
+      },
+      {
+        "publication_number": "US11587688B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-27",
+        "publication_date": "2023-02-21",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for providing healthcare services remotely or virtually with or using an electronic healthcare record and/or a communication network",
+        "patent_id": "patent/US11587688B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11587688B2%2Fen"
+      },
+      {
+        "publication_number": "US12282730B2",
+        "primary_language": "en",
+        "priority_date": "2020-02-07",
+        "publication_date": "2025-04-22",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Document creation support apparatus, document creation support method, and program",
+        "patent_id": "patent/US12282730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12282730B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6961700B2",
+        "primary_language": "en",
+        "priority_date": "1996-09-24",
+        "publication_date": "2005-11-01",
+        "assignee_original": "Allvoice Computing Plc",
+        "title": "Method and apparatus for processing the output of a speech recognition engine",
+        "patent_id": "patent/US6961700B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6961700B2%2Fen"
+      },
+      {
+        "publication_number": "KR100394529B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-24",
+        "publication_date": "2003-08-09",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \ub9c8\ub85c\ud14c\ud06c",
+        "title": "Apparatus and method for PACS view based upon DICOM",
+        "patent_id": "patent/KR100394529B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100394529B1%2Fen"
+      },
+      {
+        "publication_number": "DE10106394C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-12",
+        "publication_date": "2003-11-13",
+        "assignee_original": "Siemens Ag",
+        "title": "Process for generating documented medical image information",
+        "patent_id": "patent/DE10106394C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10106394C2%2Fen"
+      },
+      {
+        "publication_number": "EP1239397A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-08",
+        "publication_date": "2006-05-24",
+        "assignee_original": "Fuji Photo Film Co., Ltd.",
+        "title": "Method of and system for reading medical image",
+        "patent_id": "patent/EP1239397A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1239397A3%2Fen"
+      },
+      {
+        "publication_number": "US7577573B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-12",
+        "publication_date": "2009-08-18",
+        "assignee_original": "General Electric Company",
+        "title": "Medical support system",
+        "patent_id": "patent/US7577573B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7577573B2%2Fen"
+      },
+      {
+        "publication_number": "US6792071B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-27",
+        "publication_date": "2004-09-14",
+        "assignee_original": "Agfa-Gevaert",
+        "title": "Method of performing geometric measurements on digital radiological images",
+        "patent_id": "patent/US6792071B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6792071B2%2Fen"
+      },
+      {
+        "publication_number": "EP1349098B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-27",
+        "publication_date": "2008-05-28",
+        "assignee_original": "Agfa HealthCare NV",
+        "title": "Method of performing geometric measurements on digital radiological images using graphical templates",
+        "patent_id": "patent/EP1349098B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1349098B1%2Fen"
+      },
+      {
+        "publication_number": "FR2853979B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-04-15",
+        "publication_date": "2005-10-21",
+        "assignee_original": "Ge Med Sys Global Tech Co Llc",
+        "title": "METHOD FOR CHAINING INFORMATION FROM MEDICAL EXAMINATIONS",
+        "patent_id": "patent/FR2853979B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2853979B1%2Fen"
+      },
+      {
+        "publication_number": "GB2418094B",
+        "primary_language": "en",
+        "priority_date": "2004-09-10",
+        "publication_date": "2010-05-12",
+        "assignee_original": "Medicsight Plc",
+        "title": "User interface for CT scan analysis",
+        "patent_id": "patent/GB2418094B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2418094B%2Fen"
+      },
+      {
+        "publication_number": "US7630531B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-31",
+        "publication_date": "2009-12-08",
+        "assignee_original": "Mevis Medical Solutions, Inc.",
+        "title": "Enhanced navigational tools for comparing medical images",
+        "patent_id": "patent/US7630531B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7630531B2%2Fen"
+      },
+      {
+        "publication_number": "CN102246197A",
+        "primary_language": "en",
+        "priority_date": "2008-10-10",
+        "publication_date": "2011-11-16",
+        "assignee_original": "\u5fc3\u8840\u7ba1\u75be\u75c5\u8bca\u65ad\u6280\u672f\u516c\u53f8",
+        "title": "Automated management of medical data using expert knowledge and applied complexity science for risk assessment and diagnoses",
+        "patent_id": "patent/CN102246197A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102246197A%2Fen"
+      },
+      {
+        "publication_number": "DE102017203315A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-01",
+        "publication_date": "2018-09-06",
+        "assignee_original": "Siemens Healthcare Gmbh",
+        "title": "Method and data processing unit for selecting a protocol for a medical imaging examination",
+        "patent_id": "patent/DE102017203315A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017203315A1%2Fen"
+      },
+      {
+        "publication_number": "EP3893091A1",
+        "primary_language": "en",
+        "priority_date": "2020-04-09",
+        "publication_date": "2021-10-13",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Controlling a data inspection by a user",
+        "patent_id": "patent/EP3893091A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3893091A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5807256A",
+      "primary_language": "en",
+      "publication_date": "1998-09-15",
+      "title": "Medical information processing system for supporting diagnosis",
+      "patent_id": "patent/US5807256A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5807256A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5779634A",
+      "primary_language": "en",
+      "publication_date": "1998-07-14",
+      "title": "Medical information processing system for supporting diagnosis",
+      "patent_id": "patent/US5779634A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5779634A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10818048B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-27",
+      "title": "Advanced medical image processing wizard",
+      "patent_id": "patent/US10818048B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818048B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3085724B2",
+      "primary_language": "en",
+      "publication_date": "2000-09-11",
+      "title": "Medical diagnosis support system",
+      "patent_id": "patent/JP3085724B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3085724B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8837794B2",
+      "primary_language": "en",
+      "publication_date": "2014-09-16",
+      "title": "Medical image display apparatus, medical image display method, and medical image display program",
+      "patent_id": "patent/US8837794B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8837794B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7130457B2",
+      "primary_language": "en",
+      "publication_date": "2006-10-31",
+      "title": "Systems and graphical user interface for analyzing body images",
+      "patent_id": "patent/US7130457B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7130457B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7756314B2",
+      "primary_language": "en",
+      "publication_date": "2010-07-13",
+      "title": "Methods and systems for computer aided targeting",
+      "patent_id": "patent/US7756314B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7756314B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7986821B2",
+      "primary_language": "en",
+      "publication_date": "2011-07-26",
+      "title": "Processes and apparatus for imaging protocols and analysis",
+      "patent_id": "patent/US7986821B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7986821B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103222876B",
+      "primary_language": "en",
+      "publication_date": "2016-11-23",
+      "title": "Medical image-processing apparatus, image diagnosing system, computer system and medical image processing method",
+      "patent_id": "patent/CN103222876B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103222876B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160321427A1",
+      "primary_language": "en",
+      "publication_date": "2016-11-03",
+      "title": "Patient-Specific Therapy Planning Support Using Patient Matching",
+      "patent_id": "patent/US20160321427A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160321427A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030018245A1",
+      "primary_language": "en",
+      "publication_date": "2003-01-23",
+      "title": "Methods for generating a lung report",
+      "patent_id": "patent/US20030018245A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030018245A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030028401A1",
+      "primary_language": "en",
+      "publication_date": "2003-02-06",
+      "title": "Customizable lung report generator",
+      "patent_id": "patent/US20030028401A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030028401A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8068652B2",
+      "primary_language": "en",
+      "publication_date": "2011-11-29",
+      "title": "Semi-automated registration of data based on a hierarchical mesh",
+      "patent_id": "patent/US8068652B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8068652B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3495327B2",
+      "primary_language": "en",
+      "publication_date": "2004-02-09",
+      "title": "Image acquisition devices, databases and workstations",
+      "patent_id": "patent/JP3495327B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3495327B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0737056A",
+      "primary_language": "en",
+      "publication_date": "1995-02-07",
+      "title": "Medical diagnosis support device",
+      "patent_id": "patent/JPH0737056A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0737056A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH06251038A",
+      "primary_language": "en",
+      "publication_date": "1994-09-09",
+      "title": "Medical diagnosis support system",
+      "patent_id": "patent/JPH06251038A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06251038A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2492942A1",
+      "primary_language": "en",
+      "publication_date": "2004-02-05",
+      "title": "System and method for assisting a computer aided detection application to digital images",
+      "patent_id": "patent/CA2492942A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2492942A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4480418A2",
+      "primary_language": "en",
+      "publication_date": "2024-12-25",
+      "title": "Automated protocoling in medical imaging systems",
+      "patent_id": "patent/EP4480418A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4480418A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3192834B2",
+      "primary_language": "en",
+      "publication_date": "2001-07-30",
+      "title": "Reference image preparation support device",
+      "patent_id": "patent/JP3192834B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3192834B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0737061A",
+      "primary_language": "en",
+      "publication_date": "1995-02-07",
+      "title": "Medical diagnosis support device",
+      "patent_id": "patent/JPH0737061A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0737061A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060047195A1",
+      "primary_language": "en",
+      "publication_date": "2006-03-02",
+      "title": "Combinational computer aided diagnosis",
+      "patent_id": "patent/US20060047195A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060047195A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3450371B2",
+      "primary_language": "en",
+      "publication_date": "2003-09-22",
+      "title": "Medical diagnosis support system",
+      "patent_id": "patent/JP3450371B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3450371B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH06259486A",
+      "primary_language": "en",
+      "publication_date": "1994-09-16",
+      "title": "Medical diagnosis support system",
+      "patent_id": "patent/JPH06259486A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06259486A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2206084B1",
+      "primary_language": "en",
+      "publication_date": "2012-04-18",
+      "title": "Image processing with computer aided detection and/or diagnosis",
+      "patent_id": "patent/EP2206084B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2206084B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH04333971A",
+      "primary_language": "en",
+      "publication_date": "1992-11-20",
+      "title": "Medical image preservation and communication system",
+      "patent_id": "patent/JPH04333971A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04333971A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1998-08-10",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "1999-07-13",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2002-02-27",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2006-02-17",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2006-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2010-02-25",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "230000010365",
+        "name": "information processing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 355
+      },
+      {
+        "id": "238000004195",
+        "name": "computer-aided diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 317
+      },
+      {
+        "id": "210000004072",
+        "name": "lung",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 67
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 1047
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 112
+      },
+      {
+        "id": "239000003550",
+        "name": "marker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 232
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 176
+      },
+      {
+        "id": "230000002685",
+        "name": "pulmonary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 133
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 98
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 98
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 83
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 83
+      },
+      {
+        "id": "208000029523",
+        "name": "Interstitial Lung disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 73
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "210000000038",
+        "name": "chest",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000011976",
+        "name": "chest X-ray",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "206010058467",
+        "name": "Lung neoplasm malignant",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "201000005202",
+        "name": "lung cancer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "208000020816",
+        "name": "lung neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000000284",
+        "name": "extract",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "239000004065",
+        "name": "semiconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "210000000481",
+        "name": "breast",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000002601",
+        "name": "radiography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000002595",
+        "name": "magnetic resonance imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000002224",
+        "name": "dissection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "208000004434",
+        "name": "Calcinosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000019693",
+        "name": "Lung disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000012217",
+        "name": "deletion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000037430",
+        "name": "deletion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000002308",
+        "name": "calcification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002591",
+        "name": "computed tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000002123",
+        "name": "temporal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "201000011510",
+        "name": "cancer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "206010056342",
+        "name": "Pulmonary mass",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000003086",
+        "name": "colorant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000002784",
+        "name": "stomach",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000004556",
+        "name": "brain",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007689",
+        "name": "inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000013307",
+        "name": "optical fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000000056",
+        "name": "organ",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002250",
+        "name": "progressing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "HCBIBCJNVBAKAB-UHFFFAOYSA-N",
+        "name": "Procaine hydrochloride",
+        "domain": "Chemical compound",
+        "smiles": "Cl.CCN(CC)CCOC(=O)C1=CC=C(N)C=C1",
+        "inchi_key": "HCBIBCJNVBAKAB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000037007",
+        "name": "arousal",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004798",
+        "name": "organs belonging to the digestive system",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009546",
+        "name": "plain radiography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003325",
+        "name": "tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009466",
+        "name": "transformation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000001015",
+        "name": "abdomen",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000013399",
+        "name": "edible fruits",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001678",
+        "name": "irradiating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001370",
+        "name": "mediastinum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002194",
+        "name": "synthesizing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010036790",
+        "name": "Productive cough",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008878",
+        "name": "coupling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010168",
+        "name": "coupling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005859",
+        "name": "coupling reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002249",
+        "name": "digestive system",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003780",
+        "name": "insertion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037431",
+        "name": "insertion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036210",
+        "name": "malignancy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002558",
+        "name": "medical inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+        "name": "novaluron",
+        "domain": "Chemical compound",
+        "smiles": "C1=C(Cl)C(OC(F)(F)C(OC(F)(F)F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F",
+        "inchi_key": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005180",
+        "name": "public health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005070",
+        "name": "sampling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012216",
+        "name": "screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000391",
+        "name": "smoking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005236",
+        "name": "sound signal",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007480",
+        "name": "spreading",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003892",
+        "name": "spreading",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003802",
+        "name": "sputum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024794",
+        "name": "sputum",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003786",
+        "name": "synthesis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001835",
+        "name": "viscera",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

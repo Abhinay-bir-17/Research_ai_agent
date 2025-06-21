@@ -1,0 +1,857 @@
+{
+  "search_metadata": {
+    "id": "68514fc2b9e86975f718fc3b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8b869566171726dc/68514fc2b9e86975f718fc3b.json",
+    "created_at": "2025-06-17 11:21:38 UTC",
+    "processed_at": "2025-06-17 11:21:38 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US2960761A/en",
+    "raw_html_file": "https://serpapi.com/searches/8b869566171726dc/68514fc2b9e86975f718fc3b.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US2960761A/en"
+  },
+  "title": "Closet shelf bracket and blank therefor",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c3/36/1b/341ea23e12097f/US2960761.pdf",
+  "publication_number": "US2960761A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "blank",
+    "shelf",
+    "closet",
+    "bracket",
+    "ears"
+  ],
+  "prior_art_date": "1956-12-10",
+  "application_number": "US627318A",
+  "inventors": [
+    {
+      "name": "Lester G Preader",
+      "link": "https://patents.google.com/?inventor=Lester+G+Preader",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lester+G+Preader"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "1956-12-10",
+  "filing_date": "1956-12-10",
+  "publication_date": "1960-11-22",
+  "worldwide_applications": {
+    "1956": [
+      {
+        "filing_date": "1956-12-10",
+        "country_code": "US",
+        "application_number": "US627318A",
+        "document_id": "patent/US2960761A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1956-12-10",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1956-12-10",
+      "title": "Priority to US627318A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US2960761A/en"
+    },
+    {
+      "date": "1960-11-22",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1960-11-22",
+      "title": "Publication of US2960761A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US2960761A/en"
+    },
+    {
+      "date": "1977-11-22",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=2960761.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=2960761"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2960761A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US//1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US2960761"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/62/ec/0a/59e18cb6e7b4e9/US2960761-drawings-page-1.png"
+  ],
+  "classifications": [
+    {
+      "code": "A47B57/42",
+      "description": "Cabinets, racks or shelf units, characterised by features for adjusting shelves or partitions with means for adjusting the height of detachable shelf supports consisting of hooks coacting with openings the shelf supports being cantilever brackets",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A47B61/003",
+      "description": "Details of garment-holders",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/12264",
+      "description": "Intermediate article [e.g., blank, etc.] having outward flange, gripping means or interlocking feature",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/12361",
+      "description": "All metal or with adjacent metals having aperture or cut",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "description_link": "https://serpapi.com/searches/68514fc2b9e86975f718fc3b/google_patents_details/description.html",
+  "priority_applications": [
+    {
+      "application_number": "US627318A",
+      "representative_publication": "US2960761A",
+      "primary_language": "en",
+      "priority_date": "1956-12-10",
+      "filing_date": "1956-12-10",
+      "title": "Closet shelf bracket and blank therefor"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US627318A",
+      "representative_publication": "US2960761A",
+      "primary_language": "en",
+      "priority_date": "1956-12-10",
+      "filing_date": "1956-12-10",
+      "title": "Closet shelf bracket and blank therefor"
+    }
+  ],
+  "family_id": "24514169",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US476520A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1892-06-07",
+        "title": "Thomas corscaden",
+        "patent_id": "patent/US476520A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS476520A%2Fen"
+      },
+      {
+        "publication_number": "CH53207A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1910-08-15",
+        "publication_date": "1912-02-01",
+        "assignee_original": "Bruno Knuepfer Karl",
+        "title": "Wrought iron wall bracket support",
+        "patent_id": "patent/CH53207A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCH53207A%2Fen"
+      },
+      {
+        "publication_number": "US1718217A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1926-08-16",
+        "publication_date": "1929-06-25",
+        "assignee_original": "Sophie L Woods",
+        "title": "Blank for side bearings for railway cars",
+        "patent_id": "patent/US1718217A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1718217A%2Fen"
+      },
+      {
+        "publication_number": "US1734356A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1926-08-16",
+        "publication_date": "1929-11-05",
+        "assignee_original": "Sophie L Woods",
+        "title": "Metal blank for side bearings",
+        "patent_id": "patent/US1734356A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1734356A%2Fen"
+      },
+      {
+        "publication_number": "US1904052A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1930-07-02",
+        "publication_date": "1933-04-18",
+        "assignee_original": "Alexander S Katz",
+        "title": "Shelving construction",
+        "patent_id": "patent/US1904052A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1904052A%2Fen"
+      },
+      {
+        "publication_number": "US2016089A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1933-03-31",
+        "publication_date": "1935-10-01",
+        "assignee_original": "Horace J Hasson",
+        "title": "Method of making plowshares",
+        "patent_id": "patent/US2016089A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2016089A%2Fen"
+      },
+      {
+        "publication_number": "US2213115A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1937-06-15",
+        "publication_date": "1940-08-27",
+        "assignee_original": "Lyon Metal Products Inc",
+        "title": "Shelving",
+        "patent_id": "patent/US2213115A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2213115A%2Fen"
+      },
+      {
+        "publication_number": "US2450723A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1944-05-08",
+        "publication_date": "1948-10-05",
+        "assignee_original": "William R Elrad",
+        "title": "Bed rail blank",
+        "patent_id": "patent/US2450723A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2450723A%2Fen"
+      },
+      {
+        "publication_number": "US2490863A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1945-03-08",
+        "publication_date": "1949-12-13",
+        "assignee_original": "Aero Zipp Fasteners Ltd",
+        "title": "Method of making sliding clasp fasteners",
+        "patent_id": "patent/US2490863A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2490863A%2Fen"
+      },
+      {
+        "publication_number": "US2515067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1948-12-27",
+        "publication_date": "1950-07-11",
+        "assignee_original": "Guarantee Specialty Mfg Compan",
+        "title": "Venetian blind bracket",
+        "patent_id": "patent/US2515067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2515067A%2Fen"
+      },
+      {
+        "publication_number": "US2550699A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1946-05-07",
+        "publication_date": "1951-05-01",
+        "assignee_original": "Susie E Lamb",
+        "title": "Combination spectacle case and ash tray support for barbers' chairs",
+        "patent_id": "patent/US2550699A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2550699A%2Fen"
+      },
+      {
+        "publication_number": "US2602988A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1948-11-23",
+        "publication_date": "1952-07-15",
+        "assignee_original": "Kirkwood Commutator Company",
+        "title": "Commutator and blank for forming same",
+        "patent_id": "patent/US2602988A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2602988A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US3135586A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1961-01-23",
+        "publication_date": "1964-06-02",
+        "assignee_original": "Smith H Brown",
+        "title": "Perforation method and apparatus",
+        "patent_id": "patent/US3135586A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3135586A%2Fen"
+      },
+      {
+        "publication_number": "US4154420A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-02-23",
+        "publication_date": "1979-05-15",
+        "assignee_original": "Wessel Hardware Corporation",
+        "title": "Closet shelf and pole arrangement",
+        "patent_id": "patent/US4154420A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4154420A%2Fen"
+      },
+      {
+        "publication_number": "US4197950A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-07-13",
+        "publication_date": "1980-04-15",
+        "assignee_original": "John H. Best And Sons, Inc.",
+        "title": "Display shelf assembly",
+        "patent_id": "patent/US4197950A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4197950A%2Fen"
+      },
+      {
+        "publication_number": "US4267994A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-04-20",
+        "publication_date": "1981-05-19",
+        "assignee_original": "Lynch Paul C",
+        "title": "Pipe supporting apparatus",
+        "patent_id": "patent/US4267994A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4267994A%2Fen"
+      },
+      {
+        "publication_number": "US4521838A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-06-17",
+        "publication_date": "1985-06-04",
+        "assignee_original": "Youri Agabekov",
+        "title": "Tubular electric lamp fixture",
+        "patent_id": "patent/US4521838A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4521838A%2Fen"
+      },
+      {
+        "publication_number": "US4951908A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-07-20",
+        "publication_date": "1990-08-28",
+        "assignee_original": "James H. Kallio",
+        "title": "Shelf assembly for a closet",
+        "patent_id": "patent/US4951908A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4951908A%2Fen"
+      },
+      {
+        "publication_number": "US5514481A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-05-17",
+        "publication_date": "1996-05-07",
+        "assignee_original": "Audi Ag",
+        "title": "Light metal casting",
+        "patent_id": "patent/US5514481A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5514481A%2Fen"
+      },
+      {
+        "publication_number": "US6227507B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-18",
+        "publication_date": "2001-05-08",
+        "assignee_original": "James H. Kallio",
+        "title": "Closet shelving system",
+        "patent_id": "patent/US6227507B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6227507B1%2Fen"
+      },
+      {
+        "publication_number": "US20120305732A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-03",
+        "publication_date": "2012-12-06",
+        "assignee_original": "James Gary W",
+        "title": "Bin retainer panel",
+        "patent_id": "patent/US20120305732A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120305732A1%2Fen"
+      },
+      {
+        "publication_number": "US10213016B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-30",
+        "publication_date": "2019-02-26",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "Interchangeable modular shelf system",
+        "patent_id": "patent/US10213016B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10213016B2%2Fen"
+      },
+      {
+        "publication_number": "US11024263B2",
+        "primary_language": "en",
+        "priority_date": "2018-01-18",
+        "publication_date": "2021-06-01",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Method and apparatus for adjusting augmented reality content",
+        "patent_id": "patent/US11024263B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11024263B2%2Fen"
+      },
+      {
+        "publication_number": "US20220312965A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-06",
+        "publication_date": "2022-10-06",
+        "assignee_original": "DriFlower, LLC",
+        "title": "Vegetation hanging and drying system and brackets thereof",
+        "patent_id": "patent/US20220312965A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220312965A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US2960761A",
+      "primary_language": "en",
+      "publication_date": "1960-11-22",
+      "title": "Closet shelf bracket and blank therefor",
+      "patent_id": "patent/US2960761A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2960761A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2521134A",
+      "primary_language": "en",
+      "publication_date": "1950-09-05",
+      "title": "Wall cabinet hanger bar",
+      "patent_id": "patent/US2521134A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2521134A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2528807A",
+      "primary_language": "en",
+      "publication_date": "1950-11-07",
+      "title": "Shelving",
+      "patent_id": "patent/US2528807A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2528807A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4193650A",
+      "primary_language": "en",
+      "publication_date": "1980-03-18",
+      "title": "Adjustable shelf device",
+      "patent_id": "patent/US4193650A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4193650A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US1758307A",
+      "primary_language": "en",
+      "publication_date": "1930-05-13",
+      "title": "Shelf construction",
+      "patent_id": "patent/US1758307A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1758307A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2783961A",
+      "primary_language": "en",
+      "publication_date": "1957-03-05",
+      "title": "Wall case standard",
+      "patent_id": "patent/US2783961A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2783961A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3645486A",
+      "primary_language": "en",
+      "publication_date": "1972-02-29",
+      "title": "Modular wall shelving",
+      "patent_id": "patent/US3645486A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3645486A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3985324A",
+      "primary_language": "en",
+      "publication_date": "1976-10-12",
+      "title": "Tool holder for pegboard",
+      "patent_id": "patent/US3985324A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3985324A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US1938370A",
+      "primary_language": "en",
+      "publication_date": "1933-12-05",
+      "title": "Stocking and display fixture",
+      "patent_id": "patent/US1938370A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1938370A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5101986A",
+      "primary_language": "en",
+      "publication_date": "1992-04-07",
+      "title": "Merchandise display assembly",
+      "patent_id": "patent/US5101986A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5101986A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4703593A",
+      "primary_language": "en",
+      "publication_date": "1987-11-03",
+      "title": "Wall header",
+      "patent_id": "patent/US4703593A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4703593A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2827254A",
+      "primary_language": "en",
+      "publication_date": "1958-03-18",
+      "title": "Shelf fixtures",
+      "patent_id": "patent/US2827254A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2827254A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0339688B2",
+      "primary_language": "en",
+      "publication_date": "1991-06-14",
+      "patent_id": "patent/JPH0339688B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0339688B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210337966A1",
+      "primary_language": "en",
+      "publication_date": "2021-11-04",
+      "title": "Hang standard and storage system including the hang standard",
+      "patent_id": "patent/US20210337966A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210337966A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2096024A",
+      "primary_language": "en",
+      "publication_date": "1937-10-19",
+      "title": "Corner shelf",
+      "patent_id": "patent/US2096024A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2096024A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5617797A",
+      "primary_language": "en",
+      "publication_date": "1997-04-08",
+      "title": "Stud shelving",
+      "patent_id": "patent/US5617797A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5617797A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6619767B2",
+      "primary_language": "en",
+      "publication_date": "2003-09-16",
+      "title": "Display with pivotal doors having mating door sections",
+      "patent_id": "patent/US6619767B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6619767B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2026223A",
+      "primary_language": "en",
+      "publication_date": "1935-12-31",
+      "title": "Shelving",
+      "patent_id": "patent/US2026223A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2026223A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2429586A",
+      "primary_language": "en",
+      "publication_date": "1947-10-21",
+      "title": "One-piece sheet metal shelf bracket",
+      "patent_id": "patent/US2429586A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2429586A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2586334A1",
+      "primary_language": "en",
+      "publication_date": "2013-05-01",
+      "title": "Holding device",
+      "patent_id": "patent/EP2586334A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2586334A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6357610B1",
+      "primary_language": "en",
+      "publication_date": "2002-03-19",
+      "title": "Interlocking cabinet assembly",
+      "patent_id": "patent/US6357610B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6357610B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0032884A1",
+      "primary_language": "en",
+      "publication_date": "1981-07-29",
+      "title": "Roller blind holder",
+      "patent_id": "patent/EP0032884A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0032884A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2297087A",
+      "primary_language": "en",
+      "publication_date": "1942-09-29",
+      "title": "Furniture construction",
+      "patent_id": "patent/US2297087A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2297087A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2295304A",
+      "primary_language": "en",
+      "publication_date": "1942-09-08",
+      "title": "Cabinet structure",
+      "patent_id": "patent/US2295304A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2295304A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2208234A",
+      "primary_language": "en",
+      "publication_date": "1940-07-16",
+      "title": "Shelf support",
+      "patent_id": "patent/US2208234A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2208234A%2Fen"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "210000005069",
+        "name": "ears",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "210000002105",
+        "name": "tongue",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000006073",
+        "name": "displacement reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000019687",
+        "name": "Lamb",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003780",
+        "name": "insertion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037431",
+        "name": "insertion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010422",
+        "name": "painting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000136",
+        "name": "polysorbate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003825",
+        "name": "pressing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004080",
+        "name": "punching",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000284",
+        "name": "resting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

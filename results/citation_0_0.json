@@ -1,0 +1,620 @@
+{
+  "search_metadata": {
+    "id": "68514f82a4817c32b5b81da0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/13988de9380b1b1b/68514f82a4817c32b5b81da0.json",
+    "created_at": "2025-06-17 11:20:34 UTC",
+    "processed_at": "2025-06-17 11:20:34 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN109597489A/en",
+    "raw_html_file": "https://serpapi.com/searches/13988de9380b1b1b/68514f82a4817c32b5b81da0.html",
+    "total_time_taken": 0.76
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN109597489A/en"
+  },
+  "title": "A kind of method and system of the eye movement tracking interaction of near-eye display device",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/4b/a4/5f/dd15f19dfc8bb8/CN109597489A.pdf",
+  "publication_number": "CN109597489A",
+  "country": "China",
+  "prior_art_keywords": [
+    "eye",
+    "display device",
+    "eye display",
+    "eye movement",
+    "signal"
+  ],
+  "prior_art_date": "2018-12-27",
+  "application_number": "CN201811612264.7A",
+  "inventors": [
+    {
+      "name": "\u9648\u6d9b",
+      "link": "https://patents.google.com/?inventor=%E9%99%88%E6%B6%9B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%99%88%E6%B6%9B"
+    },
+    {
+      "name": "\u8521\u8d85",
+      "link": "https://patents.google.com/?inventor=%E8%94%A1%E8%B6%85",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%94%A1%E8%B6%85"
+    },
+    {
+      "name": "\u5c39\u5ce5",
+      "link": "https://patents.google.com/?inventor=%E5%B0%B9%E5%B3%A5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%B0%B9%E5%B3%A5"
+    }
+  ],
+  "assignees": [
+    "Magic Scorpion Technology Wuhan Co ltd"
+  ],
+  "priority_date": "2018-12-27",
+  "filing_date": "2018-12-27",
+  "publication_date": "2019-04-09",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-12-27",
+        "country_code": "CN",
+        "application_number": "CN201811612264.7A",
+        "document_id": "patent/CN109597489A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-12-27",
+      "title": "Application filed by Wuhan Scorpio Technology Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Wuhan Scorpio Technology Co Ltd"
+    },
+    {
+      "date": "2018-12-27",
+      "title": "Priority to CN201811612264.7A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN109597489A/en"
+    },
+    {
+      "date": "2019-04-09",
+      "title": "Publication of CN109597489A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN109597489A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=109597489A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201811612264/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN109597489A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "G06F3/013",
+      "description": "Eye tracking input arrangements",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/0484",
+      "description": "Interaction techniques based on graphical user interfaces [GUI] for the control of specific functions or operations, e.g. selecting or manipulating an object, an image or a displayed text element, setting a parameter value or selecting a range",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention belongs to near-eye display device applied technical fields, disclose a kind of method and system of the eye movement tracking interaction of near-eye display device, Eye-controlling focus is carried out using the eye movement tracking mould group in near-eye display device, is mapped to near-eye display device optical imagery button screen coordinate position after carrying out calculation processing to the eye movement information of acquisition\uff1bButton screen is imaged to click, executes the interactive function program after interaction success.Operation of the present invention interactive experience sense is more preferable: selecting in contrast to the blink of existing eye movement interaction, the present invention greatly reduces attention of the user during interactive controlling carried out by eyeball, the cognitive load on subjective consciousness is reduced simultaneously, the muscle of simple eye blink will not be controlled uncoordinated and bring is uncomfortable\uff1bIn contrast to gesture identification interactive controlling, advantage of the invention is that concealment height is convenient without losing operation, suitable for the application scenarios required to privacy.",
+  "description_link": "https://serpapi.com/searches/68514f82a4817c32b5b81da0/google_patents_details/description.html",
+  "claims": [
+    "1. a kind of method of the eye movement tracking interaction of near-eye display device, which is characterized in that the eye movement of the near-eye display device\nTracking interactive method includes:\n      Have eye movement tracing module using near-eye display device and carry out eyeball tracking, calculation processing is carried out to the eye movement information of acquisition\nAfter be mapped to head-mounted display optical imagery button screen coordinate position\uff1b\n      The optical imagery button screen coordinate position of near-eye display device receives click commands of the peripheral hardware hardware by Bluetooth transmission\uff1b\n      Optical imagery button screen clicking operation is carried out again, executes interactive program.",
+    "2. the method for the eye movement tracking interaction of near-eye display device as described in claim 1, which is characterized in that nearly eye, which is shown, to be set\nThe method of standby eye movement tracking interaction specifically includes:\n      Step 1: the computer system of near-eye display device obtains human eye ball in near-eye display device by eye movement tracing module\nThe mapping point of sight intersection point on optical imagery screen\uff1bThe eye movement tracing module integrated in near-eye display device obtains human eye ball figure\nPicture identifies eye image and calculates eye movement vector, obtains the eye movement coordinates of motion\uff1b\n      During wherein eye movement vector obtains, using pupil-corneal reflection spot method or MEMS eyeball tracking technology, by human eye\nMotor behavior digitlization is converted into the electronic signal of computer system calculating, and is calculated by algorithm and obtain people's blinkpunkt close\nMapping relations on the optical imagery screen of eye display equipment\uff1bIt is aobvious in the optical imagery of near-eye display device according to mapping relations\nShow the visual feedback that human eye fixation point is presented on device\uff1b\n      Step 2: it obtains the operational order of hardware external equipment: setting radio magnetic wave communication module, nearly eye in near-eye display device\nShow that equipment receives the click from hardware external equipment by radio magnetic wave communication module and confirms wireless signal instruction, instruction\nNear-eye display device is transferred to by hardware external equipment in the form of radio magnetic wave signal\uff1b\n      Step 3: completing to click the button in the operation interface on near-eye display device optical imagery screen, executes interaction journey\nSequence.",
+    "3. the method for the eye movement tracking interaction of near-eye display device as claimed in claim 2, which is characterized in that set outside hardware\nIt is standby obtain click behavior signal after, signal processing is carried out by integrated processor, will treated signal with Bluetooth matching side\nFormula is sent to the bluetooth module of near-eye display device\uff1b\n      Electromagnetic wave signal includes Bluetooth signal, wifi signal, infrared signal\uff1b\n      The shape of mapping point is arbitrarily replaced.",
+    "4. a kind of eye of the near-eye display device of the method for the eye movement tracking interaction for implementing near-eye display device described in claim 1\nDynamic tracking interactive system, which is characterized in that the eye movement of near-eye display device tracks interactive system and includes:\n      Near-eye display device and hardware external equipment\uff1b\n      Near-eye display device is used to interact the selection at interface by eye movement tracing equipment\uff1b\n      Hardware external equipment, and near-eye display device bluetooth connection, for confirming click behavior.",
+    "5. the eye movement of near-eye display device as claimed in claim 4 tracks interactive system, which is characterized in that\n      The hardware external equipment is intended to be worn in user hand, the life with the wrist, palm, finger, hand body engineering science of user\nReason state matches.",
+    "6. the eye movement of near-eye display device as claimed in claim 4 tracks interactive system, which is characterized in that\n      Near-eye display device is intelligent glasses, and intelligent glasses include:\n      Carry out the eye movement tracing module of eyeball tracking\uff1b\n      The optical imagery screen that the information of operation interface or Application Program Interface is presented\uff1b\n      The calculation processing module of calculation processing is carried out to the eye movement tracked information of acquisition\uff1b\n      For receiving the bluetooth module of the Bluetooth signal of hardware external equipment transmission\uff1b\n      It is integrated on bluetooth module, what is be used for sends and receivees the signal receiver of Bluetooth signal.",
+    "7. the eye movement of near-eye display device as claimed in claim 4 tracks interactive system, which is characterized in that hardware external equipment\nInclude:\n      Obtain the hardware adaptor key of click behavior signal\uff1b\n      Click behavior signal is received, the processor of signal processing is carried out\uff1b\n      By treated, signal is in a manner of Bluetooth matching or other wireless radio transmission forms are sent to the Bluetooth transmission of bluetooth module\nModule.",
+    "8. the eye movement of near-eye display device as claimed in claim 6 tracks interactive system, which is characterized in that the optical imagery\nScreen shows equipment for being integrated in head\uff1b\n      Hardware external equipment is that intelligent TV set, projector, the LED with display imaging function show large-size screen monitors, plate.",
+    "9. a kind of calculating of the method for the eye movement tracking interaction for realizing near-eye display device described in claims 1 to 3 any one\nMachine program.",
+    "10. a kind of information of the method for the eye movement tracking interaction for realizing near-eye display device described in claims 1 to 3 any one\nData processing terminal.",
+    "11. a kind of computer readable storage medium, including instruction, when run on a computer, so that computer executes such as\nThe method of the eye movement tracking interaction of near-eye display device described in claim 1-3 any one."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201811612264.7A",
+      "representative_publication": "CN109597489A",
+      "primary_language": "en",
+      "priority_date": "2018-12-27",
+      "filing_date": "2018-12-27",
+      "title": "A kind of method and system of the eye movement tracking interaction of near-eye display device"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201811612264.7A",
+      "representative_publication": "CN109597489A",
+      "primary_language": "en",
+      "priority_date": "2018-12-27",
+      "filing_date": "2018-12-27",
+      "title": "A kind of method and system of the eye movement tracking interaction of near-eye display device"
+    }
+  ],
+  "family_id": "65963726",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101344816A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-15",
+        "publication_date": "2009-01-14",
+        "assignee_original": "\u534e\u5357\u7406\u5de5\u5927\u5b66",
+        "title": "Human-computer interaction method and device based on gaze tracking and gesture recognition",
+        "patent_id": "patent/CN101344816A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101344816A%2Fen"
+      },
+      {
+        "publication_number": "CN104866105A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-03",
+        "publication_date": "2015-08-26",
+        "assignee_original": "\u6df1\u5733\u5e02\u667a\u5e3d\u79d1\u6280\u5f00\u53d1\u6709\u9650\u516c\u53f8",
+        "title": "Eye movement and head movement interactive method for head display equipment",
+        "patent_id": "patent/CN104866105A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104866105A%2Fen"
+      },
+      {
+        "publication_number": "CN106125931A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-30",
+        "publication_date": "2016-11-16",
+        "assignee_original": "\u5218\u5174\u4e39",
+        "title": "A kind of method and device of eyeball tracking operation",
+        "patent_id": "patent/CN106125931A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106125931A%2Fen"
+      },
+      {
+        "publication_number": "CN106814854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-29",
+        "publication_date": "2017-06-09",
+        "assignee_original": "\u676d\u5dde\u8054\u7edc\u4e92\u52a8\u4fe1\u606f\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of method and device for preventing maloperation",
+        "patent_id": "patent/CN106814854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106814854A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN110187855A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-28",
+        "publication_date": "2019-08-30",
+        "assignee_original": "\u6b66\u6c49\u5e02\u5929\u874e\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "The intelligent adjusting method for avoiding hologram block vision of near-eye display device",
+        "patent_id": "patent/CN110187855A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110187855A%2Fen"
+      },
+      {
+        "publication_number": "CN110554777A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-24",
+        "publication_date": "2019-12-10",
+        "assignee_original": "\u5927\u8fde\u7406\u5de5\u5927\u5b66",
+        "title": "Eyeball gaze angle measuring method based on electromagnetic wave tracking",
+        "patent_id": "patent/CN110554777A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110554777A%2Fen"
+      },
+      {
+        "publication_number": "CN111061372A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-18",
+        "publication_date": "2020-04-24",
+        "assignee_original": "Oppo\u5e7f\u4e1c\u79fb\u52a8\u901a\u4fe1\u6709\u9650\u516c\u53f8",
+        "title": "Equipment control method and related equipment",
+        "patent_id": "patent/CN111061372A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111061372A%2Fen"
+      },
+      {
+        "publication_number": "CN111949131A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-17",
+        "publication_date": "2020-11-17",
+        "assignee_original": "\u9648\u6d9b",
+        "title": "Eye movement interaction method, system and equipment based on eye movement tracking technology",
+        "patent_id": "patent/CN111949131A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111949131A%2Fen"
+      },
+      {
+        "publication_number": "CN112034977A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-04",
+        "publication_date": "2020-12-04",
+        "assignee_original": "\u9648\u6d9b",
+        "title": "Method for MR intelligent glasses content interaction, information input and recommendation technology application",
+        "patent_id": "patent/CN112034977A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112034977A%2Fen"
+      },
+      {
+        "publication_number": "CN113325956A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-29",
+        "publication_date": "2021-08-31",
+        "assignee_original": "\u534e\u5357\u7406\u5de5\u5927\u5b66",
+        "title": "Eye movement control system based on neural network and implementation method",
+        "patent_id": "patent/CN113325956A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113325956A%2Fen"
+      },
+      {
+        "publication_number": "CN113655622A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-18",
+        "publication_date": "2021-11-16",
+        "assignee_original": "\u7269\u82af\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Use at AR and VR refraction screen eye movement automatic focusing system",
+        "patent_id": "patent/CN113655622A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113655622A%2Fen"
+      },
+      {
+        "publication_number": "CN114779969A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-20",
+        "publication_date": "2022-07-22",
+        "assignee_original": "\u827e\u89c6\u96c5\u5065\u5eb7\u79d1\u6280(\u82cf\u5dde)\u6709\u9650\u516c\u53f8",
+        "title": "Device for displaying object position on second display screen near to eye and combination thereof",
+        "patent_id": "patent/CN114779969A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114779969A%2Fen"
+      },
+      {
+        "publication_number": "CN114816053A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-11",
+        "publication_date": "2022-07-29",
+        "assignee_original": "\u9752\u5c9b\u865a\u62df\u73b0\u5b9e\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "title": "Eye tracking interaction method and device, electronic equipment and readable storage medium",
+        "patent_id": "patent/CN114816053A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114816053A%2Fen"
+      },
+      {
+        "publication_number": "WO2023134637A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-13",
+        "publication_date": "2023-07-20",
+        "assignee_original": "\u5317\u4eac\u4e03\u946b\u6613\u7ef4\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Vehicle-mounted eye movement interaction system and method",
+        "patent_id": "patent/WO2023134637A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023134637A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN109597489A",
+      "primary_language": "en",
+      "publication_date": "2019-04-09",
+      "title": "A kind of method and system of the eye movement tracking interaction of near-eye display device",
+      "patent_id": "patent/CN109597489A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109597489A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11772835402375758757",
+      "scholar_authors": "Li et al.",
+      "publication_date": "2017",
+      "title": "Reconstructing hand poses using visible light",
+      "patent_id": "scholar/11772835402375758757",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11772835402375758757"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110456907A",
+      "primary_language": "en",
+      "publication_date": "2019-11-15",
+      "title": "Virtual screen control method, device, terminal equipment and storage medium",
+      "patent_id": "patent/CN110456907A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110456907A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103336575A",
+      "primary_language": "en",
+      "publication_date": "2013-10-02",
+      "title": "Man-machine interaction intelligent glasses system and interaction method",
+      "patent_id": "patent/CN103336575A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103336575A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110689479B",
+      "primary_language": "en",
+      "publication_date": "2023-05-30",
+      "title": "Face makeup method, device, equipment and medium",
+      "patent_id": "patent/CN110689479B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110689479B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106843498A",
+      "primary_language": "en",
+      "publication_date": "2017-06-13",
+      "title": "Dynamic interface exchange method and device based on virtual reality",
+      "patent_id": "patent/CN106843498A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106843498A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201638151U",
+      "primary_language": "en",
+      "publication_date": "2010-11-17",
+      "title": "Device for realizing virtual display and virtual interactive operation",
+      "patent_id": "patent/CN201638151U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201638151U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106846496A",
+      "primary_language": "en",
+      "publication_date": "2017-06-13",
+      "title": "DICOM images based on mixed reality technology check system and operating method",
+      "patent_id": "patent/CN106846496A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106846496A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111586459A",
+      "primary_language": "en",
+      "publication_date": "2020-08-25",
+      "title": "Method and device for controlling video playing, electronic equipment and storage medium",
+      "patent_id": "patent/CN111586459A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111586459A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109144267A",
+      "primary_language": "en",
+      "publication_date": "2019-01-04",
+      "title": "Man-machine interaction method and device",
+      "patent_id": "patent/CN109144267A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109144267A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107390874A",
+      "primary_language": "en",
+      "publication_date": "2017-11-24",
+      "title": "A kind of intelligent terminal control method and control device based on human eye",
+      "patent_id": "patent/CN107390874A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107390874A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114265543A",
+      "primary_language": "en",
+      "publication_date": "2022-04-01",
+      "title": "Virtual digital human sight following interaction method",
+      "patent_id": "patent/CN114265543A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114265543A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12113435891912124520",
+      "scholar_authors": "Li et al.",
+      "publication_date": "2017",
+      "title": "Gazture: Design and implementation of a gaze based gesture control system on tablets",
+      "patent_id": "scholar/12113435891912124520",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12113435891912124520"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105677018A",
+      "primary_language": "en",
+      "publication_date": "2016-06-15",
+      "title": "Screen capture method and apparatus, and electronic device",
+      "patent_id": "patent/CN105677018A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105677018A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9392223B2",
+      "primary_language": "en",
+      "publication_date": "2016-07-12",
+      "title": "Method for controlling visual light source, terminal, and video conference system",
+      "patent_id": "patent/US9392223B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9392223B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106127171A",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "A display method, device and terminal for augmented reality content",
+      "patent_id": "patent/CN106127171A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106127171A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102707793A",
+      "primary_language": "en",
+      "publication_date": "2012-10-03",
+      "title": "Eye-control mouse",
+      "patent_id": "patent/CN102707793A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102707793A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3058620947880444318",
+      "scholar_authors": "Jalaliniya et al.",
+      "publication_date": "2015",
+      "title": "EyeDroid: an open source mobile gaze tracker on Android for eyewear computers",
+      "patent_id": "scholar/3058620947880444318",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3058620947880444318"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109426342B",
+      "primary_language": "en",
+      "publication_date": "2022-04-01",
+      "title": "Document reading method and device based on augmented reality",
+      "patent_id": "patent/CN109426342B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109426342B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9808032065871085671",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2018",
+      "title": "EXG wearable human-machine interface for natural multimodal interaction in VR environment",
+      "patent_id": "scholar/9808032065871085671",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9808032065871085671"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104699230B",
+      "primary_language": "en",
+      "publication_date": "2017-12-19",
+      "title": "A kind of determination method and apparatus for inputting information",
+      "patent_id": "patent/CN104699230B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104699230B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113641238A",
+      "primary_language": "en",
+      "publication_date": "2021-11-12",
+      "title": "A control method, device, terminal device, controlled device and storage medium",
+      "patent_id": "patent/CN113641238A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113641238A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114416237B",
+      "primary_language": "en",
+      "publication_date": "2024-08-13",
+      "title": "Display state switching method, device and system, electronic equipment and storage medium",
+      "patent_id": "patent/CN114416237B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114416237B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110221688A",
+      "primary_language": "en",
+      "publication_date": "2019-09-10",
+      "title": "The control method and device of wearable device, mouse",
+      "patent_id": "patent/CN110221688A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110221688A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13095257025866582447",
+      "scholar_authors": "Lin et al.",
+      "publication_date": "2016",
+      "title": "Study on directional eye movements in non\u2010frontal face images for eye\u2010controlled interaction",
+      "patent_id": "scholar/13095257025866582447",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13095257025866582447"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-04-09",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-04-09",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-05-03",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2019-05-03",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2020-12-11",
+      "code": "TA01",
+      "title": "Transfer of patent application right",
+      "attributes": [
+        {
+          "label": "Effective date of registration",
+          "value": "20201127"
+        },
+        {
+          "label": "Address after",
+          "value": "Room 007 (U), 1F college students' innovation and entrepreneurship practice base, Liufang campus, Wuhan Engineering University, 430205 Donghu New Technology Development Zone, Wuhan City, Hubei Province"
+        },
+        {
+          "label": "Applicant after",
+          "value": "Magic scorpion technology (Wuhan) Co.,Ltd."
+        },
+        {
+          "label": "Address before",
+          "value": "430205 Room 003, Innovation and Entrepreneurship Practice Base for College Students in Liufang Campus of Wuhan Engineering University, Wuhan City, Hubei Province"
+        },
+        {
+          "label": "Applicant before",
+          "value": "WUHAN SCORPIONS TECHNOLOGY Co.,Ltd."
+        }
+      ]
+    },
+    {
+      "date": "2020-12-11",
+      "code": "TA01",
+      "title": "Transfer of patent application right"
+    },
+    {
+      "date": "2022-12-23",
+      "code": "RJ01",
+      "title": "Rejection of invention patent application after publication",
+      "attributes": [
+        {
+          "label": "Application publication date",
+          "value": "20190409"
+        }
+      ]
+    },
+    {
+      "date": "2022-12-23",
+      "code": "RJ01",
+      "title": "Rejection of invention patent application after publication"
+    }
+  ]
+}

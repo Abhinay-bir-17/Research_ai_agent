@@ -1,0 +1,2495 @@
+{
+  "search_metadata": {
+    "id": "68514e5dc83b3f977fecb805",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5fd30508789329c5/68514e5dc83b3f977fecb805.json",
+    "created_at": "2025-06-17 11:15:41 UTC",
+    "processed_at": "2025-06-17 11:15:41 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070168308A1/en",
+    "raw_html_file": "https://serpapi.com/searches/5fd30508789329c5/68514e5dc83b3f977fecb805.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070168308A1/en"
+  },
+  "title": "Systems and Method For Integrative Medical Decision Support",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/1e/af/1b/150a195f0a2b95/US20070168308A1.pdf",
+  "publication_number": "US20070168308A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "medical",
+    "cancer",
+    "information",
+    "patient",
+    "probability"
+  ],
+  "prior_art_date": "2006-01-11",
+  "application_number": "US11/620,095",
+  "inventors": [
+    {
+      "name": "Lu-yong Wang",
+      "link": "https://patents.google.com/?inventor=Lu-yong+Wang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lu-yong+Wang"
+    },
+    {
+      "name": "Daniel Fasulo",
+      "link": "https://patents.google.com/?inventor=Daniel+Fasulo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Daniel+Fasulo"
+    },
+    {
+      "name": "Dorin Comaniciu",
+      "link": "https://patents.google.com/?inventor=Dorin+Comaniciu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dorin+Comaniciu"
+    }
+  ],
+  "assignees": [
+    "Siemens Medical Solutions USA Inc"
+  ],
+  "priority_date": "2006-01-11",
+  "filing_date": "2007-01-05",
+  "publication_date": "2007-07-19",
+  "worldwide_applications": {
+    "2007": [
+      {
+        "filing_date": "2007-01-05",
+        "country_code": "US",
+        "application_number": "US11/620,095",
+        "document_id": "patent/US7593913B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2007-01-09",
+        "country_code": "DE",
+        "application_number": "DE102007001406A",
+        "document_id": "patent/DE102007001406A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2007-01-05",
+      "title": "Application filed by Siemens Corporate Research Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Siemens Corporate Research Inc"
+    },
+    {
+      "date": "2007-01-05",
+      "title": "Priority to US11/620,095",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7593913B2/en"
+    },
+    {
+      "date": "2007-01-09",
+      "title": "Priority to DE102007001406A",
+      "type": "priority",
+      "document_id": "patent/DE102007001406A1/en"
+    },
+    {
+      "date": "2007-03-30",
+      "title": "Assigned to SIEMENS CORPORATE RESEARCH, INC.",
+      "type": "reassignment",
+      "assignee_search": "SIEMENS CORPORATE RESEARCH, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: COMANICIU, DORIN, FASULO, DANIEL, WANG, LU YONG"
+      ]
+    },
+    {
+      "date": "2007-07-19",
+      "title": "Publication of US20070168308A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070168308A1/en"
+    },
+    {
+      "date": "2008-09-15",
+      "title": "Assigned to SIEMENS MEDICAL SOLUTIONS USA, INC.",
+      "type": "reassignment",
+      "assignee_search": "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SIEMENS CORPORATE RESEARCH, INC."
+      ]
+    },
+    {
+      "date": "2009-09-22",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2009-09-22",
+      "title": "Publication of US7593913B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7593913B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2027-12-29",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070168308.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11620095"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070168308"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007168308A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11620095/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070168308"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/3d/35/3d/3a05590559ad5a/US20070168308A1-20070719-D00000.png",
+    "https://patentimages.storage.googleapis.com/10/8b/9e/d81e4df4f7435a/US20070168308A1-20070719-D00001.png",
+    "https://patentimages.storage.googleapis.com/44/1d/eb/788aa9b2bad5c1/US20070168308A1-20070719-D00002.png",
+    "https://patentimages.storage.googleapis.com/43/6b/e8/6f12dfbe5c118a/US20070168308A1-20070719-D00003.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/60",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to pathologies",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A system for providing medical decision support for diagnosis and treatment of disease comprises a medical knowledge database comprising medical information, the medical information including probabilities of disease outcomes for a disease of interest, a memory device for storing a program, a processor in communication with the memory device, the processor operative with the program to obtain patient information and in vitro test results for a patient, and automatically generate a recommendation for a medical test based on a combination of the patient information, the in vitro test results, and medical information from the medical knowledge database.",
+  "description_link": "https://serpapi.com/searches/68514e5dc83b3f977fecb805/google_patents_details/description.html",
+  "claims": [
+    "1. A system for providing medical decision support for diagnosis and treatment of disease, comprising: \na medical knowledge database comprising medical information, the medical information including probabilities of disease outcomes for a disease of interest;  a memory device for storing a program;  a processor in communication with the memory device, the processor 1C operative with the program to:  obtain patient information and in vitro test results for a patient; and  automatically generate a recommendation for a medical test based on a combination of the patient information, the in vitro test results, and medical information from the medical knowledge database.",
+    "2. The system of claim 1, wherein the medical information further includes information selected from a plurality of case histories, randomized controlled trials, prospective longitudinal cohort studies, retrospective cohort studies, case control studies, cross sectional studies, case series, anecdotes or clinical observations.",
+    "3. The system of claim 1, wherein the medical information further includes information on diseases, conditions, symptoms, medications, and treatment options and outcomes, risks, and benefits associated therewith.",
+    "4. The system of claim 1, wherein the patient information includes at least one of age, ethnicity, family history of disease, genetic markers, or symptoms.",
+    "5. The system of claim 1, wherein the in vitro test is selected from a plurality of in vitro diagnostic tests measuring the concentrations of one or more biomolecules from patient-derived specimens to allow for diagnoses of diseases.",
+    "6. The system of claim 1, wherein the medical test includes at least one of endoscopic examination, in vivo imaging, computed tomography (CT) colonoscopy, optical colonoscopy, or positron emission tomography (PET)/CT colonoscopy.",
+    "7. The system of claim 1, wherein when generating the recommendation for the medical test, the processor is further operative with the program to determine a probability of disease, wherein the probability of disease is a ratio of: a conditional probability of occurrence of the patient information for a disease of interest multiplied by the probability of occurrence of the disease of interest across a population, with respect to the probability of occurrence of the patient information across the population.",
+    "8. The system of claim 7, wherein the disease of interest is a cellular disease.",
+    "9. The system of claim 8, wherein the cellular disease is a cancer.",
+    "10. A computer-implemented method of providing medical decision support for cancer diagnosis and treatment, comprising: \nproviding a medical knowledge database comprising medical information, the medical information including probabilities of cancer outcomes;  obtaining patient information for a patient;  determining a likelihood of cancer based on the patient information and medical information from the medical knowledge database;  obtaining in vitro test results for the patient;  updating the likelihood of cancer based on the in vitro test results and medical information from the medical knowledge database; and  generating a recommendation for a medical test based on a combination of the patient information and the updated likelihood of cancer.",
+    "11. The computer-implemented method of claim 10, wherein the patient information includes at least one of age, ethnicity, family history of cancer, genetic markers, or symptoms.",
+    "12. The computer-implemented method of claim 10, wherein determining a likelihood of cancer comprises determining a ratio of a conditional probability of occurrence of the patient information for a cancer type multiplied by the probability of occurrence of the cancer type across a population, with respect to the probability of occurrence of the patient information across the population.",
+    "13. The computer-implemented method of claim 10, wherein the in vitro test is selected from a plurality of in vitro diagnostic tests measuring the concentrations of one or more biomolecules from patient-derived specimens to allow for diagnoses of diseases.",
+    "14. The computer-implemented method of claim 10, wherein updating the likelihood of cancer comprises determining a ratio of: a conditional probability of occurrence of the patient information and the in vitro test results for a cancer type multiplied by the probability of occurrence of the cancer type across a population, with respect to the probability of occurrence of the patient information and the in vitro test results across the population.",
+    "15. The computer-implemented method of claim 10, wherein the medical test includes at least one of endoscopic examination, in vivo imaging, computed tomography (CT) colonoscopy, optical colonoscopy, or positron emission tomography (PET)/CT colonoscopy.",
+    "16. The computer-implemented method of claim 10, further comprising receiving results of the medical test and verifying the updated likelihood of cancer based on the in vitro test results and the results of the medical test.",
+    "17. The computer-implemented method of claim 10, wherein verifying the updated likelihood of cancer comprises determining a ratio of a conditional probability of occurrence of the in vitro test results and the medical test results for a cancer type multiplied by the probability of occurrence of the cancer type across a population, with respect to the probability of occurrence of the in vitro test results and the medical test results across the population.",
+    "18. A system for providing medical decision support for cancer diagnosis and treatment, comprising: \na medical knowledge database comprising medical information, the medical information including probabilities of cancer outcomes;  a memory device for storing a program;  a processor in communication with the memory device, the processor operative with the program to:  obtain patient information for a patient;  determine a likelihood of cancer based on the patient information and medical information from the medical knowledge database;  obtain in vitro test results for the patient;  update the likelihood of cancer based on the in vitro test results and medical information from the medical knowledge database; and  automatically generate a recommendation for a medical test based on a combination of the patient information and the updated likelihood of cancer.",
+    "19. The system of claim 18, wherein the patient information includes at least one of age, ethnicity, family history of cancer, genetic markers, or symptoms.",
+    "20. The system of claim 18, wherein the in vitro test is selected from a plurality of in vitro diagnostic tests measuring the concentrations of one or more biomolecules from patient-derived specimens to allow for diagnoses of diseases.",
+    "21. The system of claim 18, wherein the medical test includes at least one of endoscopic examination, in vivo imaging, computed tomography (CT) colonoscopy, optical colonoscopy, or positron emission tomography (PET)/CT colonoscopy.",
+    "22. The system of claim 18, wherein generating the recommendation for the medical test comprises determining a probability of cancer, and wherein the probability of cancer is a ratio of: a conditional probability of occurrence of the patient information for a cancer type multiplied by the probability of occurrence of the cancer type across a population, with respect to the probability of occurrence of the patient information across the population."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/620,095",
+      "representative_publication": "US7593913B2",
+      "primary_language": "en",
+      "priority_date": "2006-01-11",
+      "filing_date": "2007-01-05",
+      "title": "Systems and method for integrative medical decision support"
+    },
+    {
+      "application_number": "DE102007001406A",
+      "representative_publication": "DE102007001406A1",
+      "primary_language": "en",
+      "priority_date": "2006-01-11",
+      "filing_date": "2007-01-09",
+      "title": "Systems and methods for integrative medical decision support"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US75797606P",
+      "priority_date": "2006-01-11",
+      "filing_date": "2006-01-11"
+    },
+    {
+      "application_number": "US11/620,095",
+      "representative_publication": "US7593913B2",
+      "primary_language": "en",
+      "priority_date": "2006-01-11",
+      "filing_date": "2007-01-05",
+      "title": "Systems and method for integrative medical decision support"
+    }
+  ],
+  "family_id": "38264420",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6556977B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-14",
+        "publication_date": "2003-04-29",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Methods for selecting, developing and improving diagnostic tests for pregnancy-related conditions",
+        "patent_id": "patent/US6556977B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6556977B1%2Fen"
+      },
+      {
+        "publication_number": "US6787525B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-04",
+        "publication_date": "2004-09-07",
+        "assignee_original": "Herbert Schott",
+        "title": "Glyceryl nucleotides, method for the production thereof and their use",
+        "patent_id": "patent/US6787525B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6787525B1%2Fen"
+      },
+      {
+        "publication_number": "US20040242972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-28",
+        "publication_date": "2004-12-02",
+        "assignee_original": "General Electric Company",
+        "title": "Method, system and computer product for prognosis of a medical disorder",
+        "patent_id": "patent/US20040242972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040242972A1%2Fen"
+      },
+      {
+        "publication_number": "US7027627B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-28",
+        "publication_date": "2006-04-11",
+        "assignee_original": "Accuramed (1999) Ltd.",
+        "title": "Medical decision support system and method",
+        "patent_id": "patent/US7027627B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7027627B2%2Fen"
+      },
+      {
+        "publication_number": "US20070094188A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-25",
+        "publication_date": "2007-04-26",
+        "assignee_original": "Pandya Abhinay M",
+        "title": "Medical ontologies for computer assisted clinical decision support",
+        "patent_id": "patent/US20070094188A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070094188A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20100152583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-16",
+        "publication_date": "2010-06-17",
+        "assignee_original": "General Electric Company",
+        "title": "Medical imaging system and method containing ultrasound docking port",
+        "patent_id": "patent/US20100152583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100152583A1%2Fen"
+      },
+      {
+        "publication_number": "US20100152578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-16",
+        "publication_date": "2010-06-17",
+        "assignee_original": "General Electric Company",
+        "title": "Medical imaging system and method containing ultrasound docking port",
+        "patent_id": "patent/US20100152578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100152578A1%2Fen"
+      },
+      {
+        "publication_number": "US20100246760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2010-09-30",
+        "assignee_original": "General Electric Company",
+        "title": "Combining x-ray and ultrasound imaging for enhanced mammography",
+        "patent_id": "patent/US20100246760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100246760A1%2Fen"
+      },
+      {
+        "publication_number": "US20100247438A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2010-09-30",
+        "assignee_original": "Arne Hengerer",
+        "title": "In vitro method for diagnosing tumor diseases",
+        "patent_id": "patent/US20100247438A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100247438A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011060314A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-12",
+        "publication_date": "2011-05-19",
+        "assignee_original": "eTenum, LLC",
+        "title": "Method and system for optimal estimation in medical diagnosis",
+        "patent_id": "patent/WO2011060314A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011060314A1%2Fen"
+      },
+      {
+        "publication_number": "US20120046927A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-01",
+        "publication_date": "2012-02-23",
+        "assignee_original": "Eric Nettleton",
+        "title": "Integrated automation system with picture compilation system",
+        "patent_id": "patent/US20120046927A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120046927A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012012577A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-20",
+        "publication_date": "2013-01-17",
+        "assignee_original": "Sparkling Logic, Inc.",
+        "title": "Contextual decision logic elicitation",
+        "patent_id": "patent/WO2012012577A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012012577A3%2Fen"
+      },
+      {
+        "publication_number": "US8636660B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-09",
+        "publication_date": "2014-01-28",
+        "assignee_original": "Regents Of The University Of Minnesota",
+        "title": "System and method for dynamic multi-stage test administration for detection of cardiovascular disease",
+        "patent_id": "patent/US8636660B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8636660B1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9135574B2",
+        "primary_language": "en",
+        "priority_date": "2010-07-20",
+        "publication_date": "2015-09-15",
+        "assignee_original": "Sparkling Logic, Inc.",
+        "title": "Contextual decision logic elicitation",
+        "patent_id": "patent/US9135574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9135574B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9382797B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-01",
+        "publication_date": "2016-07-05",
+        "assignee_original": "The University Of Sydney",
+        "title": "Integrated automation system",
+        "patent_id": "patent/US9382797B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9382797B2%2Fen"
+      },
+      {
+        "publication_number": "US9916539B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-18",
+        "publication_date": "2018-03-13",
+        "assignee_original": "The University Of Sydney",
+        "title": "Systems and methods for processing geophysical data",
+        "patent_id": "patent/US9916539B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9916539B2%2Fen"
+      },
+      {
+        "publication_number": "CN113223677A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-21",
+        "publication_date": "2021-08-06",
+        "assignee_original": "\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Doctor matching method and device for patient",
+        "patent_id": "patent/CN113223677A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113223677A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7664328B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-24",
+        "publication_date": "2010-02-16",
+        "assignee_original": "Siemens Corporation",
+        "title": "Joint classification and subtype discovery in tumor diagnosis by gene expression profiling",
+        "patent_id": "patent/US7664328B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7664328B2%2Fen"
+      },
+      {
+        "publication_number": "BRPI0711011A2",
+        "primary_language": "en",
+        "priority_date": "2006-05-18",
+        "publication_date": "2011-08-23",
+        "assignee_original": "Molecular Profiling Inst Inc",
+        "title": "method for determining medical intervention for a disease state, method for identifying drug therapy capable of interacting with a molecular target, and system for determining individualized medical intervention for a disease state",
+        "patent_id": "patent/BRPI0711011A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBRPI0711011A2%2Fen"
+      },
+      {
+        "publication_number": "US8768629B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-11",
+        "publication_date": "2014-07-01",
+        "assignee_original": "Caris Mpi, Inc.",
+        "title": "Molecular profiling of tumors",
+        "patent_id": "patent/US8768629B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8768629B2%2Fen"
+      },
+      {
+        "publication_number": "US8396531B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-27",
+        "publication_date": "2013-03-12",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "System and method for quasi-real-time ventricular measurements from M-mode echocardiogram",
+        "patent_id": "patent/US8396531B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8396531B2%2Fen"
+      },
+      {
+        "publication_number": "US20090062624A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-26",
+        "publication_date": "2009-03-05",
+        "assignee_original": "Thomas Neville",
+        "title": "Methods and systems of delivering a probability of a medical condition",
+        "patent_id": "patent/US20090062624A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090062624A1%2Fen"
+      },
+      {
+        "publication_number": "GB2464032A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-15",
+        "publication_date": "2010-04-07",
+        "assignee_original": "Soar Biodynamics Ltd",
+        "title": "Methods and systems for integrated health systems",
+        "patent_id": "patent/GB2464032A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2464032A%2Fen"
+      },
+      {
+        "publication_number": "CN106153918A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-14",
+        "publication_date": "2016-11-23",
+        "assignee_original": "\u5361\u91cc\u65afMpi\u516c\u53f8",
+        "title": "Describe tumor type biological marker pattern and the gene target of feature set and the protein targets of gene expression",
+        "patent_id": "patent/CN106153918A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106153918A%2Fen"
+      },
+      {
+        "publication_number": "EP2358912B1",
+        "primary_language": "en",
+        "priority_date": "2008-10-30",
+        "publication_date": "2016-10-12",
+        "assignee_original": "Caris Life Sciences Switzerland Holdings GmbH",
+        "title": "Methods for assessing rna patterns",
+        "patent_id": "patent/EP2358912B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2358912B1%2Fen"
+      },
+      {
+        "publication_number": "CN107254538A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-12",
+        "publication_date": "2017-10-17",
+        "assignee_original": "\u5361\u91cc\u65af\u751f\u547d\u79d1\u5b66\u745e\u58eb\u63a7\u80a1\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "The method and system of phenotype is determined using allochthon",
+        "patent_id": "patent/CN107254538A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107254538A%2Fen"
+      },
+      {
+        "publication_number": "US20100168621A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-23",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Neville Thomas B",
+        "title": "Methods and systems for prostate health monitoring",
+        "patent_id": "patent/US20100168621A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100168621A1%2Fen"
+      },
+      {
+        "publication_number": "US20110046972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-20",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Andromeda Systems Incorporated",
+        "title": "Method and system for health-centered medicine",
+        "patent_id": "patent/US20110046972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110046972A1%2Fen"
+      },
+      {
+        "publication_number": "EP2542696B1",
+        "primary_language": "en",
+        "priority_date": "2010-03-01",
+        "publication_date": "2016-09-28",
+        "assignee_original": "Caris Life Sciences Switzerland Holdings GmbH",
+        "title": "Biomarkers for theranostics",
+        "patent_id": "patent/EP2542696B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2542696B1%2Fen"
+      },
+      {
+        "publication_number": "AU2011237669B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-06",
+        "publication_date": "2016-09-08",
+        "assignee_original": "Caris Life Sciences Switzerland Holdings Gmbh",
+        "title": "Circulating biomarkers for disease",
+        "patent_id": "patent/AU2011237669B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2011237669B2%2Fen"
+      },
+      {
+        "publication_number": "US8655682B2",
+        "primary_language": "en",
+        "priority_date": "2010-07-16",
+        "publication_date": "2014-02-18",
+        "assignee_original": "Gitika Srivastava",
+        "title": "Treatment decision engine with applicability measure",
+        "patent_id": "patent/US8655682B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8655682B2%2Fen"
+      },
+      {
+        "publication_number": "US10839046B2",
+        "primary_language": "en",
+        "priority_date": "2012-03-23",
+        "publication_date": "2020-11-17",
+        "assignee_original": "Navya Network, Inc.",
+        "title": "Medical research retrieval engine",
+        "patent_id": "patent/US10839046B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10839046B2%2Fen"
+      },
+      {
+        "publication_number": "US20140081659A1",
+        "primary_language": "en",
+        "priority_date": "2012-09-17",
+        "publication_date": "2014-03-20",
+        "assignee_original": "Depuy Orthopaedics, Inc.",
+        "title": "Systems and methods for surgical and interventional planning, support, post-operative follow-up, and functional recovery tracking",
+        "patent_id": "patent/US20140081659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140081659A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015023686A1",
+        "primary_language": "en",
+        "priority_date": "2013-08-12",
+        "publication_date": "2015-02-19",
+        "assignee_original": "Ironwood Medical Information Technologies, LLC",
+        "title": "Medical data system and method",
+        "patent_id": "patent/WO2015023686A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015023686A1%2Fen"
+      },
+      {
+        "publication_number": "EP3196791A1",
+        "primary_language": "en",
+        "priority_date": "2017-05-02",
+        "publication_date": "2017-07-26",
+        "assignee_original": "Siemens Healthcare GmbH",
+        "title": "Method for supporting medical personnel, support system, computer program and data carrier",
+        "patent_id": "patent/EP3196791A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3196791A1%2Fen"
+      },
+      {
+        "publication_number": "US11488712B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-31",
+        "publication_date": "2022-11-01",
+        "assignee_original": "Google Llc",
+        "title": "Diagnostic effectiveness tool",
+        "patent_id": "patent/US11488712B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11488712B2%2Fen"
+      },
+      {
+        "publication_number": "US11468363B2",
+        "primary_language": "en",
+        "priority_date": "2019-07-03",
+        "publication_date": "2022-10-11",
+        "assignee_original": "Kpn Innovations, Llc.",
+        "title": "Methods and systems for classification to prognostic labels using expert inputs",
+        "patent_id": "patent/US11468363B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11468363B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7593913B2",
+      "primary_language": "en",
+      "publication_date": "2009-09-22",
+      "title": "Systems and method for integrative medical decision support",
+      "patent_id": "patent/US7593913B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7593913B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "633449587707334560",
+      "scholar_authors": "Bera et al.",
+      "publication_date": "2022",
+      "title": "Predicting cancer outcomes with radiomics and artificial intelligence in radiology",
+      "patent_id": "scholar/633449587707334560",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F633449587707334560"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11090803910236660939",
+      "scholar_authors": "Amato et al.",
+      "publication_date": "2013",
+      "title": "Artificial neural networks in medical diagnosis",
+      "patent_id": "scholar/11090803910236660939",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11090803910236660939"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11037070B2",
+      "primary_language": "en",
+      "publication_date": "2021-06-15",
+      "title": "Diagnostic test planning using machine learning techniques",
+      "patent_id": "patent/US11037070B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11037070B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18224109738341561920",
+      "scholar_authors": "Panayides et al.",
+      "publication_date": "2018",
+      "title": "Radiogenomics for precision medicine with a big data analytics perspective",
+      "patent_id": "scholar/18224109738341561920",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18224109738341561920"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7792778B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-07",
+      "title": "Knowledge-based imaging CAD system",
+      "patent_id": "patent/US7792778B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7792778B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120015843A1",
+      "primary_language": "en",
+      "publication_date": "2012-01-19",
+      "title": "Gene and gene expressed protein targets depicting biomarker patterns and signature sets by tumor type",
+      "patent_id": "patent/US20120015843A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120015843A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH11504739A",
+      "primary_language": "en",
+      "publication_date": "1999-04-27",
+      "title": "Computer Aided Disease Diagnosis Method",
+      "patent_id": "patent/JPH11504739A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11504739A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7594763172052877274",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2021",
+      "title": "Spatiotemporal molecular imaging is a critical part of spatiotemporal molecular medicine",
+      "patent_id": "scholar/7594763172052877274",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7594763172052877274"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3591431895899993998",
+      "scholar_authors": "Hartmann et al.",
+      "publication_date": "2023",
+      "title": "Imaging genomics: data fusion in uncovering disease heritability",
+      "patent_id": "scholar/3591431895899993998",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3591431895899993998"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2885634C",
+      "primary_language": "en",
+      "publication_date": "2021-01-26",
+      "title": "Device for detecting a dynamical network biomarker, method for detecting same, and program for detecting same",
+      "patent_id": "patent/CA2885634C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2885634C%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15389672799717616181",
+      "scholar_authors": "Danala et al.",
+      "publication_date": "2022",
+      "title": "Applying quantitative radiographic image markers to predict clinical complications after aneurysmal subarachnoid hemorrhage: A pilot study",
+      "patent_id": "scholar/15389672799717616181",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15389672799717616181"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10755408B2",
+      "primary_language": "en",
+      "publication_date": "2020-08-25",
+      "title": "Medical information processing system and medical information processing apparatus",
+      "patent_id": "patent/US10755408B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10755408B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102710961B1",
+      "primary_language": "en",
+      "publication_date": "2024-09-27",
+      "title": "Method and device to visualize patient medical information by linking with electronic medical record in real time",
+      "patent_id": "patent/KR102710961B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102710961B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12358951736949733083",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2023",
+      "title": "Deep learning and radiomics based automatic diagnosis of hippocampal sclerosis",
+      "patent_id": "scholar/12358951736949733083",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12358951736949733083"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15925239808099936166",
+      "scholar_authors": "Shaikh et al.",
+      "publication_date": "2020",
+      "title": "Radiomics as applied in precision medicine",
+      "patent_id": "scholar/15925239808099936166",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15925239808099936166"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4004931B1",
+      "primary_language": "en",
+      "publication_date": "2022-12-07",
+      "title": "Radiology-based risk assessment for biopsy-based scores",
+      "patent_id": "patent/EP4004931B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4004931B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17394982600500016264",
+      "scholar_authors": "Roniotis et al.",
+      "publication_date": "2015",
+      "title": "A proposed paradigm shift in initializing cancer predictive models with DCE-MRI based PK parameters: A feasibility study",
+      "patent_id": "scholar/17394982600500016264",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17394982600500016264"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7850268869017779492",
+      "scholar_authors": "Rasi et al.",
+      "publication_date": "2024",
+      "title": "Platform for the radiomics analysis of brain regions: The case of Alzheimer's disease and metabolic imaging",
+      "patent_id": "scholar/7850268869017779492",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7850268869017779492"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13755890984689441683",
+      "scholar_authors": "Hoffman",
+      "publication_date": "2000",
+      "title": "Imaging in cancer: a National Cancer Institute\" extraordinary opportunity\".",
+      "patent_id": "scholar/13755890984689441683",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13755890984689441683"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2520655729778968916",
+      "scholar_authors": "Ranti et al.",
+      "publication_date": "2021",
+      "title": "Artificial intelligence as applied to clinical neurological conditions",
+      "patent_id": "scholar/2520655729778968916",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2520655729778968916"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "182690461328616654",
+      "scholar_authors": "Zhang et al.",
+      "publication_date": "2021",
+      "title": "Analytics methods and tools for integration of biomedical data in medicine",
+      "patent_id": "scholar/182690461328616654",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F182690461328616654"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12785516700649479345",
+      "scholar_authors": "Lamy",
+      "publication_date": "2023",
+      "title": "Conversation between a clinical biologist and an artificial intelligence on prostate cancer biomarkers: a critical reading",
+      "patent_id": "scholar/12785516700649479345",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12785516700649479345"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15111906448105869391",
+      "scholar_authors": "Pan et al.",
+      "publication_date": "2025",
+      "title": "Integration of MRI radiomics and clinical data for preoperative prediction of vascular invasion in breast cancer: A deep learning approach",
+      "patent_id": "scholar/15111906448105869391",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15111906448105869391"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2321807798568586127",
+      "scholar_authors": "Tarnoki et al.",
+      "publication_date": "2021",
+      "title": "Imaging epigenetics and the radiogenomics",
+      "patent_id": "scholar/2321807798568586127",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2321807798568586127"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-03-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS CORPORATE RESEARCH, INC., NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WANG, LU YONG;FASULO, DANIEL;COMANICIU, DORIN;REEL/FRAME:019092/0154"
+        },
+        {
+          "label": "Effective date",
+          "value": "20070309"
+        }
+      ]
+    },
+    {
+      "date": "2008-09-15",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS MEDICAL SOLUTIONS USA, INC., PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SIEMENS CORPORATE RESEARCH, INC.;REEL/FRAME:021528/0107"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080913"
+        },
+        {
+          "label": "Owner name",
+          "value": "SIEMENS MEDICAL SOLUTIONS USA, INC.,PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SIEMENS CORPORATE RESEARCH, INC.;REEL/FRAME:021528/0107"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080913"
+        }
+      ]
+    },
+    {
+      "date": "2009-09-02",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-02-11",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-02-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-24",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 57
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 57
+      },
+      {
+        "id": "238000000338",
+        "name": "in vitro",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 52
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "238000010339",
+        "name": "medical test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 86
+      },
+      {
+        "id": "201000011510",
+        "name": "cancer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 82
+      },
+      {
+        "id": "238000002591",
+        "name": "computed tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000002052",
+        "name": "colonoscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000002068",
+        "name": "genetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000002600",
+        "name": "positron emission tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000011503",
+        "name": "in vivo imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000029742",
+        "name": "colonic neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "206010009944",
+        "name": "Colon cancer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000014509",
+        "name": "gene expression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "108090000623",
+        "name": "proteins and genes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "102000004169",
+        "name": "proteins and genes",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000004927",
+        "name": "fusion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "206010027476",
+        "name": "Metastases",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000001072",
+        "name": "colon",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000001727",
+        "name": "in vivo",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002595",
+        "name": "magnetic resonance imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000005065",
+        "name": "mining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002059",
+        "name": "diagnostic imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004949",
+        "name": "mass spectrometry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003018",
+        "name": "immunoassay",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002493",
+        "name": "microarray",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000014081",
+        "name": "polyp of colon",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002609",
+        "name": "virtual colonoscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000009956",
+        "name": "adenocarcinoma",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004076",
+        "name": "epigenetic alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000000981",
+        "name": "epithelium",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011223",
+        "name": "gene expression profiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004077",
+        "name": "genetic alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011337",
+        "name": "individualized treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000523",
+        "name": "sample",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012216",
+        "name": "screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002626",
+        "name": "targeted therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001519",
+        "name": "tissue",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013518",
+        "name": "transcription",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035897",
+        "name": "transcription",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010176",
+        "name": "18-FDG-positron emission tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZCXUVYAZINUVJD-AHXZWLDOSA-N",
+        "name": "2-deoxy-2-((18)F)fluoro-alpha-D-glucose",
+        "domain": "Chemical compound",
+        "smiles": "OC[C@H]1O[C@H](O)[C@H]([18F])[C@@H](O)[C@@H]1O",
+        "inchi_key": "ZCXUVYAZINUVJD-AHXZWLDOSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AOYNUTHNTBLRMT-SLPGGIOYSA-N",
+        "name": "2-deoxy-2-fluoro-aldehydo-D-glucose",
+        "domain": "Chemical compound",
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](F)C=O",
+        "inchi_key": "AOYNUTHNTBLRMT-SLPGGIOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010061818",
+        "name": "Disease progression",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010013554",
+        "name": "Diverticulum",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "name": "Glucose",
+        "domain": "Natural products",
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037062",
+        "name": "Polyps",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108700008625",
+        "name": "Reporter Genes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003187",
+        "name": "abdominal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009825",
+        "name": "accumulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012491",
+        "name": "analyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000427",
+        "name": "antigen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108091007433",
+        "name": "antigens",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000036639",
+        "name": "antigens",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003556",
+        "name": "assay",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012098",
+        "name": "association analyses",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000033228",
+        "name": "biological regulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000090",
+        "name": "biomarker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036770",
+        "name": "blood supply",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000112",
+        "name": "colonic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000470",
+        "name": "constituent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002872",
+        "name": "contrast media",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005750",
+        "name": "disease progression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013399",
+        "name": "early diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000235",
+        "name": "effect on cancer",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001973",
+        "name": "epigenetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002360",
+        "name": "explosive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010195",
+        "name": "expression analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940079405",
+        "name": "ferumoxides",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003205",
+        "name": "genotyping method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008103",
+        "name": "glucose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002767",
+        "name": "hepatic artery",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002440",
+        "name": "hepatic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005764",
+        "name": "inhibitory process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004895",
+        "name": "liquid chromatography mass spectrometry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003211",
+        "name": "malignant effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108020004999",
+        "name": "messenger RNA",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002207",
+        "name": "metabolite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009401",
+        "name": "metastasis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012775",
+        "name": "microarray technology",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003147",
+        "name": "molecular marker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009456",
+        "name": "molecular mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000877",
+        "name": "morphologic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002773",
+        "name": "nucleotide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000003729",
+        "name": "nucleotide group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037361",
+        "name": "pathway",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003240",
+        "name": "portal vein",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004481",
+        "name": "post-translational protein modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007639",
+        "name": "printing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108090000765",
+        "name": "processed proteins & peptides",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000004196",
+        "name": "processed proteins & peptides",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004393",
+        "name": "prognosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000700",
+        "name": "radioactive tracer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000664",
+        "name": "rectum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000022532",
+        "name": "regulation of transcription, DNA-dependent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002603",
+        "name": "single-photon emission computed tomography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000813",
+        "name": "small intestine",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012706",
+        "name": "support-vector machine",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001356",
+        "name": "surgical procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009897",
+        "name": "systematic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009466",
+        "name": "transformation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002604",
+        "name": "ultrasonography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001835",
+        "name": "viscera",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

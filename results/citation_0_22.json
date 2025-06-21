@@ -1,0 +1,2583 @@
+{
+  "search_metadata": {
+    "id": "68514dc5d3982cd4981c45a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/30d589c3becc3b5c/68514dc5d3982cd4981c45a1.json",
+    "created_at": "2025-06-17 11:13:09 UTC",
+    "processed_at": "2025-06-17 11:13:09 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5956689A/en",
+    "raw_html_file": "https://serpapi.com/searches/30d589c3becc3b5c/68514dc5d3982cd4981c45a1.html",
+    "total_time_taken": 3.76
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5956689A/en"
+  },
+  "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/16/8b/44/f546084f8ddff6/US5956689.pdf",
+  "publication_number": "US5956689A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "population",
+    "medical",
+    "subset",
+    "members",
+    "population subset"
+  ],
+  "prior_art_date": "1997-07-31",
+  "application_number": "US08/904,970",
+  "inventors": [
+    {
+      "name": "Kenneth A. Everhart, III",
+      "link": "https://patents.google.com/?inventor=Kenneth+A.+Everhart%2C+III",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kenneth+A.+Everhart%2C+III"
+    }
+  ],
+  "assignees": [
+    "Accordant Health Services Inc"
+  ],
+  "priority_date": "1997-07-31",
+  "filing_date": "1997-07-31",
+  "publication_date": "1999-09-21",
+  "worldwide_applications": {
+    "1997": [
+      {
+        "filing_date": "1997-07-31",
+        "country_code": "US",
+        "application_number": "US08/904,970",
+        "document_id": "patent/US5956689A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997-07-31",
+      "title": "Application filed by Accordant Health Services Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Accordant Health Services Inc"
+    },
+    {
+      "date": "1997-07-31",
+      "title": "Priority to US08/904,970",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5956689A/en"
+    },
+    {
+      "date": "1997-08-01",
+      "title": "Assigned to ACCORDANT HEALTH SERVICES, INC.",
+      "type": "reassignment",
+      "assignee_search": "ACCORDANT HEALTH SERVICES, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: EVERHART III, KENNETH A."
+      ]
+    },
+    {
+      "date": "1999-09-21",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1999-09-21",
+      "title": "Publication of US5956689A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5956689A/en"
+    },
+    {
+      "date": "2003-01-27",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS COLLATERAL AGENT",
+      "description": [
+        "SECURITY AGREEMENT SUPPLEMENT",
+        "Assignors: ACCORDANT HEALTH SERVICES, INC."
+      ]
+    },
+    {
+      "date": "2017-07-31",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5956689.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08904970"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5956689"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5956689A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08904970/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5956689"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/72/01/2b/81454737f3f9fc/US5956689-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/8b/02/c4/3238977a49127d/US5956689-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/7e/10/cf/c3c4a63a649393/US5956689-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/b8/bd/2b/b80d59a4dc695c/US5956689-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/61/e6/3d/9f8f4e9a3f3b95/US5956689-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/e5/6a/1d/cf7283665b2527/US5956689-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/de/f5/4d/f1c0fcdef53d73/US5956689-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/fa/2c/7c/24716acf759b7e/US5956689-drawings-page-9.png",
+    "https://patentimages.storage.googleapis.com/be/77/fb/5ab4b257054db8/US5956689-drawings-page-10.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H10/20",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for electronic clinical trials or questionnaires",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/20",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to practices or guidelines",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Systems, methods and computer program products are provided for identifying members of a population having a specified disease state. First and second sets of medical events associated with a disease state are identified. Each member of first and second population subsets have at least one medical event from the first and second sets of medical events, respectively. A third population subset is created comprising members of the first population subset who are not members of the second population subset. A specificity rating, indicating how often a respective medical event occurred within the second population subset relative to the third population subset, is assigned to each medical event associated with members of the second population subset. A third set of medical events associated with members of the second population subset is identified, each of the identified medical events having a specificity rating above the selected threshold. A fourth population subset is created from the third population subset, each member of the fourth population subset having associated therewith at least one medical event from the third set of medical events. The second and fourth population subsets are combined, thereby identifying members of the population having a specified disease state.",
+  "description_link": "https://serpapi.com/searches/68514dc5d3982cd4981c45a1/google_patents_details/description.html",
+  "claims": [
+    "1. A method of identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said method comprising the following steps which are performed on a data processing system:(a) identifying a first set of medical events associated with said rare chronic disease; (b) creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) identifying a second set of medical events associated with said rare chronic disease; (d) creating a second population subset from said first population subset, each member of said second population subset having associated therewith at least one medical event from said identified second set of medical events; (e) creating a third population subset, said third population subset comprising members of said first population subset who are not members of said second population subset; (f) determining a frequency of occurrence for each medical event associated with members of said second population subset; (g) determining a frequency of occurrence for each medical event associated with members of said third population subset; (h) assigning a specificity rating to each medical event associated with members of said second population subset, each specificity rating identifying how often a respective medical event occurred within said second population subset relative to said third population subset; (i) identifying a third set of medical events associated with members of said second population subset, each of said identified medical events having a specificity rating above a selected threshold; (j) creating a fourth population subset from said third population subset, each member of said fourth population subset having associated therewith at least one medical event from said third set of medical events; and (k) combining said second and fourth population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "2. A method according to claim 1 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "3. A method according to claim 1 wherein said step (j) further comprises selectively removing from said fourth population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "4. A method according to claim 1 further comprising adjusting said selected specificity rating threshold in step (i) and performing said steps (i) through (k) to identify members of said population having a rare chronic disease.",
+    "5. A data processing system for identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said data processing system comprising:(a) means for identifying a first set of medical events associated with said rare chronic disease; (b) means for creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) means for identifying a second set of medical events associated with said rare chronic disease; (d) means for creating a second population subset from said first population subset, each member of said second population subset having associated therewith at least one medical event from said identified second set of medical events; (e) means for creating a third population subset, said third population subset comprising members of said first population subset who are not members of said second population subset; (f) means for determining a frequency of occurrence for each medical event associated with members of said second population subset; (g) means for determining a frequency of occurrence for each medical event associated with members of said third population subset; (h) means for assigning a specificity rating to each medical event associated with members of said second population subset, each specificity rating identifying how often a respective medical event occurred within said second population subset relative to said third population subset; (i) means for identifying a third set of medical events associated with members of said second population subset, each of said identified medical events having a specificity rating above a selected threshold; (j) means for creating a fourth population subset from said third population subset, each member of said fourth population subset having associated therewith at least one medical event from said third set of medical events; and (k) means for combining said second and fourth population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "6. A data processing system according to claim 5 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "7. A data processing system according to claim 5 wherein said means for creating a fourth population subset from said third population subset comprises means for selectively removing from said fourth population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "8. A data processing system according to claim 5 wherein said means for identifying a third set of medical events associated with members of said second population subset comprises means for adjusting said selected specificity rating threshold.",
+    "9. A computer program product for use with a data processing system for identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said computer program product comprising:(a) a computer usable medium having computer readable program code means embodied in said medium for identifying a first set of medical events associated with said rare chronic disease; (b) the computer usable medium having computer program code means embodied in said medium for creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) the computer usable medium having computer program code means embodied in said medium for identifying a second set of medical events associated with said rare chronic disease; (d) the computer usable medium having computer program code means embodied in said medium for creating a second population subset from said first population subset, each member of said second population subset having associated therewith at least one medical event from said identified second set of medical events; (e) the computer usable medium having computer program code means embodied in said medium for creating a third population subset, said third population subset comprising members of said first population subset who are not members of said second population subset; (f) the computer usable medium having computer program code means embodied in said medium for determining a frequency of occurrence for each medical event associated with members of said second population subset; (g) the computer usable medium having computer program code means embodied in said medium for determining a frequency of occurrence for each medical event associated with members of said third population subset; (h) the computer usable medium having computer program code means embodied in said medium for assigning a specificity rating to each medical event associated with members of said second population subset, each specificity rating identifying how often a respective medical event occurred within said second population subset relative to said third population subset; (i) the computer usable medium having computer program code means embodied in said medium for identifying a third set of medical events associated with members of said second population subset, each of said identified medical events having a specificity rating above a selected threshold; (j) the computer usable medium having computer program code means embodied in said medium for creating a fourth population subset from said third population subset, each member of said fourth population subset having associated therewith at least one medical event from said third set of medical events; and (k) the computer usable medium having computer program code means embodied in said medium for combining said second and fourth population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "10. A computer program product according to claim 9 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "11. A computer program product according to claim 9 wherein said computer readable program code means for creating a fourth population subset from said third population subset comprises computer readable program code means, embodied in said media, for selectively removing from said fourth population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "12. A computer program product according to claim 9 wherein said computer readable program code means for identifying a third set of medical events associated with members of said second population subset comprises computer readable program code means, embodied in said media, for adjusting said selected specificity rating threshold.",
+    "13. A method of identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said method comprising the following steps which are performed on a data processing system:(a) identifying a first set of medical events associated with said rare chronic disease; (b) creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) creating a second population subset, said second population subset comprising members of said population who are not members of said first population subset; (d) determining a frequency of occurrence for each medical event associated with members of said first population subset; (e) determining a frequency of occurrence for each medical event associated with members of said second population subset; (f) assigning a specificity rating to each medical event associated with members of said first population subset, each specificity rating identifying how often a respective medical event occurred within said first population subset relative to said second population subset; (g) identifying a second set of medical events associated with members of said first population subset, each of said identified medical events having a specificity rating above a selected threshold; (h) creating a third population subset from said second population subset, each member of said third population subset having associated therewith at least one medical event from said second set of medical events; and (i) combining said first and third population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "14. A method according to claim 13 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "15. A method according to claim 13 wherein said step (h) further comprises selectively removing from said third population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "16. A method according to claim 13 further comprising adjusting said selected specificity rating threshold in step (g) and performing said steps (g) through (i) to identify members of said population having a rare chronic disease.",
+    "17. A data processing system for identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said data processing system comprising:(a) means for identifying a first set of medical events associated with said rare chronic disease; (b) means for creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) means for creating a second population subset, said second population subset comprising members of said population who are not members of said first population subset; (d) means for determining a frequency of occurrence for each medical event associated with members of said first population subset; (e) means for determining a frequency of occurrence for each medical event associated with members of said second population subset; (f) means for assigning a specificity rating to each medical event associated with members of said first population subset, each specificity rating identifying how often a respective medical event occurred within said first population subset relative to said second population subset; (g) means for identifying a second set of medical events associated with members of said first population subset, each of said identified medical events having a specificity rating above a selected threshold; (h) means for creating a third population subset from said second population subset, each member of said third population subset having associated therewith at least one medical event from said second set of medical events; and (i) means for combining said first and third population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "18. A data processing system according to claim 17 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "19. A data processing system according to claim 17 wherein said means for creating a third population subset from said second population subset comprises means for selectively removing from said third population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "20. A data processing system according to claim 17 wherein said means for identifying a second set of medical events associated with members of said first population subset comprises means for adjusting said selected specificity rating threshold.",
+    "21. A computer program product for use with a data processing system for identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said computer program product comprising:(a) a computer usable medium having computer readable program code means embodied in said medium for identifying a first set of medical events associated with said rare chronic disease; (b) the computer usable medium having computer program code means embodied in said medium for creating a first population subset from said population, each member of said first subset having associated therewith at least one medical event from said identified first set of medical events; (c) the computer usable medium having computer program code means embodied in said medium for creating a second population subset, said second population subset comprising members of said population who are not members of said first population subset; (d) the computer usable medium having computer program code means embodied in said medium for means for determining a frequency of occurrence for each medical event associated with members of said first population subset; (e) the computer usable medium having computer program code means embodied in said medium for means for determining a frequency of occurrence for each medical event associated with members of said second population subset; (f) the computer usable medium having computer program code means embodied in said medium for assigning a specificity rating to each medical event associated with members of said first population subset, each specificity rating identifying how often a respective medical event occurred within said first population subset relative to said second population subset; (g) the computer usable medium having computer program code means embodied in said medium for identifying a second set of medical events associated with members of said first population subset, each of said identified medical events having a specificity rating above a selected threshold; (h) the computer usable medium having computer program code means embodied in said medium for creating a third population subset from said second population subset, each member of said third population subset having associated therewith at least one medical event from said second set of medical events; and (i) the computer usable medium having computer program code means embodied in said medium for combining said first and third population subsets, thereby identifying members of said population having a rare chronic disease.",
+    "22. A computer program product according to claim 21 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "23. A computer program product according to claim 21 wherein said computer readable program code means for creating a third population subset from said second population subset comprises computer readable program code means, embodied in said media, for selectively removing from said third population members having medical events and conditions associated therewith that are preemptive of said rare chronic disease.",
+    "24. A computer program product according to claim 21 wherein said computer readable program code means for identifying a second set of medical events associated with members of said first population subset comprises computer readable program code means, embodied in said media, for adjusting said selected specificity rating threshold.",
+    "25. A method of identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said method comprising the steps of:creating a first population subset from said population, each member of the second population subset having associated therewith at least one medical event from a first set of medical events; creating a second population subset from said population, each member of the second population subset having associated therewith at least one medical event from a second set of medical events; assigning a specificity rating to each medical event associated with members of said first and second population subsets, wherein each specificity rating identifies how often a respective medical event occurred within one of the first and second population subsets relative to the other one of the first and second population subsets; and processing said specificity ratings in order to identify members of said population having a rare chronic disease.",
+    "26. A method according to claim 25 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member.",
+    "27. A data processing system for identifying members of a population having a rare chronic disease, wherein each member of said population has at least one medical event associated therewith, said data processing system comprising:a database including patient and medical events; means for creating within said database a first population subset from said population, each member of the first population subset having associated therewith at least one medical event from a first set of medical events; means for creating within said database a second population subset from said population, each member of the second population subset having associated therewith at least one medical event from a second set of medical events; means for assigning a specificity rating to each medical event within said database associated with members of said first and second population subsets, wherein each specificity rating identifies how often a respective medical event occurred within one of the first and second population subsets relative to the other one of the first and second population subsets; and means for processing said specificity ratings in order to identify members of said population having a rare chronic disease.",
+    "28. A data processing system according to claim 27 wherein each one of said medical events comprises a medical symptom, medical diagnosis, medical treatment, or combination thereof, of a respective population member."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/904,970",
+      "representative_publication": "US5956689A",
+      "primary_language": "en",
+      "priority_date": "1997-07-31",
+      "filing_date": "1997-07-31",
+      "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/904,970",
+      "representative_publication": "US5956689A",
+      "primary_language": "en",
+      "priority_date": "1997-07-31",
+      "filing_date": "1997-07-31",
+      "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease"
+    }
+  ],
+  "family_id": "25420069",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5018067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-01-12",
+        "publication_date": "1991-05-21",
+        "assignee_original": "Iameter Incorporated",
+        "title": "Apparatus and method for improved estimation of health resource consumption through use of diagnostic and/or procedure grouping and severity of illness indicators",
+        "patent_id": "patent/US5018067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5018067A%2Fen"
+      },
+      {
+        "publication_number": "US5199439A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-01-16",
+        "publication_date": "1993-04-06",
+        "assignee_original": "Stanley Zimmerman",
+        "title": "Medical statistical analyzing method",
+        "patent_id": "patent/US5199439A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5199439A%2Fen"
+      },
+      {
+        "publication_number": "US5253361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-15",
+        "publication_date": "1993-10-12",
+        "assignee_original": "Emtek Health Care Systems, Inc.",
+        "title": "System for accessing a row of time-dependent data by referring to a composite index table indicating page locations of linked row labels",
+        "patent_id": "patent/US5253361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5253361A%2Fen"
+      },
+      {
+        "publication_number": "US5255187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-04-03",
+        "publication_date": "1993-10-19",
+        "assignee_original": "Sorensen Mark C",
+        "title": "Computer aided medical diagnostic method and apparatus",
+        "patent_id": "patent/US5255187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5255187A%2Fen"
+      },
+      {
+        "publication_number": "US5262943A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-15",
+        "publication_date": "1993-11-16",
+        "assignee_original": "National Computer Systems, Inc.",
+        "title": "System and process for information management and reporting",
+        "patent_id": "patent/US5262943A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5262943A%2Fen"
+      },
+      {
+        "publication_number": "US5265010A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-15",
+        "publication_date": "1993-11-23",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method and apparatus for performing patient documentation",
+        "patent_id": "patent/US5265010A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5265010A%2Fen"
+      },
+      {
+        "publication_number": "US5319543A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-06-19",
+        "publication_date": "1994-06-07",
+        "assignee_original": "First Data Health Services Corporation",
+        "title": "Workflow server for medical records imaging and tracking system",
+        "patent_id": "patent/US5319543A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5319543A%2Fen"
+      },
+      {
+        "publication_number": "US5327341A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-28",
+        "publication_date": "1994-07-05",
+        "assignee_original": "Whalen Edward J",
+        "title": "Computerized file maintenance system for managing medical records including narrative reports",
+        "patent_id": "patent/US5327341A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5327341A%2Fen"
+      },
+      {
+        "publication_number": "US5404292A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-11",
+        "publication_date": "1995-04-04",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data",
+        "patent_id": "patent/US5404292A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5404292A%2Fen"
+      },
+      {
+        "publication_number": "US5410471A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-02-24",
+        "publication_date": "1995-04-25",
+        "assignee_original": "Toto, Ltd.",
+        "title": "Networked health care and monitoring system",
+        "patent_id": "patent/US5410471A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5410471A%2Fen"
+      },
+      {
+        "publication_number": "US5508912A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-23",
+        "publication_date": "1996-04-16",
+        "assignee_original": "Barry Schneiderman",
+        "title": "Clinical database of classified out-patients for tracking primary care outcome",
+        "patent_id": "patent/US5508912A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5508912A%2Fen"
+      },
+      {
+        "publication_number": "US5517405A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-10-14",
+        "publication_date": "1996-05-14",
+        "assignee_original": "Aetna Life And Casualty Company",
+        "title": "Expert system for providing interactive assistance in solving problems such as health care management",
+        "patent_id": "patent/US5517405A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5517405A%2Fen"
+      },
+      {
+        "publication_number": "US5544044A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-08-02",
+        "publication_date": "1996-08-06",
+        "assignee_original": "United Healthcare Corporation",
+        "title": "Method for evaluation of health care quality",
+        "patent_id": "patent/US5544044A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5544044A%2Fen"
+      },
+      {
+        "publication_number": "US5557514A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-23",
+        "publication_date": "1996-09-17",
+        "assignee_original": "Medicode, Inc.",
+        "title": "Method and system for generating statistically-based medical provider utilization profiles",
+        "patent_id": "patent/US5557514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5557514A%2Fen"
+      },
+      {
+        "publication_number": "US5594637A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-05-26",
+        "publication_date": "1997-01-14",
+        "assignee_original": "Base Ten Systems, Inc.",
+        "title": "System and method for assessing medical risk",
+        "patent_id": "patent/US5594637A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5594637A%2Fen"
+      },
+      {
+        "publication_number": "US5642936A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-29",
+        "publication_date": "1997-07-01",
+        "assignee_original": "Oncormed",
+        "title": "Methods for identifying human hereditary disease patterns",
+        "patent_id": "patent/US5642936A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5642936A%2Fen"
+      },
+      {
+        "publication_number": "US5687716A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-15",
+        "publication_date": "1997-11-18",
+        "assignee_original": "Kaufmann; Peter",
+        "title": "Selective differentiating diagnostic process based on broad data bases",
+        "patent_id": "patent/US5687716A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5687716A%2Fen"
+      },
+      {
+        "publication_number": "US5706441A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-07",
+        "publication_date": "1998-01-06",
+        "assignee_original": "Cigna Health Corporation",
+        "title": "Method and apparatus for objectively monitoring and assessing the performance of health-care providers",
+        "patent_id": "patent/US5706441A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5706441A%2Fen"
+      },
+      {
+        "publication_number": "US5724379A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-01",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Healthchex, Inc.",
+        "title": "Method of modifying comparable health care services",
+        "patent_id": "patent/US5724379A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724379A%2Fen"
+      },
+      {
+        "publication_number": "US5746204A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-07",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Disease indicator analysis system",
+        "patent_id": "patent/US5746204A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5746204A%2Fen"
+      },
+      {
+        "publication_number": "US5769074A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-13",
+        "publication_date": "1998-06-23",
+        "assignee_original": "Horus Therapeutics, Inc.",
+        "title": "Computer assisted methods for diagnosing diseases",
+        "patent_id": "patent/US5769074A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5769074A%2Fen"
+      },
+      {
+        "publication_number": "US5778345A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-16",
+        "publication_date": "1998-07-07",
+        "assignee_original": "Mccartney; Michael J.",
+        "title": "Health data processing system",
+        "patent_id": "patent/US5778345A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5778345A%2Fen"
+      },
+      {
+        "publication_number": "US5794208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-01",
+        "publication_date": "1998-08-11",
+        "assignee_original": "Goltra; Peter S.",
+        "title": "Creating and using protocols to create and review a patient chart",
+        "patent_id": "patent/US5794208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5794208A%2Fen"
+      },
+      {
+        "publication_number": "US5800347A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-03",
+        "publication_date": "1998-09-01",
+        "assignee_original": "The General Hospital Corporation",
+        "title": "ROC method for early detection of disease",
+        "patent_id": "patent/US5800347A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5800347A%2Fen"
+      },
+      {
+        "publication_number": "US5832448A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-16",
+        "publication_date": "1998-11-03",
+        "assignee_original": "Health Hero Network",
+        "title": "Multiple patient monitoring system for proactive health management",
+        "patent_id": "patent/US5832448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5832448A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Huff et al, \"Using Hospital Discharge Data for Disease Surveillance\", U.S. Department of Health and Human Resources Public Health Reports, vol. 111, No. 1, Jan. 1996, p. 78."
+    },
+    {
+      "title": "Huff et al, Using Hospital Discharge Data for Disease Surveillance , U.S. Department of Health and Human Resources Public Health Reports, vol. 111, No. 1, Jan. 1996, p. 78.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Huff et al., \"Using Hospital Discharge Data for Disease Surveillance\", U.S. Department of Health and Human Services Public Health Reports, vol. 111, No. 1, Jan. 1996. p. 78."
+    },
+    {
+      "title": "Huff et al., Using Hospital Discharge Data for Disease Surveillance , U.S. Department of Health and Human Services Public Health Reports, vol. 111, No. 1, Jan. 1996. p. 78.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2000033236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-30",
+        "publication_date": "2000-06-08",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "System and method for improving a risk for a monitored client",
+        "patent_id": "patent/WO2000033236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000033236A1%2Fen"
+      },
+      {
+        "publication_number": "US6247004B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-18",
+        "publication_date": "2001-06-12",
+        "assignee_original": "Nabil W. Moukheibir",
+        "title": "Universal computer assisted diagnosis",
+        "patent_id": "patent/US6247004B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6247004B1%2Fen"
+      },
+      {
+        "publication_number": "US6356873B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-02",
+        "publication_date": "2002-03-12",
+        "assignee_original": "Merck-Medco Managed Care, Llc",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6356873B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6356873B1%2Fen"
+      },
+      {
+        "publication_number": "US20020035486A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-21",
+        "publication_date": "2002-03-21",
+        "assignee_original": "Huyn Nam Q.",
+        "title": "Computerized clinical questionnaire with dynamically presented questions",
+        "patent_id": "patent/US20020035486A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020035486A1%2Fen"
+      },
+      {
+        "publication_number": "WO2001066000A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-06",
+        "publication_date": "2002-04-11",
+        "assignee_original": "Charlyn Jordan",
+        "title": "Health analysis and forecast of abnormal conditions",
+        "patent_id": "patent/WO2001066000A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001066000A3%2Fen"
+      },
+      {
+        "publication_number": "US20020046054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-28",
+        "publication_date": "2002-04-18",
+        "assignee_original": "Morand Patrick G.",
+        "title": "Use of blood and plasma donor samples and data in the drug discovery process",
+        "patent_id": "patent/US20020046054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020046054A1%2Fen"
+      },
+      {
+        "publication_number": "US20020069088A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-01",
+        "publication_date": "2002-06-06",
+        "assignee_original": "Berg Brian F.",
+        "title": "Methods of providing pharmaceuticals and pharmaceutical services",
+        "patent_id": "patent/US20020069088A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020069088A1%2Fen"
+      },
+      {
+        "publication_number": "RU2184396C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-28",
+        "publication_date": "2002-06-27",
+        "assignee_original": "\u0423\u0442\u043e\u043b\u0438\u043d \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447",
+        "title": "Method, device and data carrier unit for testing behavioral player strategy based on cognitive reality",
+        "patent_id": "patent/RU2184396C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2184396C1%2Fen"
+      },
+      {
+        "publication_number": "US20020123906A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-29",
+        "publication_date": "2002-09-05",
+        "assignee_original": "Goetzke Gary A.",
+        "title": "Chronic pain patient risk stratification system",
+        "patent_id": "patent/US20020123906A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020123906A1%2Fen"
+      },
+      {
+        "publication_number": "US20020128867A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-29",
+        "publication_date": "2002-09-12",
+        "assignee_original": "Goetzke Gary A.",
+        "title": "Chronic pain patient identification system",
+        "patent_id": "patent/US20020128867A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020128867A1%2Fen"
+      },
+      {
+        "publication_number": "US20020174005A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-16",
+        "publication_date": "2002-11-21",
+        "assignee_original": "Perot Systems Corporation",
+        "title": "Method and system for assessing and planning business operations",
+        "patent_id": "patent/US20020174005A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020174005A1%2Fen"
+      },
+      {
+        "publication_number": "US20020177758A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-30",
+        "publication_date": "2002-11-28",
+        "assignee_original": "Ido Schoenberg",
+        "title": "Patient treatment and progress monitor display",
+        "patent_id": "patent/US20020177758A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020177758A1%2Fen"
+      },
+      {
+        "publication_number": "US20030167189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-15",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Alan G Gorman",
+        "title": "System and method of drug disease matching",
+        "patent_id": "patent/US20030167189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030167189A1%2Fen"
+      },
+      {
+        "publication_number": "US20030195771A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-16",
+        "publication_date": "2003-10-16",
+        "assignee_original": "Fitzgerald David",
+        "title": "Healthcare financial data and clinical information processing system",
+        "patent_id": "patent/US20030195771A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030195771A1%2Fen"
+      },
+      {
+        "publication_number": "US20030204415A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-10-30",
+        "assignee_original": "Calvin Knowlton",
+        "title": "Medical data and medication selection and distribution system",
+        "patent_id": "patent/US20030204415A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030204415A1%2Fen"
+      },
+      {
+        "publication_number": "US20030208108A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-01",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Shewmake David T.",
+        "title": "Cardiovascular healthcare management system and method",
+        "patent_id": "patent/US20030208108A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030208108A1%2Fen"
+      },
+      {
+        "publication_number": "US6694298B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-02",
+        "publication_date": "2004-02-17",
+        "assignee_original": "Medco Health Solutions, Inc.",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6694298B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6694298B1%2Fen"
+      },
+      {
+        "publication_number": "US20040078228A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-31",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Fitzgerald David",
+        "title": "System for monitoring healthcare patient encounter related information",
+        "patent_id": "patent/US20040078228A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078228A1%2Fen"
+      },
+      {
+        "publication_number": "US20040148196A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-08",
+        "publication_date": "2004-07-29",
+        "assignee_original": "Kalies Ralph F.",
+        "title": "Method for assimilating and using pharmacy data",
+        "patent_id": "patent/US20040148196A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040148196A1%2Fen"
+      },
+      {
+        "publication_number": "US20040152952A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-31",
+        "publication_date": "2004-08-05",
+        "assignee_original": "Phyllis Gotlib",
+        "title": "Medical information event manager",
+        "patent_id": "patent/US20040152952A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040152952A1%2Fen"
+      },
+      {
+        "publication_number": "US6802810B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-21",
+        "publication_date": "2004-10-12",
+        "assignee_original": "Active Health Management",
+        "title": "Care engine",
+        "patent_id": "patent/US6802810B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6802810B2%2Fen"
+      },
+      {
+        "publication_number": "US20050086076A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-17",
+        "publication_date": "2005-04-21",
+        "assignee_original": "Integrated Healthcare Information Services, Inc.",
+        "title": "System and method for assessing healthcare risks",
+        "patent_id": "patent/US20050086076A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050086076A1%2Fen"
+      },
+      {
+        "publication_number": "US20060025931A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-30",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Richard Rosen",
+        "title": "Method and apparatus for real time predictive modeling for chronically ill patients",
+        "patent_id": "patent/US20060025931A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060025931A1%2Fen"
+      },
+      {
+        "publication_number": "US20060287888A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-29",
+        "publication_date": "2006-12-21",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Method of grouping and analyzing clinical risks",
+        "patent_id": "patent/US20060287888A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060287888A1%2Fen"
+      },
+      {
+        "publication_number": "US7216088B1",
+        "primary_language": "en",
+        "priority_date": "2001-07-26",
+        "publication_date": "2007-05-08",
+        "assignee_original": "Perot Systems Corporation",
+        "title": "System and method for managing a project based on team member interdependency and impact relationships",
+        "patent_id": "patent/US7216088B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7216088B1%2Fen"
+      },
+      {
+        "publication_number": "US7241263B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2007-07-10",
+        "assignee_original": "Scimed Life Systems, Inc.",
+        "title": "Selectively rotatable shaft coupler",
+        "patent_id": "patent/US7241263B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7241263B2%2Fen"
+      },
+      {
+        "publication_number": "US20070168222A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-19",
+        "publication_date": "2007-07-19",
+        "assignee_original": "Hoyme Kenneth P",
+        "title": "System and method for providing hierarchical medical device control for automated patient management",
+        "patent_id": "patent/US20070168222A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070168222A1%2Fen"
+      },
+      {
+        "publication_number": "US20070174252A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-06",
+        "publication_date": "2007-07-26",
+        "assignee_original": "Ingenix Inc.",
+        "title": "Analyzing Administrative Healthcare Claims Data and Other Data Sources",
+        "patent_id": "patent/US20070174252A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070174252A1%2Fen"
+      },
+      {
+        "publication_number": "US7313531B2",
+        "primary_language": "en",
+        "priority_date": "2001-11-29",
+        "publication_date": "2007-12-25",
+        "assignee_original": "Perot Systems Corporation",
+        "title": "Method and system for quantitatively assessing project risk and effectiveness",
+        "patent_id": "patent/US7313531B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7313531B2%2Fen"
+      },
+      {
+        "publication_number": "US7379885B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-10",
+        "publication_date": "2008-05-27",
+        "assignee_original": "David S. Zakim",
+        "title": "System and method for obtaining, processing and evaluating patient information for diagnosing disease and selecting treatment",
+        "patent_id": "patent/US7379885B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7379885B1%2Fen"
+      },
+      {
+        "publication_number": "US7413543B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-01",
+        "publication_date": "2008-08-19",
+        "assignee_original": "Scimed Life Systems, Inc.",
+        "title": "Endoscope with actively cooled illumination sources",
+        "patent_id": "patent/US7413543B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7413543B2%2Fen"
+      },
+      {
+        "publication_number": "US20080287746A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-16",
+        "publication_date": "2008-11-20",
+        "assignee_original": "Lonny Reisman",
+        "title": "System and method for communicating health care alerts via an interactive personal health record",
+        "patent_id": "patent/US20080287746A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080287746A1%2Fen"
+      },
+      {
+        "publication_number": "US7479106B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2009-01-20",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Automated control of irrigation and aspiration in a single-use endoscope",
+        "patent_id": "patent/US7479106B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7479106B2%2Fen"
+      },
+      {
+        "publication_number": "US7578786B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-01",
+        "publication_date": "2009-08-25",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Video endoscope",
+        "patent_id": "patent/US7578786B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7578786B2%2Fen"
+      },
+      {
+        "publication_number": "US20090216558A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-27",
+        "publication_date": "2009-08-27",
+        "assignee_original": "Active Health Management Inc.",
+        "title": "System and method for generating real-time health care alerts",
+        "patent_id": "patent/US20090216558A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090216558A1%2Fen"
+      },
+      {
+        "publication_number": "US7591783B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-01",
+        "publication_date": "2009-09-22",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Articulation joint for video endoscope",
+        "patent_id": "patent/US7591783B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7591783B2%2Fen"
+      },
+      {
+        "publication_number": "US7597662B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2009-10-06",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Multi-fluid delivery system",
+        "patent_id": "patent/US7597662B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7597662B2%2Fen"
+      },
+      {
+        "publication_number": "US7647234B1",
+        "primary_language": "en",
+        "priority_date": "1999-03-24",
+        "publication_date": "2010-01-12",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Cardiovascular healthcare management system and method",
+        "patent_id": "patent/US7647234B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7647234B1%2Fen"
+      },
+      {
+        "publication_number": "US7698155B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-29",
+        "publication_date": "2010-04-13",
+        "assignee_original": "Ingenix, Inc.",
+        "title": "System for determining a disease category probability for a healthcare plan member",
+        "patent_id": "patent/US7698155B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7698155B1%2Fen"
+      },
+      {
+        "publication_number": "US7739124B1",
+        "primary_language": "en",
+        "priority_date": "2000-06-02",
+        "publication_date": "2010-06-15",
+        "assignee_original": "Walker Digital, Llc",
+        "title": "System, method and apparatus for encouraging the undertaking of a preventative treatment",
+        "patent_id": "patent/US7739124B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7739124B1%2Fen"
+      },
+      {
+        "publication_number": "US7822621B1",
+        "primary_language": "en",
+        "priority_date": "2001-05-16",
+        "publication_date": "2010-10-26",
+        "assignee_original": "Perot Systems Corporation",
+        "title": "Method of and system for populating knowledge bases using rule based systems and object-oriented software",
+        "patent_id": "patent/US7822621B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7822621B1%2Fen"
+      },
+      {
+        "publication_number": "US7831442B1",
+        "primary_language": "en",
+        "priority_date": "2001-05-16",
+        "publication_date": "2010-11-09",
+        "assignee_original": "Perot Systems Corporation",
+        "title": "System and method for minimizing edits for medical insurance claims processing",
+        "patent_id": "patent/US7831442B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7831442B1%2Fen"
+      },
+      {
+        "publication_number": "US7835925B2",
+        "primary_language": "en",
+        "priority_date": "2001-02-20",
+        "publication_date": "2010-11-16",
+        "assignee_original": "The Procter & Gamble Company",
+        "title": "System for improving the management of the health of an individual and related methods",
+        "patent_id": "patent/US7835925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7835925B2%2Fen"
+      },
+      {
+        "publication_number": "US7846107B2",
+        "primary_language": "en",
+        "priority_date": "2005-05-13",
+        "publication_date": "2010-12-07",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Endoscopic apparatus with integrated multiple biopsy device",
+        "patent_id": "patent/US7846107B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7846107B2%2Fen"
+      },
+      {
+        "publication_number": "US7955255B2",
+        "primary_language": "en",
+        "priority_date": "2006-04-20",
+        "publication_date": "2011-06-07",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Imaging assembly with transparent distal cap",
+        "patent_id": "patent/US7955255B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7955255B2%2Fen"
+      },
+      {
+        "publication_number": "US7970722B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-08",
+        "publication_date": "2011-06-28",
+        "assignee_original": "Aloft Media, Llc",
+        "title": "System, method and computer program product for a collaborative decision platform",
+        "patent_id": "patent/US7970722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7970722B1%2Fen"
+      },
+      {
+        "publication_number": "US7967759B2",
+        "primary_language": "en",
+        "priority_date": "2006-01-19",
+        "publication_date": "2011-06-28",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Endoscopic system with integrated patient respiratory status indicator",
+        "patent_id": "patent/US7967759B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7967759B2%2Fen"
+      },
+      {
+        "publication_number": "US8052597B2",
+        "primary_language": "en",
+        "priority_date": "2005-08-30",
+        "publication_date": "2011-11-08",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Method for forming an endoscope articulation joint",
+        "patent_id": "patent/US8052597B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8052597B2%2Fen"
+      },
+      {
+        "publication_number": "US8083671B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2011-12-27",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Fluid delivery system for use with an endoscope",
+        "patent_id": "patent/US8083671B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8083671B2%2Fen"
+      },
+      {
+        "publication_number": "US8097003B2",
+        "primary_language": "en",
+        "priority_date": "2005-05-13",
+        "publication_date": "2012-01-17",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Endoscopic apparatus with integrated variceal ligation device",
+        "patent_id": "patent/US8097003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8097003B2%2Fen"
+      },
+      {
+        "publication_number": "US8118732B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-01",
+        "publication_date": "2012-02-21",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Force feedback control system for video endoscope",
+        "patent_id": "patent/US8118732B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8118732B2%2Fen"
+      },
+      {
+        "publication_number": "US8199187B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2012-06-12",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Adapter for use with digital imaging medical device",
+        "patent_id": "patent/US8199187B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8199187B2%2Fen"
+      },
+      {
+        "publication_number": "US8202265B2",
+        "primary_language": "en",
+        "priority_date": "2006-04-20",
+        "publication_date": "2012-06-19",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Multiple lumen assembly for use in endoscopes or other medical devices",
+        "patent_id": "patent/US8202265B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8202265B2%2Fen"
+      },
+      {
+        "publication_number": "US8353860B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2013-01-15",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Device for obstruction removal with specific tip structure",
+        "patent_id": "patent/US8353860B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8353860B2%2Fen"
+      },
+      {
+        "publication_number": "US8357148B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-30",
+        "publication_date": "2013-01-22",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Multi-functional endoscopic system for use in electrosurgical applications",
+        "patent_id": "patent/US8357148B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8357148B2%2Fen"
+      },
+      {
+        "publication_number": "US8535219B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-01",
+        "publication_date": "2013-09-17",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Fluid manifold for endoscope system",
+        "patent_id": "patent/US8535219B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8535219B2%2Fen"
+      },
+      {
+        "publication_number": "US8600777B2",
+        "primary_language": "en",
+        "priority_date": "2008-08-28",
+        "publication_date": "2013-12-03",
+        "assignee_original": "I.M.D. Soft Ltd.",
+        "title": "Monitoring patient conditions",
+        "patent_id": "patent/US8600777B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8600777B2%2Fen"
+      },
+      {
+        "publication_number": "US8620678B2",
+        "primary_language": "en",
+        "priority_date": "2003-01-31",
+        "publication_date": "2013-12-31",
+        "assignee_original": "Imd Soft Ltd.",
+        "title": "Medical information query system",
+        "patent_id": "patent/US8620678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8620678B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140249842A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-06",
+        "publication_date": "2014-09-04",
+        "assignee_original": "Quality Healthcare Intermediary, Llc",
+        "title": "Method of optimizing healthcare services consumption",
+        "patent_id": "patent/US20140249842A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140249842A1%2Fen"
+      },
+      {
+        "publication_number": "US20140330587A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-19",
+        "publication_date": "2014-11-06",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Medical diagnosis derived from patient drug history data",
+        "patent_id": "patent/US20140330587A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140330587A1%2Fen"
+      },
+      {
+        "publication_number": "US8888684B2",
+        "primary_language": "en",
+        "priority_date": "2006-03-27",
+        "publication_date": "2014-11-18",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Medical devices with local drug delivery capabilities",
+        "patent_id": "patent/US8888684B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8888684B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9721315B2",
+        "primary_language": "en",
+        "priority_date": "2007-07-13",
+        "publication_date": "2017-08-01",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Claim processing validation system",
+        "patent_id": "patent/US9721315B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9721315B2%2Fen"
+      },
+      {
+        "publication_number": "US11309075B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-29",
+        "publication_date": "2022-04-19",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Generation of a transaction set",
+        "patent_id": "patent/US11309075B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11309075B2%2Fen"
+      },
+      {
+        "publication_number": "US11335446B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-06",
+        "publication_date": "2022-05-17",
+        "assignee_original": "Quality Healthcare Intermediary, Llc",
+        "title": "Method of optimizing healthcare services consumption",
+        "patent_id": "patent/US11335446B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11335446B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5956689A",
+      "primary_language": "en",
+      "publication_date": "1999-09-21",
+      "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease",
+      "patent_id": "patent/US5956689A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956689A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7461006B2",
+      "primary_language": "en",
+      "publication_date": "2008-12-02",
+      "title": "Method and system for the analysis and association of patient-specific and population-based genomic data with drug safety adverse event data",
+      "patent_id": "patent/US7461006B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7461006B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8871144408690757184",
+      "scholar_authors": "Sweeney",
+      "publication_date": "1998",
+      "title": "Datafly: A system for providing anonymity in medical data",
+      "patent_id": "scholar/8871144408690757184",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8871144408690757184"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8380530B2",
+      "primary_language": "en",
+      "publication_date": "2013-02-19",
+      "title": "Personalized health records with associative relationships",
+      "patent_id": "patent/US8380530B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8380530B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7870011B2",
+      "primary_language": "en",
+      "publication_date": "2011-01-11",
+      "title": "Automated processing of electronic medical data for insurance and disability determinations",
+      "patent_id": "patent/US7870011B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7870011B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5422318076454676772",
+      "scholar_authors": "Wynn et al.",
+      "publication_date": "2001",
+      "title": "Accuracy of administrative and trauma registry databases",
+      "patent_id": "scholar/5422318076454676772",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5422318076454676772"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112037880A",
+      "primary_language": "en",
+      "publication_date": "2020-12-04",
+      "title": "Medication recommendation method, device, equipment and storage medium",
+      "patent_id": "patent/CN112037880A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112037880A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0917078A1",
+      "primary_language": "en",
+      "publication_date": "1999-05-19",
+      "title": "Disease management method and system",
+      "patent_id": "patent/EP0917078A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0917078A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080195600A1",
+      "primary_language": "en",
+      "publication_date": "2008-08-14",
+      "title": "Efficient method and process to search structured and unstructured patient data to match patients to clinical drug/device trials",
+      "patent_id": "patent/US20080195600A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080195600A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17552676246103998560",
+      "scholar_authors": "Krysko et al.",
+      "publication_date": "2015",
+      "title": "Identifying individuals with multiple sclerosis in an electronic medical record",
+      "patent_id": "scholar/17552676246103998560",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17552676246103998560"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7805421B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-28",
+      "title": "Method and system for reducing a data set",
+      "patent_id": "patent/US7805421B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7805421B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111429989A",
+      "primary_language": "en",
+      "publication_date": "2020-07-17",
+      "title": "Method and device for generating pre-diagnosis medical record",
+      "patent_id": "patent/CN111429989A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111429989A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2009083886A1",
+      "primary_language": "en",
+      "publication_date": "2009-07-09",
+      "title": "Presenting patient relevant studies for clinical decision making",
+      "patent_id": "patent/WO2009083886A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009083886A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119132631A",
+      "primary_language": "en",
+      "publication_date": "2024-12-13",
+      "title": "An emergency pre-examination and triage system",
+      "patent_id": "patent/CN119132631A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119132631A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8644777826218801842",
+      "scholar_authors": "Liang et al.",
+      "publication_date": "2023",
+      "title": "Long-term changes in brain connectivity reflected in quantitative electrophysiology of symptomatic former national football league players",
+      "patent_id": "scholar/8644777826218801842",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8644777826218801842"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112836483A",
+      "primary_language": "en",
+      "publication_date": "2021-05-25",
+      "title": "Smart medical terminology and template recommendation method and recommendation system",
+      "patent_id": "patent/CN112836483A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112836483A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6102795768710594623",
+      "scholar_authors": "Stephens et al.",
+      "publication_date": "1991",
+      "title": "Characteristics and long-term follow-up of patients hospitalized for mood disorders in the Phipps Clinic, 1913-1940",
+      "patent_id": "scholar/6102795768710594623",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6102795768710594623"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "752576303351867070",
+      "scholar_authors": "LaBelle et al.",
+      "publication_date": "2019",
+      "title": "Dissociation of executive and attentional elements of the digit span task in a population of older adults: a latent class analysis",
+      "patent_id": "scholar/752576303351867070",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F752576303351867070"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2778486766219225463",
+      "scholar_authors": "Jason et al.",
+      "publication_date": "2000",
+      "title": "An empirical verification of the Fennell phases of the CFS illness",
+      "patent_id": "scholar/2778486766219225463",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2778486766219225463"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14690227433846091040",
+      "scholar_authors": "Antonelli et al.",
+      "publication_date": "2015",
+      "title": "MeTA: Characterization of medical treatments at different abstraction levels",
+      "patent_id": "scholar/14690227433846091040",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14690227433846091040"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10642354333355259882",
+      "scholar_authors": "Chafjiri et al.",
+      "publication_date": "2023",
+      "title": "Natural language processing for identification of refractory status epilepticus in children",
+      "patent_id": "scholar/10642354333355259882",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10642354333355259882"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116978514A",
+      "primary_language": "en",
+      "publication_date": "2023-10-31",
+      "title": "Nutritional therapy assistance decision pushing method, device, computer equipment and medium",
+      "patent_id": "patent/CN116978514A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116978514A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11158067436017334538",
+      "scholar_authors": "Frize",
+      "publication_date": "2022",
+      "title": "Health care engineering Part II: Research and development in the health care environment",
+      "patent_id": "scholar/11158067436017334538",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11158067436017334538"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15843582348452259926",
+      "scholar_authors": "Lelak et al.",
+      "publication_date": "2023",
+      "title": "Cardiopulmonary resuscitation and epinephrine use in pediatric traumatic cardiac arrest",
+      "patent_id": "scholar/15843582348452259926",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15843582348452259926"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5480895730760540272",
+      "scholar_authors": "Karlsson et al.",
+      "publication_date": "2017",
+      "title": "Mining disproportional itemsets for characterizing groups of heart failure patients from administrative health records",
+      "patent_id": "scholar/5480895730760540272",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5480895730760540272"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1997-08-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ACCORDANT HEALTH SERVICES, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:EVERHART III, KENNETH A.;REEL/FRAME:008737/0557"
+        },
+        {
+          "label": "Effective date",
+          "value": "19970729"
+        }
+      ]
+    },
+    {
+      "date": "2000-08-08",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2003-01-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS COLLATERAL AGENT, NORTH"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT SUPPLEMENT;ASSIGNOR:ACCORDANT HEALTH SERVICES, INC.;REEL/FRAME:013691/0842"
+        },
+        {
+          "label": "Effective date",
+          "value": "20021127"
+        }
+      ]
+    },
+    {
+      "date": "2003-04-09",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2003-07-09",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2003-07-09",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2007-04-11",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2007-09-21",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2007-10-22",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2007-11-13",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20070921"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 75
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "208000017667",
+        "name": "Chronic Disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 97
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 37
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "201000006417",
+        "name": "multiple sclerosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+        "name": "L-methotrexate",
+        "domain": "Chemical compound",
+        "smiles": "C=1N=C2N=C(N)N=C(N)C2=NC=1CN(C)C1=CC=C(C(=O)N[C@@H](CCC(O)=O)C(O)=O)C=C1",
+        "inchi_key": "FBOZXECLQNJBKD-ZDUSSCGKSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "FFBHFFJDDLITSX-UHFFFAOYSA-N",
+        "name": "benzyl N-[2-hydroxy-4-(3-oxomorpholin-4-yl)phenyl]carbamate",
+        "domain": "Chemical compound",
+        "smiles": "OC1=C(NC(=O)OCC2=CC=CC=C2)C=CC(=C1)N1CCOCC1=O",
+        "inchi_key": "FFBHFFJDDLITSX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229960000485",
+        "name": "methotrexate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "108010005714",
+        "name": "Interferon beta-1b",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229940021459",
+        "name": "betaseron",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "KPYSYYIEGFHWSV-UHFFFAOYSA-N",
+        "name": "Baclofen",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CC(CN)C1=CC=C(Cl)C=C1",
+        "inchi_key": "KPYSYYIEGFHWSV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229930182555",
+        "name": "Penicillin",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "JGSARLDLIJGVTE-MBNYWOFBSA-N",
+        "name": "Penicillin G",
+        "domain": "Chemical compound",
+        "smiles": "N([C@H]1[C@H]2SC([C@@H](N2C1=O)C(O)=O)(C)C)C(=O)CC1=CC=CC=C1",
+        "inchi_key": "JGSARLDLIJGVTE-MBNYWOFBSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229940049954",
+        "name": "penicillin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229960000794",
+        "name": "baclofen",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "101100294638",
+        "name": "Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100) NRPS8 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "206010028417",
+        "name": "myasthenia gravis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "201000003883",
+        "name": "Cystic fibrosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000031220",
+        "name": "Hemophilia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000009292",
+        "name": "Hemophilia A",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "name": "Chloride anion",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-]",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010057645",
+        "name": "Chronic Inflammatory Demyelinating Polyradiculoneuropathy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000030939",
+        "name": "Chronic inflammatory demyelinating polyneuropathy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FQISKWAFAHGMGT-SGJOWKDISA-M",
+        "name": "Methylprednisolone sodium succinate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].C([C@@]12C)=CC(=O)C=C1[C@@H](C)C[C@@H]1[C@@H]2[C@@H](O)C[C@]2(C)[C@@](O)(C(=O)COC(=O)CCC([O-])=O)CC[C@H]21",
+        "inchi_key": "FQISKWAFAHGMGT-SGJOWKDISA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "201000002481",
+        "name": "Myositis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010029323",
+        "name": "Neuromyopathy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000018737",
+        "name": "Parkinson disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004556",
+        "name": "brain",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940063721",
+        "name": "lioresal",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010025135",
+        "name": "lupus erythematosus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001006",
+        "name": "meconium",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002085",
+        "name": "persistent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000241",
+        "name": "respiratory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000007056",
+        "name": "sickle cell anemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940087854",
+        "name": "solu-medrol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004243",
+        "name": "sweat",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000016192",
+        "name": "Demyelinating disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010014020",
+        "name": "Ear pain",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010014561",
+        "name": "Emphysema",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000015872",
+        "name": "Gaucher disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010005716",
+        "name": "Interferon beta-1a",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010028424",
+        "name": "Myasthenic syndrome",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010029240",
+        "name": "Neuritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000003435",
+        "name": "Optic Neuritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010061323",
+        "name": "Optic neuropathy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010067035",
+        "name": "Pancrelipase",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010036105",
+        "name": "Polyneuropathy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000035977",
+        "name": "Rare disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000009594",
+        "name": "Systemic Scleroderma",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010042953",
+        "name": "Systemic sclerosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940003504",
+        "name": "avonex",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000005980",
+        "name": "beta thalassemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003169",
+        "name": "central nervous system",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000015114",
+        "name": "central nervous system disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000001981",
+        "name": "dermatomyositis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000035475",
+        "name": "disorder",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009429",
+        "name": "distress",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000007176",
+        "name": "earache",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001914",
+        "name": "filtration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002068",
+        "name": "genetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003000",
+        "name": "inclusion body",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001524",
+        "name": "infective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009593",
+        "name": "lumbar puncture",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004072",
+        "name": "lung",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003387",
+        "name": "muscular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000020911",
+        "name": "optic nerve disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000005987",
+        "name": "polymyositis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000019629",
+        "name": "polyneuritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010039073",
+        "name": "rheumatoid arthritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007619",
+        "name": "statistical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000153",
+        "name": "supplemental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000011580",
+        "name": "syndromic disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009885",
+        "name": "systemic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000779",
+        "name": "thoracic wall",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

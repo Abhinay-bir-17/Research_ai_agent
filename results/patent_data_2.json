@@ -1,0 +1,3205 @@
+{
+  "search_metadata": {
+    "id": "68514fb873d224957fb79ad7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bba9904a3d3b9107/68514fb873d224957fb79ad7.json",
+    "created_at": "2025-06-17 11:21:28 UTC",
+    "processed_at": "2025-06-17 11:21:28 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20250009222A1/en",
+    "raw_html_file": "https://serpapi.com/searches/bba9904a3d3b9107/68514fb873d224957fb79ad7.html",
+    "total_time_taken": 6.02
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20250009222A1/en"
+  },
+  "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/a2/95/7d/aeea0d767443ad/US20250009222A1.pdf",
+  "publication_number": "US20250009222A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "user",
+    "eye",
+    "head",
+    "mounted device",
+    "image"
+  ],
+  "prior_art_date": "2017-09-27",
+  "application_number": "US18/893,914",
+  "inventors": [
+    {
+      "name": "Mohamed Abou Shousha",
+      "link": "https://patents.google.com/?inventor=Mohamed+Abou+Shousha",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Mohamed+Abou+Shousha"
+    }
+  ],
+  "assignees": [
+    "University of Miami"
+  ],
+  "priority_date": "2017-09-27",
+  "filing_date": "2024-09-23",
+  "publication_date": "2025-01-09",
+  "worldwide_applications": {
+    "2019": [
+      {
+        "filing_date": "2019-11-18",
+        "country_code": "US",
+        "application_number": "US16/687,512",
+        "document_id": "patent/US11102462B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2021": [
+      {
+        "filing_date": "2021-07-27",
+        "country_code": "US",
+        "application_number": "US17/386,233",
+        "document_id": "patent/US11701000B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2023": [
+      {
+        "filing_date": "2023-05-18",
+        "country_code": "US",
+        "application_number": "US18/320,166",
+        "document_id": "patent/US12096982B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2024": [
+      {
+        "filing_date": "2024-09-23",
+        "country_code": "US",
+        "application_number": "US18/893,914",
+        "document_id": "patent/US20250009222A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-09-27",
+      "title": "Priority claimed from US16/144,995",
+      "type": "external-priority",
+      "document_id": "patent/US10386645B2/en"
+    },
+    {
+      "date": "2019-03-28",
+      "title": "Priority claimed from US16/367,633",
+      "type": "external-priority",
+      "document_id": "patent/US10389989B2/en"
+    },
+    {
+      "date": "2019-06-18",
+      "title": "Priority claimed from US16/444,604",
+      "type": "external-priority",
+      "document_id": "patent/US10531795B1/en"
+    },
+    {
+      "date": "2019-10-16",
+      "title": "Priority claimed from US16/654,590",
+      "type": "external-priority",
+      "document_id": "patent/US10742944B1/en"
+    },
+    {
+      "date": "2024-09-23",
+      "title": "Application filed by University of Miami",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "University of Miami"
+    },
+    {
+      "date": "2024-09-23",
+      "title": "Priority to US18/893,914",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20250009222A1/en"
+    },
+    {
+      "date": "2025-01-09",
+      "title": "Publication of US20250009222A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20250009222A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20250009222.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/18893914"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20250009222"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2025009222A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/18893914/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20250009222"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/55/3b/f2/941fc499ef620a/US20250009222A1-20250109-D00000.png",
+    "https://patentimages.storage.googleapis.com/d5/41/f8/9df73cc30d003b/US20250009222A1-20250109-D00001.png",
+    "https://patentimages.storage.googleapis.com/71/bc/34/488c5846c64b85/US20250009222A1-20250109-D00002.png",
+    "https://patentimages.storage.googleapis.com/49/50/1c/fe0cf667129956/US20250009222A1-20250109-D00003.png",
+    "https://patentimages.storage.googleapis.com/56/c2/7d/a97acf55384e83/US20250009222A1-20250109-D00004.png",
+    "https://patentimages.storage.googleapis.com/f2/71/3a/c6ae6dd47f6ddf/US20250009222A1-20250109-D00005.png",
+    "https://patentimages.storage.googleapis.com/85/90/22/678e326fa60c5c/US20250009222A1-20250109-D00006.png",
+    "https://patentimages.storage.googleapis.com/e3/e0/a9/4cdd00aa68e763/US20250009222A1-20250109-D00007.png",
+    "https://patentimages.storage.googleapis.com/e8/84/17/53d755f1d9250a/US20250009222A1-20250109-D00008.png",
+    "https://patentimages.storage.googleapis.com/4c/0a/ca/f5180a2a4be3f5/US20250009222A1-20250109-D00009.png",
+    "https://patentimages.storage.googleapis.com/e1/03/8c/f960726f5c66d8/US20250009222A1-20250109-D00010.png",
+    "https://patentimages.storage.googleapis.com/5c/90/7e/d45f0ab5c6ff6b/US20250009222A1-20250109-D00011.png",
+    "https://patentimages.storage.googleapis.com/98/4b/06/f551cd65c382a7/US20250009222A1-20250109-D00012.png",
+    "https://patentimages.storage.googleapis.com/eb/70/74/5410542be69715/US20250009222A1-20250109-D00013.png",
+    "https://patentimages.storage.googleapis.com/c0/11/9d/b9b303c7274c37/US20250009222A1-20250109-D00014.png",
+    "https://patentimages.storage.googleapis.com/d8/77/93/cb26d2f122a414/US20250009222A1-20250109-D00015.png",
+    "https://patentimages.storage.googleapis.com/80/21/f2/8fa03f99ab0612/US20250009222A1-20250109-D00016.png",
+    "https://patentimages.storage.googleapis.com/42/b8/3d/210352334cc5e2/US20250009222A1-20250109-D00017.png",
+    "https://patentimages.storage.googleapis.com/26/82/0c/d1eb41da1cf611/US20250009222A1-20250109-D00018.png",
+    "https://patentimages.storage.googleapis.com/fe/29/92/62eea9cb02e8de/US20250009222A1-20250109-D00019.png",
+    "https://patentimages.storage.googleapis.com/ea/2f/42/c864c6c62a5fe1/US20250009222A1-20250109-D00020.png",
+    "https://patentimages.storage.googleapis.com/cb/60/ae/99b56d9ece8e57/US20250009222A1-20250109-D00021.png",
+    "https://patentimages.storage.googleapis.com/09/53/41/caf1c68f72a36f/US20250009222A1-20250109-D00022.png",
+    "https://patentimages.storage.googleapis.com/e6/50/9d/931b15cce7e01c/US20250009222A1-20250109-D00023.png",
+    "https://patentimages.storage.googleapis.com/4d/d3/8b/33f4598fac5d63/US20250009222A1-20250109-D00024.png",
+    "https://patentimages.storage.googleapis.com/9c/f9/61/f0cbc3815ce54d/US20250009222A1-20250109-D00025.png",
+    "https://patentimages.storage.googleapis.com/1b/ed/b1/7d6c5a0e9622ee/US20250009222A1-20250109-D00026.png",
+    "https://patentimages.storage.googleapis.com/f3/ca/fa/3695670e86abb0/US20250009222A1-20250109-D00027.png",
+    "https://patentimages.storage.googleapis.com/ca/3b/05/96f159d971c403/US20250009222A1-20250109-D00028.png",
+    "https://patentimages.storage.googleapis.com/8f/43/14/81ce3d88fe1e23/US20250009222A1-20250109-D00029.png",
+    "https://patentimages.storage.googleapis.com/95/3b/8d/7941b0651c8c4f/US20250009222A1-20250109-D00030.png",
+    "https://patentimages.storage.googleapis.com/c1/e4/aa/d3ef9c72f7c53b/US20250009222A1-20250109-D00031.png",
+    "https://patentimages.storage.googleapis.com/5a/20/73/eaa6e416aefa3b/US20250009222A1-20250109-D00032.png",
+    "https://patentimages.storage.googleapis.com/6a/de/43/eebad3fe2f5065/US20250009222A1-20250109-D00033.png",
+    "https://patentimages.storage.googleapis.com/35/94/1d/d637dd777f8691/US20250009222A1-20250109-D00034.png",
+    "https://patentimages.storage.googleapis.com/75/64/44/00d8622bf7bb36/US20250009222A1-20250109-D00035.png",
+    "https://patentimages.storage.googleapis.com/5c/99/80/3b2b8a77b9fec0/US20250009222A1-20250109-D00036.png",
+    "https://patentimages.storage.googleapis.com/0e/f2/ce/2e887b71e492d3/US20250009222A1-20250109-D00037.png",
+    "https://patentimages.storage.googleapis.com/fa/33/49/f1a228c51b9997/US20250009222A1-20250109-D00038.png",
+    "https://patentimages.storage.googleapis.com/01/a4/10/1b842ab691b901/US20250009222A1-20250109-D00039.png",
+    "https://patentimages.storage.googleapis.com/71/97/52/7bb207ceeb5274/US20250009222A1-20250109-D00040.png",
+    "https://patentimages.storage.googleapis.com/42/f0/32/3cfc76d58bfc29/US20250009222A1-20250109-D00041.png",
+    "https://patentimages.storage.googleapis.com/75/03/6f/e3e6e76a51339c/US20250009222A1-20250109-D00042.png",
+    "https://patentimages.storage.googleapis.com/13/02/36/cab2609ef493cf/US20250009222A1-20250109-D00043.png",
+    "https://patentimages.storage.googleapis.com/7b/35/ea/157d177a36b418/US20250009222A1-20250109-D00044.png",
+    "https://patentimages.storage.googleapis.com/45/ea/4f/c779009de980d7/US20250009222A1-20250109-D00045.png",
+    "https://patentimages.storage.googleapis.com/56/af/23/b5994412a2fad6/US20250009222A1-20250109-D00046.png",
+    "https://patentimages.storage.googleapis.com/4f/2f/32/a06ef95de0e29e/US20250009222A1-20250109-D00047.png",
+    "https://patentimages.storage.googleapis.com/fb/11/3d/2e82f637f83567/US20250009222A1-20250109-D00048.png",
+    "https://patentimages.storage.googleapis.com/28/6f/5e/879470295f4cdb/US20250009222A1-20250109-D00049.png",
+    "https://patentimages.storage.googleapis.com/e9/35/e2/0e9fc14866fc01/US20250009222A1-20250109-D00050.png",
+    "https://patentimages.storage.googleapis.com/1a/6e/5d/fbfd00c0eb04bb/US20250009222A1-20250109-D00051.png",
+    "https://patentimages.storage.googleapis.com/59/34/27/8092719c7e4942/US20250009222A1-20250109-D00052.png",
+    "https://patentimages.storage.googleapis.com/0e/a3/f3/8754466f3fc8af/US20250009222A1-20250109-D00053.png",
+    "https://patentimages.storage.googleapis.com/ea/ce/e1/757e9dabe3884b/US20250009222A1-20250109-D00054.png",
+    "https://patentimages.storage.googleapis.com/46/6c/af/abd8d48e8a1b8d/US20250009222A1-20250109-D00055.png",
+    "https://patentimages.storage.googleapis.com/91/fa/95/f75ad34a079fba/US20250009222A1-20250109-D00056.png",
+    "https://patentimages.storage.googleapis.com/9a/62/ac/5caa71f6bade92/US20250009222A1-20250109-D00057.png",
+    "https://patentimages.storage.googleapis.com/5f/cc/f1/56d7ad62b57ac2/US20250009222A1-20250109-D00058.png",
+    "https://patentimages.storage.googleapis.com/70/51/9f/f22ed95d82aeaf/US20250009222A1-20250109-D00059.png",
+    "https://patentimages.storage.googleapis.com/0d/0e/25/03277b5a5ec628/US20250009222A1-20250109-D00060.png",
+    "https://patentimages.storage.googleapis.com/35/d2/93/b0b93ca2bbf830/US20250009222A1-20250109-D00061.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B3/028",
+      "description": "Subjective types, i.e. testing apparatus requiring the active assistance of the patient for testing visual acuity; for determination of refraction, e.g. phoropters",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/0025",
+      "description": "Operational features thereof characterised by electronic signal processing, e.g. eye models",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/032",
+      "description": "Devices for presenting test symbols or characters, e.g. test chart projectors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/085",
+      "description": "Subjective types, i.e. testing apparatus requiring the active assistance of the patient for testing binocular or stereoscopic vision, e.g. strabismus for testing strabismus",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/113",
+      "description": "Objective types, i.e. instruments for examining the eyes independent of the patients' perceptions or reactions for determining or recording eye movement",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/14",
+      "description": "Arrangements specially adapted for eye photography",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B3/145",
+      "description": "Arrangements specially adapted for eye photography by video means",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B27/017",
+      "description": "Head mounted",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B27/0172",
+      "description": "Head mounted characterised by optical features",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F18/214",
+      "description": "Generating training patterns; Bootstrap methods, e.g. bagging or boosting",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06T5/00",
+      "description": "Image enhancement or restoration",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V10/764",
+      "description": "Arrangements for image or video recognition or understanding using pattern recognition or machine learning using classification, e.g. of video objects",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V10/774",
+      "description": "Generating sets of training patterns; Bootstrap methods, e.g. bagging or boosting",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V20/20",
+      "description": "Scenes; Scene-specific elements in augmented reality scenes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V40/19",
+      "description": "Sensors therefor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06V40/193",
+      "description": "Preprocessing; Feature extraction",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H04N9/646",
+      "description": "Circuits for processing colour signals for image enhancement, e.g. vertical detail restoration, cross-colour elimination, contour correction, chrominance trapping filters",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B2027/014",
+      "description": "Head-up displays characterised by optical features comprising information/image processing systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B2027/0141",
+      "description": "Head-up displays characterised by optical features characterised by the informative content of the display",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "In some embodiments, image content may be presented to a user of a head-mounted device via one or more inward-facing displays of the head-mounted device. Light emitted from one or more infrared diodes may be projected onto an eye of the user via one or more inward-facing infrared devices of the head-mounted device. Reflection data related to a reflection of the infrared-diode-emitted light reflected from the eye may be obtained via the one or more inward-facing infrared devices of the head-mounted device. A machine learning model (e.g., comprising a neural network or other components) may be used to generate an eye-related indication based on the reflection data comprising one or more anomalies.",
+  "description_link": "https://serpapi.com/searches/68514fb873d224957fb79ad7/google_patents_details/description.html",
+  "claims": [
+    "1. A head-mounted device comprising:\none or more inward-facing displays configured to face eyes of a user and present image content related to an environment of the user; one or more inward-facing infrared sensors configured to project a light pattern onto a cornea of the user using infrared emitting diodes and capture a reflection of the light pattern reflected from the cornea; and one or more processors and memory storing instructions that, when executed by the one or more processors, cause operations comprising:\nstoring a machine learning model, comprising one or more hidden neural network layers, trained to predict one or more eye conditions, each hidden layer of the one or more hidden neural network layers comprising one or more weights;\npresenting the image content related to the environment via the one or more inward-facing displays of the head-mounted device;\nprojecting the light pattern onto the cornea of the user via the one or more inward-facing infrared sensors of the head-mounted device;\nobtaining reflection data related to the reflection of the light pattern via the one or more inward-facing infrared sensors of the head-mounted device; and\ngenerating, via the machine learning model stored on the head-mounted device, an eye-related indication based on one or more anomalies detected in the reflection data related to the reflection of the light pattern.",
+    "2. A method comprising:\ncausing, via one or more inward-facing displays of a head-mounted device, presentation of image content to a user of the head-mounted device; causing, via one or more inward-facing infrared devices of the head-mounted device, projection of light emitted from one or more infrared diodes onto a cornea of the user; obtaining, via the one or more inward-facing infrared devices of the head-mounted device, reflection data related to a reflection of the infrared-diode-emitted light reflected from the cornea; and generating, via one or more processors of the head-mounted device using a machine learning model comprising model weights, an eye-related indication based on the reflection data comprising one or more anomalies.",
+    "3. The method of claim 2, wherein causing the presentation of the image content comprises generating the image content related to an environment of the user and presenting the image content related to the environment on the one or more inward-facing displays of the head-mounted device.",
+    "4. The method of claim 2, further comprising:\nobtaining, via the one or more inward-facing infrared devices of the head-mounted device, feedback data related to an eye of the user in connection with the presentation of the image content; and generating, via the machine learning model stored on the head-mounted device, one or more predictions related to an eye condition based on the feedback data.",
+    "5. The method of claim 2, further comprising:\nobtaining, via the one or more inward-facing infrared devices of the head-mounted device, feedback data related to eye movement of the user in connection with the presentation of the image content; and generating, via the machine learning model stored on the head-mounted device, one or more predictions related to an eye condition based on the feedback data.",
+    "6. The method of claim 2, further comprising:\nlocally storing, at the head-mounted device, the machine learning model, comprising a neural network, configured to generate outputs indicating one or more eye conditions, wherein assessing the machine learning model and generating the eye-related indication comprises assessing the machine learning model locally stored at the head-mounted device and using the machine learning model locally stored at the head-mounted device to generate the eye-related indication based on the reflection data comprising the one or more anomalies.",
+    "7. The method of claim 2, wherein assessing the machine learning model and generating the eye-related indication comprises remotely assessing the machine learning model, comprising a neural network, via a service and using the remotely-accessed machine learning model to generate the eye-related indication based on the reflection data comprising the one or more anomalies.",
+    "8. The method of claim 2, wherein the one or more inward-facing infrared devices comprises one or more inward-facing infrared cameras of the head-mounted device.",
+    "9. The method of claim 8, wherein the one or more inward-facing infrared cameras of the head-mounted device comprises infrared emitting diodes and is configured to capture light, emitted from the infrared emitting diodes, that is reflected from an eye of the user.",
+    "10. The method of claim 2, wherein generating the eye-related indication comprises generating, via the one or more processors of the head-mounted device using the machine learning model, a refraction-error-related indication based on the reflection data comprising the one or more anomalies.",
+    "11. The method of claim 2, wherein generating the eye-related indication comprises generating, via the one or more processors of the head-mounted device using the machine learning model, a dynamic-aberration-related indication based on the reflection data comprising the one or more anomalies.",
+    "12. One or more non-transitory computer-readable media storing instructions that, when executed by one or more processors, cause operations comprising:\ncausing, via one or more inward-facing displays of a head-mounted device, presentation of image content to a user of the head-mounted device; obtaining, via one or more inward-facing infrared sensors of the head-mounted device configured to capture light emitted from one or more infrared diodes, reflection data related to a reflection of the presentation reflected from an eye of the user; and generating, via an artificial intelligence model, an eye-related indication based on the reflection data comprising one or more anomalies.",
+    "13. The one or more non-transitory computer-readable media of claim 12, the operations further comprising causing, via infrared emitting diodes of the head-mounted device, projection of light onto an eye of the user.",
+    "14. The one or more non-transitory computer-readable media of claim 12, wherein causing the presentation of the image content comprises generating the image content related to an environment of the user and presenting the image content related to the environment on the one or more inward-facing displays of the head-mounted device.",
+    "15. The one or more non-transitory computer-readable media of claim 12, the operations further comprising:\nobtaining, via the one or more inward-facing infrared sensors of the head-mounted device, feedback data related to an eye of the user in connection with the presentation of the image content; and generating, via the artificial intelligence model stored on the head-mounted device, one or more predictions related to an eye condition based on the feedback data.",
+    "16. The one or more non-transitory computer-readable media of claim 12, the operations further comprising:\nobtaining, via the one or more inward-facing infrared sensors of the head-mounted device, feedback data related to eye movement of the user in connection with the presentation of the image content; and generating, via the artificial intelligence model stored on the head-mounted device, one or more predictions related to an eye condition based on the feedback data.",
+    "17. The one or more non-transitory computer-readable media of claim 12, the operations further comprising:\nlocally storing, at the head-mounted device, the artificial intelligence model, comprising a machine learning model, configured to generate outputs indicating one or more eye conditions, wherein assessing the artificial intelligence model and generating the eye-related indication comprises assessing the artificial intelligence model locally stored at the head-mounted device and using the artificial intelligence model locally stored at the head-mounted device to generate the eye-related indication based on the reflection data comprising the one or more anomalies.",
+    "18. The one or more non-transitory computer-readable media of claim 12, wherein assessing the artificial intelligence model and generating the eye-related indication comprises remotely assessing the artificial intelligence model, comprising a machine learning model, via a service and using the remotely-accessed artificial intelligence model to generate the eye-related indication based on the reflection data comprising the one or more anomalies.",
+    "19. The one or more non-transitory computer-readable media of claim 12, wherein the one or more inward-facing infrared sensors comprises one or more inward-facing infrared cameras of the head-mounted device.",
+    "20. The one or more non-transitory computer-readable media of claim 19, wherein the one or more inward-facing infrared cameras of the head-mounted device comprises infrared emitting diodes and is configured to capture light, emitted from the infrared emitting diodes, that is reflected from an eye of the user."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US18/320,166",
+      "relation_type": "Continuation",
+      "representative_publication": "US12096982B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2023-05-18",
+      "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US18/893,914",
+      "representative_publication": "US20250009222A1",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2024-09-23",
+      "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201762563770P",
+      "priority_date": "2017-09-27",
+      "filing_date": "2017-09-27"
+    },
+    {
+      "application_number": "US16/144,995",
+      "representative_publication": "US10386645B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2018-09-27",
+      "title": "Digital therapeutic corrective spectacles"
+    },
+    {
+      "application_number": "US16/367,633",
+      "representative_publication": "US10389989B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2019-03-28",
+      "title": "Vision defect determination and enhancement using a prediction model"
+    },
+    {
+      "application_number": "US16/428,932",
+      "representative_publication": "US10485421B1",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2019-05-31",
+      "title": "Vision defect determination and enhancement using a prediction model"
+    },
+    {
+      "application_number": "US16/444,604",
+      "representative_publication": "US10531795B1",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2019-06-18",
+      "title": "Vision defect determination via a dynamic eye-characteristic-based fixation point"
+    },
+    {
+      "application_number": "US201962895402P",
+      "priority_date": "2019-09-03",
+      "filing_date": "2019-09-03"
+    },
+    {
+      "application_number": "US16/654,590",
+      "representative_publication": "US10742944B1",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2019-10-16",
+      "title": "Vision defect determination for facilitating modifications for vision defects related to double vision or dynamic aberrations"
+    },
+    {
+      "application_number": "US16/687,512",
+      "representative_publication": "US11102462B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2019-11-18",
+      "title": "Vision defect determination via a dynamic eye characteristic-based fixation point"
+    },
+    {
+      "application_number": "US17/386,233",
+      "representative_publication": "US11701000B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2021-07-27",
+      "title": "Modification profile generation for vision defects related to double vision or dynamic aberrations"
+    },
+    {
+      "application_number": "US18/320,166",
+      "representative_publication": "US12096982B2",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2023-05-18",
+      "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data"
+    },
+    {
+      "application_number": "US18/893,914",
+      "representative_publication": "US20250009222A1",
+      "primary_language": "en",
+      "priority_date": "2017-09-27",
+      "filing_date": "2024-09-23",
+      "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data"
+    }
+  ],
+  "family_id": "75383974",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US5208872A",
+        "primary_language": "en",
+        "priority_date": "1990-03-30",
+        "publication_date": "1993-05-04",
+        "assignee_original": "The United States Of America As Represented By The United States National Aeronautics And Space Administration",
+        "title": "Programmable remapper with single flow architecture",
+        "patent_id": "patent/US5208872A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5208872A%2Fen"
+      },
+      {
+        "publication_number": "DE4417768C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-20",
+        "publication_date": "1998-09-10",
+        "assignee_original": "Juergen Prof Dr Med Lamprecht",
+        "title": "Method and device for projecting image information in persons with visual disturbances caused by a deviation in the position of their visual axis",
+        "patent_id": "patent/DE4417768C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4417768C2%2Fen"
+      },
+      {
+        "publication_number": "US5589897A",
+        "primary_language": "en",
+        "priority_date": "1995-05-01",
+        "publication_date": "1996-12-31",
+        "assignee_original": "Stephen H. Sinclair",
+        "title": "Method and apparatus for central visual field mapping and optimization of image presentation based upon mapped parameters",
+        "patent_id": "patent/US5589897A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5589897A%2Fen"
+      },
+      {
+        "publication_number": "GB9722949D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-30",
+        "publication_date": "1998-01-07",
+        "assignee_original": "Bid Instr Ltd",
+        "title": "Ocular testing and related projection apparatus and method",
+        "patent_id": "patent/GB9722949D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9722949D0%2Fen"
+      },
+      {
+        "publication_number": "US7155393B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-18",
+        "publication_date": "2006-12-26",
+        "assignee_original": "Visionrx, Llc",
+        "title": "Method for establishing fixation employing speech recognition",
+        "patent_id": "patent/US7155393B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7155393B2%2Fen"
+      },
+      {
+        "publication_number": "JP4902071B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-27",
+        "publication_date": "2012-03-21",
+        "assignee_original": "\u6b66\u654f \u9234\u6728",
+        "title": "Field inspection table",
+        "patent_id": "patent/JP4902071B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4902071B2%2Fen"
+      },
+      {
+        "publication_number": "US6755529B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-12",
+        "publication_date": "2004-06-29",
+        "assignee_original": "Visionrx, Inc.",
+        "title": "Method and apparatus for measuring contrast sensitivity",
+        "patent_id": "patent/US6755529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6755529B2%2Fen"
+      },
+      {
+        "publication_number": "US7033025B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-17",
+        "publication_date": "2006-04-25",
+        "assignee_original": "Virtocc, Inc.",
+        "title": "Interactive occlusion system",
+        "patent_id": "patent/US7033025B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7033025B2%2Fen"
+      },
+      {
+        "publication_number": "JP4537192B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-21",
+        "publication_date": "2010-09-01",
+        "assignee_original": "\u30ad\u30e4\u30ce\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Ophthalmic equipment",
+        "patent_id": "patent/JP4537192B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4537192B2%2Fen"
+      },
+      {
+        "publication_number": "JP2010511486A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-04",
+        "publication_date": "2010-04-15",
+        "assignee_original": "\u30d5\u30a1\u30c6\uff0c\u30b7\u30ca",
+        "title": "System, method and apparatus for correction of amblyopia and eyeball deviation",
+        "patent_id": "patent/JP2010511486A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010511486A%2Fen"
+      },
+      {
+        "publication_number": "JP5832747B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-09",
+        "publication_date": "2015-12-16",
+        "assignee_original": "\u30b8\u30fb\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u30f3\u30fb\u30ca\u30b7\u30e7\u30ca\u30eb\u30fb\u30e6\u30cb\u30d0\u30fc\u30b7\u30c6\u30a3\u30fc",
+        "title": "Device operating method and device for evaluating sensory cortex function",
+        "patent_id": "patent/JP5832747B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5832747B2%2Fen"
+      },
+      {
+        "publication_number": "EP2329761A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-02",
+        "publication_date": "2011-06-08",
+        "assignee_original": "RetCorr AB",
+        "title": "An apparatus and method for establishing and/or improving binocular vision",
+        "patent_id": "patent/EP2329761A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2329761A1%2Fen"
+      },
+      {
+        "publication_number": "JP5572407B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-29",
+        "publication_date": "2014-08-13",
+        "assignee_original": "\u4eac\u90fd\u5e9c\u516c\u7acb\u5927\u5b66\u6cd5\u4eba",
+        "title": "Ophthalmic apparatus and image classification program",
+        "patent_id": "patent/JP5572407B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5572407B2%2Fen"
+      },
+      {
+        "publication_number": "KR101962989B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-07",
+        "publication_date": "2019-03-27",
+        "assignee_original": "\ub178\ubc14\uc0ac\uc774\ud2b8 \ub9ac\ubbf8\ud2f0\ub4dc",
+        "title": "Method and system for treatment of visual impairment",
+        "patent_id": "patent/KR101962989B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101962989B1%2Fen"
+      },
+      {
+        "publication_number": "US9433346B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-21",
+        "publication_date": "2016-09-06",
+        "assignee_original": "Gobiquity, Inc.",
+        "title": "Circular preferential hyperacuity perimetry video game to monitor macular and retinal diseases",
+        "patent_id": "patent/US9433346B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9433346B2%2Fen"
+      },
+      {
+        "publication_number": "WO2013166477A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-04",
+        "publication_date": "2013-11-07",
+        "assignee_original": "Tearscience, Inc.",
+        "title": "Apparatuses and methods for determining tear film break-up time and/or for detecting lid margin contact and blink rates, particularly for diagnosing, measuring, and/or analyzing dry eye conditions and symptoms",
+        "patent_id": "patent/WO2013166477A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013166477A2%2Fen"
+      },
+      {
+        "publication_number": "US9180053B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-29",
+        "publication_date": "2015-11-10",
+        "assignee_original": "Xerox Corporation",
+        "title": "Central vision impairment compensation",
+        "patent_id": "patent/US9180053B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9180053B2%2Fen"
+      },
+      {
+        "publication_number": "GB2524500A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-24",
+        "publication_date": "2015-09-30",
+        "assignee_original": "Nottingham University Hospitals Nhs Trust",
+        "title": "Apparatus and methods for the treatment of ocular disorders",
+        "patent_id": "patent/GB2524500A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2524500A%2Fen"
+      },
+      {
+        "publication_number": "US9706910B1",
+        "primary_language": "en",
+        "priority_date": "2014-05-29",
+        "publication_date": "2017-07-18",
+        "assignee_original": "Vivid Vision, Inc.",
+        "title": "Interactive system for vision assessment and correction",
+        "patent_id": "patent/US9706910B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9706910B1%2Fen"
+      },
+      {
+        "publication_number": "JP6503062B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-07",
+        "publication_date": "2019-04-17",
+        "assignee_original": "\u30a2\u30a4\u30d6\u30ec\u30a4\u30f3 \u30e1\u30c7\u30a3\u30ab\u30eb\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9",
+        "title": "System for measuring fixation disparity",
+        "patent_id": "patent/JP6503062B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6503062B2%2Fen"
+      },
+      {
+        "publication_number": "US9443488B2",
+        "primary_language": "en",
+        "priority_date": "2014-10-14",
+        "publication_date": "2016-09-13",
+        "assignee_original": "Digital Vision Enhancement Inc",
+        "title": "Image transforming vision enhancement device",
+        "patent_id": "patent/US9443488B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9443488B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016126556A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-02",
+        "publication_date": "2016-08-11",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Method and system for objective evaluation of dry eye syndrome",
+        "patent_id": "patent/WO2016126556A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016126556A1%2Fen"
+      },
+      {
+        "publication_number": "DE112016000728T5",
+        "primary_language": "en",
+        "priority_date": "2015-02-12",
+        "publication_date": "2017-10-26",
+        "assignee_original": "Google Inc.",
+        "title": "Combine a narrow field of view and high resolution display with a medium resolution wide angle display",
+        "patent_id": "patent/DE112016000728T5/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE112016000728T5%2Fen"
+      },
+      {
+        "publication_number": "US20160317023A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-29",
+        "publication_date": "2016-11-03",
+        "assignee_original": "Metrovision",
+        "title": "System for testing visual field of a patient and the corresponding method",
+        "patent_id": "patent/US20160317023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160317023A1%2Fen"
+      },
+      {
+        "publication_number": "KR102656342B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-23",
+        "publication_date": "2024-04-09",
+        "assignee_original": "\ub274\uc800\uc9c0 \uc778\uc2a4\ud2f0\ud29c\ud2b8 \uc624\ube0c \ud14c\ud06c\ub180\ub85c\uc9c0",
+        "title": "Method, system, and apparatus for controlling a visual healing video game in response to user's eye movements",
+        "patent_id": "patent/KR102656342B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102656342B1%2Fen"
+      },
+      {
+        "publication_number": "US10016130B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-04",
+        "publication_date": "2018-07-10",
+        "assignee_original": "University Of Massachusetts",
+        "title": "Eye tracker system and methods for detecting eye parameters",
+        "patent_id": "patent/US10016130B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10016130B2%2Fen"
+      },
+      {
+        "publication_number": "US20170092007A1",
+        "primary_language": "en",
+        "priority_date": "2015-09-24",
+        "publication_date": "2017-03-30",
+        "assignee_original": "Supereye, Inc.",
+        "title": "Methods and Devices for Providing Enhanced Visual Acuity",
+        "patent_id": "patent/US20170092007A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170092007A1%2Fen"
+      },
+      {
+        "publication_number": "US20170123488A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-28",
+        "publication_date": "2017-05-04",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Tracking of wearer's eyes relative to wearable device",
+        "patent_id": "patent/US20170123488A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170123488A1%2Fen"
+      },
+      {
+        "publication_number": "US20170296419A1",
+        "primary_language": "en",
+        "priority_date": "2016-04-15",
+        "publication_date": "2017-10-19",
+        "assignee_original": "Dean TRAVERS",
+        "title": "Methods for visual care and enhancement featuring modification of accommodative demand",
+        "patent_id": "patent/US20170296419A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170296419A1%2Fen"
+      },
+      {
+        "publication_number": "GB201613923D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-15",
+        "publication_date": "2016-09-28",
+        "assignee_original": "Ucl Business Plc",
+        "title": "Method and apparatus for performing a visual field test",
+        "patent_id": "patent/GB201613923D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201613923D0%2Fen"
+      },
+      {
+        "publication_number": "US20180144554A1",
+        "primary_language": "en",
+        "priority_date": "2016-11-18",
+        "publication_date": "2018-05-24",
+        "assignee_original": "Eyedaptic, LLC",
+        "title": "Systems for augmented reality visual aids and tools",
+        "patent_id": "patent/US20180144554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180144554A1%2Fen"
+      },
+      {
+        "publication_number": "US20180314066A1",
+        "primary_language": "en",
+        "priority_date": "2017-04-28",
+        "publication_date": "2018-11-01",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Generating dimming masks to enhance contrast between computer-generated images and a real-world view",
+        "patent_id": "patent/US20180314066A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180314066A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018203297A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-04",
+        "publication_date": "2018-11-08",
+        "assignee_original": "Novasight Ltd.",
+        "title": "Ocular misalignment",
+        "patent_id": "patent/WO2018203297A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018203297A1%2Fen"
+      },
+      {
+        "publication_number": "US11647903B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-01",
+        "publication_date": "2023-05-16",
+        "assignee_original": "University Of Washington",
+        "title": "Smartphone-based digital pupillometer",
+        "patent_id": "patent/US11647903B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11647903B2%2Fen"
+      },
+      {
+        "publication_number": "US10531795B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-27",
+        "publication_date": "2020-01-14",
+        "assignee_original": "University Of Miami",
+        "title": "Vision defect determination via a dynamic eye-characteristic-based fixation point",
+        "patent_id": "patent/US10531795B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10531795B1%2Fen"
+      },
+      {
+        "publication_number": "US10389989B2",
+        "primary_language": "en",
+        "priority_date": "2017-09-27",
+        "publication_date": "2019-08-20",
+        "assignee_original": "University Of Miami",
+        "title": "Vision defect determination and enhancement using a prediction model",
+        "patent_id": "patent/US10389989B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10389989B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "IL269159B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-05",
+        "publication_date": "2024-09-01",
+        "assignee_original": "Virtuoptica Ltd",
+        "title": "Method and device for visual inspection",
+        "patent_id": "patent/IL269159B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL269159B2%2Fen"
+      },
+      {
+        "publication_number": "WO2020136784A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-27",
+        "publication_date": "2020-07-02",
+        "assignee_original": "\uff2e\uff45\uff43\u30c7\u30a3\u30b9\u30d7\u30ec\u30a4\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30ba\u682a\u5f0f\u4f1a\u793e",
+        "title": "Display system, display method, and program",
+        "patent_id": "patent/WO2020136784A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020136784A1%2Fen"
+      },
+      {
+        "publication_number": "JP6972393B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-21",
+        "publication_date": "2021-11-24",
+        "assignee_original": "\u4e09\u83f1\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Attention determination device, attention determination system, attention determination method, and program",
+        "patent_id": "patent/JP6972393B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6972393B2%2Fen"
+      },
+      {
+        "publication_number": "EP4066264A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-29",
+        "publication_date": "2023-12-13",
+        "assignee_original": "Electric Puppets Incorporated",
+        "title": "System and method for virtual reality based human biological metrics collection and stimulus presentation",
+        "patent_id": "patent/EP4066264A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4066264A4%2Fen"
+      },
+      {
+        "publication_number": "US11416986B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-13",
+        "publication_date": "2022-08-16",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Simulating visual field test from structural scans",
+        "patent_id": "patent/US11416986B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11416986B2%2Fen"
+      },
+      {
+        "publication_number": "US11468276B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-16",
+        "publication_date": "2022-10-11",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "System and method of a monotone operator neural network",
+        "patent_id": "patent/US11468276B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11468276B2%2Fen"
+      },
+      {
+        "publication_number": "CN114257707A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-21",
+        "publication_date": "2022-03-29",
+        "assignee_original": "\u5b89\u9738\u56fd\u9645\u6709\u9650\u5408\u4f19\u4f01\u4e1a",
+        "title": "Intelligent IP camera with colored night mode",
+        "patent_id": "patent/CN114257707A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114257707A%2Fen"
+      },
+      {
+        "publication_number": "KR20220105698A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-20",
+        "publication_date": "2022-07-28",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Augmented reality glasses lenses, and augmented reality glasses and system including the same",
+        "patent_id": "patent/KR20220105698A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220105698A%2Fen"
+      },
+      {
+        "publication_number": "JP7672280B2",
+        "primary_language": "en",
+        "priority_date": "2021-05-21",
+        "publication_date": "2025-05-07",
+        "assignee_original": "\u4e09\u83f1\u96fb\u6a5f\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Pop-up display control device, work support device, work support system, pop-up display method, pop-up display program, and recording medium",
+        "patent_id": "patent/JP7672280B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7672280B2%2Fen"
+      },
+      {
+        "publication_number": "US11430132B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-19",
+        "publication_date": "2022-08-30",
+        "assignee_original": "Unity Technologies Sf",
+        "title": "Replacing moving objects with background information in a video scene",
+        "patent_id": "patent/US11430132B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11430132B1%2Fen"
+      },
+      {
+        "publication_number": "EP4197425A1",
+        "primary_language": "en",
+        "priority_date": "2021-12-17",
+        "publication_date": "2023-06-21",
+        "assignee_original": "Carl Zeiss Vision International GmbH",
+        "title": "Determining a visual performance of an eye of a person",
+        "patent_id": "patent/EP4197425A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4197425A1%2Fen"
+      },
+      {
+        "publication_number": "WO2023122306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-23",
+        "publication_date": "2023-06-29",
+        "assignee_original": "Thomas Jefferson University",
+        "title": "Systems and methods for identifying double vision",
+        "patent_id": "patent/WO2023122306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023122306A1%2Fen"
+      },
+      {
+        "publication_number": "US11918287B2",
+        "primary_language": "en",
+        "priority_date": "2021-12-27",
+        "publication_date": "2024-03-05",
+        "assignee_original": "Novasight Ltd.",
+        "title": "Method and device for treating / preventing refractive errors as well as for image processing and display",
+        "patent_id": "patent/US11918287B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11918287B2%2Fen"
+      },
+      {
+        "publication_number": "US11633097B1",
+        "primary_language": "en",
+        "priority_date": "2022-03-18",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Mongoose Enterprises, LLC",
+        "title": "Automated method for testing peripheral and expanded visual fields on limited field of view head-mounted device",
+        "patent_id": "patent/US11633097B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11633097B1%2Fen"
+      },
+      {
+        "publication_number": "JP2025513804A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-05",
+        "publication_date": "2025-04-30",
+        "assignee_original": "\u30da\u30ea\u30d5\u30a7\u30ec\u30c3\u30af\u30b9\u30fb\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Improved systems and methods for testing peripheral vision",
+        "patent_id": "patent/JP2025513804A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2025513804A%2Fen"
+      },
+      {
+        "publication_number": "IL295191A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-28",
+        "publication_date": "2024-02-01",
+        "assignee_original": "Immersix Ltd",
+        "title": "Method and system for determining direction of gaze",
+        "patent_id": "patent/IL295191A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL295191A%2Fen"
+      },
+      {
+        "publication_number": "US20240036641A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-01",
+        "publication_date": "2024-02-01",
+        "assignee_original": "Heru Inc.",
+        "title": "Ocular anomaly detection via concurrent presentation of stimuli to both eyes",
+        "patent_id": "patent/US20240036641A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240036641A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024161396A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-01-31",
+        "publication_date": "2024-08-08",
+        "assignee_original": "Carmel Haifa University Economic Corporation Ltd.",
+        "title": "Method and system for personalized image enhancement",
+        "patent_id": "patent/WO2024161396A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024161396A1%2Fen"
+      },
+      {
+        "publication_number": "US20240331264A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-03-28",
+        "publication_date": "2024-10-03",
+        "assignee_original": "SoftWeir Inc.",
+        "title": "Systems, Devices, and Methods for Generating a Display",
+        "patent_id": "patent/US20240331264A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240331264A1%2Fen"
+      },
+      {
+        "publication_number": "WO2025004029A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-24",
+        "publication_date": "2025-01-02",
+        "assignee_original": "Slitled Ltd",
+        "title": "System and method for eye examination",
+        "patent_id": "patent/WO2025004029A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025004029A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12096982B2",
+      "primary_language": "en",
+      "publication_date": "2024-09-24",
+      "title": "Head-mounted device for presenting image content and generating a dry-eye-related indication via infrared sensor data",
+      "patent_id": "patent/US12096982B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12096982B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10955678B2",
+      "primary_language": "en",
+      "publication_date": "2021-03-23",
+      "title": "Field of view enhancement via dynamic display portions",
+      "patent_id": "patent/US10955678B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10955678B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11039745B2",
+      "primary_language": "en",
+      "publication_date": "2021-06-22",
+      "title": "Vision defect determination and enhancement using a prediction model",
+      "patent_id": "patent/US11039745B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11039745B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10802288B1",
+      "primary_language": "en",
+      "publication_date": "2020-10-13",
+      "title": "Visual enhancement for dynamic vision defects",
+      "patent_id": "patent/US10802288B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10802288B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10531795B1",
+      "primary_language": "en",
+      "publication_date": "2020-01-14",
+      "title": "Vision defect determination via a dynamic eye-characteristic-based fixation point",
+      "patent_id": "patent/US10531795B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10531795B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10742944B1",
+      "primary_language": "en",
+      "publication_date": "2020-08-11",
+      "title": "Vision defect determination for facilitating modifications for vision defects related to double vision or dynamic aberrations",
+      "patent_id": "patent/US10742944B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10742944B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11659988B2",
+      "primary_language": "en",
+      "publication_date": "2023-05-30",
+      "title": "Vision testing via prediction-based setting of an initial stimuli characteristic for user interface locations",
+      "patent_id": "patent/US11659988B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11659988B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12133683B2",
+      "primary_language": "en",
+      "publication_date": "2024-11-05",
+      "title": "Vision testing via prediction-based setting of initial stimuli characteristics for user interface locations",
+      "patent_id": "patent/US12133683B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12133683B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3946001A1",
+      "primary_language": "en",
+      "publication_date": "2022-02-09",
+      "title": "Vision defect determination and enhancement",
+      "patent_id": "patent/EP3946001A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3946001A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2024-10-06",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "208000003556",
+        "name": "Dry Eye Syndromes",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010013774",
+        "name": "Dry eye",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010801",
+        "name": "machine learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 53
+      },
+      {
+        "id": "238000013528",
+        "name": "artificial neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "210000001508",
+        "name": "eye",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 570
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 224
+      },
+      {
+        "id": "210000004087",
+        "name": "cornea",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "230000004424",
+        "name": "eye movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "238000013473",
+        "name": "artificial intelligence",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 565
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 344
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 150
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 150
+      },
+      {
+        "id": "230000004438",
+        "name": "eyesight",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 115
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 92
+      },
+      {
+        "id": "210000001747",
+        "name": "pupil",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 81
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 71
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "230000002950",
+        "name": "deficient",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 58
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 52
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "230000033001",
+        "name": "locomotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "230000009466",
+        "name": "transformation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "208000003164",
+        "name": "Diplopia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "208000029444",
+        "name": "double vision",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "210000001525",
+        "name": "retina",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "230000004075",
+        "name": "alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "208000004350",
+        "name": "Strabismus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "238000004422",
+        "name": "calculation algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "230000001965",
+        "name": "increasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "206010047555",
+        "name": "Visual field defect",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000013519",
+        "name": "translation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000014616",
+        "name": "translation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "206010034960",
+        "name": "Photophobia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "208000013469",
+        "name": "light sensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000000844",
+        "name": "transformation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "208000001692",
+        "name": "Esotropia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000013507",
+        "name": "mapping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000001537",
+        "name": "neural effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000005043",
+        "name": "peripheral vision",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000006073",
+        "name": "displacement reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000007667",
+        "name": "floating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000007170",
+        "name": "pathology",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000004308",
+        "name": "accommodation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000013598",
+        "name": "vector",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000003190",
+        "name": "augmentative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000003205",
+        "name": "muscle",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000002569",
+        "name": "neuron",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "206010033799",
+        "name": "Paralysis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "206010002537",
+        "name": "anisometropia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000003702",
+        "name": "image correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000010412",
+        "name": "Glaucoma",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010045178",
+        "name": "Tunnel vision",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "201000009310",
+        "name": "astigmatism",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "201000006325",
+        "name": "cyclotropia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000000744",
+        "name": "eyelid",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004886",
+        "name": "head movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000002780",
+        "name": "macular degeneration",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004444",
+        "name": "near reflex",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008397",
+        "name": "ocular pathology",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000737",
+        "name": "periodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013179",
+        "name": "statistical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000638",
+        "name": "stimulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004304",
+        "name": "visual acuity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000251468",
+        "name": "Actinopterygii",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000020564",
+        "name": "Eye injury",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010027646",
+        "name": "Miosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010037538",
+        "name": "Pupils unequal",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004430",
+        "name": "ametropia",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006399",
+        "name": "behavior",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004204",
+        "name": "blood vessel",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004556",
+        "name": "brain",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010432",
+        "name": "diamond",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001914",
+        "name": "filtration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005286",
+        "name": "illumination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002372",
+        "name": "labelling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003547",
+        "name": "miosis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000116",
+        "name": "mitigating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000001491",
+        "name": "myopia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001328",
+        "name": "optic nerve",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "201000010041",
+        "name": "presbyopia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000644",
+        "name": "propagated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002207",
+        "name": "retinal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012706",
+        "name": "support-vector machine",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012800",
+        "name": "visualization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "201000011573",
+        "name": "Aniseikonia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010010071",
+        "name": "Coma",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000005538",
+        "name": "Exotropia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000010415",
+        "name": "Low Vision",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010025421",
+        "name": "Macule",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000003435",
+        "name": "Optic Neuritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000017442",
+        "name": "Retinal disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000007014",
+        "name": "Retinitis pigmentosa",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010064930",
+        "name": "age-related macular degeneration",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000001239",
+        "name": "anisocoria",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001174",
+        "name": "ascending effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000029777",
+        "name": "axis specification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003050",
+        "name": "axon",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000903",
+        "name": "blocking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000919",
+        "name": "ceramic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000739",
+        "name": "chaotic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007621",
+        "name": "cluster analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003086",
+        "name": "colorant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012790",
+        "name": "confirmation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013527",
+        "name": "convolutional neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006378",
+        "name": "damage",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013480",
+        "name": "data collection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003066",
+        "name": "decision tree",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004452",
+        "name": "decreased vision",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013135",
+        "name": "deep learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010339",
+        "name": "dilation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005684",
+        "name": "electric field",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000763",
+        "name": "evoking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003709",
+        "name": "image segmentation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010365",
+        "name": "information processing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002401",
+        "name": "inhibitory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005764",
+        "name": "inhibitory process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001788",
+        "name": "irregular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003278",
+        "name": "mimic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000005036",
+        "name": "nerve",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000020911",
+        "name": "optic nerve disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000005743",
+        "name": "paralytic squint",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000028254",
+        "name": "paralytic strabismus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004321",
+        "name": "preservation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011002",
+        "name": "quantification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000014733",
+        "name": "refractive error",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004286",
+        "name": "retinal pathology",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003786",
+        "name": "sclera",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010845",
+        "name": "search algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004065",
+        "name": "semiconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004984",
+        "name": "smart glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000153",
+        "name": "supplemental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012780",
+        "name": "transparent material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000857",
+        "name": "visual cortex",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004400",
+        "name": "visual pathway",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000239",
+        "name": "visual pathway",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

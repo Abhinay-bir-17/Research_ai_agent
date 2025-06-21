@@ -1,0 +1,1913 @@
+{
+  "search_metadata": {
+    "id": "68514e3fd3982cd68f24a835",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ddb1644a10d72c43/68514e3fd3982cd68f24a835.json",
+    "created_at": "2025-06-17 11:15:11 UTC",
+    "processed_at": "2025-06-17 11:15:11 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20060224416A1/en",
+    "raw_html_file": "https://serpapi.com/searches/ddb1644a10d72c43/68514e3fd3982cd68f24a835.html",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20060224416A1/en"
+  },
+  "title": "Method and computer program product for predicting and minimizing future behavioral health-related hospital admissions",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/8b/00/61/4813597ce00151/US20060224416A1.pdf",
+  "publication_number": "US20060224416A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "predictive",
+    "behavioral health",
+    "individuals",
+    "risk",
+    "predictive model"
+  ],
+  "prior_art_date": "2005-03-29",
+  "application_number": "US11/299,511",
+  "inventors": [
+    {
+      "name": "Karen Lloyd",
+      "link": "https://patents.google.com/?inventor=Karen+Lloyd",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Karen+Lloyd"
+    },
+    {
+      "name": "Tammie Lindquist",
+      "link": "https://patents.google.com/?inventor=Tammie+Lindquist",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tammie+Lindquist"
+    },
+    {
+      "name": "Lynne Dancha",
+      "link": "https://patents.google.com/?inventor=Lynne+Dancha",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lynne+Dancha"
+    },
+    {
+      "name": "Michael Koopmeiners",
+      "link": "https://patents.google.com/?inventor=Michael+Koopmeiners",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michael+Koopmeiners"
+    },
+    {
+      "name": "Agnes Tan",
+      "link": "https://patents.google.com/?inventor=Agnes+Tan",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Agnes+Tan"
+    }
+  ],
+  "assignees": [
+    "Coventry Health Care of Missouri Inc"
+  ],
+  "priority_date": "2005-03-29",
+  "filing_date": "2005-12-12",
+  "publication_date": "2006-10-05",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-12-12",
+        "country_code": "US",
+        "application_number": "US11/299,511",
+        "document_id": "patent/US8190451B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-12-12",
+      "title": "Application filed by Group Health Plan Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Group Health Plan Inc"
+    },
+    {
+      "date": "2005-12-12",
+      "title": "Priority to US11/299,511",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US8190451B2/en"
+    },
+    {
+      "date": "2006-03-21",
+      "title": "Assigned to GROUP HEALTH PLAN, INC.",
+      "type": "reassignment",
+      "assignee_search": "GROUP HEALTH PLAN, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KOOPMEINERS, MICHAEL, LLOYD, KAREN D., TAN, AGNES, DANCHA, LYNNE A., LINDQUIST, TAMMIE J."
+      ]
+    },
+    {
+      "date": "2006-10-05",
+      "title": "Publication of US20060224416A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20060224416A1/en"
+    },
+    {
+      "date": "2012-05-29",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2012-05-29",
+      "title": "Publication of US8190451B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8190451B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2029-03-18",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20060224416.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11299511"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20060224416"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2006224416A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11299511/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20060224416"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/12/a9/b3/4187c78dd51003/US20060224416A1-20061005-D00000.png",
+    "https://patentimages.storage.googleapis.com/ae/59/ba/38c32740973885/US20060224416A1-20061005-D00001.png",
+    "https://patentimages.storage.googleapis.com/74/b4/5a/d6546c27707b8e/US20060224416A1-20061005-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/70",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to mental therapies, e.g. psychological therapy or autogenous training",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/50",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for simulation or modelling of medical disorders",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/70",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for mining of medical data, e.g. analysing previous cases of other patients",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An accurate predictive model that identifies the patient/members within the healthcare system at high risk of hospital admission for a wide range of morbidities, or co-morbidities, and that allows subsequent intervention to manage those patients identified as high risk to an acceptable level. There is a further need for such a predictive model that focuses on specific groupings of conditions, e.g., behavioral health predictive modeling. There is also a need for a method that provides for intervention to manage the risk to the identified patients/members. One embodiment of the present invention discloses and claims a method of high-risk patient identification and management. In one aspect, the inventive method may comprise compiling a listing including all individuals with any primary behavioral health diagnosis over a specified time period; merging the listing with at least one data source to extract at least one behavioral health-related predictive factor; generating, based on at least one predictive model, a predictive output comprising the probability that the individuals listed will require a future behavioral health-related hospital admission; identifying the high-risk individuals from the predictive model output; and intervening with the high risk members to identify and modify, to the extent possible, the risk factors that place the member at high risk.",
+  "description_link": "https://serpapi.com/searches/68514e3fd3982cd68f24a835/google_patents_details/description.html",
+  "claims": [
+    "1. A method for predicting and minimizing future behavioral health-related hospital admissions, comprising: \ncompiling a listing including all individuals with any primary behavioral health diagnosis over a specified time period;  merging the listing with at least one data source to extract at least one behavioral health-related predictive factor;  generating, based on at least one predictive model, a predictive output comprising the probability that the individuals listed will require a future behavioral health-related hospital admission;  identifying the high-risk individuals from the predictive model output; and  intervening with the high-risk individuals.",
+    "2. The method of claim 1, wherein the compiling further comprises obtaining behavioral health-related data for individuals from historical data sources.",
+    "3. The method of claim 2, further comprising obtaining the data from current data sources.",
+    "4. The method of claim 1, wherein the merging further comprises acquiring data indicating a secondary diagnosis of behavioral health conditions.",
+    "5. The method of claim 1, wherein the merging further comprises acquiring data indicating emergency room visits.",
+    "6. The method of claim 1, wherein the merging further comprises acquiring data indicating comorbidities for behavioral health-related hospital admissions.",
+    "7. The method of claim 1, wherein the merging further comprises acquiring data indicating inpatient hospital service utilization.",
+    "8. The method of claim 1, wherein the merging further comprises acquiring data indicating utilization of all professional services.",
+    "9. The method of claim 1, wherein the merging further comprises acquiring data regarding history of psychotropic drug use.",
+    "10. The method of claim 1, wherein at the least one predictive factor is inserted into the at least one predictive model to generate the predictive output.",
+    "11. The method of claim 1, wherein the at least one predictive model is specific to individual primary diagnoses.",
+    "12. The method of claim 1, wherein the at least one predictive model is specific to individual secondary diagnoses.",
+    "13. The method of claim 1, wherein the at least one predictive model is specific to individual primary and individual secondary diagnoses.",
+    "14. The method of claim 1, wherein the identifying further comprises selecting the patients in a selected percentage of the predictive output.",
+    "15. The method of claim 1, wherein the identifying further comprises selecting the patients in the upper 5% of the predictive output.",
+    "16. The method of claim 1, wherein the identifying further comprises selecting the patients in the upper 1% of the predictive output.",
+    "17. The method of claim 1, further comprising using a programmed digital computer for the compiling, merging, identifying and generating.",
+    "18. The method of claim 1, further comprising using a computer program product for the compiling, merging, identifying and generating.",
+    "19. The method of claim 17, further comprising using a computer program product for the compiling, merging, identifying and generating.",
+    "20. A computer program product for predicting and minimizing future behavioral health-related hospital admissions, comprising: \ncomputer code for compiling a listing including all individuals with any primary behavioral health diagnosis over a specified time period;  computer code for merging the listing with at least one data source to extract at least one behavioral health-related predictive factor;  computer code for generating, based on at least one predictive model, a predictive output comprising the probability that the individuals listed will require a future behavioral health-related hospital admission;  computer code for identifying the high-risk individuals from the predictive model output; and  computer code for intervening with the high-risk individuals.",
+    "21. A programmed digital computer for predicting and minimizing future behavioral health-related hospital admissions, comprising: \na processor;  a memory operatively coupled to the processor;  a data input interface operatively coupled to the memory; and  a data output interface operatively coupled to the memory;  wherein the programmed digital computer operates to pull a list of individuals with any primary behavioral health diagnosis over a specified time period in response to at least one instruction and to store the list of the plurality of individuals in the memory;  wherein the programmed digital computer operates to merge the listing with at least one data source to extract behavioral health-related information in response to at least one instruction;  wherein the programmed digital computer operates to generate an output comprising the probability that the listed individuals will require a future behavioral health-related hospital admission based on at least one predictive model and in response to at least one instruction; and  wherein the programmed digital computer operates to identify the high-risk individuals from the predictive model output in response to at least one instruction."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/299,511",
+      "representative_publication": "US8190451B2",
+      "primary_language": "en",
+      "priority_date": "2005-03-29",
+      "filing_date": "2005-12-12",
+      "title": "Method and computer program product for predicting and minimizing future behavioral health-related hospital admissions"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US66596205P",
+      "priority_date": "2005-03-29",
+      "filing_date": "2005-03-29"
+    },
+    {
+      "application_number": "US11/299,511",
+      "representative_publication": "US8190451B2",
+      "primary_language": "en",
+      "priority_date": "2005-03-29",
+      "filing_date": "2005-12-12",
+      "title": "Method and computer program product for predicting and minimizing future behavioral health-related hospital admissions"
+    }
+  ],
+  "family_id": "37071686",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6059724A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-14",
+        "publication_date": "2000-05-09",
+        "assignee_original": "Biosignal, Inc.",
+        "title": "System for predicting future health",
+        "patent_id": "patent/US6059724A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6059724A%2Fen"
+      },
+      {
+        "publication_number": "US20030050794A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-07",
+        "publication_date": "2003-03-13",
+        "assignee_original": "Marjorie Keck",
+        "title": "Hospital emergency department resource utilization and optimization system",
+        "patent_id": "patent/US20030050794A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030050794A1%2Fen"
+      },
+      {
+        "publication_number": "US20030195772A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-08",
+        "publication_date": "2003-10-16",
+        "assignee_original": "The Haelan Corporation",
+        "title": "Healthcare management system and method of predicting high utilizers of healthcare services",
+        "patent_id": "patent/US20030195772A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030195772A1%2Fen"
+      },
+      {
+        "publication_number": "US20040015337A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-04",
+        "publication_date": "2004-01-22",
+        "assignee_original": "Thomas Austin W.",
+        "title": "Systems and methods for predicting disease behavior",
+        "patent_id": "patent/US20040015337A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040015337A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2008124754A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-09",
+        "publication_date": "2008-10-16",
+        "assignee_original": "Blue Cross Of Northeastern Pennylvania",
+        "title": "System and method for population health management",
+        "patent_id": "patent/WO2008124754A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008124754A1%2Fen"
+      },
+      {
+        "publication_number": "US20090055217A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-23",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Method and system for identifying and communicating a health risk",
+        "patent_id": "patent/US20090055217A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090055217A1%2Fen"
+      },
+      {
+        "publication_number": "US20090053580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-25",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Inflammable substance sensor and fuel cell including the same",
+        "patent_id": "patent/US20090053580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090053580A1%2Fen"
+      },
+      {
+        "publication_number": "US20090062621A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2009-03-05",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Method and system for prioritizing communication of a health risk",
+        "patent_id": "patent/US20090062621A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090062621A1%2Fen"
+      },
+      {
+        "publication_number": "US20090125328A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-12",
+        "publication_date": "2009-05-14",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Method and System For Active Patient Management",
+        "patent_id": "patent/US20090125328A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090125328A1%2Fen"
+      },
+      {
+        "publication_number": "US20100076329A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-25",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Method for reducing baseline drift in a biological signal",
+        "patent_id": "patent/US20100076329A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076329A1%2Fen"
+      },
+      {
+        "publication_number": "US20100076799A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-25",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "System and method for using classification trees to predict rare events",
+        "patent_id": "patent/US20100076799A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076799A1%2Fen"
+      },
+      {
+        "publication_number": "US8073218B2",
+        "primary_language": "en",
+        "priority_date": "2008-09-25",
+        "publication_date": "2011-12-06",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Method for detecting bio signal features in the presence of noise",
+        "patent_id": "patent/US8073218B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8073218B2%2Fen"
+      },
+      {
+        "publication_number": "US8244656B2",
+        "primary_language": "en",
+        "priority_date": "2008-09-25",
+        "publication_date": "2012-08-14",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "System and method for predicting rare events",
+        "patent_id": "patent/US8244656B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8244656B2%2Fen"
+      },
+      {
+        "publication_number": "US20120232926A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-16",
+        "publication_date": "2012-09-13",
+        "assignee_original": "Justin Boyle",
+        "title": "System and method for prediction of patient admission rates",
+        "patent_id": "patent/US20120232926A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120232926A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012094542A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-06",
+        "publication_date": "2012-10-04",
+        "assignee_original": "Qualpact, Inc.",
+        "title": "Devices, systems, and methods for the real-time and individualized prediction of health and economic outcomes",
+        "patent_id": "patent/WO2012094542A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012094542A3%2Fen"
+      },
+      {
+        "publication_number": "US8635087B1",
+        "primary_language": "en",
+        "priority_date": "2006-08-16",
+        "publication_date": "2014-01-21",
+        "assignee_original": "Resource Consortium Limited",
+        "title": "Aggregating personal information",
+        "patent_id": "patent/US8635087B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8635087B1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140324466A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-26",
+        "publication_date": "2014-10-30",
+        "assignee_original": "David John Wertzberger",
+        "title": "System and process for real-time electronic medical records loss exposure incident data acquisition and predictive analytics insurance loss control reporting",
+        "patent_id": "patent/US20140324466A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140324466A1%2Fen"
+      },
+      {
+        "publication_number": "US8930204B1",
+        "primary_language": "en",
+        "priority_date": "2006-08-16",
+        "publication_date": "2015-01-06",
+        "assignee_original": "Resource Consortium Limited",
+        "title": "Determining lifestyle recommendations using aggregated personal information",
+        "patent_id": "patent/US8930204B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8930204B1%2Fen"
+      },
+      {
+        "publication_number": "US20150032681A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-23",
+        "publication_date": "2015-01-29",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Guiding uses in optimization-based planning under uncertainty",
+        "patent_id": "patent/US20150032681A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150032681A1%2Fen"
+      },
+      {
+        "publication_number": "US9037578B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-03",
+        "publication_date": "2015-05-19",
+        "assignee_original": "Wellclub, Llc",
+        "title": "Content suggestion engine",
+        "patent_id": "patent/US9037578B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9037578B2%2Fen"
+      },
+      {
+        "publication_number": "US20150220699A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-06",
+        "publication_date": "2015-08-06",
+        "assignee_original": "Andrey Ostrovsky",
+        "title": "Computerized system and method for determining hospital admission risk",
+        "patent_id": "patent/US20150220699A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150220699A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20150370967A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-20",
+        "publication_date": "2015-12-24",
+        "assignee_original": "Ims Health Incorporated",
+        "title": "Patient care pathway shape analysis",
+        "patent_id": "patent/US20150370967A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150370967A1%2Fen"
+      },
+      {
+        "publication_number": "US20160055589A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-20",
+        "publication_date": "2016-02-25",
+        "assignee_original": "Midwest Employers Casualty Company",
+        "title": "Automated claim risk factor identification and mitigation system",
+        "patent_id": "patent/US20160055589A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160055589A1%2Fen"
+      },
+      {
+        "publication_number": "CN106462667A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-11",
+        "publication_date": "2017-02-22",
+        "assignee_original": "\u7687\u5bb6\u98de\u5229\u6d66\u6709\u9650\u516c\u53f8",
+        "title": "Personal emergency response system with predictive emergency dispatch risk assessment",
+        "patent_id": "patent/CN106462667A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106462667A%2Fen"
+      },
+      {
+        "publication_number": "WO2017035404A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-26",
+        "publication_date": "2017-03-02",
+        "assignee_original": "Uptake Technologies, Inc.",
+        "title": "Indication of outreach options for healthcare facility to facilitate patient actions",
+        "patent_id": "patent/WO2017035404A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017035404A1%2Fen"
+      },
+      {
+        "publication_number": "US10069758B2",
+        "primary_language": "en",
+        "priority_date": "2016-05-23",
+        "publication_date": "2018-09-04",
+        "assignee_original": "Hartford Fire Insurance Company",
+        "title": "Processing system responsive to analysis filter criteria",
+        "patent_id": "patent/US10069758B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10069758B2%2Fen"
+      },
+      {
+        "publication_number": "US10262761B1",
+        "primary_language": "en",
+        "priority_date": "2009-01-01",
+        "publication_date": "2019-04-16",
+        "assignee_original": "Michael D Weintraub",
+        "title": "Apparatus and methods for causing selection of an advertisement based on prevalence of a healthcare condition in a plurality of geographic areas",
+        "patent_id": "patent/US10262761B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10262761B1%2Fen"
+      },
+      {
+        "publication_number": "US20200315518A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-27",
+        "publication_date": "2020-10-08",
+        "assignee_original": "Korea Institute Of Science & Technology Information",
+        "title": "Apparatus for processing data for predicting dementia through machine learning, method thereof, and recording medium storing the same",
+        "patent_id": "patent/US20200315518A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200315518A1%2Fen"
+      },
+      {
+        "publication_number": "CN112712151A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2021-04-27",
+        "assignee_original": "\u533b\u6e21\u4e91\uff08\u5317\u4eac\uff09\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Epidemic situation health code quality control method and device, medium and equipment",
+        "patent_id": "patent/CN112712151A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112712151A%2Fen"
+      },
+      {
+        "publication_number": "WO2021174182A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-27",
+        "publication_date": "2021-09-02",
+        "assignee_original": "GERMAN, Lawrence",
+        "title": "Application, system, and method for a computer implemented medical electronic record management system",
+        "patent_id": "patent/WO2021174182A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021174182A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7182738B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-23",
+        "publication_date": "2007-02-27",
+        "assignee_original": "Marctec, Llc",
+        "title": "Patient monitoring apparatus and method for orthosis and other devices",
+        "patent_id": "patent/US7182738B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7182738B2%2Fen"
+      },
+      {
+        "publication_number": "WO2010126577A1",
+        "primary_language": "en",
+        "priority_date": "2009-04-30",
+        "publication_date": "2010-11-04",
+        "assignee_original": "Patientslikeme, Inc.",
+        "title": "Systems and methods for encouragement of data submission in online communities",
+        "patent_id": "patent/WO2010126577A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010126577A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015142709A1",
+        "primary_language": "en",
+        "priority_date": "2014-03-17",
+        "publication_date": "2015-09-24",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Predicting risk for preventable patient healthcare events",
+        "patent_id": "patent/WO2015142709A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015142709A1%2Fen"
+      },
+      {
+        "publication_number": "WO2016054043A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-29",
+        "publication_date": "2016-04-07",
+        "assignee_original": "Cornell University",
+        "title": "A system and methods for managing healthcare resources",
+        "patent_id": "patent/WO2016054043A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016054043A1%2Fen"
+      },
+      {
+        "publication_number": "CA3004601A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-25",
+        "publication_date": "2017-06-01",
+        "assignee_original": "Emopti, Inc.",
+        "title": "Acute medical care system",
+        "patent_id": "patent/CA3004601A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3004601A1%2Fen"
+      },
+      {
+        "publication_number": "US11056218B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-31",
+        "publication_date": "2021-07-06",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Identifying personalized time-varying predictive patterns of risk factors",
+        "patent_id": "patent/US11056218B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11056218B2%2Fen"
+      },
+      {
+        "publication_number": "US11894139B1",
+        "primary_language": "en",
+        "priority_date": "2018-12-03",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Patientslikeme Llc",
+        "title": "Disease spectrum classification",
+        "patent_id": "patent/US11894139B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11894139B1%2Fen"
+      },
+      {
+        "publication_number": "EP4062421A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-18",
+        "publication_date": "2023-12-13",
+        "assignee_original": "Mandometer AB",
+        "title": "Eating disorder diagnosis",
+        "patent_id": "patent/EP4062421A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4062421A4%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8190451B2",
+      "primary_language": "en",
+      "publication_date": "2012-05-29",
+      "title": "Method and computer program product for predicting and minimizing future behavioral health-related hospital admissions",
+      "patent_id": "patent/US8190451B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8190451B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11264128B2",
+      "primary_language": "en",
+      "publication_date": "2022-03-01",
+      "title": "Machine-learning framework for coordinating and optimizing healthcare resource utilization and delivery of healthcare services across an integrated healthcare system",
+      "patent_id": "patent/US11264128B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11264128B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11386986B2",
+      "primary_language": "en",
+      "publication_date": "2022-07-12",
+      "title": "System and method for identifying complex patients, forecasting outcomes and planning for post discharge care",
+      "patent_id": "patent/US11386986B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11386986B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110753971B",
+      "primary_language": "en",
+      "publication_date": "2023-12-12",
+      "title": "Systems and methods for dynamically monitoring patient condition and predicting adverse events",
+      "patent_id": "patent/CN110753971B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110753971B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8484085B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-09",
+      "title": "Systems and methods for predicting healthcare risk related events",
+      "patent_id": "patent/US8484085B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8484085B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7693728B2",
+      "primary_language": "en",
+      "publication_date": "2010-04-06",
+      "title": "System and method for administering health care cost reduction",
+      "patent_id": "patent/US7693728B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7693728B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10332055B2",
+      "primary_language": "en",
+      "publication_date": "2019-06-25",
+      "title": "Score cards",
+      "patent_id": "patent/US10332055B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10332055B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10621534B2",
+      "primary_language": "en",
+      "publication_date": "2020-04-14",
+      "title": "Score cards",
+      "patent_id": "patent/US10621534B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10621534B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7244711B2",
+      "primary_language": "en",
+      "publication_date": "2023-03-22",
+      "title": "clinical risk model",
+      "patent_id": "patent/JP7244711B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7244711B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0917078A1",
+      "primary_language": "en",
+      "publication_date": "1999-05-19",
+      "title": "Disease management method and system",
+      "patent_id": "patent/EP0917078A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0917078A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120004925A1",
+      "primary_language": "en",
+      "publication_date": "2012-01-05",
+      "title": "Health care policy development and execution",
+      "patent_id": "patent/US20120004925A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120004925A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080177567A1",
+      "primary_language": "en",
+      "publication_date": "2008-07-24",
+      "title": "System and method for predictive modeling driven behavioral health care management",
+      "patent_id": "patent/US20080177567A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080177567A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110071363A1",
+      "primary_language": "en",
+      "publication_date": "2011-03-24",
+      "title": "System and method for using predictive models to determine levels of healthcare interventions",
+      "patent_id": "patent/US20110071363A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110071363A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170177801A1",
+      "primary_language": "en",
+      "publication_date": "2017-06-22",
+      "title": "Decision support to stratify a medical population",
+      "patent_id": "patent/US20170177801A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170177801A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230260638A1",
+      "primary_language": "en",
+      "publication_date": "2023-08-17",
+      "title": "Framework for optimizing outcomes for healthcare entities",
+      "patent_id": "patent/US20230260638A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230260638A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230282358A1",
+      "primary_language": "en",
+      "publication_date": "2023-09-07",
+      "title": "Predictive health plan optimization for users of a network-based health care service",
+      "patent_id": "patent/US20230282358A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230282358A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180068084A1",
+      "primary_language": "en",
+      "publication_date": "2018-03-08",
+      "title": "Systems and methods for care program selection utilizing machine learning techniques",
+      "patent_id": "patent/US20180068084A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180068084A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15790885563908982682",
+      "scholar_authors": "Zocher",
+      "publication_date": "2024",
+      "title": "Exiting primary care providers",
+      "patent_id": "scholar/15790885563908982682",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15790885563908982682"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11688510B2",
+      "primary_language": "en",
+      "publication_date": "2023-06-27",
+      "title": "Healthcare workflows that bridge healthcare venues",
+      "patent_id": "patent/US11688510B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11688510B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1694056229435333048",
+      "scholar_authors": "Otero-Leon et al.",
+      "publication_date": "2023",
+      "title": "Monitoring policy in the context of preventive treatment of cardiovascular disease",
+      "patent_id": "scholar/1694056229435333048",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1694056229435333048"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4891462807533566655",
+      "scholar_authors": "Luo",
+      "publication_date": "2014",
+      "title": "A roadmap for designing a personalized search tool for individual healthcare providers",
+      "patent_id": "scholar/4891462807533566655",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4891462807533566655"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230080313A1",
+      "primary_language": "en",
+      "publication_date": "2023-03-16",
+      "title": "Channel selection for addressing chronic conditions",
+      "patent_id": "patent/US20230080313A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230080313A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-03-21",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GROUP HEALTH PLAN, INC., MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LLOYD, KAREN D.;LINDQUIST, TAMMIE J.;DANCHA, LYNNE A.;AND OTHERS;SIGNING DATES FROM 20051220 TO 20060226;REEL/FRAME:017359/0807"
+        },
+        {
+          "label": "Owner name",
+          "value": "GROUP HEALTH PLAN, INC., MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LLOYD, KAREN D.;LINDQUIST, TAMMIE J.;DANCHA, LYNNE A.;AND OTHERS;REEL/FRAME:017359/0807;SIGNING DATES FROM 20051220 TO 20060226"
+        }
+      ]
+    },
+    {
+      "date": "2012-03-08",
+      "code": "ZAAA",
+      "title": "Notice of allowance and fees due",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: NOA"
+        }
+      ]
+    },
+    {
+      "date": "2012-03-09",
+      "code": "ZAAB",
+      "title": "Notice of allowance mailed",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: MN/=."
+        }
+      ]
+    },
+    {
+      "date": "2012-05-09",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2015-10-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-27",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-23",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20240529"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 69
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 68
+      },
+      {
+        "id": "230000003542",
+        "name": "behavioural effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 55
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229940001470",
+        "name": "psychoactive drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004089",
+        "name": "psychotropic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "208000019901",
+        "name": "Anxiety disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000020401",
+        "name": "Depressive disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000028017",
+        "name": "Psychotic disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000036506",
+        "name": "anxiety",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000030814",
+        "name": "Eating disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000019454",
+        "name": "Feeding and Eating disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000014632",
+        "name": "disordered eating",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "201000000980",
+        "name": "schizophrenia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000012826",
+        "name": "adjustment disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000004630",
+        "name": "mental health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000022821",
+        "name": "personality disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "206010012601",
+        "name": "diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000024172",
+        "name": "Cardiovascular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000035473",
+        "name": "Communicable disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010010904",
+        "name": "Convulsion",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000029078",
+        "name": "coronary artery disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007405",
+        "name": "data analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007477",
+        "name": "logistic regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013178",
+        "name": "mathematical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003449",
+        "name": "preventive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000018522",
+        "name": "Gastrointestinal disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000024799",
+        "name": "Thyroid disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000935",
+        "name": "antidepressant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003862",
+        "name": "health status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013488",
+        "name": "ordinary least square regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000021510",
+        "name": "thyroid gland disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000006096",
+        "name": "Attention Deficit Disorder with Hyperactivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000036864",
+        "name": "Attention deficit/hyperactivity disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000019693",
+        "name": "Lung disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000202",
+        "name": "analgesic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000015802",
+        "name": "attention deficit-hyperactivity disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000011510",
+        "name": "cancer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037998",
+        "name": "chronic venous disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013480",
+        "name": "data collection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002496",
+        "name": "gastric effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000035231",
+        "name": "inattentive type attention deficit hyperactivity disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005065",
+        "name": "mining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004050",
+        "name": "mood stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940127237",
+        "name": "mood stabilizer",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004081",
+        "name": "narcotic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000737",
+        "name": "periodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000955",
+        "name": "prescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001671",
+        "name": "psychotherapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000000381",
+        "name": "schizophrenia 1",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013179",
+        "name": "statistical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001356",
+        "name": "surgical procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003442",
+        "name": "weekly effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

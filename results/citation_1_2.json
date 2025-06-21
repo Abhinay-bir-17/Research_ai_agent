@@ -1,0 +1,1873 @@
+{
+  "search_metadata": {
+    "id": "68514f8e5fda0bece5e437b0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d4d82606044f91cf/68514f8e5fda0bece5e437b0.json",
+    "created_at": "2025-06-17 11:20:46 UTC",
+    "processed_at": "2025-06-17 11:20:46 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20030112144A1/en",
+    "raw_html_file": "https://serpapi.com/searches/d4d82606044f91cf/68514f8e5fda0bece5e437b0.html",
+    "total_time_taken": 2.25
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20030112144A1/en"
+  },
+  "title": "Multi function electronic personal monitor and radio telemetry cell system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/5b/cc/bd/be854e80647523/US20030112144A1.pdf",
+  "publication_number": "US20030112144A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "power level",
+    "multi function",
+    "cell system",
+    "personal alert",
+    "alert safety"
+  ],
+  "prior_art_date": "2001-12-17",
+  "application_number": "US10/015,661",
+  "inventors": [
+    {
+      "name": "James Campman",
+      "link": "https://patents.google.com/?inventor=James+Campman",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+Campman"
+    }
+  ],
+  "assignees": [
+    "GRACE INDUSTRIES Inc"
+  ],
+  "priority_date": "2001-12-17",
+  "filing_date": "2001-12-17",
+  "publication_date": "2003-06-19",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-12-17",
+        "country_code": "US",
+        "application_number": "US10/015,661",
+        "document_id": "patent/US6756901B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-12-17",
+      "title": "Application filed by GRACE INDUSTRIES Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "GRACE INDUSTRIES Inc"
+    },
+    {
+      "date": "2001-12-17",
+      "title": "Priority to US10/015,661",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6756901B2/en"
+    },
+    {
+      "date": "2003-06-19",
+      "title": "Publication of US20030112144A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20030112144A1/en"
+    },
+    {
+      "date": "2004-06-29",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2004-06-29",
+      "title": "Publication of US6756901B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6756901B2/en"
+    },
+    {
+      "date": "2008-06-10",
+      "title": "Assigned to GRACE INDUSTRIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "GRACE INDUSTRIES, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CAMPMAN, JAMES P."
+      ]
+    },
+    {
+      "date": "2022-04-28",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20030112144.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10015661"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20030112144"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2003112144A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10015661/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20030112144"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/fd/73/64/16842c2a07f1c3/US20030112144A1-20030619-D00000.png",
+    "https://patentimages.storage.googleapis.com/42/9f/98/56623fcf05901d/US20030112144A1-20030619-D00001.png",
+    "https://patentimages.storage.googleapis.com/7f/55/77/237177e11ef672/US20030112144A1-20030619-D00002.png",
+    "https://patentimages.storage.googleapis.com/01/30/16/851db19e2884f9/US20030112144A1-20030619-D00003.png",
+    "https://patentimages.storage.googleapis.com/0b/d2/47/ec55a49eaffbed/US20030112144A1-20030619-D00004.png",
+    "https://patentimages.storage.googleapis.com/04/ec/9a/09c994cc4c8c97/US20030112144A1-20030619-D00005.png",
+    "https://patentimages.storage.googleapis.com/97/1d/66/4c6784bfe5ea85/US20030112144A1-20030619-D00006.png",
+    "https://patentimages.storage.googleapis.com/9e/b4/da/4d33e9d5c222e2/US20030112144A1-20030619-D00007.png",
+    "https://patentimages.storage.googleapis.com/d0/01/a2/1fcfe6570dde64/US20030112144A1-20030619-D00008.png",
+    "https://patentimages.storage.googleapis.com/65/cb/a7/10028fe2a25fcb/US20030112144A1-20030619-D00009.png",
+    "https://patentimages.storage.googleapis.com/fe/91/3c/1e1f60b813f71b/US20030112144A1-20030619-D00010.png"
+  ],
+  "classifications": [
+    {
+      "code": "G08B21/0415",
+      "description": "Alarms for ensuring the safety of persons responsive to non-activity, e.g. of elderly persons based on behaviour analysis detecting absence of activity per se",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0446",
+      "description": "Sensor means for detecting worn on the body to detect changes of posture, e.g. a fall, inclination, acceleration, gait",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0453",
+      "description": "Sensor means for detecting worn on the body to detect health condition by physiological monitoring, e.g. electrocardiogram, temperature, breathing",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/007",
+      "description": "Details of data content structure of message packets; data protocols",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/016",
+      "description": "Personal emergency signalling and security systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B25/003",
+      "description": "Address allocation methods and details",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A multi function personal alert safety cell system having condition responsive sensors and an alarm for emergency type personal. The personal alert safety cell system having a transceiver. The transceiver for transmitting and receiving at several different radiated power levels, defined as P1, P2, P3, P4, P5, through Pn that vary in signal strength from 1 microwatt through 1 watt. Each power level P1, P2, P3, P4, P5, through Pn being transmitted and received with encoded data and a personal ID uniquely assigned to the transceiver of the cell system. Also, the transceivers transmitting and receiving data being contained within a time frame and having digital instructions and coded format sectors. The power level ID varying in field strength for defining a distance at which the transceiver detects the transmitted and received signal from another of PASS transceiver and the signal being indicative of the distance the transceiver is from the other PASS transceivers.",
+  "description_link": "https://serpapi.com/searches/68514f8e5fda0bece5e437b0/google_patents_details/description.html",
+  "claims": [
+    "1. A multi function personal alert safety cell system having condition responsive sensor means and alarm means indicative of personal safety conditions including a small size portable casing, said casing having an internal watertight sealed cavity and a sound resonating cavity with surrounding walls including at least one sound port providing a passage from the interior to the exterior of said resonating cavity; a slidable sealed flat wall for dividing electric and electronic control; operating circuitry disposed in said chamber including a source of electric power, push button control and electronic circuitry controlled by said operating circuitry; said sealed flat wall having a thin flat sound generating piezoelectric transducer device electrically connected to said circuitry means; a motion detector for generating a voltage output characteristic of which changes responsive to motion of said casing; and said operating circuitry further including a tone oscillator connected between said motion detector and said piezoelectric sound generating transducer and responsive to the output of said motion detector and said piezoelectric sound generating transducer and responsive to the output of said motion detector to cause a specific high intensity sweeping alarm signal to be emitted when the operating circuitry is turned on and in the event that the casing is motionless, wherein the improvement comprising: \na transmitter for transmitting data unique to said cell system in said casing at multiple frequencies and at multiple power levels;  a receiver for receiving other data unique to other cell systems in other casings at multiple frequencies and at multiple power levels; and  said transmitted unique data being contained within a time frame and having digital instructions and coded format sectors, said sectors being identified through a sector \u201cA\u201d, said sector \u201cA\u201d containing said digital ID preamble and a data code format for another receiver to receive and acknowledge before a reception of a digital data can occur.",
+    "2. The multi function personal alert safety cell system of claim 1, wherein said multiple power levels being defined as P1, P2, P3, P4, P5, through Pn, that vary in signal strength from 1 microwatt through 1 watt.",
+    "3. The multi function personal alert safety cell system of claim 2, wherein each said power level P1, P2, P3, P4, P5, through Pn being transmitted with said data and a personal ID uniquely assigned.",
+    "4. The multi function personal alert safety cell system of claim 3, wherein said power level P1 is assigned a relative field strength number of 1 and a digital encoded power level I.D. of 1.",
+    "5. The multi function personal alert safety cell system of claim 3, wherein said power level P2, is assigned relative field strength number of 2 for a distance of 50 feet and a digital encoded power level I.D. of 2.",
+    "6. The multi function personal alert safety cell system of claim 3, wherein said power level P3 is assigned a relative field strength number of 3 and a digital encoded power level I.D. of 3.",
+    "7. The multi function personal alert safety cell system of claim 3, wherein said power level P4 is assigned a relative field strength number of 4 with a received signal distance of 200 feet and a digital encoded power level I.D. is 4.",
+    "8. The multi function personal alert safety cell system of claim 3, wherein said power level P5 has a received signal distance of 500 feet, is assigned a relative field strength number of 5, and a digital encoded power level I.D. of 5.",
+    "9. The multi function personal alert safety cell system of claim 3, wherein said power level Pn is assigned a relative field strength number of n and a digital encoded power level I.D. of n with a received signal distance of X feet.",
+    "10. The multi function personal alert safety cell system of claim 1, wherein said preamble personal ID being uniquely assigned to at least 100 or more carrier frequencies that vary from 902 MHz through 928 MHz.",
+    "11. The multi function personal alert safety cell system of claim 10, wherein each said different transmitted frequencies vary in a random like manner.",
+    "12. The multi function personal alert safety cell system of claim 10, wherein each said different transmitted frequencies are sequentially transmitted.",
+    "13. The multi function personal alert safety cell system of claim 1, wherein said time frame is 50 milliseconds or less.",
+    "14. The multi function personal alert safety cell system of claim 1, wherein said coded format sectors include a plurality of sectors \u201cB\u201d through \u201cI\u201d contain digital data specific to desired functions consisting of at least temperature, metabolism, heart rate, and elapsed time; and \na sector \u201cJ\u201d containing check sum data for insuring validation of said transmitted data.",
+    "15. A multi function personal alert safety cell system having condition responsive sensor means and alarm means indicative of personal safety conditions including a small size portable casing, said casing having an internal watertight sealed cavity and a sound resonating cavity with surrounding walls including at least one sound port providing a passage from the interior to the exterior of said resonating cavity; a slidable sealed flat wall for dividing electric and electronic control; operating circuitry disposed in said chamber including a source of electric power, push button control and electronic circuitry controlled by said operating circuitry; said sealed flat wall having a thin flat sound generating piezoelectric transducer device electrically connected to said circuitry means; a motion detector for generating a voltage output characteristic of which changes responsive to motion of said casing; and said operating circuitry further including a tone oscillator connected between said motion detector and said piezoelectric sound generating transducer and responsive to the output of said motion detector and said piezoelectric sound generating transducer and responsive to the output of said motion detector to cause a specific high intensity sweeping alarm signal to be emitted when the operating circuitry is turned on and in the event that the casing is motionless, wherein the improvement comprising: \na transceiver for transmitting and receiving data unique to said cell system in said casing at multiple frequencies and at multiple power levels; and  said transmitted and received power levels being defined as P1, P2, P3, P4, P5, through Pn, said each power level P1, P2, P3, P4, P5 through Pn being transmitted and received with a digital encoded number uniquely assigned to said particular power level for defining a power level ID, said power level ID varying in field strength for defining a distance at which said transceiver detects said transmitted and received signal which is indicative of the distance said transceiver is from another separate and distinct transceiver.",
+    "16. The multi function personal alert safety cell system of claim 15, wherein said operating system includes a microprocessor controller.",
+    "17. The multi function personal alert safety system of claim 15, wherein said transmitted unique data being contained within a time frame.",
+    "18. The multi function personal alert safety system of claim 17, wherein said transmitted unique data having digital instructions and coded format sectors, said sectors being identified through a sector \u201cA\u201d, said sector \u201cA\u201d containing said digital ID preamble and a data code format for another receiver to receive and acknowledge before a reception of a digital data can occur.",
+    "19. The multi function personal alert safety cell system of claim 15, wherein said multiple power levels being defined as P1, P2, P3, P4, P5, through Pn, that vary in signal strength from 1 microwatt through 1 watt.",
+    "20. The multi function personal alert safety cell system of claim 15, wherein each said power level P1, P2, P3, P4, P5, through Pn being transmitted with said data and a personal ID uniquely assigned.",
+    "21. The multi function personal alert safety cell system of claim 15, wherein said power level P1 is assigned a relative field strength number of 1 and a digital encoded power level I.D. of 1.",
+    "22. The multi function personal alert safety cell system of claim 15, wherein said power level P2, is assigned relative field strength number of 2 for a distance of 50 feet and a digital encoded power level I.D. of 2.",
+    "23. The multi function personal alert safety cell system of claim 15, wherein said power level P3 is assigned a relative field strength number of 3 and a digital encoded power level I.D. of 3.",
+    "24. The multi function personal alert safety cell system of claim 15, wherein said power level P4 is assigned a relative field strength number of 4 with a received signal distance of 200 feet and a digital encoded power level I.D. is 4.",
+    "25. The multi function personal alert safety cell system of claim 15, wherein said power level P5 has a received signal distance of 500 feet, is assigned a relative field strength number of 5, and a digital encoded power level I.D. of 5.",
+    "26. The multi function personal alert safety cell system of claim 15, wherein said power level Pn is assigned a relative field strength number of n and a digital encoded power level I.D. of n with a received signal distance of X feet.",
+    "27. The multi function personal alert safety cell system of claim 15, wherein said preamble personal ID being uniquely assigned to at least 100 or more carrier frequencies that vary from 902 MHz through 928 MHz.",
+    "28. The multi function personal alert safety cell system of claim 15, wherein each said different transmitted frequencies vary in a random like manner.",
+    "29. The multi function personal alert safety cell system of claim 15, wherein each said different transmitted frequencies are sequentially transmitted.",
+    "30. The multi function personal alert safety cell system of claim 17, wherein said time frame is 50 milliseconds or less.",
+    "31. The multi function personal alert safety cell system of claim 18, wherein said coded format sectors include a plurality of sectors \u201cB\u201d through \u201cI\u201d contain digital data specific to desired functions consisting of at least temperature, metabolism, heart rate, and elapsed time; and \na sector \u201cJ\u201d containing check sum data for insuring validation of said transmitted data.",
+    "32. A plurality of multi function personal alert safety cell systems, comprising: \na plurality of transceivers, each said transceiver for transmitting and receiving at several different radiated power levels, defined as P1, P2, P3, P4, P5, through Pn, that vary in signal strength from 1 microwatt through 1 watt, each said power level P1, P2, P3, P4, P5, through Pn being transmitted and received with encoded data and a personal ID uniquely assigned to each of said plurality of transceivers;  said plurality of unique transceivers transmitting and receiving data being contained within a time frame and having digital instructions and coded format sectors, said sectors being identified through a sector \u201cA\u201d; and  said power level ID varying in field strength for defining a distance at which one of said transceivers detects said transmitted and received signal from another of said plurality of transceivers and said signal being indicative of the distance one of said transceiver is from another of said transceivers.",
+    "33. The plurality of multi function personal alert safety cell systems of claim 32, wherein said multiple power levels being defined as P1, P2, P3, P4, P5, through Pn, that vary in signal strength from 1 microwatt through 1 watt.",
+    "34. The plurality of multi function personal alert safety cell systems of claim 33, wherein each said power level P1, P2, P3, P4, P5, through Pn being transmitted with said data and a personal ID uniquely assigned.",
+    "35. The plurality multi function personal alert safety cell systems of claim 34, wherein said power level P1 is assigned a relative field strength number of 1 and a digital encoded power level I.D. of 1.",
+    "36. The plurality of multi function personal alert safety cell systems of claim 34, wherein said power level P2, is assigned relative field strength number of 2 for a distance of 50 feet and a digital encoded power level I.D. of 2.",
+    "37. The plurality of multi function personal alert safety cell systems of claim 34, wherein said power level P3 is assigned a relative field strength number of 3 and a digital encoded power level I.D. of 3.",
+    "38. The plurality of multi function personal alert safety cell systems of claim 34, herein said power level P4 is assigned a relative field strength number of 4 with a received signal distance of 200 feet and a digital encoded power level I.D. is 4.",
+    "39. The plurality of multi function personal alert safety cell systems of claim 34, wherein said power level P5 has a received signal distance of 500 feet, is assigned a relative field strength number of 5, and a digital encoded power level I.D. of 5.",
+    "40. The plurality of multi function personal alert safety cell systems of claim 34, wherein said power level Pn is assigned a relative field strength number of n and a digital encoded power level I.D. of n with a received signal distance of X feet.",
+    "41. The plurality of multi function personal alert safety cell systems of claim 32, wherein said preamble personal ID being uniquely assigned to at least 100 or more carrier frequencies that vary from 902 MHz through 928 MHz.",
+    "42. The plurality of multi function personal alert safety cell systems of claim 41, wherein each said different transmitted frequencies vary in a random like manner or may be sequentially transmitted.",
+    "43. The plurality of multi function personal alert safety cell systems of claim 41, wherein each said different transmitted frequencies are sequentially transmitted.",
+    "44. The plurality of multi function personal alert safety cell systems of claim 32, wherein said time frame is 50 milliseconds or less.",
+    "45. The plurality of multi function personal alert safety cell systems of claim 32, wherein said sector \u201cA\u201d containing said digital preamble and a code format for identifying each of said plurality of said transceivers.",
+    "46. The plurality of multi function personal alert safety cell systems of claim 32, wherein said each transceiver receiving and acknowledging before a reception of said digital data can occur.",
+    "47. The plurality of multi function personal alert safety cell systems of claim 32, wherein said transmitted data having a plurality of sectors \u201cB\u201d through \u201cI\u201d containing digital data specific to desired functions consisting of at least temperature, metabolism, heart rate, and elapsed time.",
+    "48. The plurality of multi function personal alert safety cell systems of claim 32, wherein said transmitted data having a sector \u201cJ\u201d containing check sum data for insuring validation of said transmitted data.",
+    "49. The plurality of multi function personal alert safety cell systems of claim 32, wherein each said cell system including a microprocessor controller.",
+    "50. The plurality of multi function personal alert safety cell systems of claim 32, wherein each said cell system includes a sonar transducer.",
+    "51. The plurality of multi function personal alert safety cell systems of claim 32, wherein said plurality of unique transceivers communicate by infrared communications.",
+    "52. The plurality of multi function personal alert safety cell systems of claim 32, wherein said plurality of unique transceivers operate as repeaters to extend a range of the systems using low radiated RF power.",
+    "53. The plurality of multi function personal alert safety cell systems of claim 45, wherein said code format includes information about how long said unit has been in an alarm mode."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/015,661",
+      "representative_publication": "US6756901B2",
+      "primary_language": "en",
+      "priority_date": "2001-12-17",
+      "filing_date": "2001-12-17",
+      "title": "Multi function electronic personal monitor and radio telemetry cell system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US10/015,661",
+      "representative_publication": "US6756901B2",
+      "primary_language": "en",
+      "priority_date": "2001-12-17",
+      "filing_date": "2001-12-17",
+      "title": "Multi function electronic personal monitor and radio telemetry cell system"
+    }
+  ],
+  "family_id": "21772746",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US5204686A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-04-06",
+        "publication_date": "1993-04-20",
+        "assignee_original": "Trw Inc.",
+        "title": "RF Feed array",
+        "patent_id": "patent/US5204686A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5204686A%2Fen"
+      },
+      {
+        "publication_number": "CA2191805A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-15",
+        "publication_date": "1997-06-16",
+        "assignee_original": "Jason Paul Demont",
+        "title": "Apparatus and method for transmitting a signal",
+        "patent_id": "patent/CA2191805A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2191805A1%2Fen"
+      },
+      {
+        "publication_number": "US5940761A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-15",
+        "publication_date": "1999-08-17",
+        "assignee_original": "Qaulcomm Incorporated",
+        "title": "Method and apparatus for performing mobile assisted hard handoff between communication systems",
+        "patent_id": "patent/US5940761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5940761A%2Fen"
+      },
+      {
+        "publication_number": "US6438380B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-28",
+        "publication_date": "2002-08-20",
+        "assignee_original": "Lucent Technologies Inc.",
+        "title": "System for robust location of a mobile-transmitter",
+        "patent_id": "patent/US6438380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6438380B1%2Fen"
+      },
+      {
+        "publication_number": "US6411819B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-19",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Scoreboard, Inc.",
+        "title": "Method of modeling a neighbor list for a mobile unit in a CDMA cellular telephone system",
+        "patent_id": "patent/US6411819B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6411819B1%2Fen"
+      },
+      {
+        "publication_number": "US6577849B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-02-03",
+        "publication_date": "2003-06-10",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Method and apparatus for providing additional information about a broadcast",
+        "patent_id": "patent/US6577849B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6577849B1%2Fen"
+      },
+      {
+        "publication_number": "US6169759B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-22",
+        "publication_date": "2001-01-02",
+        "assignee_original": "Golden Bridge Technology",
+        "title": "Common packet channel",
+        "patent_id": "patent/US6169759B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6169759B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2006137099A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-20",
+        "publication_date": "2007-03-29",
+        "assignee_original": "Gamm S R L",
+        "title": "System and method of remote monitoring and relief via gsm",
+        "patent_id": "patent/WO2006137099A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006137099A3%2Fen"
+      },
+      {
+        "publication_number": "US20090121863A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-13",
+        "publication_date": "2009-05-14",
+        "assignee_original": "Rich Prior",
+        "title": "Medical safety monitor system",
+        "patent_id": "patent/US20090121863A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090121863A1%2Fen"
+      },
+      {
+        "publication_number": "US20100100623A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-06",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Thomas Wulff",
+        "title": "System and method for monitoring a mobile computing product/arrangement",
+        "patent_id": "patent/US20100100623A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100100623A1%2Fen"
+      },
+      {
+        "publication_number": "US20100109879A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-03",
+        "publication_date": "2010-05-06",
+        "assignee_original": "Hamdan Mahmoud N",
+        "title": "Patient Monitoring System and Method",
+        "patent_id": "patent/US20100109879A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100109879A1%2Fen"
+      },
+      {
+        "publication_number": "US20100182153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-25",
+        "publication_date": "2010-07-22",
+        "assignee_original": "Kurt Holdgaard Jensen",
+        "title": "Apparatus with an infrared sensor and magnetic near field communication properties for monitoring activity in a selected area",
+        "patent_id": "patent/US20100182153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100182153A1%2Fen"
+      },
+      {
+        "publication_number": "US20110044218A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-21",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Interdigital Patent Holdings, Inc.",
+        "title": "Method and apparatus for a multi-radio access technology layer for splitting downlink-uplink over different radio access technologies",
+        "patent_id": "patent/US20110044218A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110044218A1%2Fen"
+      },
+      {
+        "publication_number": "US20110181434A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-27",
+        "publication_date": "2011-07-28",
+        "assignee_original": "Hyun Duk Uhm",
+        "title": "Proximate location detection system",
+        "patent_id": "patent/US20110181434A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110181434A1%2Fen"
+      },
+      {
+        "publication_number": "US8289152B1",
+        "primary_language": "en",
+        "priority_date": "2006-07-24",
+        "publication_date": "2012-10-16",
+        "assignee_original": "Upmc",
+        "title": "Emergency management system",
+        "patent_id": "patent/US8289152B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8289152B1%2Fen"
+      },
+      {
+        "publication_number": "KR20170108042A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-13",
+        "publication_date": "2017-09-26",
+        "assignee_original": "\ub85c\ubc84\ud2b8 \uce74\uc778\ub4e4",
+        "title": "Personal protective equipment, methods and articles",
+        "patent_id": "patent/KR20170108042A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170108042A%2Fen"
+      },
+      {
+        "publication_number": "US20180322768A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-05",
+        "publication_date": "2018-11-08",
+        "assignee_original": "Lenovo (Singapore) Pte. Ltd.",
+        "title": "Wearable Electronic Device Alerts",
+        "patent_id": "patent/US20180322768A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180322768A1%2Fen"
+      },
+      {
+        "publication_number": "US20190065970A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-30",
+        "publication_date": "2019-02-28",
+        "assignee_original": "P Tech, Llc",
+        "title": "Artificial intelligence and/or virtual reality for activity optimization/personalization",
+        "patent_id": "patent/US20190065970A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190065970A1%2Fen"
+      },
+      {
+        "publication_number": "US20200380843A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-19",
+        "publication_date": "2020-12-03",
+        "assignee_original": "Innovation By Imagination LLC",
+        "title": "System, Device, and Method of Detecting Dangerous Situations",
+        "patent_id": "patent/US20200380843A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200380843A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20040075574A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-22",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Mccallum Patsy Carol",
+        "title": "Sound communication",
+        "patent_id": "patent/US20040075574A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040075574A1%2Fen"
+      },
+      {
+        "publication_number": "US6992581B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-16",
+        "publication_date": "2006-01-31",
+        "assignee_original": "Dmatek Ltd.",
+        "title": "Method and apparatus for attenuating of a broadcasting received signal for achieving a better distance resolution in monitoring systems",
+        "patent_id": "patent/US6992581B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6992581B2%2Fen"
+      },
+      {
+        "publication_number": "NZ547350A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-19",
+        "publication_date": "2007-01-26",
+        "assignee_original": "Tracme Beacons Pty Ltd",
+        "title": "Personal locator beacon",
+        "patent_id": "patent/NZ547350A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ547350A%2Fen"
+      },
+      {
+        "publication_number": "US7098786B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-02",
+        "publication_date": "2006-08-29",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Mechanism for providing automatic item coupling with the coupling range determined by context information",
+        "patent_id": "patent/US7098786B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7098786B2%2Fen"
+      },
+      {
+        "publication_number": "US7346336B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-10",
+        "publication_date": "2008-03-18",
+        "assignee_original": "Gerald Kampel",
+        "title": "Personal activity sensor and locator device",
+        "patent_id": "patent/US7346336B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7346336B2%2Fen"
+      },
+      {
+        "publication_number": "US20070132577A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-09",
+        "publication_date": "2007-06-14",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Method and apparatus for estimating the location of a signal transmitter",
+        "patent_id": "patent/US20070132577A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070132577A1%2Fen"
+      },
+      {
+        "publication_number": "US7844070B2",
+        "primary_language": "en",
+        "priority_date": "2006-05-30",
+        "publication_date": "2010-11-30",
+        "assignee_original": "Sonitus Medical, Inc.",
+        "title": "Methods and apparatus for processing audio signals",
+        "patent_id": "patent/US7844070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7844070B2%2Fen"
+      },
+      {
+        "publication_number": "GB2442798B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-12",
+        "publication_date": "2011-03-23",
+        "assignee_original": "Cedardell Ltd",
+        "title": "Security module",
+        "patent_id": "patent/GB2442798B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2442798B%2Fen"
+      },
+      {
+        "publication_number": "US7884712B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-08",
+        "publication_date": "2011-02-08",
+        "assignee_original": "Awarepoint Corporation",
+        "title": "Wireless tracking system and method utilizing tags with variable power level transmissions",
+        "patent_id": "patent/US7884712B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7884712B2%2Fen"
+      },
+      {
+        "publication_number": "US8270638B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-29",
+        "publication_date": "2012-09-18",
+        "assignee_original": "Sonitus Medical, Inc.",
+        "title": "Systems and methods to provide communication, positioning and monitoring of user status",
+        "patent_id": "patent/US8270638B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8270638B2%2Fen"
+      },
+      {
+        "publication_number": "US20100098269A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Sonitus Medical, Inc.",
+        "title": "Systems and methods to provide communication, positioning and monitoring of user status",
+        "patent_id": "patent/US20100098269A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100098269A1%2Fen"
+      },
+      {
+        "publication_number": "US20090015278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-12",
+        "publication_date": "2009-01-15",
+        "assignee_original": "Hien Dang",
+        "title": "Apparatus to monitor substrate viability",
+        "patent_id": "patent/US20090015278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090015278A1%2Fen"
+      },
+      {
+        "publication_number": "US8981299B2",
+        "primary_language": "en",
+        "priority_date": "2008-01-07",
+        "publication_date": "2015-03-17",
+        "assignee_original": "Leviton Manufacturing Company, Inc.",
+        "title": "Digital occupancy sensor light control",
+        "patent_id": "patent/US8981299B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8981299B2%2Fen"
+      },
+      {
+        "publication_number": "US7924155B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-07",
+        "publication_date": "2011-04-12",
+        "assignee_original": "Leviton Manufacturing Co., Inc.",
+        "title": "Digital occupancy sensor light control",
+        "patent_id": "patent/US7924155B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7924155B2%2Fen"
+      },
+      {
+        "publication_number": "AU2010301027B2",
+        "primary_language": "en",
+        "priority_date": "2009-10-02",
+        "publication_date": "2014-11-06",
+        "assignee_original": "Soundmed, Llc",
+        "title": "Intraoral appliance for sound transmission via bone conduction",
+        "patent_id": "patent/AU2010301027B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2010301027B2%2Fen"
+      },
+      {
+        "publication_number": "US20110295659A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-25",
+        "publication_date": "2011-12-01",
+        "assignee_original": "Krieter Marcus",
+        "title": "System of delivering advertisements via wireless network",
+        "patent_id": "patent/US20110295659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110295659A1%2Fen"
+      },
+      {
+        "publication_number": "US8565145B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-15",
+        "publication_date": "2013-10-22",
+        "assignee_original": "Motorola Solutions, Inc.",
+        "title": "Fast access asynchronous repeater wakeup protocol",
+        "patent_id": "patent/US8565145B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8565145B2%2Fen"
+      },
+      {
+        "publication_number": "USD734683S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-23",
+        "publication_date": "2015-07-21",
+        "assignee_original": "Joseph Middione",
+        "title": "Sound generator for spoked wheels",
+        "patent_id": "patent/USD734683S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD734683S1%2Fen"
+      },
+      {
+        "publication_number": "US11792605B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2023-10-17",
+        "assignee_original": "PB, Inc.",
+        "title": "Tracking device systems",
+        "patent_id": "patent/US11792605B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11792605B2%2Fen"
+      },
+      {
+        "publication_number": "US11145183B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-10-12",
+        "assignee_original": "PB, Inc",
+        "title": "Tracking device programs, systems and methods",
+        "patent_id": "patent/US11145183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11145183B2%2Fen"
+      },
+      {
+        "publication_number": "US10979862B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Tracking device system",
+        "patent_id": "patent/US10979862B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10979862B2%2Fen"
+      },
+      {
+        "publication_number": "US10937286B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2021-03-02",
+        "assignee_original": "Pb Inc.",
+        "title": "Radiobeacon data sharing by forwarding low energy transmissions to a cloud host",
+        "patent_id": "patent/US10937286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10937286B2%2Fen"
+      },
+      {
+        "publication_number": "US9892626B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2018-02-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Tracking device program",
+        "patent_id": "patent/US9892626B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9892626B2%2Fen"
+      },
+      {
+        "publication_number": "US10580281B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-10",
+        "publication_date": "2020-03-03",
+        "assignee_original": "PB, Inc.",
+        "title": "Tracking device system",
+        "patent_id": "patent/US10580281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10580281B2%2Fen"
+      },
+      {
+        "publication_number": "US11315396B2",
+        "primary_language": "en",
+        "priority_date": "2018-01-08",
+        "publication_date": "2022-04-26",
+        "assignee_original": "Robert Kaindl",
+        "title": "Threat identification device and system with optional active countermeasures",
+        "patent_id": "patent/US11315396B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11315396B2%2Fen"
+      },
+      {
+        "publication_number": "US11678141B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-18",
+        "publication_date": "2023-06-13",
+        "assignee_original": "Pb Inc.",
+        "title": "Hybrid cellular Bluetooth tracking devices, methods and systems",
+        "patent_id": "patent/US11678141B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11678141B2%2Fen"
+      },
+      {
+        "publication_number": "US11184858B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-18",
+        "publication_date": "2021-11-23",
+        "assignee_original": "PB, Inc.",
+        "title": "Bluecell devices and methods",
+        "patent_id": "patent/US11184858B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11184858B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6756901B2",
+      "primary_language": "en",
+      "publication_date": "2004-06-29",
+      "title": "Multi function electronic personal monitor and radio telemetry cell system",
+      "patent_id": "patent/US6756901B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6756901B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7005980B1",
+      "primary_language": "en",
+      "publication_date": "2006-02-28",
+      "title": "Personal rescue system",
+      "patent_id": "patent/US7005980B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7005980B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5317305A",
+      "primary_language": "en",
+      "publication_date": "1994-05-31",
+      "title": "Personal alarm device with vibrating accelerometer motion detector and planar piezoelectric hi-level sound generator",
+      "patent_id": "patent/US5317305A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5317305A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4468656A",
+      "primary_language": "en",
+      "publication_date": "1984-08-28",
+      "title": "Emergency signalling unit and alarm system for rescuing endangered workers",
+      "patent_id": "patent/US4468656A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4468656A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5936530A",
+      "primary_language": "en",
+      "publication_date": "1999-08-10",
+      "title": "Child protection device",
+      "patent_id": "patent/US5936530A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5936530A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5552773A",
+      "primary_language": "en",
+      "publication_date": "1996-09-03",
+      "title": "Method and apparatus for the protection of people or objects",
+      "patent_id": "patent/US5552773A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5552773A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5486814A",
+      "primary_language": "en",
+      "publication_date": "1996-01-23",
+      "title": "Baby pool guard alarm",
+      "patent_id": "patent/US5486814A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5486814A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8466795B2",
+      "primary_language": "en",
+      "publication_date": "2013-06-18",
+      "title": "Personal security and tracking system",
+      "patent_id": "patent/US8466795B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8466795B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6624754B1",
+      "primary_language": "en",
+      "publication_date": "2003-09-23",
+      "title": "Personal security and tracking system",
+      "patent_id": "patent/US6624754B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6624754B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5621388A",
+      "primary_language": "en",
+      "publication_date": "1997-04-15",
+      "title": "System for monitoring and locating a person within a preselected distance from a base-station",
+      "patent_id": "patent/US5621388A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5621388A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6239700B1",
+      "primary_language": "en",
+      "publication_date": "2001-05-29",
+      "title": "Personal security and tracking system",
+      "patent_id": "patent/US6239700B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6239700B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7315242B2",
+      "primary_language": "en",
+      "publication_date": "2008-01-01",
+      "title": "Combination car alarm and personal locator system",
+      "patent_id": "patent/US7315242B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7315242B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6504794B2",
+      "primary_language": "en",
+      "publication_date": "2003-01-07",
+      "title": "Tracking, safety and navigation system for firefighters",
+      "patent_id": "patent/US6504794B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6504794B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5523982A",
+      "primary_language": "en",
+      "publication_date": "1996-06-04",
+      "title": "Communication apparatus",
+      "patent_id": "patent/US5523982A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5523982A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4189720A",
+      "primary_language": "en",
+      "publication_date": "1980-02-19",
+      "title": "Repeater for smoke and similar alarms",
+      "patent_id": "patent/US4189720A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4189720A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6016099A",
+      "primary_language": "en",
+      "publication_date": "2000-01-18",
+      "title": "Automatically active personal alert safety system",
+      "patent_id": "patent/US6016099A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6016099A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060202840A1",
+      "primary_language": "en",
+      "publication_date": "2006-09-14",
+      "title": "Portable remote locator device",
+      "patent_id": "patent/US20060202840A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060202840A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010500695A",
+      "primary_language": "en",
+      "publication_date": "2010-01-07",
+      "title": "Self-contained security system",
+      "patent_id": "patent/JP2010500695A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010500695A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ATE298913T1",
+      "primary_language": "en",
+      "publication_date": "2005-07-15",
+      "title": "WARNING SYSTEM WITH TRANSMITTER-CONTROLLED MULTIPLE TRIGGER AND PORTABLE RECEIVER VIBRATOR",
+      "patent_id": "patent/ATE298913T1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE298913T1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001009856A1",
+      "primary_language": "en",
+      "publication_date": "2001-02-08",
+      "title": "System and method for monitoring spatial relationship between mobile objects",
+      "patent_id": "patent/WO2001009856A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001009856A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7173881B1",
+      "primary_language": "en",
+      "publication_date": "2007-02-06",
+      "title": "Silent morning alarm",
+      "patent_id": "patent/US7173881B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7173881B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140285322A1",
+      "primary_language": "en",
+      "publication_date": "2014-09-25",
+      "title": "Life saving apparatus",
+      "patent_id": "patent/US20140285322A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140285322A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030214411A1",
+      "primary_language": "en",
+      "publication_date": "2003-11-20",
+      "title": "Apparatus and method for use of a radio locator, tracker and proximity alarm",
+      "patent_id": "patent/US20030214411A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030214411A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH06242206A",
+      "primary_language": "en",
+      "publication_date": "1994-09-02",
+      "title": "Emergent aid system",
+      "patent_id": "patent/JPH06242206A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06242206A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2343776A",
+      "primary_language": "en",
+      "publication_date": "2000-05-17",
+      "title": "Child safety distance alarm system",
+      "patent_id": "patent/GB2343776A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2343776A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-06-10",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2007-07-02",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2008-06-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GRACE INDUSTRIES, INC., PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:CAMPMAN, JAMES P.;REEL/FRAME:021118/0188"
+        },
+        {
+          "label": "Effective date",
+          "value": "19940531"
+        }
+      ]
+    },
+    {
+      "date": "2011-11-18",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000033001",
+        "name": "locomotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 61
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000004060",
+        "name": "metabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010200",
+        "name": "validation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010408",
+        "name": "sweeping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 69
+      },
+      {
+        "id": "238000001228",
+        "name": "spectrum",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000011664",
+        "name": "signaling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002305",
+        "name": "electric material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000013078",
+        "name": "crystal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004880",
+        "name": "explosion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "name": "mercury",
+        "domain": "Chemical compound",
+        "smiles": "[Hg]",
+        "inchi_key": "QSHDDOUJBYECFT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052753",
+        "name": "mercury",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000639",
+        "name": "Spring steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004397",
+        "name": "blinking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004568",
+        "name": "cement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910010293",
+        "name": "ceramic material",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001427",
+        "name": "coherent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001143",
+        "name": "conditioned effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004020",
+        "name": "conductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000034994",
+        "name": "death",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000517",
+        "name": "death",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010013395",
+        "name": "disorientation",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009429",
+        "name": "distress",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007943",
+        "name": "implant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007794",
+        "name": "irritation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003550",
+        "name": "marker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037361",
+        "name": "pathway",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001690",
+        "name": "polydopamine",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010453",
+        "name": "quartz",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008054",
+        "name": "signal transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "silicon dioxide",
+        "domain": "Inorganic materials",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000779",
+        "name": "smoke",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005236",
+        "name": "sound signal",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003537",
+        "name": "structural cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002604",
+        "name": "ultrasonography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003643",
+        "name": "water by type",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

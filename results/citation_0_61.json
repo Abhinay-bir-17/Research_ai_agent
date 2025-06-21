@@ -1,0 +1,2932 @@
+{
+  "search_metadata": {
+    "id": "68514e3802ab8c198888540d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4285fb2a804ea8bf/68514e3802ab8c198888540d.json",
+    "created_at": "2025-06-17 11:15:04 UTC",
+    "processed_at": "2025-06-17 11:15:04 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US7048141B2/en",
+    "raw_html_file": "https://serpapi.com/searches/4285fb2a804ea8bf/68514e3802ab8c198888540d.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US7048141B2/en"
+  },
+  "title": "Personal medication dispenser",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c4/53/03/ffb0eaff2730a6/US7048141.pdf",
+  "publication_number": "US7048141B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "pills",
+    "chambers",
+    "controller",
+    "pill",
+    "user"
+  ],
+  "prior_art_date": "2002-05-14",
+  "application_number": "US10/438,452",
+  "inventors": [
+    {
+      "name": "Gazi Abdulhay",
+      "link": "https://patents.google.com/?inventor=Gazi+Abdulhay",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gazi+Abdulhay"
+    },
+    {
+      "name": "Chadwick E. Dean",
+      "link": "https://patents.google.com/?inventor=Chadwick+E.+Dean",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Chadwick+E.+Dean"
+    }
+  ],
+  "assignees": [
+    "Antioch Holdings Inc"
+  ],
+  "priority_date": "2002-05-14",
+  "filing_date": "2003-05-14",
+  "publication_date": "2006-05-23",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-05-14",
+        "country_code": "US",
+        "application_number": "US10/438,452",
+        "document_id": "patent/US7048141B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "2006": [
+      {
+        "filing_date": "2006-02-17",
+        "country_code": "US",
+        "application_number": "US11/356,764",
+        "document_id": "patent/US7213721B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2007": [
+      {
+        "filing_date": "2007-04-27",
+        "country_code": "US",
+        "application_number": "US11/741,313",
+        "document_id": "patent/US7711449B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-05-14",
+      "title": "Application filed by Antioch Holdings Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Antioch Holdings Inc"
+    },
+    {
+      "date": "2003-05-14",
+      "title": "Priority to US10/438,452",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7048141B2/en"
+    },
+    {
+      "date": "2003-07-11",
+      "title": "Assigned to ABDULHAY, GAZI",
+      "type": "reassignment",
+      "assignee_search": "ABDULHAY, GAZI",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DEAN, CHADWICK E."
+      ]
+    },
+    {
+      "date": "2003-12-04",
+      "title": "Publication of US20030222090A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20030222090A1/en"
+    },
+    {
+      "date": "2006-02-17",
+      "title": "Priority to US11/356,764",
+      "type": "priority",
+      "document_id": "patent/US7213721B2/en"
+    },
+    {
+      "date": "2006-03-01",
+      "title": "Assigned to ANTIOCH HOLDINGS, INC.",
+      "type": "reassignment",
+      "assignee_search": "ANTIOCH HOLDINGS, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ABDULHAY, GAZI"
+      ]
+    },
+    {
+      "date": "2006-05-23",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2006-05-23",
+      "title": "Publication of US7048141B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7048141B2/en"
+    },
+    {
+      "date": "2006-11-13",
+      "title": "Priority to US11/559,213",
+      "type": "priority",
+      "document_id": "patent/US20070093932A1/en"
+    },
+    {
+      "date": "2007-04-27",
+      "title": "Priority to US11/741,313",
+      "type": "priority",
+      "document_id": "patent/US7711449B2/en"
+    },
+    {
+      "date": "2023-07-07",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=7048141.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10438452"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7048141"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7048141B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10438452/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US7048141"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/cc/d2/b6/cb3d1782dfe438/US07048141-20060523-D00000.png",
+    "https://patentimages.storage.googleapis.com/4b/a3/44/20b941a1cf5b48/US07048141-20060523-D00001.png",
+    "https://patentimages.storage.googleapis.com/b8/a0/99/3e69dea3130fa7/US07048141-20060523-D00002.png",
+    "https://patentimages.storage.googleapis.com/62/d5/08/212bf8055fda99/US07048141-20060523-D00003.png",
+    "https://patentimages.storage.googleapis.com/4f/eb/16/76091233b79e9d/US07048141-20060523-D00004.png",
+    "https://patentimages.storage.googleapis.com/23/18/84/7d0d641cbe9119/US07048141-20060523-D00005.png",
+    "https://patentimages.storage.googleapis.com/0c/61/20/4a79275638357c/US07048141-20060523-D00006.png",
+    "https://patentimages.storage.googleapis.com/be/51/c3/6113bac3356e0d/US07048141-20060523-D00007.png",
+    "https://patentimages.storage.googleapis.com/5e/4b/87/0e9a6abce57a21/US07048141-20060523-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "G07F17/0092",
+      "description": "Coin-freed apparatus for hiring articles; Coin-freed facilities or services for assembling and dispensing of pharmaceutical articles",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F11/10",
+      "description": "Coin-freed apparatus for dispensing, or the like, discrete articles from non-movable magazines in which magazines the articles are stored one vertically above the other two or more magazines having a common delivery chute",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F11/44",
+      "description": "Coin-freed apparatus for dispensing, or the like, discrete articles from non-movable magazines in which magazines the articles are stored in bulk",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F11/62",
+      "description": "Coin-freed apparatus for dispensing, or the like, discrete articles in which the articles are stored in compartments in fixed receptacles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F11/70",
+      "description": "Coin-freed apparatus for dispensing, or the like, discrete articles in which the articles are formed in the apparatus from components, blanks, or material constituents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F13/025",
+      "description": "Coin-freed apparatus for controlling dispensing or fluids, semiliquids or granular material from reservoirs by volume wherein the volume is determined during delivery",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An automated personal pill dispenser has at least two chambers, each for holding a supply of pills. A feed mechanism is associated with each of the chambers and is operable selectively to feed an incremental number of pills from a respective one of the chambers. A programmable controller is coupled to control and operate the feed mechanism to dispense pills from the chambers. The controller has a timer, a memory and an input means. The controller is operable programmably, by the user and/or by remote input from a smart card, PDA or network, for example with access to data from a pharmacy including instructions and warnings. The programming presets at least one of a time and a number of pills to be dispensed from each of said chambers. The controller operates an alarm to alert the user and operates the feed mechanism to feed pills from the chambers at the preset time and number, also detecting the user's access to obtain the dispensed pills.",
+  "description_link": "https://serpapi.com/searches/68514e3802ab8c198888540d/google_patents_details/description.html",
+  "claims": [
+    "1. A pill dispenser for dispensing a dose of pill medication, comprising:\nat least two chambers, each chamber respectively holding a supply of like, loose and randomly oriented pills in bulk, a bottom portion of each said chamber having a chamber opening sized for accepting a randomly oriented pill;\na feed mechanism associated with each of the chambers operable selectively to incrementally feed a number of said randomly oriented pills from the respective chamber openings; and\na programmable controller coupled to control the feed mechanism, wherein the controller has a timer, a memory and an input means, wherein the controller is operable programmably to preset at least one of a time and a number of pills to be dispensed from each of said chambers, and to operate the feed mechanism to feed pills from the chambers at the preset time and number.",
+    "2. The pill dispenser of claim 1, further comprising an alarm coupled to the controller, operable to alert a user when the feed mechanism is operated to feed the pills.",
+    "3. The pill dispenser of claim 1, further comprising a user-operated element for extracting pills that are produced by the feed mechanism, and further comprising a sensor coupled to the controller, operable to signal the controller when the user has operated the user-operated element.",
+    "4. The pill dispenser of claim 3, further comprising an alarm coupled to the controller, operable to alert a user when the feed mechanism is operated to feed the pills, and wherein the alarm is operated at least one of continuously and intermittently until the user-operated element has been operated.",
+    "5. The pill dispenser of claim 1, wherein the controller is operable to maintain a schedule dispensing of pills from each of the respective chambers according to at least one of a predetermined dosage amount and time, and wherein the dosages and times for the respective chambers can involve different frequencies, start times and special warnings.",
+    "6. The pill dispenser of claim 1, further comprising an interface coupled to the controller for programming data including at least one of a pill identity, a user identity, a dosage schedule and a special instruction, and wherein each of said data can be different for each said chamber.",
+    "7. The pill dispenser of claim 6, wherein the controller is programmable form user-operable switches under prompting from a controller-operable display panel.",
+    "8. The pill dispenser of claim 7, wherein the controller program is subject to override by input from the user-operable switches, so as to dispense a pill from at least a selected one of the chambers apart from a preset program in the controller.",
+    "9. The pill dispenser of claim 8, wherein the controller is operable to monitor at least one of a count of pills remaining in the chambers and a count of pills dispensed to the user, and to produce at least one report based thereon.",
+    "10. The pill dispenser of claim 9, wherein the report includes a warning to the user indicating impending exhaustion of a supply in at least one of the chambers.",
+    "11. The pill dispenser of claim 8, wherein pills dispensed by the controller under said override are counted by the controller in determining at least one of a count of pills remaining in the chambers and a count of pills dispensed to the user.",
+    "12. The pill dispenser of claim 1, wherein the controller is programmable by access to data from at least one of a pharmacy, a smartcard reader, a programmable digital assistant (PDA) and a network.",
+    "13. The pill dispenser of claim 1, wherein the respective chambers accommodate pills of different sizes.",
+    "14. A pill dispenser for dispensing a dose of pill medication, comprising:\nat least two chambers, each chamber respectively holding a bulk supply of like, loose and randomly oriented pills in bulk, a bottom portion of each said chamber having a chamber opening sized for accepting a randomly oriented pill;\nprogrammable means for producing a dose signal and a timing signal; and\na dispensing system responsive to said programmable means for selectively and incrementally dispensing from said chambers said dose determined by said dose signal at a time determined by said timing signal.",
+    "15. A pill dispenser for dispensing a dose of pill medication, comprising:\nat least two chambers, each chamber respectively holding a supply of like, loose and randomly oriented pills in bulk, a bottom portion of each said chamber having a chamber opening sized for accepting a randomly oriented pill;\nprogrammable means operable for maintaining a schedule for dispensing pills from each of said respective chambers according to at least one of a predetermined dosage amount and time, and for producing a dose signal and a timing signal responsive to said schedule; and\na dispensing system responsive to said programmable means for selectively and incrementally dispensing from said chambers said dose determined by said dose signal at a time determined by said timing signal.",
+    "16. The pill dispenser of claim 15, wherein the respective chambers accommodate pills of different sizes.",
+    "17. A pill dispenser, comprising:\nat least two chambers for holding a supply of pills such that different ones of the chambers hold pills of different sizes;\na feed mechanism associated with each of the chambers operable selectively to feed an incremental number of pills from each of the chambers;\na programmable controller coupled to control the feed mechanism, wherein the controller has a timer, a memory and an input means, wherein the controller is operable programmably to preset at least one of a time and a number of pills to be dispensed from each of said chambers and to operate the feed mechanism to feed pills from the chambers at the preset time and number; and\nan interface coupled to the controller for programming data including at least one of a pill identity and a dosage schedule, wherein at least part of said data can be different for each said chamber.",
+    "18. A pill dispenser, comprising:\nat least two chambers for holding a supply of pills;\na feed mechanism associated with each of the chambers operable selectively to feed an incremental number of pills from each of the chambers;\na programmable controller coupled to control the feed mechanism, wherein the controller has a timer, a memory and an input means, wherein the controller is operable programmably to preset at least one of a time and a number of pills to be dispensed from each of said chambers and to operate the feed mechanism to feed pills from the chambers at the preset time and number; and\nan interface coupled to said controller for programming data including at least one of a pill identity, a user identity, a dosage schedule and a special instruction, and wherein each of said data can be different for each said chamber.",
+    "19. A pill dispenser for dispensing a dose of pill medication, comprising:\nat least two chambers, each chamber respectively holding a supply of like,\nloose and randomly oriented pills in bulk, a bottom portion of each said chamber having a chamber opening sized for accepting a randomly oriented pill;\na feed mechanism associated with each of the chambers operable selectively to downwardly dispense a number of said randomly oriented pills from the respective chamber openings; and\na programmable controller coupled to control the feed mechanism, wherein the controller has a timer, a memory and an input means, wherein the controller is operable programmably to preset at least one of a time and a number of pills to be dispensed from each of said chambers, and to operate the feed mechanism to feed pills from the chambers at the preset time and number."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US11/088,385",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US20060213921A1",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2005-03-23",
+      "title": "Pill dispensing apparatus"
+    },
+    {
+      "application_number": "US11/356,764",
+      "relation_type": "Continuation",
+      "representative_publication": "US7213721B2",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2006-02-17",
+      "title": "Personal medication dispenser"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/438,452",
+      "representative_publication": "US7048141B2",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2003-05-14",
+      "title": "Personal medication dispenser"
+    },
+    {
+      "application_number": "US11/356,764",
+      "representative_publication": "US7213721B2",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2006-02-17",
+      "title": "Personal medication dispenser"
+    },
+    {
+      "application_number": "US11/559,213",
+      "representative_publication": "US20070093932A1",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2006-11-13",
+      "title": "Automatically programmable dispensing apparatus and method"
+    },
+    {
+      "application_number": "US11/741,313",
+      "representative_publication": "US7711449B2",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2007-04-27",
+      "title": "Personal medication dispenser"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US37810502P",
+      "priority_date": "2002-05-14",
+      "filing_date": "2002-05-14"
+    },
+    {
+      "application_number": "US10/438,452",
+      "representative_publication": "US7048141B2",
+      "primary_language": "en",
+      "priority_date": "2002-05-14",
+      "filing_date": "2003-05-14",
+      "title": "Personal medication dispenser"
+    }
+  ],
+  "family_id": "29586908",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4626105A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-03-04",
+        "publication_date": "1986-12-02",
+        "assignee_original": "Miller Larry D",
+        "title": "Medication organizer",
+        "patent_id": "patent/US4626105A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4626105A%2Fen"
+      },
+      {
+        "publication_number": "US4763810A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-12-19",
+        "publication_date": "1988-08-16",
+        "assignee_original": "Christiansen Lee T",
+        "title": "Medication dispenser",
+        "patent_id": "patent/US4763810A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4763810A%2Fen"
+      },
+      {
+        "publication_number": "US4768177A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-07-06",
+        "publication_date": "1988-08-30",
+        "assignee_original": "Kehr Bruce A",
+        "title": "Method of and apparatus for alerting a patient to take medication",
+        "patent_id": "patent/US4768177A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4768177A%2Fen"
+      },
+      {
+        "publication_number": "US5097982A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-01-07",
+        "publication_date": "1992-03-24",
+        "assignee_original": "Dan Kedem",
+        "title": "Programmed medication dispenser apparatus",
+        "patent_id": "patent/US5097982A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5097982A%2Fen"
+      },
+      {
+        "publication_number": "US5805051A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-07",
+        "publication_date": "1998-09-08",
+        "assignee_original": "Intellimed, Inc.",
+        "title": "Interactive medication reminder/dispenser device",
+        "patent_id": "patent/US5805051A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5805051A%2Fen"
+      },
+      {
+        "publication_number": "US5915589A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-01",
+        "publication_date": "1999-06-29",
+        "assignee_original": "Lim; James",
+        "title": "Programmable automatic pill dispenser with pawl indexing mechanism",
+        "patent_id": "patent/US5915589A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5915589A%2Fen"
+      },
+      {
+        "publication_number": "US6301196B1",
+        "primary_language": "en",
+        "priority_date": "1997-08-19",
+        "publication_date": "2001-10-09",
+        "assignee_original": "Stephen W. Daniel",
+        "title": "Multiple alarm timepiece with pill compartments",
+        "patent_id": "patent/US6301196B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6301196B1%2Fen"
+      },
+      {
+        "publication_number": "US6415202B1",
+        "primary_language": "en",
+        "priority_date": "1998-06-19",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Van Halfacre",
+        "title": "Tamper resistant programmable medicine dispenser",
+        "patent_id": "patent/US6415202B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6415202B1%2Fen"
+      },
+      {
+        "publication_number": "US6439422B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-26",
+        "publication_date": "2002-08-27",
+        "assignee_original": "Mary Anne Papp",
+        "title": "Automated portable medication radial dispensing apparatus and method",
+        "patent_id": "patent/US6439422B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6439422B1%2Fen"
+      },
+      {
+        "publication_number": "US6527138B2",
+        "primary_language": "en",
+        "priority_date": "2000-06-23",
+        "publication_date": "2003-03-04",
+        "assignee_original": "Delsys Pharmaceutical Corp.",
+        "title": "Medication dispenser for dispensing flat dosage forms",
+        "patent_id": "patent/US6527138B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6527138B2%2Fen"
+      },
+      {
+        "publication_number": "US6540672B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-09",
+        "publication_date": "2003-04-01",
+        "assignee_original": "Novo Nordisk A/S",
+        "title": "Medical system and a method of controlling the system for use by a patient for medical self treatment",
+        "patent_id": "patent/US6540672B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6540672B1%2Fen"
+      },
+      {
+        "publication_number": "US6560165B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-28",
+        "publication_date": "2003-05-06",
+        "assignee_original": "Diane K. Barker",
+        "title": "Medical information appliance",
+        "patent_id": "patent/US6560165B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6560165B1%2Fen"
+      },
+      {
+        "publication_number": "US6742671B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-27",
+        "publication_date": "2004-06-01",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "Integrated automated drug dispenser method and apparatus",
+        "patent_id": "patent/US6742671B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6742671B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5219093A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-29",
+        "publication_date": "1993-06-15",
+        "assignee_original": "Thomas S. Moulding",
+        "title": "Dispenser adapted to isolate the dispensed objects by compression between two movable structures",
+        "patent_id": "patent/US5219093A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5219093A%2Fen"
+      },
+      {
+        "publication_number": "US5392952A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-01-10",
+        "publication_date": "1995-02-28",
+        "assignee_original": "Bowden; James R.",
+        "title": "Pill dispensisng device providing overdosage protection",
+        "patent_id": "patent/US5392952A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5392952A%2Fen"
+      },
+      {
+        "publication_number": "US5582323A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-16",
+        "publication_date": "1996-12-10",
+        "assignee_original": "United Home Technologies, Inc.",
+        "title": "Medication dispenser and monitor",
+        "patent_id": "patent/US5582323A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5582323A%2Fen"
+      },
+      {
+        "publication_number": "DE19958920C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-07",
+        "publication_date": "2003-03-20",
+        "assignee_original": "Automation Industrielle Sa",
+        "title": "Two-chamber container",
+        "patent_id": "patent/DE19958920C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19958920C2%2Fen"
+      },
+      {
+        "publication_number": "US6510962B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-07",
+        "publication_date": "2003-01-28",
+        "assignee_original": "James Lim",
+        "title": "Programmable automatic pill dispenser",
+        "patent_id": "patent/US6510962B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6510962B1%2Fen"
+      },
+      {
+        "publication_number": "US20020070227A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-13",
+        "publication_date": "2002-06-13",
+        "assignee_original": "Terresa Ferruccio",
+        "title": "Personal pill dispensing device",
+        "patent_id": "patent/US20020070227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020070227A1%2Fen"
+      },
+      {
+        "publication_number": "US20030183642A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-26",
+        "publication_date": "2003-10-02",
+        "assignee_original": "Kempker Jeffrey A.",
+        "title": "Pill dispensing apparatus",
+        "patent_id": "patent/US20030183642A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030183642A1%2Fen"
+      },
+      {
+        "publication_number": "US7048141B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-14",
+        "publication_date": "2006-05-23",
+        "assignee_original": "Antioch Holdings, Inc.",
+        "title": "Personal medication dispenser",
+        "patent_id": "patent/US7048141B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7048141B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20060071011A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-15",
+        "publication_date": "2006-04-06",
+        "assignee_original": "Varvarelis Nicholas M",
+        "title": "Electronic pill dispenser",
+        "patent_id": "patent/US20060071011A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060071011A1%2Fen"
+      },
+      {
+        "publication_number": "US20060161295A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-30",
+        "publication_date": "2006-07-20",
+        "assignee_original": "Yun Paul M",
+        "title": "Telemedic monitoring system",
+        "patent_id": "patent/US20060161295A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060161295A1%2Fen"
+      },
+      {
+        "publication_number": "US20060201961A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-14",
+        "publication_date": "2006-09-14",
+        "assignee_original": "Gazi Abdulhay",
+        "title": "Personal medication dispenser",
+        "patent_id": "patent/US20060201961A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060201961A1%2Fen"
+      },
+      {
+        "publication_number": "US20060224274A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-29",
+        "publication_date": "2006-10-05",
+        "assignee_original": "Mckesson Automation Systems Inc.",
+        "title": "Article dispensing and counting method and device",
+        "patent_id": "patent/US20060224274A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060224274A1%2Fen"
+      },
+      {
+        "publication_number": "US20060266763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-31",
+        "publication_date": "2006-11-30",
+        "assignee_original": "Katrin Svabo Bech",
+        "title": "Automated medication dispensing apparatus",
+        "patent_id": "patent/US20060266763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060266763A1%2Fen"
+      },
+      {
+        "publication_number": "US20070271001A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2007-11-22",
+        "assignee_original": "Nitesh Ratnakar",
+        "title": "Method of remotely managaing the distribution of medicine",
+        "patent_id": "patent/US20070271001A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070271001A1%2Fen"
+      },
+      {
+        "publication_number": "US20080030317A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-23",
+        "publication_date": "2008-02-07",
+        "assignee_original": "Bryant Terry K",
+        "title": "Method of Improving Medical Apparatus in Order to Replace Ancillary Medical Assistance by Employing Audible Verbal Human Sounding Voices to Prompt Therapeutic Usage and Provide Guidance, Measurements, Encouragement and Response, As Needed, to the Patient, By Using Electronic Technology",
+        "patent_id": "patent/US20080030317A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080030317A1%2Fen"
+      },
+      {
+        "publication_number": "US20080077430A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-25",
+        "publication_date": "2008-03-27",
+        "assignee_original": "Singer Michael S",
+        "title": "Systems and methods for improving medication adherence",
+        "patent_id": "patent/US20080077430A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080077430A1%2Fen"
+      },
+      {
+        "publication_number": "US20080114490A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-26",
+        "publication_date": "2008-05-15",
+        "assignee_original": "Stratamed Labs, Inc.",
+        "title": "Prescription drug compliance monitoring system",
+        "patent_id": "patent/US20080114490A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080114490A1%2Fen"
+      },
+      {
+        "publication_number": "US7454880B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-31",
+        "publication_date": "2008-11-25",
+        "assignee_original": "Xerox Corporation",
+        "title": "Personalized medication packaging",
+        "patent_id": "patent/US7454880B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7454880B1%2Fen"
+      },
+      {
+        "publication_number": "US20090045094A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-13",
+        "publication_date": "2009-02-19",
+        "assignee_original": "Carton Service, Incorporated",
+        "title": "Pharmaceutical Blister Card Package",
+        "patent_id": "patent/US20090045094A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090045094A1%2Fen"
+      },
+      {
+        "publication_number": "US20090259336A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2009-10-15",
+        "assignee_original": "Novation Science Holding, Llc",
+        "title": "Smart Medicine Container Assembly",
+        "patent_id": "patent/US20090259336A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090259336A1%2Fen"
+      },
+      {
+        "publication_number": "US20090259486A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-09",
+        "publication_date": "2009-10-15",
+        "assignee_original": "Panasonic Corporation",
+        "title": "Patient centric medication dispensing device",
+        "patent_id": "patent/US20090259486A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090259486A1%2Fen"
+      },
+      {
+        "publication_number": "US20090281393A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-08",
+        "publication_date": "2009-11-12",
+        "assignee_original": "Putnam Technical Group, Inc.",
+        "title": "Method and apparatus for administering and monitoring patient treatment",
+        "patent_id": "patent/US20090281393A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090281393A1%2Fen"
+      },
+      {
+        "publication_number": "US20090281657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-07",
+        "publication_date": "2009-11-12",
+        "assignee_original": "Baeta Corp.",
+        "title": "Automatic medication reminder and dispensing device, system , and method therefor",
+        "patent_id": "patent/US20090281657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090281657A1%2Fen"
+      },
+      {
+        "publication_number": "US20090295575A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Kennedy Philip R",
+        "title": "Medication Dispensing System",
+        "patent_id": "patent/US20090295575A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090295575A1%2Fen"
+      },
+      {
+        "publication_number": "US20100015584A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-12",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Singer Michael S",
+        "title": "Behavior Modification with Intermittent Reward",
+        "patent_id": "patent/US20100015584A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100015584A1%2Fen"
+      },
+      {
+        "publication_number": "US20100049363A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2010-02-25",
+        "assignee_original": "Novation Science Holding, Llc",
+        "title": "Smart Medicine Container",
+        "patent_id": "patent/US20100049363A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100049363A1%2Fen"
+      },
+      {
+        "publication_number": "US20100096399A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Novation Science Holding, Llc",
+        "title": "Smart Medicine Container",
+        "patent_id": "patent/US20100096399A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100096399A1%2Fen"
+      },
+      {
+        "publication_number": "US20100100237A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Novation Science Holding, Llc",
+        "title": "Smart Medicine Container",
+        "patent_id": "patent/US20100100237A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100100237A1%2Fen"
+      },
+      {
+        "publication_number": "US7765776B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-19",
+        "publication_date": "2010-08-03",
+        "assignee_original": "Medco Health Solutions, Inc.",
+        "title": "Systems and methods for dispensing pharmaceutical/medical product and branding pharmaceutical/medical containers",
+        "patent_id": "patent/US7765776B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7765776B1%2Fen"
+      },
+      {
+        "publication_number": "US20110166698A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-28",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Anthony Vallone",
+        "title": "Delivery of medication regimen in medication reminder device",
+        "patent_id": "patent/US20110166698A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110166698A1%2Fen"
+      },
+      {
+        "publication_number": "US8019471B2",
+        "primary_language": "en",
+        "priority_date": "2004-04-24",
+        "publication_date": "2011-09-13",
+        "assignee_original": "Inrange Systems, Inc.",
+        "title": "Integrated, non-sequential, remote medication management and compliance system",
+        "patent_id": "patent/US8019471B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8019471B2%2Fen"
+      },
+      {
+        "publication_number": "WO2012027622A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-25",
+        "publication_date": "2012-03-01",
+        "assignee_original": "Futurelogic, Inc.",
+        "title": "Promotional couponing notification system",
+        "patent_id": "patent/WO2012027622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012027622A1%2Fen"
+      },
+      {
+        "publication_number": "US20120259456A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-22",
+        "publication_date": "2012-10-11",
+        "assignee_original": "Leon Saltsov",
+        "title": "Medication dispensing and control unit",
+        "patent_id": "patent/US20120259456A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120259456A1%2Fen"
+      },
+      {
+        "publication_number": "US20130238119A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-16",
+        "publication_date": "2013-09-12",
+        "assignee_original": "Jireh Health, Llc",
+        "title": "Apparatus, system, and method for accurate dispensing of prescription medications",
+        "patent_id": "patent/US20130238119A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130238119A1%2Fen"
+      },
+      {
+        "publication_number": "US20130304255A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-11",
+        "publication_date": "2013-11-14",
+        "assignee_original": "Nitesh Ratnakar",
+        "title": "System and apparatus for displaying drug interactions on drug storage containers",
+        "patent_id": "patent/US20130304255A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130304255A1%2Fen"
+      },
+      {
+        "publication_number": "US20140114472A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-24",
+        "publication_date": "2014-04-24",
+        "assignee_original": "Inrange Systems, Inc.",
+        "title": "Remote medication management system",
+        "patent_id": "patent/US20140114472A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140114472A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9278177B2",
+        "primary_language": "en",
+        "priority_date": "2005-02-01",
+        "publication_date": "2016-03-08",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Medical injector with compliance tracking and monitoring",
+        "patent_id": "patent/US9278177B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9278177B2%2Fen"
+      },
+      {
+        "publication_number": "US9280863B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-16",
+        "publication_date": "2016-03-08",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Automated dispensing system for pharmaceuticals and other medical items",
+        "patent_id": "patent/US9280863B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9280863B2%2Fen"
+      },
+      {
+        "publication_number": "US20160068328A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-19",
+        "publication_date": "2016-03-10",
+        "assignee_original": "Vmi Holland B.V.",
+        "title": "Medication dispensing container",
+        "patent_id": "patent/US20160068328A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160068328A1%2Fen"
+      },
+      {
+        "publication_number": "US9387153B1",
+        "primary_language": "en",
+        "priority_date": "2013-06-19",
+        "publication_date": "2016-07-12",
+        "assignee_original": "Robert G. Mazur",
+        "title": "Metered dispensing system",
+        "patent_id": "patent/US9387153B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9387153B1%2Fen"
+      },
+      {
+        "publication_number": "US9501626B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-29",
+        "publication_date": "2016-11-22",
+        "assignee_original": "Dafang Zhang",
+        "title": "Smart automated pill dispenser",
+        "patent_id": "patent/US9501626B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9501626B2%2Fen"
+      },
+      {
+        "publication_number": "US9542826B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-27",
+        "publication_date": "2017-01-10",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Devices, systems and methods for locating and interacting with medicament delivery systems",
+        "patent_id": "patent/US9542826B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9542826B2%2Fen"
+      },
+      {
+        "publication_number": "US20170011201A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-11",
+        "publication_date": "2017-01-12",
+        "assignee_original": "One World Design & Manufacturing Group LTD",
+        "title": "Medicine Organizer",
+        "patent_id": "patent/US20170011201A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170011201A1%2Fen"
+      },
+      {
+        "publication_number": "US9555191B2",
+        "primary_language": "en",
+        "priority_date": "2007-01-22",
+        "publication_date": "2017-01-31",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Apparatus and methods for self-administration of vaccines and other medicaments",
+        "patent_id": "patent/US9555191B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9555191B2%2Fen"
+      },
+      {
+        "publication_number": "US9731103B1",
+        "primary_language": "en",
+        "priority_date": "2017-01-13",
+        "publication_date": "2017-08-15",
+        "assignee_original": "Berkshire Biomedical, LLC",
+        "title": "Computerized oral prescription administration devices and associated systems and methods",
+        "patent_id": "patent/US9731103B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9731103B1%2Fen"
+      },
+      {
+        "publication_number": "US20170304153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-20",
+        "publication_date": "2017-10-26",
+        "assignee_original": "John R. Williamson",
+        "title": "Apparatus and Method for Dispensing Pharmaceuticals and Other Medications",
+        "patent_id": "patent/US20170304153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170304153A1%2Fen"
+      },
+      {
+        "publication_number": "US9870450B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-11",
+        "publication_date": "2018-01-16",
+        "assignee_original": "Zolo Solutions, Inc.",
+        "title": "Drug delivery regulator",
+        "patent_id": "patent/US9870450B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9870450B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018097816A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-22",
+        "publication_date": "2018-05-31",
+        "assignee_original": "Lively Golden Keith",
+        "title": "A smart box for dispensing medications",
+        "patent_id": "patent/WO2018097816A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018097816A1%2Fen"
+      },
+      {
+        "publication_number": "US10073954B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-26",
+        "publication_date": "2018-09-11",
+        "assignee_original": "Changhai Chen",
+        "title": "Dispenser system and methods for medication compliance",
+        "patent_id": "patent/US10073954B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10073954B2%2Fen"
+      },
+      {
+        "publication_number": "US10124940B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-11",
+        "publication_date": "2018-11-13",
+        "assignee_original": "Zolo Solutions, Inc.",
+        "title": "Systems, methods, and devices for dispensing one or more substances",
+        "patent_id": "patent/US10124940B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10124940B2%2Fen"
+      },
+      {
+        "publication_number": "US10332623B2",
+        "primary_language": "en",
+        "priority_date": "2017-01-17",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Medicament delivery devices with wireless connectivity and event detection",
+        "patent_id": "patent/US10332623B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10332623B2%2Fen"
+      },
+      {
+        "publication_number": "US10406074B1",
+        "primary_language": "en",
+        "priority_date": "2016-01-21",
+        "publication_date": "2019-09-10",
+        "assignee_original": "Robert Gerhard Mazur",
+        "title": "Medication dispensing tray adapter and system",
+        "patent_id": "patent/US10406074B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10406074B1%2Fen"
+      },
+      {
+        "publication_number": "US10421566B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-03",
+        "publication_date": "2019-09-24",
+        "assignee_original": "Carefusion Germany 326 Gmbh",
+        "title": "Storage container for automated dispensing of individual medicament portions",
+        "patent_id": "patent/US10421566B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10421566B2%2Fen"
+      },
+      {
+        "publication_number": "US10441509B2",
+        "primary_language": "en",
+        "priority_date": "2018-03-16",
+        "publication_date": "2019-10-15",
+        "assignee_original": "Berkshire Biomedical, LLC",
+        "title": "Computerized oral prescription administration with refillable medication dispensing devices and associated systems and methods",
+        "patent_id": "patent/US10441509B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10441509B2%2Fen"
+      },
+      {
+        "publication_number": "US20190333620A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-16",
+        "publication_date": "2019-10-31",
+        "assignee_original": "Randy HERMAN",
+        "title": "Medicament compilation and dispensation system",
+        "patent_id": "patent/US20190333620A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190333620A1%2Fen"
+      },
+      {
+        "publication_number": "US10555874B2",
+        "primary_language": "en",
+        "priority_date": "2016-06-13",
+        "publication_date": "2020-02-11",
+        "assignee_original": "Pillo, Inc.",
+        "title": "Healthcare management services",
+        "patent_id": "patent/US10555874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10555874B2%2Fen"
+      },
+      {
+        "publication_number": "US10592638B1",
+        "primary_language": "en",
+        "priority_date": "2015-05-15",
+        "publication_date": "2020-03-17",
+        "assignee_original": "Mohammed-Tarek Al-Fahl",
+        "title": "Secure medication dispenser",
+        "patent_id": "patent/US10592638B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10592638B1%2Fen"
+      },
+      {
+        "publication_number": "US10722431B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-26",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Changhai Chen",
+        "title": "Dispenser system and methods for medication compliance",
+        "patent_id": "patent/US10722431B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10722431B2%2Fen"
+      },
+      {
+        "publication_number": "US10729860B1",
+        "primary_language": "en",
+        "priority_date": "2019-05-22",
+        "publication_date": "2020-08-04",
+        "assignee_original": "Berkshire Biomedical, LLC",
+        "title": "Computerized oral prescription administration for securely dispensing a medication and associated systems and methods",
+        "patent_id": "patent/US10729860B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10729860B1%2Fen"
+      },
+      {
+        "publication_number": "US10792226B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-07",
+        "publication_date": "2020-10-06",
+        "assignee_original": "Berkshire Biomedical, LLC",
+        "title": "Refill and dosage management devices and associated systems and methods for use with computerized oral prescription administration devices",
+        "patent_id": "patent/US10792226B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10792226B2%2Fen"
+      },
+      {
+        "publication_number": "US10821054B1",
+        "primary_language": "en",
+        "priority_date": "2018-09-05",
+        "publication_date": "2020-11-03",
+        "assignee_original": "Victoria Howton",
+        "title": "Automated pill dispenser",
+        "patent_id": "patent/US10821054B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10821054B1%2Fen"
+      },
+      {
+        "publication_number": "US10993881B1",
+        "primary_language": "en",
+        "priority_date": "2015-12-11",
+        "publication_date": "2021-05-04",
+        "assignee_original": "Geri-Sage, LTD",
+        "title": "Apparatus and method for dispensing medication",
+        "patent_id": "patent/US10993881B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10993881B1%2Fen"
+      },
+      {
+        "publication_number": "US11160730B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-11",
+        "publication_date": "2021-11-02",
+        "assignee_original": "Rightis Technology, LLC",
+        "title": "Smart medication dispensing system and method",
+        "patent_id": "patent/US11160730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11160730B2%2Fen"
+      },
+      {
+        "publication_number": "US11213457B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-11",
+        "publication_date": "2022-01-04",
+        "assignee_original": "Anthony John Guarascio",
+        "title": "Portable secure pill dispenser with failsafe",
+        "patent_id": "patent/US11213457B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11213457B2%2Fen"
+      },
+      {
+        "publication_number": "US11246805B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-26",
+        "publication_date": "2022-02-15",
+        "assignee_original": "Changhai Chen",
+        "title": "Dispenser system and methods for medication compliance",
+        "patent_id": "patent/US11246805B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11246805B2%2Fen"
+      },
+      {
+        "publication_number": "US11354968B2",
+        "primary_language": "en",
+        "priority_date": "2020-03-05",
+        "publication_date": "2022-06-07",
+        "assignee_original": "Troy G. Anderson, M.D., P.C.",
+        "title": "Pill storage and dispensing systems and methods",
+        "patent_id": "patent/US11354968B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11354968B2%2Fen"
+      },
+      {
+        "publication_number": "US11583477B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-28",
+        "publication_date": "2023-02-21",
+        "assignee_original": "Papapill, Llc",
+        "title": "Medication dispensing system",
+        "patent_id": "patent/US11583477B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11583477B2%2Fen"
+      },
+      {
+        "publication_number": "US11929160B2",
+        "primary_language": "en",
+        "priority_date": "2018-07-16",
+        "publication_date": "2024-03-12",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Medicament delivery devices with wireless connectivity and compliance detection",
+        "patent_id": "patent/US11929160B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11929160B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20060213921A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-23",
+        "publication_date": "2006-09-28",
+        "assignee_original": "Gazi Abdulhay",
+        "title": "Pill dispensing apparatus",
+        "patent_id": "patent/US20060213921A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060213921A1%2Fen"
+      },
+      {
+        "publication_number": "US7607571B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-30",
+        "publication_date": "2009-10-27",
+        "assignee_original": "Intellidot Corporation",
+        "title": "Medical work flow system",
+        "patent_id": "patent/US7607571B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7607571B2%2Fen"
+      },
+      {
+        "publication_number": "US7502664B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-03",
+        "publication_date": "2009-03-10",
+        "assignee_original": "University Of Rochester",
+        "title": "System and method for interactive items dispenser",
+        "patent_id": "patent/US7502664B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7502664B2%2Fen"
+      },
+      {
+        "publication_number": "US7440817B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-20",
+        "publication_date": "2008-10-21",
+        "assignee_original": "Liang Fu",
+        "title": "Method and control unit for medication administering devices",
+        "patent_id": "patent/US7440817B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7440817B2%2Fen"
+      },
+      {
+        "publication_number": "US7568631B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-21",
+        "publication_date": "2009-08-04",
+        "assignee_original": "Sony Corporation",
+        "title": "System, apparatus and method for obtaining one-time credit card numbers using a smart card",
+        "patent_id": "patent/US7568631B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7568631B2%2Fen"
+      },
+      {
+        "publication_number": "US8417591B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-30",
+        "publication_date": "2013-04-09",
+        "assignee_original": "Sap Ag",
+        "title": "Stock flow management system and method",
+        "patent_id": "patent/US8417591B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8417591B2%2Fen"
+      },
+      {
+        "publication_number": "US20080030309A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-31",
+        "publication_date": "2008-02-07",
+        "assignee_original": "Texas Instruments Incorporated",
+        "title": "System and method for providing information about a medication to a medicine user",
+        "patent_id": "patent/US20080030309A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080030309A1%2Fen"
+      },
+      {
+        "publication_number": "US7761171B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2010-07-20",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Methods and apparatus to generate schedules to execute functions in a process control system",
+        "patent_id": "patent/US7761171B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7761171B2%2Fen"
+      },
+      {
+        "publication_number": "US8005553B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2011-08-23",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Automatic configuration of synchronous block execution for control modules run in fieldbus networks",
+        "patent_id": "patent/US8005553B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8005553B2%2Fen"
+      },
+      {
+        "publication_number": "US7602275B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-22",
+        "publication_date": "2009-10-13",
+        "assignee_original": "Intel Corporation",
+        "title": "Contextual medication prompting pillbox",
+        "patent_id": "patent/US7602275B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7602275B2%2Fen"
+      },
+      {
+        "publication_number": "US20090192648A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-05",
+        "publication_date": "2009-07-30",
+        "assignee_original": "Cybernet Systems Corporation",
+        "title": "Medication compliance management system",
+        "patent_id": "patent/US20090192648A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090192648A1%2Fen"
+      },
+      {
+        "publication_number": "US7957984B1",
+        "primary_language": "en",
+        "priority_date": "2007-02-28",
+        "publication_date": "2011-06-07",
+        "assignee_original": "Anthony Vallone",
+        "title": "Device for facilitating compliance with medication regimen",
+        "patent_id": "patent/US7957984B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7957984B1%2Fen"
+      },
+      {
+        "publication_number": "US20080210701A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-02",
+        "publication_date": "2008-09-04",
+        "assignee_original": "Cooper Martin R",
+        "title": "Medicinal Organizer",
+        "patent_id": "patent/US20080210701A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080210701A1%2Fen"
+      },
+      {
+        "publication_number": "US20090037217A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-19",
+        "publication_date": "2009-02-05",
+        "assignee_original": "Bilcare Limited",
+        "title": "Multi-functional package system",
+        "patent_id": "patent/US20090037217A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090037217A1%2Fen"
+      },
+      {
+        "publication_number": "US20090062730A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-01",
+        "publication_date": "2009-03-05",
+        "assignee_original": "San Hoon Woo",
+        "title": "Control of body fluid condition using diuretics, based on biological parameters",
+        "patent_id": "patent/US20090062730A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090062730A1%2Fen"
+      },
+      {
+        "publication_number": "US7680001B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-19",
+        "publication_date": "2010-03-16",
+        "assignee_original": "D Annunzio Lindsay L",
+        "title": "Device and method for preventing the use of a compromised pharmaceutical that is stored in a vial or similar container",
+        "patent_id": "patent/US7680001B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7680001B1%2Fen"
+      },
+      {
+        "publication_number": "US20100076595A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-12",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Nguyen Michael R",
+        "title": "Smart pill dispenser",
+        "patent_id": "patent/US20100076595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076595A1%2Fen"
+      },
+      {
+        "publication_number": "SE533735C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-04",
+        "publication_date": "2010-12-21",
+        "assignee_original": "Linda Jonsson",
+        "title": "System and apparatus for dispensing dose-packed medicine",
+        "patent_id": "patent/SE533735C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE533735C2%2Fen"
+      },
+      {
+        "publication_number": "US20100032444A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-07",
+        "publication_date": "2010-02-11",
+        "assignee_original": "Wanda Sheffield",
+        "title": "Dispenser For An Orally Dissolvable Strip",
+        "patent_id": "patent/US20100032444A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100032444A1%2Fen"
+      },
+      {
+        "publication_number": "KR101016438B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2011-02-21",
+        "assignee_original": "\ud55c\uad6d\uc804\uc790\ud1b5\uc2e0\uc5f0\uad6c\uc6d0",
+        "title": "Medication Assist Device and How to Assist Medication on It",
+        "patent_id": "patent/KR101016438B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101016438B1%2Fen"
+      },
+      {
+        "publication_number": "WO2010131407A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-12",
+        "publication_date": "2010-11-18",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Medical agent dispenser",
+        "patent_id": "patent/WO2010131407A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010131407A1%2Fen"
+      },
+      {
+        "publication_number": "US20100318218A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-15",
+        "publication_date": "2010-12-16",
+        "assignee_original": "Muncy Jr Robert B",
+        "title": "Pill Dispenser and Method",
+        "patent_id": "patent/US20100318218A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100318218A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011054000A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-02",
+        "publication_date": "2011-05-05",
+        "assignee_original": "Trxcare Holding S.A.R.L.",
+        "title": "Smart medicament management methods and devices",
+        "patent_id": "patent/WO2011054000A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011054000A1%2Fen"
+      },
+      {
+        "publication_number": "DE102009052292B3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-09",
+        "publication_date": "2011-04-14",
+        "assignee_original": "Fritz Collischan Gmbh & Co. Kg",
+        "title": "Device for counting objects supplied as bulk material",
+        "patent_id": "patent/DE102009052292B3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009052292B3%2Fen"
+      },
+      {
+        "publication_number": "US9483620B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-09",
+        "publication_date": "2016-11-01",
+        "assignee_original": "Novo Nordisk A/S",
+        "title": "Reminder programming device and method",
+        "patent_id": "patent/US9483620B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9483620B2%2Fen"
+      },
+      {
+        "publication_number": "US8725291B2",
+        "primary_language": "en",
+        "priority_date": "2010-09-13",
+        "publication_date": "2014-05-13",
+        "assignee_original": "Ipcomm",
+        "title": "Method and apparatus for remote monitoring of daily dispensing of medication",
+        "patent_id": "patent/US8725291B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8725291B2%2Fen"
+      },
+      {
+        "publication_number": "DE102011076729A1",
+        "primary_language": "en",
+        "priority_date": "2011-05-30",
+        "publication_date": "2012-12-06",
+        "assignee_original": "4Medx Gmbh",
+        "title": "Dispensing device for medicaments",
+        "patent_id": "patent/DE102011076729A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102011076729A1%2Fen"
+      },
+      {
+        "publication_number": "FR2975898A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-30",
+        "publication_date": "2012-12-07",
+        "assignee_original": "France Telecom",
+        "title": "Drug delivery device for delivering drugs to patient, has management unit including command programming interface, where commands are programmed in interface according to data exchanged between interface and user terminal e.g. mobile phone",
+        "patent_id": "patent/FR2975898A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2975898A1%2Fen"
+      },
+      {
+        "publication_number": "US9202011B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-17",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Lisa M. Lavin",
+        "title": "Web enabled audiovisual medication dispensing",
+        "patent_id": "patent/US9202011B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202011B2%2Fen"
+      },
+      {
+        "publication_number": "US20130151274A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-04",
+        "publication_date": "2013-06-13",
+        "assignee_original": "Michael D. Bage",
+        "title": "Method and apparatus for enhancing home healthcare",
+        "patent_id": "patent/US20130151274A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130151274A1%2Fen"
+      },
+      {
+        "publication_number": "US8727180B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-02",
+        "publication_date": "2014-05-20",
+        "assignee_original": "Compliance Meds Technologies, Llc",
+        "title": "Smart cap system",
+        "patent_id": "patent/US8727180B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8727180B2%2Fen"
+      },
+      {
+        "publication_number": "EP3586813A1",
+        "primary_language": "en",
+        "priority_date": "2012-02-26",
+        "publication_date": "2020-01-01",
+        "assignee_original": "Digital Medical Technologies, LLC (D/B/A Adheretech)",
+        "title": "Medication container with remotely activated alert",
+        "patent_id": "patent/EP3586813A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3586813A1%2Fen"
+      },
+      {
+        "publication_number": "US8752728B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-26",
+        "publication_date": "2014-06-17",
+        "assignee_original": "Orbital Innovations, Llc",
+        "title": "Portable, time-release dosage form dispensing assembly",
+        "patent_id": "patent/US8752728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8752728B2%2Fen"
+      },
+      {
+        "publication_number": "US20140108028A1",
+        "primary_language": "en",
+        "priority_date": "2012-10-12",
+        "publication_date": "2014-04-17",
+        "assignee_original": "Mckesson Automation Inc.",
+        "title": "Apparatuses, systems, and methods for anticipating and delivering medications from a central pharmacy to a patient in a healthcare facility",
+        "patent_id": "patent/US20140108028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140108028A1%2Fen"
+      },
+      {
+        "publication_number": "US9150119B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2015-10-06",
+        "assignee_original": "Aesynt Incorporated",
+        "title": "Apparatuses, systems, and methods for anticipating and delivering medications from a central pharmacy to a patient using a track based transport system",
+        "patent_id": "patent/US9150119B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9150119B2%2Fen"
+      },
+      {
+        "publication_number": "EP2737891A1",
+        "primary_language": "en",
+        "priority_date": "2012-11-29",
+        "publication_date": "2014-06-04",
+        "assignee_original": "4MEDx GmbH",
+        "title": "Medication cartridge",
+        "patent_id": "patent/EP2737891A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2737891A1%2Fen"
+      },
+      {
+        "publication_number": "US9278053B2",
+        "primary_language": "en",
+        "priority_date": "2013-11-14",
+        "publication_date": "2016-03-08",
+        "assignee_original": "Xerox Corporation",
+        "title": "Apparatus and system with pre-loaded cassette for dispensing multiple medications and methods therefore",
+        "patent_id": "patent/US9278053B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9278053B2%2Fen"
+      },
+      {
+        "publication_number": "TWM483806U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-04",
+        "publication_date": "2014-08-11",
+        "assignee_original": "Gang Zhao",
+        "title": "Intelligent safety protection integration system carrier",
+        "patent_id": "patent/TWM483806U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWM483806U%2Fen"
+      },
+      {
+        "publication_number": "GB201418350D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-16",
+        "publication_date": "2014-12-03",
+        "assignee_original": "Elucid Mhealth Ltd",
+        "title": "Dispenser and methods of use thereof",
+        "patent_id": "patent/GB201418350D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201418350D0%2Fen"
+      },
+      {
+        "publication_number": "US9607261B1",
+        "primary_language": "en",
+        "priority_date": "2014-12-03",
+        "publication_date": "2017-03-28",
+        "assignee_original": "Compliance Meds Technologies Llc",
+        "title": "Counter using an inductive sensor for determining the quantity of articles in a receptacle",
+        "patent_id": "patent/US9607261B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9607261B1%2Fen"
+      },
+      {
+        "publication_number": "US20180028409A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-10",
+        "publication_date": "2018-02-01",
+        "assignee_original": "Hewlett Packard Enterprise Development Lp",
+        "title": "Drug dispenser",
+        "patent_id": "patent/US20180028409A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180028409A1%2Fen"
+      },
+      {
+        "publication_number": "US20160314274A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-24",
+        "publication_date": "2016-10-27",
+        "assignee_original": "Harald Zieger",
+        "title": "Prescription security system",
+        "patent_id": "patent/US20160314274A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160314274A1%2Fen"
+      },
+      {
+        "publication_number": "EP3302399A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-26",
+        "publication_date": "2019-02-27",
+        "assignee_original": "Michel Poirier",
+        "title": "Modular medication dispensing system",
+        "patent_id": "patent/EP3302399A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3302399A4%2Fen"
+      },
+      {
+        "publication_number": "US9836583B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-17",
+        "publication_date": "2017-12-05",
+        "assignee_original": "Silvergens Inc.",
+        "title": "Automated medication adherence system",
+        "patent_id": "patent/US9836583B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9836583B2%2Fen"
+      },
+      {
+        "publication_number": "US20210284433A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-13",
+        "publication_date": "2021-09-16",
+        "assignee_original": "Flavour Message Ag",
+        "title": "Storage Assembly for Storing Active Substances",
+        "patent_id": "patent/US20210284433A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210284433A1%2Fen"
+      },
+      {
+        "publication_number": "US10747851B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-09",
+        "publication_date": "2020-08-18",
+        "assignee_original": "Nxp B.V.",
+        "title": "Segmented platform for items",
+        "patent_id": "patent/US10747851B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10747851B2%2Fen"
+      },
+      {
+        "publication_number": "US11154460B2",
+        "primary_language": "en",
+        "priority_date": "2018-12-10",
+        "publication_date": "2021-10-26",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Personal prescription dispenser",
+        "patent_id": "patent/US11154460B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11154460B2%2Fen"
+      },
+      {
+        "publication_number": "US11743424B1",
+        "primary_language": "en",
+        "priority_date": "2019-01-16",
+        "publication_date": "2023-08-29",
+        "assignee_original": "Omcare Inc.",
+        "title": "Web enabled audiovisual medication dispensing with enhanced compliance verification",
+        "patent_id": "patent/US11743424B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11743424B1%2Fen"
+      },
+      {
+        "publication_number": "USD904007S1",
+        "primary_language": "en",
+        "priority_date": "2019-01-16",
+        "publication_date": "2020-12-08",
+        "assignee_original": "Omcare Llc",
+        "title": "Web enabled audiovisual medication dispenser",
+        "patent_id": "patent/USD904007S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD904007S1%2Fen"
+      },
+      {
+        "publication_number": "US12012276B2",
+        "primary_language": "en",
+        "priority_date": "2019-07-11",
+        "publication_date": "2024-06-18",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Cap assembly for a medication container",
+        "patent_id": "patent/US12012276B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12012276B2%2Fen"
+      },
+      {
+        "publication_number": "US11827442B1",
+        "primary_language": "en",
+        "priority_date": "2019-07-11",
+        "publication_date": "2023-11-28",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Cap assembly for a medication container",
+        "patent_id": "patent/US11827442B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11827442B1%2Fen"
+      },
+      {
+        "publication_number": "US12071286B1",
+        "primary_language": "en",
+        "priority_date": "2019-07-11",
+        "publication_date": "2024-08-27",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Cap assembly for a medication container",
+        "patent_id": "patent/US12071286B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12071286B1%2Fen"
+      },
+      {
+        "publication_number": "US20210043294A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-09",
+        "publication_date": "2021-02-11",
+        "assignee_original": "COLD FAid, LLC",
+        "title": "Cold symptom tracking and treatment",
+        "patent_id": "patent/US20210043294A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210043294A1%2Fen"
+      },
+      {
+        "publication_number": "US20210169742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-10",
+        "publication_date": "2021-06-10",
+        "assignee_original": "Bradley Paul Willett",
+        "title": "System and method for controlled dispensing of medication",
+        "patent_id": "patent/US20210169742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210169742A1%2Fen"
+      },
+      {
+        "publication_number": "US11357705B2",
+        "primary_language": "en",
+        "priority_date": "2019-12-11",
+        "publication_date": "2022-06-14",
+        "assignee_original": "TW3 Properties LLC",
+        "title": "Portable, reusable dispensing assembly having multiple operating modes",
+        "patent_id": "patent/US11357705B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11357705B2%2Fen"
+      },
+      {
+        "publication_number": "US11485568B2",
+        "primary_language": "en",
+        "priority_date": "2019-12-11",
+        "publication_date": "2022-11-01",
+        "assignee_original": "TW3 Properties LLC",
+        "title": "Portable, reusable medication dispensing assembly which has communication capability to improve medication adherence",
+        "patent_id": "patent/US11485568B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11485568B2%2Fen"
+      },
+      {
+        "publication_number": "US11833113B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-26",
+        "publication_date": "2023-12-05",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "Cap assembly for a medication container",
+        "patent_id": "patent/US11833113B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11833113B2%2Fen"
+      },
+      {
+        "publication_number": "NL2029019B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-23",
+        "publication_date": "2023-03-03",
+        "assignee_original": "Vmi Holland Bv",
+        "title": "Filling station and method for filling a feeder unit with discrete medicaments",
+        "patent_id": "patent/NL2029019B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL2029019B1%2Fen"
+      },
+      {
+        "publication_number": "US12129116B2",
+        "primary_language": "en",
+        "priority_date": "2021-08-23",
+        "publication_date": "2024-10-29",
+        "assignee_original": "Vmi Holland B.V.",
+        "title": "Filling station and method for filling a feeder unit with discrete medicaments",
+        "patent_id": "patent/US12129116B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12129116B2%2Fen"
+      },
+      {
+        "publication_number": "CA3229832A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-23",
+        "publication_date": "2023-03-02",
+        "assignee_original": "Vmi Holland B.V.",
+        "title": "Filling station and method for filling a feeder unit with discrete medicaments",
+        "patent_id": "patent/CA3229832A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3229832A1%2Fen"
+      },
+      {
+        "publication_number": "US11419794B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-21",
+        "publication_date": "2022-08-23",
+        "assignee_original": "Thomas Alston",
+        "title": "Programmable pill dispensing device and methods of use",
+        "patent_id": "patent/US11419794B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11419794B1%2Fen"
+      },
+      {
+        "publication_number": "DE102021006177A1",
+        "primary_language": "en",
+        "priority_date": "2021-12-15",
+        "publication_date": "2023-06-15",
+        "assignee_original": "Lars Matthiesen",
+        "title": "The step to a carefree life",
+        "patent_id": "patent/DE102021006177A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102021006177A1%2Fen"
+      },
+      {
+        "publication_number": "US20240363240A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-27",
+        "publication_date": "2024-10-31",
+        "assignee_original": "T-Mobile Usa, Inc.",
+        "title": "Management of medication dispenser using telecommunications system",
+        "patent_id": "patent/US20240363240A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240363240A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7048141B2",
+      "primary_language": "en",
+      "publication_date": "2006-05-23",
+      "title": "Personal medication dispenser",
+      "patent_id": "patent/US7048141B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7048141B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7269476B2",
+      "primary_language": "en",
+      "publication_date": "2007-09-11",
+      "title": "Smart medicine container",
+      "patent_id": "patent/US7269476B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7269476B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9492355B2",
+      "primary_language": "en",
+      "publication_date": "2016-11-15",
+      "title": "Smart medicine container",
+      "patent_id": "patent/US9492355B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9492355B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8985388B2",
+      "primary_language": "en",
+      "publication_date": "2015-03-24",
+      "title": "Smart medicine container",
+      "patent_id": "patent/US8985388B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8985388B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8483872B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-09",
+      "title": "Smart medicine container",
+      "patent_id": "patent/US8483872B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8483872B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2152785C",
+      "primary_language": "en",
+      "publication_date": "2005-05-10",
+      "title": "Automatic pill dispensing apparatus",
+      "patent_id": "patent/CA2152785C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2152785C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5176285A",
+      "primary_language": "en",
+      "publication_date": "1993-01-05",
+      "title": "Pill dispensing apparatus",
+      "patent_id": "patent/US5176285A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5176285A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9043015B2",
+      "primary_language": "en",
+      "publication_date": "2015-05-26",
+      "title": "Smart medicine container assembly",
+      "patent_id": "patent/US9043015B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9043015B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5408443A",
+      "primary_language": "en",
+      "publication_date": "1995-04-18",
+      "title": "Programmable medication dispensing system",
+      "patent_id": "patent/US5408443A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5408443A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160247345A1",
+      "primary_language": "en",
+      "publication_date": "2016-08-25",
+      "title": "System and apparatus for displaying drug interactions on drug storage containers",
+      "patent_id": "patent/US20160247345A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160247345A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8060246B2",
+      "primary_language": "en",
+      "publication_date": "2011-11-15",
+      "title": "System and method for interactive items dispenser",
+      "patent_id": "patent/US8060246B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8060246B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7178688B2",
+      "primary_language": "en",
+      "publication_date": "2007-02-20",
+      "title": "Portable medication dispenser",
+      "patent_id": "patent/US7178688B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7178688B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6439422B1",
+      "primary_language": "en",
+      "publication_date": "2002-08-27",
+      "title": "Automated portable medication radial dispensing apparatus and method",
+      "patent_id": "patent/US6439422B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6439422B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100096399A1",
+      "primary_language": "en",
+      "publication_date": "2010-04-22",
+      "title": "Smart Medicine Container",
+      "patent_id": "patent/US20100096399A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100096399A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006119306A2",
+      "primary_language": "en",
+      "publication_date": "2006-11-09",
+      "title": "Items dispenser",
+      "patent_id": "patent/WO2006119306A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006119306A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060266763A1",
+      "primary_language": "en",
+      "publication_date": "2006-11-30",
+      "title": "Automated medication dispensing apparatus",
+      "patent_id": "patent/US20060266763A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060266763A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090192648A1",
+      "primary_language": "en",
+      "publication_date": "2009-07-30",
+      "title": "Medication compliance management system",
+      "patent_id": "patent/US20090192648A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090192648A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006028944A2",
+      "primary_language": "en",
+      "publication_date": "2006-03-16",
+      "title": "Pill dispensing apparatus",
+      "patent_id": "patent/WO2006028944A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006028944A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001093801A1",
+      "primary_language": "en",
+      "publication_date": "2001-12-13",
+      "title": "Apparatus for dispensing medication and for providing information thereon",
+      "patent_id": "patent/WO2001093801A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001093801A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240315927A1",
+      "primary_language": "en",
+      "publication_date": "2024-09-26",
+      "title": "Smart multi-medication dispenser system",
+      "patent_id": "patent/US20240315927A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240315927A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101147996B1",
+      "primary_language": "en",
+      "publication_date": "2012-05-24",
+      "title": "Personal medicine suppling apparatus",
+      "patent_id": "patent/KR101147996B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101147996B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-07-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ABDULHAY, GAZI, PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:DEAN, CHADWICK E.;REEL/FRAME:014262/0618"
+        },
+        {
+          "label": "Effective date",
+          "value": "20030617"
+        }
+      ]
+    },
+    {
+      "date": "2005-12-08",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2006-03-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ANTIOCH HOLDINGS, INC., DELAWARE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ABDULHAY, GAZI;REEL/FRAME:017301/0547"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060301"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-28",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2010-05-24",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2010-05-24",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2014-01-03",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2014-05-23",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2014-05-23",
+      "code": "REIN",
+      "title": "Reinstatement after maintenance fee payment confirmed"
+    },
+    {
+      "date": "2014-07-15",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20140523"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-04",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES FILED (ORIGINAL EVENT CODE: PMFP); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PMFG); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-04",
+      "code": "PRDP",
+      "title": "Patent reinstated due to the acceptance of a late maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20160407"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-06",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2016-04-06",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2018-01-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-18",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-10",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20180523"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-20",
+      "code": "PRDP",
+      "title": "Patent reinstated due to the acceptance of a late maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20180822"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-22",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "SURCHARGE, PETITION TO ACCEPT PYMT AFTER EXP, UNINTENTIONAL. (ORIGINAL EVENT CODE: M2558); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PMFG); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES FILED (ORIGINAL EVENT CODE: PMFP); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-22",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-22",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 87
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 81
+      },
+      {
+        "id": "239000006187",
+        "name": "pill",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 175
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000012054",
+        "name": "meals",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002775",
+        "name": "capsule",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000002784",
+        "name": "stomach",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001788",
+        "name": "irregular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000143437",
+        "name": "Aciculosporium take",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010020751",
+        "name": "Hypersensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010028813",
+        "name": "Nausea",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000014676",
+        "name": "Phragmites communis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000032683",
+        "name": "aging",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007815",
+        "name": "allergy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013474",
+        "name": "audit trail",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009937",
+        "name": "brining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013078",
+        "name": "crystal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005553",
+        "name": "drilling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003862",
+        "name": "health status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002372",
+        "name": "labelling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004620",
+        "name": "low density foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008693",
+        "name": "nausea",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003739",
+        "name": "neck",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000144",
+        "name": "pharmacologic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000020357",
+        "name": "syrup",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006188",
+        "name": "syrup",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001755",
+        "name": "vocal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

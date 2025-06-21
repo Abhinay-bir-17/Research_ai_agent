@@ -1,0 +1,3150 @@
+{
+  "search_metadata": {
+    "id": "68514da1eb55a3d07688cb0b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/80d3a765d1fd2d3d/68514da1eb55a3d07688cb0b.json",
+    "created_at": "2025-06-17 11:12:33 UTC",
+    "processed_at": "2025-06-17 11:12:33 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5404292A/en",
+    "raw_html_file": "https://serpapi.com/searches/80d3a765d1fd2d3d/68514da1eb55a3d07688cb0b.html",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5404292A/en"
+  },
+  "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/bf/a0/b7/49974c2b53f8d5/US5404292.pdf",
+  "publication_number": "US5404292A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "diagnosis",
+    "list",
+    "relation",
+    "diagnoses",
+    "nursing"
+  ],
+  "prior_art_date": "1991-09-11",
+  "application_number": "US08/227,292",
+  "inventors": [
+    {
+      "name": "Maria F. Hendrickson",
+      "link": "https://patents.google.com/?inventor=Maria+F.+Hendrickson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Maria+F.+Hendrickson"
+    }
+  ],
+  "assignees": [
+    "Koninklijke Philips NV"
+  ],
+  "priority_date": "1991-09-11",
+  "filing_date": "1994-04-13",
+  "publication_date": "1995-04-04",
+  "worldwide_applications": {
+    "1992": [
+      {
+        "filing_date": "1992-09-03",
+        "country_code": "EP",
+        "application_number": "EP92115098A",
+        "document_id": "patent/EP0531889B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1992-09-03",
+        "country_code": "DE",
+        "application_number": "DE69227562T",
+        "document_id": "patent/DE69227562T2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "1994": [
+      {
+        "filing_date": "1994-04-13",
+        "country_code": "US",
+        "application_number": "US08/227,292",
+        "document_id": "patent/US5404292A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1994-04-13",
+      "title": "Application filed by Hewlett Packard Co",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Hewlett Packard Co"
+    },
+    {
+      "date": "1994-04-13",
+      "title": "Priority to US08/227,292",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5404292A/en"
+    },
+    {
+      "date": "1995-04-04",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1995-04-04",
+      "title": "Publication of US5404292A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5404292A/en"
+    },
+    {
+      "date": "2000-04-28",
+      "title": "Assigned to HEWLETT-PACKARD COMPANY, A DELAWARE CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "HEWLETT-PACKARD COMPANY, A DELAWARE CORPORATION",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: HEWLETT-PACKARD COMPANY, A CALIFORNIA CORPORATION"
+      ]
+    },
+    {
+      "date": "2000-05-30",
+      "title": "Assigned to AGILENT TECHNOLOGIES INC",
+      "type": "reassignment",
+      "assignee_search": "AGILENT TECHNOLOGIES INC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: HEWLETT-PACKARD COMPANY"
+      ]
+    },
+    {
+      "date": "2003-10-31",
+      "title": "Assigned to KONINKLIJKE PHILIPS ELECTRONICS N.V.",
+      "type": "reassignment",
+      "assignee_search": "KONINKLIJKE PHILIPS ELECTRONICS N.V.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: AGILENT TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2009-06-17",
+      "title": "Assigned to KONINKLIJKE PHILIPS ELECTRONICS N V",
+      "type": "reassignment",
+      "assignee_search": "KONINKLIJKE PHILIPS ELECTRONICS N V",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: AGILENT TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2012-04-04",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5404292.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08227292"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5404292"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5404292A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08227292/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5404292"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/fe/eb/70/299855f7436909/US5404292-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/83/e8/f2/671ecd62e53bd6/US5404292-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/09/c9/43/c031f965d18244/US5404292-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/3c/19/54/855d89acab08ee/US5404292-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/2a/62/83/b314f8c1d8ca28/US5404292-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/74/33/1e/2ff2ae11a09a49/US5404292-drawings-page-9.png",
+    "https://patentimages.storage.googleapis.com/51/05/4c/5eaa375fd625ff/US5404292-drawings-page-10.png",
+    "https://patentimages.storage.googleapis.com/d7/e1/58/bcd14ed131e411/US5404292-drawings-page-11.png",
+    "https://patentimages.storage.googleapis.com/ed/86/7b/4057bc1804b3ad/US5404292-drawings-page-12.png",
+    "https://patentimages.storage.googleapis.com/6c/0a/a9/886d2c04513c4d/US5404292-drawings-page-13.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H40/20",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the management or administration of healthcare resources or facilities, e.g. managing hospital staff or surgery rooms",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H15/00",
+      "description": "ICT specially adapted for medical reports, e.g. generation or transmission thereof",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/63",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for local operation",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/67",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for remote operation",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/92",
+      "description": "Computer assisted medical diagnostics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data stores a diagnosis table containing relations between nursing diagnoses and patient characteristics, with each such relation having a corresponding probability measure. A priority table containing at least one relation between a diagnosis from a diagnosis table and a corresponding priority measure is also stored. The data processing system receives assessment data, matches assessment data with relations in the diagnosis table and constructs a potential diagnosis list including the matched diagnoses and the corresponding probability measures. The probability measure of each diagnosis in the potential diagnosis list is weighted with the priority measure corresponding to the diagnosis from the priority table. When more than one relation is provided for a diagnosis in the diagnosis table, probability measures are combined when the potential diagnosis list is constructed. The probability measures are preferably added together to combine them, and are preferably limited to a maximum value, for example, equivalent to 99%. The diagnosis table may be divided into primary and secondary diagnoses tables. Each relation in the primary diagnosis table has the same probability measure. The tables and lists of the data processing system and method preferably implemented in a relational database.",
+  "description_link": "https://serpapi.com/searches/68514da1eb55a3d07688cb0b/google_patents_details/description.html",
+  "claims": [
+    "1. A computer system for generating a prioritized list of possible nursing diagnoses from assessment data, comprising:a memory for storing a first plurality of relations between nursing diagnoses and patient characteristics, each relation having a corresponding probability measure; a memory for storing a a second plurality of relations between nursing diagnoses and priority measures; data entry and data display means in the computer system for receiving assessment data from nursing personnel; computer control means for matching received assessment data with patient characteristics in the first plurality of relations; computer control means for constructing a potential diagnosis list containing the diagnosis and corresponding probability measure of each relation of the first plurality containing a matched patient characteristic; computer control means for weighting each probability measure in the potential diagnosis list by the priority measure of its corresponding diagnosis from the priority table; and a memory for storing the potential diagnosis list as a list of possible nursing diagnoses prioritized according to the weighted probability measures.",
+    "2. A computer system as set forth in claim 1 wherein the first plurality of relations includes more than one relation for at least one nursing diagnosis; andwherein said computer control means for constructing a potential diagnosis list includes means for combining probability measures related to a diagnosis having more than one relation, said diagnosis having more than one relation appearing once in the potential diagnosis list with a corresponding probability measure substantially equal to the combined probability measure.",
+    "3. A computer system as set forth in claim 2 wherein the means for combining probability measures includes means for adding said probability measures together.",
+    "4. A computer system as set forth in claim 3 wherein the maximum combined probability measure for a diagnosis in the potential diagnosis list is equivalent to 99%.",
+    "5. A computer system as set forth in claim 4 further comprising means for displaying diagnoses from the potential diagnosis list on the basis of the weighted probability measures.",
+    "6. A computer system as set forth in claim 1 wherein the memory for storing a first plurality of relations stores a primary diagnosis table and a secondary diagnosis table, said primary diagnosis table containing at least one relation between a nursing diagnosis and at least one patient characteristic, each relation having the same probability measure, and said secondary diagnosis table containing at least one relation between a nursing diagnosis and at least one patient characteristic, each relation having a corresponding probability measure.",
+    "7. A computer system as set forth in claim 6, further comprising means for storing a defining characteristics list containing relations between signs and symptoms and defining characteristics, and wherein said computer control means for matching includes means for matching assessment data with signs and symptoms in the defining characteristics list to obtain a list of determined characteristics, and wherein said patient characteristics in said first plurality of relations are defining characteristics.",
+    "8. A computer system as set forth in claim 7, wherein said first and second pluralities of relations are implemented in a relational database.",
+    "9. A computer system for determining prioritized nursing diagnoses for a patient from assessment data, said system comprising:at least one workstation having a local memory; at least one host station having a main memory; a network interconnecting said host station and workstation for enabling communication therebetween; said main memory containing a diagnosis table for storing at least one relation between a nursing diagnosis and a patient characteristic, each relation having a corresponding probability measure, and a priority table for storing at least one relation between a nursing diagnosis from the diagnosis table and a corresponding priority measure; and wherein said workstation includes means for receiving assessment data, means for constructing an assessment data file in its local memory for storing the received assessment data, means for matching received assessment data with patient characteristics from relations in the diagnosis table, means for constructing a potential diagnosis list in its local memory for storing the diagnosis and corresponding probability measure of matched relations; and means for weighting each probability measure in the potential diagnosis list by the priority measure of its corresponding diagnosis from the priority table.",
+    "10. A computer system as set forth in claim 9, wherein each of said workstations further includes means for copying said diagnosis table and said priority table from the main memory of the host station into its local memory.",
+    "11. A computer system as set forth in claim 10, wherein there are a plurality of care units, there being a plurality of said workstations for at least one care unit, wherein there is a respective priority table stored in the main memory of the host station for each care unit; andwherein said means for copying said priority table into the local memory of a workstation includes means for selecting and copying the priority table for the care unit containing the workstation.",
+    "12. A method for determining prioritized nursing diagnoses from assessment data using computer system having memory and control means, comprising the computer-implemented steps of:storing in the memory a diagnosis table containing a plurality of relation between nursing diagnoses and patient characteristics, each relation having a corresponding probability measure; storing in the memory a priority table containing a plurality of relations between nursing diagnoses and priority measures; the control means creating a computer-readable form of assessment data; the control means matching assessment data with relations in the diagnosis table; the control means constructing a potential diagnosis list containing the diagnosis and corresponding probability measure of each matched relation; the control means weighting each probability measure in the potential diagnosis list by the priority measure of its corresponding diagnosis from the priority table; and storing in the memory the potential diagnosis list as a list of possible nursing diagnoses prioritized according to the weighted probability measures.",
+    "13. A method as set forth in claim 12 wherein the diagnosis table includes more than one relation for at least one nursing diagnosis; andwherein said step of constructing a potential diagnosis list includes the step of combining probability measures related to a diagnosis having more than one relation, said diagnosis having more than one relation appearing once in the potential diagnosis list with a corresponding probability measure equal to the combined probability measures.",
+    "14. A method as set forth in claim 13 wherein the step of combining probability measures includes the step of adding said probability measures together.",
+    "15. A method as set forth in claim 14 wherein the maximum combined probability measure for a diagnosis in the potential diagnosis list is equivalent to 99%.",
+    "16. A method as set forth in claim 15 further comprising the step of displaying diagnoses from the potential diagnosis list on the basis of the weighted probability measures.",
+    "17. A method as set forth in claim 12 wherein the diagnosis table includes a primary diagnosis table and a secondary diagnosis table, said primary diagnosis table containing at least one relation between a nursing diagnosis and at least one patient characteristic, each relation having the same probability measure, and said secondary diagnosis table for storing at least one relation between a nursing diagnosis and at least one patient characteristic, each relation having a corresponding probability measure.",
+    "18. A method as set forth in claim 17, further comprising the step of providing a defining characteristics list containing at least one relation between signs and symptoms and defining characteristics, and wherein said step of matching includes the step of matching assessment data with signs and symptoms in the defining characteristics list to obtain a list of determined characteristics, and wherein said patient characteristics in said first plurality of relations are defining characteristics."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US75785691A",
+      "relation_type": "Continuation",
+      "priority_date": "1991-09-11",
+      "filing_date": "1991-09-11"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/227,292",
+      "representative_publication": "US5404292A",
+      "primary_language": "en",
+      "priority_date": "1991-09-11",
+      "filing_date": "1994-04-13",
+      "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US75785691A",
+      "priority_date": "1991-09-11",
+      "filing_date": "1991-09-11"
+    },
+    {
+      "application_number": "US08/227,292",
+      "representative_publication": "US5404292A",
+      "primary_language": "en",
+      "priority_date": "1991-09-11",
+      "filing_date": "1994-04-13",
+      "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data"
+    }
+  ],
+  "family_id": "25049506",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4290114A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-07-01",
+        "publication_date": "1981-09-15",
+        "assignee_original": "Sinay Hanon S",
+        "title": "Medical diagnostic computer",
+        "patent_id": "patent/US4290114A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4290114A%2Fen"
+      },
+      {
+        "publication_number": "US4649515A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-04-30",
+        "publication_date": "1987-03-10",
+        "assignee_original": "Westinghouse Electric Corp.",
+        "title": "Methods and apparatus for system fault diagnosis and control",
+        "patent_id": "patent/US4649515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4649515A%2Fen"
+      },
+      {
+        "publication_number": "US4730259A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-03-01",
+        "publication_date": "1988-03-08",
+        "assignee_original": "Gallant Stephen I",
+        "title": "Matrix controlled expert system producible from examples",
+        "patent_id": "patent/US4730259A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4730259A%2Fen"
+      },
+      {
+        "publication_number": "US4733354A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-23",
+        "publication_date": "1988-03-22",
+        "assignee_original": "Brian Potter",
+        "title": "Method and apparatus for automated medical diagnosis using decision tree analysis",
+        "patent_id": "patent/US4733354A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4733354A%2Fen"
+      },
+      {
+        "publication_number": "US4839822A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-08-13",
+        "publication_date": "1989-06-13",
+        "assignee_original": "501 Synthes (U.S.A.)",
+        "title": "Computer system and method for suggesting treatments for physical trauma",
+        "patent_id": "patent/US4839822A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4839822A%2Fen"
+      },
+      {
+        "publication_number": "US4967368A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-08-16",
+        "publication_date": "1990-10-30",
+        "assignee_original": "Wang Laboratories, Inc.",
+        "title": "Expert system with knowledge base having term definition hierarchy",
+        "patent_id": "patent/US4967368A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4967368A%2Fen"
+      },
+      {
+        "publication_number": "US4975840A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-17",
+        "publication_date": "1990-12-04",
+        "assignee_original": "Lincoln National Risk Management, Inc.",
+        "title": "Method and apparatus for evaluating a potentially insurable risk",
+        "patent_id": "patent/US4975840A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4975840A%2Fen"
+      },
+      {
+        "publication_number": "US5063522A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-03-15",
+        "publication_date": "1991-11-05",
+        "assignee_original": "Intellisystems, Inc.",
+        "title": "Multi-user, artificial intelligent expert system",
+        "patent_id": "patent/US5063522A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5063522A%2Fen"
+      },
+      {
+        "publication_number": "EP0457000A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-15",
+        "publication_date": "1991-11-21",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method and apparatus for performing patient documentation",
+        "patent_id": "patent/EP0457000A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0457000A2%2Fen"
+      },
+      {
+        "publication_number": "US5133046A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-01-03",
+        "publication_date": "1992-07-21",
+        "assignee_original": "Pickard, Lowe And Carrick (Plc)",
+        "title": "Computer-based diagnostic expert system organized according to Bayesian theory",
+        "patent_id": "patent/US5133046A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5133046A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\"Computers in Cardiology\", Sep. 25-28, 1988 pp. 185-188, Paper on Differential Diagnosis Generation From a Causal Network with Probabilities."
+    },
+    {
+      "title": "\"Extending the Feature Dictionary to Support Sophisticated Feature Interaction and Classification\", Samuels et al., Proceedings Second Annual IEEE Symposium on Computer-Based Medical Systems, Jun. 26-27, 1989 pp. 29-35."
+    },
+    {
+      "title": "Abraham, I. and Schultz, S. \"Knowledge Representation in Clinical Inference in Nursing: Structures and Their Application to Information Systems,\" Medinfo 1986, (North Holland: Elsevier Science Publishers, 1986), pp. 194-198."
+    },
+    {
+      "title": "Abraham, I. and Schultz, S. Knowledge Representation in Clinical Inference in Nursing: Structures and Their Application to Information Systems, Medinfo 1986, (North Holland: Elsevier Science Publishers, 1986), pp. 194 198.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Aikins, J. et al. \"PUFF: An Expert System for Interpretation of Pulmonary Function Data.\" Readings In Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E. eds. (Reading, Mass.: Addison-Wesley Publ. Co., 1984), pp. 444-445."
+    },
+    {
+      "title": "Aikins, J. et al. PUFF: An Expert System for Interpretation of Pulmonary Function Data. Readings In Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E. eds. (Reading, Mass.: Addison Wesley Publ. Co., 1984), pp. 444 445.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Benner, P. and Tanner, C. \"Clinical Judgment: How Expert Nurses Use Intuition.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 193-205."
+    },
+    {
+      "title": "Benner, P. and Tanner, C. Clinical Judgment: How Expert Nurses Use Intuition. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 193 205.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brennan, P. \"Computerized Decision Support: Beyond Expert Systems,\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 165-170."
+    },
+    {
+      "title": "Brennan, P. \"Decision Support Systems in Nursing: An Overview.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., etc. (St. Louis: The C. V. Mosby Company, 1990) pp. 3-14."
+    },
+    {
+      "title": "Brennan, P. \"Home Care Nursing Via Computer Networks,\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 171-180."
+    },
+    {
+      "title": "Brennan, P. \"Modeling for Decision Support.\" Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al eds., (New York: Springer-Verlag, 1988), pp. 267-273."
+    },
+    {
+      "title": "Brennan, P. Computerized Decision Support: Beyond Expert Systems, Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 165 170.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brennan, P. Decision Support Systems in Nursing: An Overview. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., etc. (St. Louis: The C. V. Mosby Company, 1990) pp. 3 14.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brennan, P. Home Care Nursing Via Computer Networks, Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 171 180.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brennan, P. Modeling for Decision Support. Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al eds., (New York: Springer Verlag, 1988), pp. 267 273.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Carnevali, D. \"The Diagnostic Reasoning Process.\" Diagnostic Reasoning in Nursing, Carnevali et al, eds. (New York: J. B. Lippincott, 1984) pp. 25-28."
+    },
+    {
+      "title": "Carnevali, D. The Diagnostic Reasoning Process. Diagnostic Reasoning in Nursing, Carnevali et al, eds. (New York: J. B. Lippincott, 1984) pp. 25 28.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Chang, B. et al., \"Candi-A Knowledge-based System for Nursing Diagnosis.\" Computers in Nursing, vol. 6, No. 1, 1988, pp. 13-21."
+    },
+    {
+      "title": "Chang, B. et al., Candi A Knowledge based System for Nursing Diagnosis. Computers in Nursing, vol. 6, No. 1, 1988, pp. 13 21.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Chase, S. \"Knowledge Representation in Expert Systems-Nursing Diagnosis Applications.\" Computers in Nursing, vol. 6, No. 2, pp. 58-64, 1988."
+    },
+    {
+      "title": "Chase, S. Knowledge Representation in Expert Systems Nursing Diagnosis Applications. Computers in Nursing, vol. 6, No. 2, pp. 58 64, 1988.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Clancey, W. and Letsinger, R. \"NEOMYCIN: Reconfiguring a Rule-Based Expert System for Application to Teaching.\" Readings in Medical Artificial Intelligence, The First Decade, Clancy, W. and Shortliffe, E., eds. (Reading, Mass.: Addison-Wesley Publishing Company, 1984), pp. 361-181."
+    },
+    {
+      "title": "Clancey, W. and Letsinger, R. NEOMYCIN: Reconfiguring a Rule Based Expert System for Application to Teaching. Readings in Medical Artificial Intelligence, The First Decade, Clancy, W. and Shortliffe, E., eds. (Reading, Mass.: Addison Wesley Publishing Company, 1984), pp. 361 181.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Computers in Cardiology , Sep. 25 28, 1988 pp. 185 188, Paper on Differential Diagnosis Generation From a Causal Network with Probabilities.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Evans, S. \"A Computer-Based Nursing Diagnosis Consultant.\" Proceedings Eight Annual Symposium on Computer Applications in Medical Care, (Silver Spring: The IEEE Computer Society Press, 1984), pp. 658-661."
+    },
+    {
+      "title": "Evans, S. \"Challenges Facing the Distribution of an Artificial Intelligence Based System for Nursing.\" Journal of Medical Systems, vol. 9, Nos. 1/2, 1985, pp. 79-89."
+    },
+    {
+      "title": "Evans, S. \"The Commes Nursing Consultant System.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 97-120."
+    },
+    {
+      "title": "Evans, S. A Computer Based Nursing Diagnosis Consultant. Proceedings Eight Annual Symposium on Computer Applications in Medical Care, (Silver Spring: The IEEE Computer Society Press, 1984), pp. 658 661.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Evans, S. Challenges Facing the Distribution of an Artificial Intelligence Based System for Nursing. Journal of Medical Systems, vol. 9, Nos. , 1985, pp. 79 89.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Evans, S. The Commes Nursing Consultant System. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 97 120.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Extending the Feature Dictionary to Support Sophisticated Feature Interaction and Classification , Samuels et al., Proceedings Second Annual IEEE Symposium on Computer Based Medical Systems, Jun. 26 27, 1989 pp. 29 35.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Fagan, L. et al. \"Computer-Based Medical Decision Making: From MYCIN to VM.\" Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison-Wesley Publishing Co., 1984), pp. 241-255."
+    },
+    {
+      "title": "Fagan, L. et al. Computer Based Medical Decision Making: From MYCIN to VM. Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison Wesley Publishing Co., 1984), pp. 241 255.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Hannah, K. \"Classification of Decision Support Systems.\" Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al., eds., (New York: Springer-Verlag, 1988), pp. 261-266."
+    },
+    {
+      "title": "Hannah, K. \"Understanding the Concepts of Computer Based Decision Support Systems for Nursing Practice,\" Clinical Judgment and Decision Making: The Future of Nursing Diagnoses, Hannah, K., Reimer, M., Mills, W. and Letourneau, L. eds., (New York: John Wiley and Sons, 1987), pp. 513-519."
+    },
+    {
+      "title": "Hannah, K. Classification of Decision Support Systems. Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al., eds., (New York: Springer Verlag, 1988), pp. 261 266.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Hannah, K. Understanding the Concepts of Computer Based Decision Support Systems for Nursing Practice, Clinical Judgment and Decision Making: The Future of Nursing Diagnoses, Hannah, K., Reimer, M., Mills, W. and Letourneau, L. eds., (New York: John Wiley and Sons, 1987), pp. 513 519.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Heriot, C. et al. \"A Pain Management Decision Support System for Nurses.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 153-164."
+    },
+    {
+      "title": "Heriot, C. et al. A Pain Management Decision Support System for Nurses. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 153 164.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Hillis, T. and S. Evans. \"Commes-A Nursing AI-Based Expert System.\" Medinfo 86, (North Holland: Elsevier Science Publishers, 1986), p. 1140."
+    },
+    {
+      "title": "Hillis, T. and S. Evans. Commes A Nursing AI Based Expert System. Medinfo 86, (North Holland: Elsevier Science Publishers, 1986), p. 1140.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Hovenga, E. et al. \"Decision Support Systems in Nursing Practice: A Look to the Future.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company), 1990, pp. 15-27."
+    },
+    {
+      "title": "Hovenga, E. et al. Decision Support Systems in Nursing Practice: A Look to the Future. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company), 1990, pp. 15 27.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "ICL Technical Journal.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "IEEE Expert.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "IEEE Transactions on Bio Medical Engineering.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "IEEE Transactions on Bio-Medical Engineering."
+    },
+    {
+      "title": "Jones, B. \"Building Nursing Expert Systems Using Automated Rule Induction\". Computers in Nursing, vol. 9, No. 2, 1991, pp. 52-60."
+    },
+    {
+      "title": "Jones, B. Building Nursing Expert Systems Using Automated Rule Induction . Computers in Nursing, vol. 9, No. 2, 1991, pp. 52 60.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Miller, R. et al. \"INTERNIST-A, An Experimental Computer-Based Diagnostic Consultant for General Internal Medicine\". Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison-Wesley Publishing Co., 1984), pp. 190-209."
+    },
+    {
+      "title": "Miller, R. et al. INTERNIST A, An Experimental Computer Based Diagnostic Consultant for General Internal Medicine . Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison Wesley Publishing Co., 1984), pp. 190 209.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J. \"Prolog: A Practical Language for Decision Support Systems in Nursing?\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 129-138."
+    },
+    {
+      "title": "Ozbolt, J. and Swain, M. \"Representing a Nursing Knowledge Base for a Decision Support System in Prolog.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds, (St. Louis: The C. V. Mosby Company, 1990), pp. 139-152."
+    },
+    {
+      "title": "Ozbolt, J. and Swain, M. Representing a Nursing Knowledge Base for a Decision Support System in Prolog. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds, (St. Louis: The C. V. Mosby Company, 1990), pp. 139 152.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J. G. \"Developing Decision Support Systems for Nursing: Issues of Knowledge Representation.\" Medinfo 1986, (North Holland: Elsevier Sciece Publishers, 1986), pp. 186-189."
+    },
+    {
+      "title": "Ozbolt, J. G. \"Knowledge-Based Systems for Supporting Clinical Nursing Decisions.\" Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al eds., (New York: Springer-Verlag, 1988), pp. 274-285."
+    },
+    {
+      "title": "Ozbolt, J. G. Developing Decision Support Systems for Nursing: Issues of Knowledge Representation. Medinfo 1986, (North Holland: Elsevier Sciece Publishers, 1986), pp. 186 189.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J. G. Knowledge Based Systems for Supporting Clinical Nursing Decisions. Nursing Informatics: Where Caring and Technology Meet, Ball, M. et al eds., (New York: Springer Verlag, 1988), pp. 274 285.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J. Prolog: A Practical Language for Decision Support Systems in Nursing Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 129 138.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J., Schultz, S., Swain, M., & Abraham, I. \"A Proposed Expert System for Nursing Practice.\" Journal of Medical Systems, vol. 9, Nos. 1/2, 1985, pp. 57-68."
+    },
+    {
+      "title": "Ozbolt, J., Schultz, S., Swain, M., & Abraham, I. A Proposed Expert System for Nursing Practice. Journal of Medical Systems, vol. 9, Nos. , 1985, pp. 57 68.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J., Schultz, S., Swain, M., Abraham, I. and Farchaus Stein, K. Developing an Expert System for Nursing Practice. Eighth Annual Symposium on Computer Applications in Medical Care, (Silver Spring: The IEEE Computer Society Press, 1984), pp. 654 657.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ozbolt, J., Schultz, S., Swain, M., Abraham, I. and Farchaus-Stein, K. \"Developing an Expert System for Nursing Practice.\" Eighth Annual Symposium on Computer Applications in Medical Care, (Silver Spring: The IEEE Computer Society Press, 1984), pp. 654-657."
+    },
+    {
+      "title": "Probst, C. and Rush, J. \"The Careplan Knowledge Base: A Prototype Expert System for Postpartum Nursing Care.\" Computers in Nursing, vol. 8, No. 5, 1990, pp. 206-213."
+    },
+    {
+      "title": "Probst, C. and Rush, J. The Careplan Knowledge Base: A Prototype Expert System for Postpartum Nursing Care. Computers in Nursing, vol. 8, No. 5, 1990, pp. 206 213.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Proceedings of Computers in Cardiology, IEEE Computer Society Press.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Proceedings of the Second Annual Symposium on Computer Based Medical System.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Proceedings of the Second Annual Symposium on Computer-Based Medical System."
+    },
+    {
+      "title": "Ryan, S. \"An Expert System for Nursing Practice.\" Computers in Nursing, Mar./Apr., 1985, pp. 77-84."
+    },
+    {
+      "title": "Ryan, S. \"An Expert System for Nursing Practice.\" Journal of Medical Systems, vol. 9, Nos. 1/2, 1985, pp. 29-41."
+    },
+    {
+      "title": "Ryan, S. An Expert System for Nursing Practice. Computers in Nursing, Mar./Apr., 1985, pp. 77 84.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ryan, S. An Expert System for Nursing Practice. Journal of Medical Systems, vol. 9, Nos. , 1985, pp. 29 41.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Shortliffe, E. \"Knowledge Engineering for Medical Decision Making.\" Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison-Wesley Publishing Co., 1984), pp. 36-71."
+    },
+    {
+      "title": "Shortliffe, E. and Clancy, W. \"Anticipating the Second Decade.\" Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison-Wesley Publishing Co., 1984), pp. 463-472."
+    },
+    {
+      "title": "Shortliffe, E. and Clancy, W. Anticipating the Second Decade. Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison Wesley Publishing Co., 1984), pp. 463 472.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Shortliffe, E. Knowledge Engineering for Medical Decision Making. Readings in Medical Artificial Intelligence, The First Decade, Clancey, W. and Shortliffe, E., eds. (Reading, Mass.: Addison Wesley Publishing Co., 1984), pp. 36 71.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Sinclair, Vaughn D. \"Potential Effects of Decision Support Systems on the Role of the Nurse.\" Computers in Nursing, vol. 8, No. 2, 1990, pp. 60-65."
+    },
+    {
+      "title": "Sinclair, Vaughn D. Potential Effects of Decision Support Systems on the Role of the Nurse. Computers in Nursing, vol. 8, No. 2, 1990, pp. 60 65.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Tanner, C. \"Factors Influencing the Diagnostic Process.\" Diagnostic Reasoning in Nursing, Carnevali et al., eds. (New York: J. B. Lippicott, 1984), pp. 61-82."
+    },
+    {
+      "title": "Tanner, C. et al. \"Diagnostic Reasoning Strategies of Nurses and Nursing Students.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 181-192."
+    },
+    {
+      "title": "Tanner, C. et al. Diagnostic Reasoning Strategies of Nurses and Nursing Students. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 181 192.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Tanner, C. Factors Influencing the Diagnostic Process. Diagnostic Reasoning in Nursing, Carnevali et al., eds. (New York: J. B. Lippicott, 1984), pp. 61 82.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Warnock Matheron, A. and Hannah, K. The Use of Expert Systems in Clinical Nursing Practice. Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 81 89.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Warnock-Matheron, A. and Hannah, K. \"The Use of Expert Systems in Clinical Nursing Practice.\" Decision Support Systems in Nursing, Ozbolt, J., Vandewal, D. and Hannah, K., eds. (St. Louis: The C. V. Mosby Company, 1990), pp. 81-89."
+    },
+    {
+      "title": "Woods, N. \"Methods for Studying Diagnostic Reasoning in Nursing.\" Diagnostic Reasoning in Nursing, Carnevali et al., eds. (New York: J. B. Lippicott, 1984), pp. 193-206."
+    },
+    {
+      "title": "Woods, N. Methods for Studying Diagnostic Reasoning in Nursing. Diagnostic Reasoning in Nursing, Carnevali et al., eds. (New York: J. B. Lippicott, 1984), pp. 193 206.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Woolery, L. et al. \"The Use of Machine Learning Program LERS-LB 2.5 in Knowledge Acquisition for Expert System Development in Nursing.\" Computers in Nursing, vol. 9, No. 6, 1991, pp. 227-234."
+    },
+    {
+      "title": "Woolery, L. et al. The Use of Machine Learning Program LERS LB 2.5 in Knowledge Acquisition for Expert System Development in Nursing. Computers in Nursing, vol. 9, No. 6, 1991, pp. 227 234.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Wright, C. \"Computer-Aided Nursing Diagnosis for Community Health Nurses.\" Nursing Clinics of North America, vol. 20, No. 3, Sep. 1985, pp. 487-495."
+    },
+    {
+      "title": "Wright, C. Computer Aided Nursing Diagnosis for Community Health Nurses. Nursing Clinics of North America, vol. 20, No. 3, Sep. 1985, pp. 487 495.",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US5486999A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-04-20",
+        "publication_date": "1996-01-23",
+        "assignee_original": "Mebane; Andrew H.",
+        "title": "Apparatus and method for categorizing health care utilization",
+        "patent_id": "patent/US5486999A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5486999A%2Fen"
+      },
+      {
+        "publication_number": "US5551428A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-24",
+        "publication_date": "1996-09-03",
+        "assignee_original": "Eastman Kodak Company",
+        "title": "Automatic routing to selected destinations of storage phosphor images",
+        "patent_id": "patent/US5551428A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5551428A%2Fen"
+      },
+      {
+        "publication_number": "WO1996027163A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-28",
+        "publication_date": "1996-09-06",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "Clinical critical care path system and method of using same",
+        "patent_id": "patent/WO1996027163A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996027163A1%2Fen"
+      },
+      {
+        "publication_number": "WO1997020496A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-07",
+        "publication_date": "1997-06-12",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Medical diagnostic analysis system",
+        "patent_id": "patent/WO1997020496A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997020496A1%2Fen"
+      },
+      {
+        "publication_number": "US5715451A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-07-20",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Spacelabs Medical, Inc.",
+        "title": "Method and system for constructing formulae for processing medical data",
+        "patent_id": "patent/US5715451A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5715451A%2Fen"
+      },
+      {
+        "publication_number": "US5786816A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-20",
+        "publication_date": "1998-07-28",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Method and apparatus for graphical user interface-based and variable result healthcare plan",
+        "patent_id": "patent/US5786816A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5786816A%2Fen"
+      },
+      {
+        "publication_number": "US5826237A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-20",
+        "publication_date": "1998-10-20",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Apparatus and method for merging medical protocols",
+        "patent_id": "patent/US5826237A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5826237A%2Fen"
+      },
+      {
+        "publication_number": "WO1998052464A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-05-23",
+        "publication_date": "1998-11-26",
+        "assignee_original": "The Carolinas Heart Institute",
+        "title": "Electromagnetical imaging and therapeutic (emit) systems",
+        "patent_id": "patent/WO1998052464A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1998052464A1%2Fen"
+      },
+      {
+        "publication_number": "US5850221A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-20",
+        "publication_date": "1998-12-15",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Apparatus and method for a graphic user interface in a medical protocol system",
+        "patent_id": "patent/US5850221A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5850221A%2Fen"
+      },
+      {
+        "publication_number": "US5886693A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-20",
+        "publication_date": "1999-03-23",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Method and apparatus for processing data across a computer network",
+        "patent_id": "patent/US5886693A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5886693A%2Fen"
+      },
+      {
+        "publication_number": "US5942986A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-09",
+        "publication_date": "1999-08-24",
+        "assignee_original": "Cedars-Sinai Medical Center",
+        "title": "System and method for automatic critical event notification",
+        "patent_id": "patent/US5942986A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5942986A%2Fen"
+      },
+      {
+        "publication_number": "US5956689A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-31",
+        "publication_date": "1999-09-21",
+        "assignee_original": "Accordant Health Services, Inc.",
+        "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease",
+        "patent_id": "patent/US5956689A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956689A%2Fen"
+      },
+      {
+        "publication_number": "US5970463A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-01",
+        "publication_date": "1999-10-19",
+        "assignee_original": "Practice Patterns Science, Inc.",
+        "title": "Medical claims integration and data analysis system",
+        "patent_id": "patent/US5970463A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5970463A%2Fen"
+      },
+      {
+        "publication_number": "US6007459A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-14",
+        "publication_date": "1999-12-28",
+        "assignee_original": "Burgess; Barry",
+        "title": "Method and system for providing physical therapy services",
+        "patent_id": "patent/US6007459A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6007459A%2Fen"
+      },
+      {
+        "publication_number": "US6010451A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-29",
+        "publication_date": "2000-01-04",
+        "assignee_original": "Clawson; Jeffrey J.",
+        "title": "Method and system for giving remote emergency medical counsel to choking patients",
+        "patent_id": "patent/US6010451A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6010451A%2Fen"
+      },
+      {
+        "publication_number": "US6037940A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-20",
+        "publication_date": "2000-03-14",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Graphical user interface in a medical protocol system having time delay rules and a publisher's view",
+        "patent_id": "patent/US6037940A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6037940A%2Fen"
+      },
+      {
+        "publication_number": "US6053864A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-29",
+        "publication_date": "2000-04-25",
+        "assignee_original": "Clawson; Jeffrey J.",
+        "title": "Method and system for giving remote emergency medical counsel to arrest patients",
+        "patent_id": "patent/US6053864A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6053864A%2Fen"
+      },
+      {
+        "publication_number": "US6113540A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "2000-09-05",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system",
+        "patent_id": "patent/US6113540A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6113540A%2Fen"
+      },
+      {
+        "publication_number": "US6149585A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-28",
+        "publication_date": "2000-11-21",
+        "assignee_original": "Sage Health Management Solutions, Inc.",
+        "title": "Diagnostic enhancement method and apparatus",
+        "patent_id": "patent/US6149585A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6149585A%2Fen"
+      },
+      {
+        "publication_number": "US6167412A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-14",
+        "publication_date": "2000-12-26",
+        "assignee_original": "Agilent Technologies, Inc.",
+        "title": "Handheld medical calculator and medical reference device",
+        "patent_id": "patent/US6167412A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6167412A%2Fen"
+      },
+      {
+        "publication_number": "US6206829B1",
+        "primary_language": "en",
+        "priority_date": "1996-07-12",
+        "publication_date": "2001-03-27",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/US6206829B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6206829B1%2Fen"
+      },
+      {
+        "publication_number": "US6270456B1",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2001-08-07",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic system utilizing list-based processing",
+        "patent_id": "patent/US6270456B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6270456B1%2Fen"
+      },
+      {
+        "publication_number": "US6277071B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-25",
+        "publication_date": "2001-08-21",
+        "assignee_original": "Delphi Health Systems, Inc.",
+        "title": "Chronic disease monitor",
+        "patent_id": "patent/US6277071B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6277071B1%2Fen"
+      },
+      {
+        "publication_number": "US6282531B1",
+        "primary_language": "en",
+        "priority_date": "1998-06-12",
+        "publication_date": "2001-08-28",
+        "assignee_original": "Cognimed, Llc",
+        "title": "System for managing applied knowledge and workflow in multiple dimensions and contexts",
+        "patent_id": "patent/US6282531B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6282531B1%2Fen"
+      },
+      {
+        "publication_number": "US6283761B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-09-08",
+        "publication_date": "2001-09-04",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US6283761B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6283761B1%2Fen"
+      },
+      {
+        "publication_number": "WO2001088810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-12",
+        "publication_date": "2001-11-22",
+        "assignee_original": "Opsion Medical, Inc.",
+        "title": "Networked medical information system for clinical practices",
+        "patent_id": "patent/WO2001088810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001088810A1%2Fen"
+      },
+      {
+        "publication_number": "US6336900B1",
+        "primary_language": "en",
+        "priority_date": "1999-04-12",
+        "publication_date": "2002-01-08",
+        "assignee_original": "Agilent Technologies, Inc.",
+        "title": "Home hub for reporting patient health parameters",
+        "patent_id": "patent/US6336900B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6336900B1%2Fen"
+      },
+      {
+        "publication_number": "US6339410B1",
+        "primary_language": "en",
+        "priority_date": "1997-07-22",
+        "publication_date": "2002-01-15",
+        "assignee_original": "Tellassist, Inc.",
+        "title": "Apparatus and method for language translation between patient and caregiver, and for communication with speech deficient patients",
+        "patent_id": "patent/US6339410B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6339410B1%2Fen"
+      },
+      {
+        "publication_number": "US20020032583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-18",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Joao Raymond Anthony",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US20020032583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032583A1%2Fen"
+      },
+      {
+        "publication_number": "US20020068857A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-14",
+        "publication_date": "2002-06-06",
+        "assignee_original": "Iliff Edwin C.",
+        "title": "Automated diagnostic system and method including reuse of diagnostic objects",
+        "patent_id": "patent/US20020068857A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020068857A1%2Fen"
+      },
+      {
+        "publication_number": "US20020091309A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-17",
+        "publication_date": "2002-07-11",
+        "assignee_original": "Auer John E.",
+        "title": "System and method for processing patient information",
+        "patent_id": "patent/US20020091309A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020091309A1%2Fen"
+      },
+      {
+        "publication_number": "US20020177758A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-30",
+        "publication_date": "2002-11-28",
+        "assignee_original": "Ido Schoenberg",
+        "title": "Patient treatment and progress monitor display",
+        "patent_id": "patent/US20020177758A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020177758A1%2Fen"
+      },
+      {
+        "publication_number": "US6546545B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-05",
+        "publication_date": "2003-04-08",
+        "assignee_original": "American Management Systems, Inc.",
+        "title": "Versioning in a rules based decision management system",
+        "patent_id": "patent/US6546545B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6546545B1%2Fen"
+      },
+      {
+        "publication_number": "US20030135388A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-11",
+        "publication_date": "2003-07-17",
+        "assignee_original": "James Martucci",
+        "title": "Medication delivery system",
+        "patent_id": "patent/US20030135388A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030135388A1%2Fen"
+      },
+      {
+        "publication_number": "US6601034B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-05",
+        "publication_date": "2003-07-29",
+        "assignee_original": "American Management Systems, Inc.",
+        "title": "Decision management system which is cross-function, cross-industry and cross-platform",
+        "patent_id": "patent/US6601034B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6601034B1%2Fen"
+      },
+      {
+        "publication_number": "US20030141981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-29",
+        "publication_date": "2003-07-31",
+        "assignee_original": "Tuan Bui",
+        "title": "System and method for operating medical devices",
+        "patent_id": "patent/US20030141981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030141981A1%2Fen"
+      },
+      {
+        "publication_number": "US6609120B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-05",
+        "publication_date": "2003-08-19",
+        "assignee_original": "American Management Systems, Inc.",
+        "title": "Decision management system which automatically searches for strategy components in a strategy",
+        "patent_id": "patent/US6609120B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6609120B1%2Fen"
+      },
+      {
+        "publication_number": "US6607481B1",
+        "primary_language": "en",
+        "priority_date": "2000-10-10",
+        "publication_date": "2003-08-19",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Method and system for an improved entry process of an emergency medical dispatch system",
+        "patent_id": "patent/US6607481B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6607481B1%2Fen"
+      },
+      {
+        "publication_number": "US20030204426A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-18",
+        "publication_date": "2003-10-30",
+        "assignee_original": "American Management Systems, Inc.",
+        "title": "Decision management system which searches for strategy components",
+        "patent_id": "patent/US20030204426A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030204426A1%2Fen"
+      },
+      {
+        "publication_number": "US20030212575A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-07",
+        "publication_date": "2003-11-13",
+        "assignee_original": "Richard Saalsaa",
+        "title": "Method and system for a seamless interface between an emergency medical dispatch system and a nurse triage system",
+        "patent_id": "patent/US20030212575A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030212575A1%2Fen"
+      },
+      {
+        "publication_number": "US6708155B1",
+        "primary_language": "en",
+        "priority_date": "1999-07-07",
+        "publication_date": "2004-03-16",
+        "assignee_original": "American Management Systems, Inc.",
+        "title": "Decision management system with automated strategy optimization",
+        "patent_id": "patent/US6708155B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6708155B1%2Fen"
+      },
+      {
+        "publication_number": "US20040078231A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-31",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Wilkes Gordon J.",
+        "title": "System and method for facilitating and administering treatment to a patient, including clinical decision making, order workflow and integration of clinical documentation",
+        "patent_id": "patent/US20040078231A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078231A1%2Fen"
+      },
+      {
+        "publication_number": "US20040088189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-06",
+        "publication_date": "2004-05-06",
+        "assignee_original": "Veome Edmond A.",
+        "title": "System and method for monitoring , reporting, managing and administering the treatment of a blood component",
+        "patent_id": "patent/US20040088189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040088189A1%2Fen"
+      },
+      {
+        "publication_number": "US20040152952A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-31",
+        "publication_date": "2004-08-05",
+        "assignee_original": "Phyllis Gotlib",
+        "title": "Medical information event manager",
+        "patent_id": "patent/US20040152952A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040152952A1%2Fen"
+      },
+      {
+        "publication_number": "US20040153343A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-31",
+        "publication_date": "2004-08-05",
+        "assignee_original": "Phyllis Gotlib",
+        "title": "Medical information query system",
+        "patent_id": "patent/US20040153343A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040153343A1%2Fen"
+      },
+      {
+        "publication_number": "US20050119917A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-28",
+        "publication_date": "2005-06-02",
+        "assignee_original": "Il-Kon Kim",
+        "title": "Unified medical information management system and method thereof",
+        "patent_id": "patent/US20050119917A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050119917A1%2Fen"
+      },
+      {
+        "publication_number": "US20050125320A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-26",
+        "publication_date": "2005-06-09",
+        "assignee_original": "Boesen Peter V.",
+        "title": "Point of service billing and records system",
+        "patent_id": "patent/US20050125320A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050125320A1%2Fen"
+      },
+      {
+        "publication_number": "US20050137463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Merkle Van D.",
+        "title": "System and method for medical diagnosis",
+        "patent_id": "patent/US20050137463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137463A1%2Fen"
+      },
+      {
+        "publication_number": "WO2004051548A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-29",
+        "publication_date": "2005-07-28",
+        "assignee_original": "Ingenix Inc",
+        "title": "System for determining a disease category probability for a healthcare plan member",
+        "patent_id": "patent/WO2004051548A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004051548A3%2Fen"
+      },
+      {
+        "publication_number": "US20060004610A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-09",
+        "publication_date": "2006-01-05",
+        "assignee_original": "Eran David",
+        "title": "Clinical data database system and method for a critical care and/or hospital environment",
+        "patent_id": "patent/US20060004610A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060004610A1%2Fen"
+      },
+      {
+        "publication_number": "US20060064323A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-12",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Alleckson Todd D",
+        "title": "Data management center for patient monitoring",
+        "patent_id": "patent/US20060064323A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060064323A1%2Fen"
+      },
+      {
+        "publication_number": "US20060074720A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-21",
+        "publication_date": "2006-04-06",
+        "assignee_original": "Alfons Brutting",
+        "title": "Medical planning agent",
+        "patent_id": "patent/US20060074720A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060074720A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006039752A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-11",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Newsouth Innovations Pty Limited",
+        "title": "A patient safety system",
+        "patent_id": "patent/WO2006039752A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006039752A1%2Fen"
+      },
+      {
+        "publication_number": "US20060112314A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-10",
+        "publication_date": "2006-05-25",
+        "assignee_original": "Carlos Soto",
+        "title": "Computer health check method",
+        "patent_id": "patent/US20060112314A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060112314A1%2Fen"
+      },
+      {
+        "publication_number": "US7076437B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-29",
+        "publication_date": "2006-07-11",
+        "assignee_original": "Victor Levy",
+        "title": "Process for consumer-directed diagnostic and health care information",
+        "patent_id": "patent/US7076437B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7076437B1%2Fen"
+      },
+      {
+        "publication_number": "US20070055559A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-25",
+        "publication_date": "2007-03-08",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Method and system for the fire response dispatch protocol of an emergency dispatch system",
+        "patent_id": "patent/US20070055559A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070055559A1%2Fen"
+      },
+      {
+        "publication_number": "US20070061170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-12",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Lorsch Robert H",
+        "title": "Method and system for providing online medical records",
+        "patent_id": "patent/US20070061170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070061170A1%2Fen"
+      },
+      {
+        "publication_number": "US20070061169A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-12",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Lorsch Robert H",
+        "title": "Method and system for providing online medical records",
+        "patent_id": "patent/US20070061169A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070061169A1%2Fen"
+      },
+      {
+        "publication_number": "US20070116189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-26",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Method and system for the police response dispatch protocol of an emergency dispatch system",
+        "patent_id": "patent/US20070116189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070116189A1%2Fen"
+      },
+      {
+        "publication_number": "US20070233519A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-29",
+        "publication_date": "2007-10-04",
+        "assignee_original": "Mymedicalrecords.Com, Inc.",
+        "title": "Method and system for providing online medical records with emergency password feature",
+        "patent_id": "patent/US20070233519A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070233519A1%2Fen"
+      },
+      {
+        "publication_number": "US20080045811A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-13",
+        "publication_date": "2008-02-21",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Disease management system and method including significant symptom filtering",
+        "patent_id": "patent/US20080045811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080045811A1%2Fen"
+      },
+      {
+        "publication_number": "US7428301B1",
+        "primary_language": "en",
+        "priority_date": "2000-10-09",
+        "publication_date": "2008-09-23",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Method and system for the exit protocol of an emergency medical dispatch system",
+        "patent_id": "patent/US7428301B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7428301B1%2Fen"
+      },
+      {
+        "publication_number": "US7464040B2",
+        "primary_language": "en",
+        "priority_date": "1999-12-18",
+        "publication_date": "2008-12-09",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US7464040B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7464040B2%2Fen"
+      },
+      {
+        "publication_number": "US20080310600A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-13",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Diagnostic and intervention tools for emergency medical dispatch",
+        "patent_id": "patent/US20080310600A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080310600A1%2Fen"
+      },
+      {
+        "publication_number": "US20090055222A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-29",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Mymedicalrecords.Com, Inc.",
+        "title": "Method and system for providing online medical records with emergency password feature",
+        "patent_id": "patent/US20090055222A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090055222A1%2Fen"
+      },
+      {
+        "publication_number": "US20090055894A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-12",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Mymedicalrecords.Com, Inc.",
+        "title": "Method and system for providing online records",
+        "patent_id": "patent/US20090055894A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090055894A1%2Fen"
+      },
+      {
+        "publication_number": "US7624027B1",
+        "primary_language": "en",
+        "priority_date": "2002-10-29",
+        "publication_date": "2009-11-24",
+        "assignee_original": "Practice Velocity, LLC",
+        "title": "Method and system for automated medical records processing",
+        "patent_id": "patent/US7624027B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7624027B1%2Fen"
+      },
+      {
+        "publication_number": "US20100056875A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-28",
+        "publication_date": "2010-03-04",
+        "assignee_original": "Imdsoft, Inc.",
+        "title": "Monitoring Patient Conditions",
+        "patent_id": "patent/US20100056875A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100056875A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063844A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Roche Diagnostics Operations, Inc.",
+        "title": "Extensible therapy delivery system and method thereof",
+        "patent_id": "patent/US20100063844A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063844A1%2Fen"
+      },
+      {
+        "publication_number": "US7739126B1",
+        "primary_language": "en",
+        "priority_date": "2004-03-02",
+        "publication_date": "2010-06-15",
+        "assignee_original": "Cave Consulting Group",
+        "title": "Method, system, and computer program product for physician efficiency measurement and patient health risk stratification",
+        "patent_id": "patent/US7739126B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7739126B1%2Fen"
+      },
+      {
+        "publication_number": "US20100191544A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-27",
+        "publication_date": "2010-07-29",
+        "assignee_original": "Adam Bosworth",
+        "title": "Protocol Authoring for a Health Coaching Service",
+        "patent_id": "patent/US20100191544A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100191544A1%2Fen"
+      },
+      {
+        "publication_number": "US7780595B2",
+        "primary_language": "en",
+        "priority_date": "2003-05-15",
+        "publication_date": "2010-08-24",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Panel diagnostic method and system",
+        "patent_id": "patent/US7780595B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7780595B2%2Fen"
+      },
+      {
+        "publication_number": "US20100217621A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-26",
+        "publication_date": "2010-08-26",
+        "assignee_original": "Ido Schoenberg",
+        "title": "Clinical Information",
+        "patent_id": "patent/US20100217621A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100217621A1%2Fen"
+      },
+      {
+        "publication_number": "US20100260325A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-13",
+        "publication_date": "2010-10-14",
+        "assignee_original": "Priority Dispatch Corporation",
+        "title": "Methods and systems to identify code hierarchy bias in medical priority dispatch systems",
+        "patent_id": "patent/US20100260325A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100260325A1%2Fen"
+      },
+      {
+        "publication_number": "US20100280838A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-01",
+        "publication_date": "2010-11-04",
+        "assignee_original": "Adam Bosworth",
+        "title": "Coaching Engine for a Health Coaching Service",
+        "patent_id": "patent/US20100280838A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100280838A1%2Fen"
+      },
+      {
+        "publication_number": "US20110064204A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-11",
+        "publication_date": "2011-03-17",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Stroke diagnostic and intervention tool for emergency dispatch",
+        "patent_id": "patent/US20110064204A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110064204A1%2Fen"
+      },
+      {
+        "publication_number": "US20110066002A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-14",
+        "publication_date": "2011-03-17",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Pandemic diagnostic and intervention tool for emergency dispatch",
+        "patent_id": "patent/US20110066002A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110066002A1%2Fen"
+      },
+      {
+        "publication_number": "US7970722B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-08",
+        "publication_date": "2011-06-28",
+        "assignee_original": "Aloft Media, Llc",
+        "title": "System, method and computer program product for a collaborative decision platform",
+        "patent_id": "patent/US7970722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7970722B1%2Fen"
+      },
+      {
+        "publication_number": "US20110184994A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-22",
+        "publication_date": "2011-07-28",
+        "assignee_original": "Arjun Prakash Kumar",
+        "title": "Network  and  method  for  data  input,  storage  and retrieval",
+        "patent_id": "patent/US20110184994A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110184994A1%2Fen"
+      },
+      {
+        "publication_number": "US20110205052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-24",
+        "publication_date": "2011-08-25",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Burn diagnostic and intervention tool for emergency dispatch",
+        "patent_id": "patent/US20110205052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110205052A1%2Fen"
+      },
+      {
+        "publication_number": "US8066638B2",
+        "primary_language": "en",
+        "priority_date": "2007-06-13",
+        "publication_date": "2011-11-29",
+        "assignee_original": "Clawson Jeffrey J",
+        "title": "Diagnostic and intervention tools for emergency medical dispatch",
+        "patent_id": "patent/US8066638B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8066638B2%2Fen"
+      },
+      {
+        "publication_number": "USRE43433E1",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2012-05-29",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Computerized medical diagnostic and treatment advice system",
+        "patent_id": "patent/USRE43433E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE43433E1%2Fen"
+      },
+      {
+        "publication_number": "US8234128B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-30",
+        "publication_date": "2012-07-31",
+        "assignee_original": "Baxter International, Inc.",
+        "title": "System and method for verifying medical device operational parameters",
+        "patent_id": "patent/US8234128B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8234128B2%2Fen"
+      },
+      {
+        "publication_number": "US8301464B1",
+        "primary_language": "en",
+        "priority_date": "2008-07-18",
+        "publication_date": "2012-10-30",
+        "assignee_original": "Cave Consulting Group, Inc.",
+        "title": "Method and system for producing statistical analysis of medical care information",
+        "patent_id": "patent/US8301464B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8301464B1%2Fen"
+      },
+      {
+        "publication_number": "US8364578B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-05",
+        "publication_date": "2013-01-29",
+        "assignee_original": "Cgi Technologies And Solutions Inc.",
+        "title": "Simultaneous customer/account strategy execution in a decision management system",
+        "patent_id": "patent/US8364578B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8364578B1%2Fen"
+      },
+      {
+        "publication_number": "US20130030842A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-15",
+        "publication_date": "2013-01-31",
+        "assignee_original": "Gerald Lutgen",
+        "title": "System and method of drug disease matching",
+        "patent_id": "patent/US20130030842A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130030842A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013029026A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-24",
+        "publication_date": "2013-02-28",
+        "assignee_original": "Acupera, Inc.",
+        "title": "Remote clinical care system",
+        "patent_id": "patent/WO2013029026A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013029026A1%2Fen"
+      },
+      {
+        "publication_number": "US8396191B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-11",
+        "publication_date": "2013-03-12",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Anti-social protocol for emergency dispatch",
+        "patent_id": "patent/US8396191B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8396191B2%2Fen"
+      },
+      {
+        "publication_number": "US8488748B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-19",
+        "publication_date": "2013-07-16",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Meningitis diagnostic and intervention tool for emergency dispatch",
+        "patent_id": "patent/US8488748B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8488748B2%2Fen"
+      },
+      {
+        "publication_number": "US8582866B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-10",
+        "publication_date": "2013-11-12",
+        "assignee_original": "Edge 3 Technologies, Inc.",
+        "title": "Method and apparatus for disparity computation in stereo images",
+        "patent_id": "patent/US8582866B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8582866B2%2Fen"
+      },
+      {
+        "publication_number": "US8606594B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-29",
+        "publication_date": "2013-12-10",
+        "assignee_original": "Practice Velocity, LLC",
+        "title": "Method and system for automated medical records processing",
+        "patent_id": "patent/US8606594B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8606594B2%2Fen"
+      },
+      {
+        "publication_number": "US8670526B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-11",
+        "publication_date": "2014-03-11",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Hate crime diagnostic and intervention tool for emergency dispatch",
+        "patent_id": "patent/US8670526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8670526B2%2Fen"
+      },
+      {
+        "publication_number": "US8712020B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-06",
+        "publication_date": "2014-04-29",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Pandemic protocol for emergency dispatch",
+        "patent_id": "patent/US8712020B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8712020B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8775196B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for notification and escalation of medical data",
+        "patent_id": "patent/US8775196B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8775196B2%2Fen"
+      },
+      {
+        "publication_number": "US8873719B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-31",
+        "publication_date": "2014-10-28",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Active assailant protocol for emergency dispatch",
+        "patent_id": "patent/US8873719B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8873719B2%2Fen"
+      },
+      {
+        "publication_number": "US20150154361A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-11",
+        "publication_date": "2015-06-04",
+        "assignee_original": "The Cleveland Clinic Foundation",
+        "title": "Interactive whiteboard system and method",
+        "patent_id": "patent/US20150154361A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150154361A1%2Fen"
+      },
+      {
+        "publication_number": "US9081879B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-22",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Matrix interface for medical diagnostic and treatment advice system and method",
+        "patent_id": "patent/US9081879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9081879B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9319859B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-31",
+        "publication_date": "2016-04-19",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "System and method for text messaging for emergency response",
+        "patent_id": "patent/US9319859B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9319859B2%2Fen"
+      },
+      {
+        "publication_number": "US9378335B2",
+        "primary_language": "en",
+        "priority_date": "2009-11-23",
+        "publication_date": "2016-06-28",
+        "assignee_original": "Keas, Inc.",
+        "title": "Risk factor engine that determines a user health score using a food consumption trend, and predicted user weights",
+        "patent_id": "patent/US9378335B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9378335B2%2Fen"
+      },
+      {
+        "publication_number": "US9516166B1",
+        "primary_language": "en",
+        "priority_date": "2015-05-28",
+        "publication_date": "2016-12-06",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Chemical suicide protocol for emergency response",
+        "patent_id": "patent/US9516166B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9516166B1%2Fen"
+      },
+      {
+        "publication_number": "US9767254B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-09",
+        "publication_date": "2017-09-19",
+        "assignee_original": "Mymedicalrecords, Inc.",
+        "title": "Prepaid card for services related to personal health records",
+        "patent_id": "patent/US9767254B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9767254B2%2Fen"
+      },
+      {
+        "publication_number": "US9842188B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-29",
+        "publication_date": "2017-12-12",
+        "assignee_original": "Practice Velocity, LLC",
+        "title": "Method and system for automated medical records processing with cloud computing",
+        "patent_id": "patent/US9842188B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9842188B2%2Fen"
+      },
+      {
+        "publication_number": "US9877171B2",
+        "primary_language": "en",
+        "priority_date": "2016-04-08",
+        "publication_date": "2018-01-23",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Picture/video messaging protocol for emergency response",
+        "patent_id": "patent/US9877171B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9877171B2%2Fen"
+      },
+      {
+        "publication_number": "US20180039738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-05",
+        "publication_date": "2018-02-08",
+        "assignee_original": "Rush University Medical Center",
+        "title": "Algorithm, data pipeline, and method to detect inaccuracies in comorbidity documentation",
+        "patent_id": "patent/US20180039738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180039738A1%2Fen"
+      },
+      {
+        "publication_number": "US10016554B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Dialysis system including wireless patient data",
+        "patent_id": "patent/US10016554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10016554B2%2Fen"
+      },
+      {
+        "publication_number": "US10061899B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Home therapy machine",
+        "patent_id": "patent/US10061899B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10061899B2%2Fen"
+      },
+      {
+        "publication_number": "US10173008B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2019-01-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for communicating with a dialysis machine through a network",
+        "patent_id": "patent/US10173008B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10173008B2%2Fen"
+      },
+      {
+        "publication_number": "US10347374B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-13",
+        "publication_date": "2019-07-09",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Medication preparation system",
+        "patent_id": "patent/US10347374B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10347374B2%2Fen"
+      },
+      {
+        "publication_number": "US10552577B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-31",
+        "publication_date": "2020-02-04",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Medication requisition fulfillment system and method",
+        "patent_id": "patent/US10552577B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10552577B2%2Fen"
+      },
+      {
+        "publication_number": "US10629306B1",
+        "primary_language": "en",
+        "priority_date": "2004-03-02",
+        "publication_date": "2020-04-21",
+        "assignee_original": "Cave Consulting Group, Inc.",
+        "title": "Method, system, and computer program product for physician efficiency measurement and patient health risk stratification utilizing variable windows for episode creation",
+        "patent_id": "patent/US10629306B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10629306B1%2Fen"
+      },
+      {
+        "publication_number": "US10646405B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Work station for medical dose preparation system",
+        "patent_id": "patent/US10646405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10646405B2%2Fen"
+      },
+      {
+        "publication_number": "US10657614B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-23",
+        "publication_date": "2020-05-19",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Locator diagnostic system for emergency dispatch",
+        "patent_id": "patent/US10657614B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10657614B2%2Fen"
+      },
+      {
+        "publication_number": "US10699548B2",
+        "primary_language": "en",
+        "priority_date": "2018-04-19",
+        "publication_date": "2020-06-30",
+        "assignee_original": "Jeffrey J. Clawson",
+        "title": "Expedited dispatch protocol system and method",
+        "patent_id": "patent/US10699548B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10699548B2%2Fen"
+      },
+      {
+        "publication_number": "US10714213B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-29",
+        "publication_date": "2020-07-14",
+        "assignee_original": "Practice Velocity, LLC",
+        "title": "Method and system for automated medical records processing with patient tracking",
+        "patent_id": "patent/US10714213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10714213B2%2Fen"
+      },
+      {
+        "publication_number": "US10818387B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-05",
+        "publication_date": "2020-10-27",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Dose preparation data analytics",
+        "patent_id": "patent/US10818387B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818387B2%2Fen"
+      },
+      {
+        "publication_number": "US10971257B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2021-04-06",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Image acquisition for medical dose preparation system",
+        "patent_id": "patent/US10971257B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10971257B2%2Fen"
+      },
+      {
+        "publication_number": "US11107574B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Management of medication preparation with formulary management",
+        "patent_id": "patent/US11107574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11107574B2%2Fen"
+      },
+      {
+        "publication_number": "US11244416B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-18",
+        "publication_date": "2022-02-08",
+        "assignee_original": "Cave Consulting Group, Inc.",
+        "title": "System, method, and graphical user interface for identifying medical care providers outside a process-of-care standard",
+        "patent_id": "patent/US11244416B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11244416B2%2Fen"
+      },
+      {
+        "publication_number": "US11361853B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-29",
+        "publication_date": "2022-06-14",
+        "assignee_original": "Practice Velocity, LLC",
+        "title": "Method and system for automated medical records processing with telemedicine",
+        "patent_id": "patent/US11361853B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11361853B2%2Fen"
+      },
+      {
+        "publication_number": "US11367533B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-30",
+        "publication_date": "2022-06-21",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Managed medical information exchange",
+        "patent_id": "patent/US11367533B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11367533B2%2Fen"
+      },
+      {
+        "publication_number": "US11495334B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system and method having a distributed database",
+        "patent_id": "patent/US11495334B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11495334B2%2Fen"
+      },
+      {
+        "publication_number": "US11516183B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system including information technology infrastructure having secure cluster domain supporting external domain",
+        "patent_id": "patent/US11516183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11516183B2%2Fen"
+      },
+      {
+        "publication_number": "US11531935B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-05",
+        "publication_date": "2022-12-20",
+        "assignee_original": "Roger Alan Mason",
+        "title": "System and method for implementing a diagnostic software tool",
+        "patent_id": "patent/US11531935B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11531935B2%2Fen"
+      },
+      {
+        "publication_number": "US11575673B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Central user management in a distributed healthcare information management system",
+        "patent_id": "patent/US11575673B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11575673B2%2Fen"
+      },
+      {
+        "publication_number": "US11587688B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-27",
+        "publication_date": "2023-02-21",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for providing healthcare services remotely or virtually with or using an electronic healthcare record and/or a communication network",
+        "patent_id": "patent/US11587688B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11587688B2%2Fen"
+      },
+      {
+        "publication_number": "US11910471B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-23",
+        "publication_date": "2024-02-20",
+        "assignee_original": "Priority Dispatch Corp.",
+        "title": "System and method for emergency dispatch",
+        "patent_id": "patent/US11910471B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11910471B2%2Fen"
+      },
+      {
+        "publication_number": "US11937160B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-23",
+        "publication_date": "2024-03-19",
+        "assignee_original": "Priority Dispatch Corporation",
+        "title": "System and method for emergency dispatch",
+        "patent_id": "patent/US11937160B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11937160B2%2Fen"
+      },
+      {
+        "publication_number": "US11948112B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2024-04-02",
+        "assignee_original": "Baxter Corporation Engelwood",
+        "title": "Pharmacy workflow management with integrated alerts",
+        "patent_id": "patent/US11948112B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11948112B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6022315A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "2000-02-08",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/US6022315A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6022315A%2Fen"
+      },
+      {
+        "publication_number": "US6725209B1",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2004-04-20",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system and method including mental status examination",
+        "patent_id": "patent/US6725209B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6725209B1%2Fen"
+      },
+      {
+        "publication_number": "DE69712371T2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-01",
+        "publication_date": "2002-08-22",
+        "assignee_original": "Medicomp Systems, Inc.",
+        "title": "Method and device for assisting a user to generate a medical protocol",
+        "patent_id": "patent/DE69712371T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69712371T2%2Fen"
+      },
+      {
+        "publication_number": "EP1280091A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-12",
+        "publication_date": "2005-05-25",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic system utilizing list-based processing",
+        "patent_id": "patent/EP1280091A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1280091A3%2Fen"
+      },
+      {
+        "publication_number": "AU768052B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-12",
+        "publication_date": "2003-11-27",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including list based processing",
+        "patent_id": "patent/AU768052B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU768052B2%2Fen"
+      },
+      {
+        "publication_number": "CA2260838A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-12",
+        "publication_date": "1998-01-22",
+        "assignee_original": "Edwin C. Iliff",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/CA2260838A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2260838A1%2Fen"
+      },
+      {
+        "publication_number": "US6163781A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-09-11",
+        "publication_date": "2000-12-19",
+        "assignee_original": "Physician Weblink Technology Services, Inc.",
+        "title": "Object-to-relational data converter mapping attributes to object instance into relational tables",
+        "patent_id": "patent/US6163781A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6163781A%2Fen"
+      },
+      {
+        "publication_number": "US6607485B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2003-08-19",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Computer readable storage medium containing code for automated collection and analysis of patient information retrieved from an implantable medical device for remote patient care",
+        "patent_id": "patent/US6607485B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6607485B2%2Fen"
+      },
+      {
+        "publication_number": "US7134996B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2006-11-14",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for collection and analysis of patient information for automated remote patient care",
+        "patent_id": "patent/US7134996B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7134996B2%2Fen"
+      },
+      {
+        "publication_number": "US7429243B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2008-09-30",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for transacting an automated patient communications session",
+        "patent_id": "patent/US7429243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7429243B2%2Fen"
+      },
+      {
+        "publication_number": "US6270457B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2001-08-07",
+        "assignee_original": "Cardiac Intelligence Corp.",
+        "title": "System and method for automated collection and analysis of regularly retrieved patient information for remote patient care",
+        "patent_id": "patent/US6270457B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6270457B1%2Fen"
+      },
+      {
+        "publication_number": "US6312378B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2001-11-06",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for automated collection and analysis of patient information retrieved from an implantable medical device for remote patient care",
+        "patent_id": "patent/US6312378B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6312378B1%2Fen"
+      },
+      {
+        "publication_number": "CA2314517A1",
+        "primary_language": "en",
+        "priority_date": "1999-07-26",
+        "publication_date": "2001-01-26",
+        "assignee_original": "Gust H. Bardy",
+        "title": "System and method for determining a reference baseline of individual patient status for use in an automated collection and analysis patient care system",
+        "patent_id": "patent/CA2314517A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2314517A1%2Fen"
+      },
+      {
+        "publication_number": "US6221011B1",
+        "primary_language": "en",
+        "priority_date": "1999-07-26",
+        "publication_date": "2001-04-24",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for determining a reference baseline of individual patient status for use in an automated collection and analysis patient care system",
+        "patent_id": "patent/US6221011B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6221011B1%2Fen"
+      },
+      {
+        "publication_number": "CA2314513A1",
+        "primary_language": "en",
+        "priority_date": "1999-07-26",
+        "publication_date": "2001-01-26",
+        "assignee_original": "Gust H. Bardy",
+        "title": "System and method for providing normalized voice feedback from an individual patient in an automated collection and analysis patient care system",
+        "patent_id": "patent/CA2314513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2314513A1%2Fen"
+      },
+      {
+        "publication_number": "DE60035505T2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-10",
+        "publication_date": "2008-03-13",
+        "assignee_original": "The Regents Of The University Of California, Oakland",
+        "title": "DETERMINATION OF NEUROLOGICAL CONDITIONS BY MEANS OF IRRITANT POTENTIALS",
+        "patent_id": "patent/DE60035505T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE60035505T2%2Fen"
+      },
+      {
+        "publication_number": "US6440066B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-08-27",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Automated collection and analysis patient care system and method for ordering and prioritizing multiple health disorders to identify an index disorder",
+        "patent_id": "patent/US6440066B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6440066B1%2Fen"
+      },
+      {
+        "publication_number": "US6336903B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-01-08",
+        "assignee_original": "Cardiac Intelligence Corp.",
+        "title": "Automated collection and analysis patient care system and method for diagnosing and monitoring congestive heart failure and outcomes thereof",
+        "patent_id": "patent/US6336903B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6336903B1%2Fen"
+      },
+      {
+        "publication_number": "US6411840B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Automated collection and analysis patient care system and method for diagnosing and monitoring the outcomes of atrial fibrillation",
+        "patent_id": "patent/US6411840B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6411840B1%2Fen"
+      },
+      {
+        "publication_number": "US6368284B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-04-09",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Automated collection and analysis patient care system and method for diagnosing and monitoring myocardial ischemia and outcomes thereof",
+        "patent_id": "patent/US6368284B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6368284B1%2Fen"
+      },
+      {
+        "publication_number": "US6398728B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-06-04",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Automated collection and analysis patient care system and method for diagnosing and monitoring respiratory insufficiency and outcomes thereof",
+        "patent_id": "patent/US6398728B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6398728B1%2Fen"
+      },
+      {
+        "publication_number": "US8369937B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2013-02-05",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for prioritizing medical conditions",
+        "patent_id": "patent/US8369937B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8369937B2%2Fen"
+      },
+      {
+        "publication_number": "US20050144042A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-19",
+        "publication_date": "2005-06-30",
+        "assignee_original": "David Joffe",
+        "title": "Associated systems and methods for managing biological data and providing data interpretation tools",
+        "patent_id": "patent/US20050144042A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050144042A1%2Fen"
+      },
+      {
+        "publication_number": "US7009511B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-17",
+        "publication_date": "2006-03-07",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Repeater device for communications with an implantable medical device",
+        "patent_id": "patent/US7009511B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7009511B2%2Fen"
+      },
+      {
+        "publication_number": "US7488290B1",
+        "primary_language": "en",
+        "priority_date": "2004-02-19",
+        "publication_date": "2009-02-10",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing cardiac performance through transcardiac impedance monitoring",
+        "patent_id": "patent/US7488290B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7488290B1%2Fen"
+      },
+      {
+        "publication_number": "US8025624B2",
+        "primary_language": "en",
+        "priority_date": "2004-02-19",
+        "publication_date": "2011-09-27",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing cardiac performance through cardiac vibration monitoring",
+        "patent_id": "patent/US8025624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8025624B2%2Fen"
+      },
+      {
+        "publication_number": "US7329226B1",
+        "primary_language": "en",
+        "priority_date": "2004-07-06",
+        "publication_date": "2008-02-12",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing pulmonary performance through transthoracic impedance monitoring",
+        "patent_id": "patent/US7329226B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7329226B1%2Fen"
+      },
+      {
+        "publication_number": "US8652039B2",
+        "primary_language": "en",
+        "priority_date": "2005-03-02",
+        "publication_date": "2014-02-18",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "Guiding differential diagnosis through information maximization",
+        "patent_id": "patent/US8652039B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8652039B2%2Fen"
+      },
+      {
+        "publication_number": "US8781847B2",
+        "primary_language": "en",
+        "priority_date": "2005-05-03",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for managing alert notifications in an automated patient management system",
+        "patent_id": "patent/US8781847B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8781847B2%2Fen"
+      },
+      {
+        "publication_number": "EP2385476A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-06",
+        "publication_date": "2011-11-09",
+        "assignee_original": "Televic Healthcare NV",
+        "title": "Method and device for handling calls in a nurse call system",
+        "patent_id": "patent/EP2385476A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2385476A1%2Fen"
+      },
+      {
+        "publication_number": "EP2775412A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-07",
+        "publication_date": "2014-09-10",
+        "assignee_original": "Medesso GmbH",
+        "title": "Method of generating a medical suggestion as a support in medical decision making",
+        "patent_id": "patent/EP2775412A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2775412A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014196087A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-28",
+        "publication_date": "2014-12-11",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u65e5\u7acb\u88fd\u4f5c\u6240",
+        "title": "Medical care process analysis system",
+        "patent_id": "patent/WO2014196087A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014196087A1%2Fen"
+      },
+      {
+        "publication_number": "US11848096B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-17",
+        "publication_date": "2023-12-19",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Home visit assessment and decision support system",
+        "patent_id": "patent/US11848096B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11848096B2%2Fen"
+      },
+      {
+        "publication_number": "EP3223181B1",
+        "primary_language": "en",
+        "priority_date": "2016-03-24",
+        "publication_date": "2019-12-18",
+        "assignee_original": "Sofradim Production",
+        "title": "System and method of generating a model and simulating an effect on a surgical repair site",
+        "patent_id": "patent/EP3223181B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3223181B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5404292A",
+      "primary_language": "en",
+      "publication_date": "1995-04-04",
+      "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data",
+      "patent_id": "patent/US5404292A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5404292A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5345742943337105816",
+      "scholar_authors": "Swets",
+      "publication_date": "2012",
+      "title": "Evaluation of diagnostic systems",
+      "patent_id": "scholar/5345742943337105816",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5345742943337105816"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6345268B1",
+      "primary_language": "en",
+      "publication_date": "2002-02-05",
+      "title": "Method and system for resolving temporal descriptors of data records in a computer system",
+      "patent_id": "patent/US6345268B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6345268B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2039615C",
+      "primary_language": "en",
+      "publication_date": "1999-02-23",
+      "title": "Computer aided medical diagnostic method and apparatus",
+      "patent_id": "patent/CA2039615C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2039615C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5265010A",
+      "primary_language": "en",
+      "publication_date": "1993-11-23",
+      "title": "Method and apparatus for performing patient documentation",
+      "patent_id": "patent/US5265010A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5265010A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5895461A",
+      "primary_language": "en",
+      "publication_date": "1999-04-20",
+      "title": "Method and system for automated data storage and retrieval with uniform addressing scheme",
+      "patent_id": "patent/US5895461A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5895461A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4667292A",
+      "primary_language": "en",
+      "publication_date": "1987-05-19",
+      "title": "Medical reimbursement computer system",
+      "patent_id": "patent/US4667292A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4667292A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7779003B2",
+      "primary_language": "en",
+      "publication_date": "2010-08-17",
+      "title": "Computerized search system for medication and other items",
+      "patent_id": "patent/US7779003B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7779003B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7577573B2",
+      "primary_language": "en",
+      "publication_date": "2009-08-18",
+      "title": "Medical support system",
+      "patent_id": "patent/US7577573B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7577573B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8527303B2",
+      "primary_language": "en",
+      "publication_date": "2013-09-03",
+      "title": "Automated processing of medical data for disability rating determinations",
+      "patent_id": "patent/US8527303B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8527303B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11568966B2",
+      "primary_language": "en",
+      "publication_date": "2023-01-31",
+      "title": "Caregiver interface for electronic medical records",
+      "patent_id": "patent/US11568966B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11568966B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070088695A1",
+      "primary_language": "en",
+      "publication_date": "2007-04-19",
+      "title": "Method and apparatus for identifying documents relevant to a search query in a medical information resource",
+      "patent_id": "patent/US20070088695A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088695A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5666442A",
+      "primary_language": "en",
+      "publication_date": "1997-09-09",
+      "title": "Comparison system for identifying the degree of similarity between objects by rendering a numeric measure of closeness, the system including all available information complete with errors and inaccuracies",
+      "patent_id": "patent/US5666442A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666442A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2003021480A1",
+      "primary_language": "en",
+      "publication_date": "2003-03-13",
+      "title": "Database management system",
+      "patent_id": "patent/WO2003021480A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003021480A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2922018A1",
+      "primary_language": "en",
+      "publication_date": "2015-09-23",
+      "title": "Medical information analysis program, medical information analysis device, and medical information analysis method",
+      "patent_id": "patent/EP2922018A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2922018A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240020342A1",
+      "primary_language": "en",
+      "publication_date": "2024-01-18",
+      "title": "System and method for prioritization and presentation of heterogeneous medical data",
+      "patent_id": "patent/US20240020342A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240020342A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230113333A1",
+      "primary_language": "en",
+      "publication_date": "2023-04-13",
+      "title": "Intelligent prompting of protocols",
+      "patent_id": "patent/US20230113333A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230113333A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210398077A1",
+      "primary_language": "en",
+      "publication_date": "2021-12-23",
+      "title": "Methods and systems for leveraging healthcare claims for a healthcare provider search",
+      "patent_id": "patent/US20210398077A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210398077A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5274749A",
+      "primary_language": "en",
+      "publication_date": "1993-12-28",
+      "title": "Interpretative system for systematic learning and support for decision-making",
+      "patent_id": "patent/US5274749A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5274749A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0756947A",
+      "primary_language": "en",
+      "publication_date": "1995-03-03",
+      "title": "Case database and its search and display method",
+      "patent_id": "patent/JPH0756947A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0756947A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180196923A1",
+      "primary_language": "en",
+      "publication_date": "2018-07-12",
+      "title": "Classification systems, and methods of collecting, associating, storing, searching, and providing healthcare information, and connecting healthcare participants globally",
+      "patent_id": "patent/US20180196923A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180196923A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210265030A1",
+      "primary_language": "en",
+      "publication_date": "2021-08-26",
+      "title": "Maximizing patient referral outcome through healthcare utilization and/or referral evaluation",
+      "patent_id": "patent/US20210265030A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210265030A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11972865B1",
+      "primary_language": "en",
+      "publication_date": "2024-04-30",
+      "title": "High probability differential diagnoses generator and smart electronic medical record",
+      "patent_id": "patent/US11972865B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11972865B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6545460348012527886",
+      "scholar_authors": "Visweswaran et al.",
+      "publication_date": "2003",
+      "title": "Detecting adverse drug events in discharge summaries using variations on the simple Bayes model",
+      "patent_id": "scholar/6545460348012527886",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6545460348012527886"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11600391B1",
+      "primary_language": "en",
+      "publication_date": "2023-03-07",
+      "title": "Classifying and grouping service descriptors from health provider chargemasters",
+      "patent_id": "patent/US11600391B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11600391B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1997-12-07",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "1998-10-05",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2000-04-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "HEWLETT-PACKARD COMPANY, A DELAWARE CORPORATION, C"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:HEWLETT-PACKARD COMPANY, A CALIFORNIA CORPORATION;REEL/FRAME:010841/0649"
+        },
+        {
+          "label": "Effective date",
+          "value": "19980520"
+        }
+      ]
+    },
+    {
+      "date": "2000-05-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AGILENT TECHNOLOGIES INC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HEWLETT-PACKARD COMPANY;REEL/FRAME:010977/0540"
+        },
+        {
+          "label": "Effective date",
+          "value": "19991101"
+        }
+      ]
+    },
+    {
+      "date": "2002-09-24",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2003-10-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "KONINKLIJKE PHILIPS ELECTRONICS N.V., NETHERLANDS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:AGILENT TECHNOLOGIES, INC.;REEL/FRAME:014662/0179"
+        },
+        {
+          "label": "Effective date",
+          "value": "20010801"
+        }
+      ]
+    },
+    {
+      "date": "2006-10-19",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2007-04-04",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2007-05-02",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2007-05-29",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20070404"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "KONINKLIJKE PHILIPS ELECTRONICS N V, NETHERLANDS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:AGILENT TECHNOLOGIES, INC.;REEL/FRAME:022835/0572"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090610"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "230000000474",
+        "name": "nursing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 182
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000004183",
+        "name": "nursing diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000012913",
+        "name": "prioritisation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013439",
+        "name": "planning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000748",
+        "name": "cardiovascular system",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007429",
+        "name": "general method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013507",
+        "name": "mapping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009877",
+        "name": "rendering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

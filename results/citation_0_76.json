@@ -1,0 +1,751 @@
+{
+  "search_metadata": {
+    "id": "68514e7aecf5edf7f4a02eaf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a4cd4c5d7abff311/68514e7aecf5edf7f4a02eaf.json",
+    "created_at": "2025-06-17 11:16:10 UTC",
+    "processed_at": "2025-06-17 11:16:10 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080099684A1/en",
+    "raw_html_file": "https://serpapi.com/searches/a4cd4c5d7abff311/68514e7aecf5edf7f4a02eaf.html",
+    "total_time_taken": 0.86
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080099684A1/en"
+  },
+  "title": "Radiation Detection Device",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/63/74/90/212e8e405deac5/US20080099684A1.pdf",
+  "publication_number": "US20080099684A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "scintillator",
+    "bacl",
+    "crystal",
+    "detection device",
+    "radiation detection"
+  ],
+  "prior_art_date": "2004-01-19",
+  "application_number": "US10/584,985",
+  "inventors": [
+    {
+      "name": "Hidetoshi Murakami",
+      "link": "https://patents.google.com/?inventor=Hidetoshi+Murakami",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hidetoshi+Murakami"
+    },
+    {
+      "name": "Kengo Shibuya",
+      "link": "https://patents.google.com/?inventor=Kengo+Shibuya",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kengo+Shibuya"
+    },
+    {
+      "name": "Haruo Saito",
+      "link": "https://patents.google.com/?inventor=Haruo+Saito",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Haruo+Saito"
+    },
+    {
+      "name": "Keisuke Asai",
+      "link": "https://patents.google.com/?inventor=Keisuke+Asai",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Keisuke+Asai"
+    },
+    {
+      "name": "Tsuneo Honda",
+      "link": "https://patents.google.com/?inventor=Tsuneo+Honda",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tsuneo+Honda"
+    }
+  ],
+  "assignees": [
+    "Japan Science and Technology Agency"
+  ],
+  "priority_date": "2004-01-19",
+  "filing_date": "2005-01-12",
+  "publication_date": "2008-05-01",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "JP",
+        "application_number": "JP2005517027A",
+        "document_id": "patent/JPWO2005069039A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "WO",
+        "application_number": "PCT/JP2005/000210",
+        "document_id": "patent/WO2005069039A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "US",
+        "application_number": "US10/584,985",
+        "document_id": "patent/US20080099684A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "KR",
+        "application_number": "KR1020067014996A",
+        "document_id": "patent/KR20060127087A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "CN",
+        "application_number": "CNA2005800027380A",
+        "document_id": "patent/CN1910473A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "RU",
+        "application_number": "RU2006129923/28A",
+        "document_id": "patent/RU2324204C1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2005-01-12",
+        "country_code": "EP",
+        "application_number": "EP05703449A",
+        "document_id": "patent/EP1720042A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-01-12",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2006-06-30",
+      "title": "Assigned to JAPAN SCIENCE AND TECHNOLOGY AGENCY",
+      "type": "reassignment",
+      "assignee_search": "JAPAN SCIENCE AND TECHNOLOGY AGENCY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MURAKAMI, HIDOTOSHI, ASAI, KEISUKE, HONDA, TSUNEO, SHIBUYA, KENGO, SAITO, HARUO"
+      ]
+    },
+    {
+      "date": "2008-05-01",
+      "title": "Publication of US20080099684A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080099684A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080099684.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10584985"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080099684"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008099684A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10584985/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080099684"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/93/0c/57/6dc21c9eec66f8/US20080099684A1-20080501-D00000.png",
+    "https://patentimages.storage.googleapis.com/e8/8e/9e/9a91ab29dd4c98/US20080099684A1-20080501-D00001.png",
+    "https://patentimages.storage.googleapis.com/3b/f6/7b/dca4bde9de2d4a/US20080099684A1-20080501-D00002.png",
+    "https://patentimages.storage.googleapis.com/b9/31/5a/bd4ff0b731e435/US20080099684A1-20080501-D00003.png",
+    "https://patentimages.storage.googleapis.com/89/41/5d/0119d26508e7d5/US20080099684A1-20080501-D00004.png"
+  ],
+  "classifications": [
+    {
+      "code": "G01T1/2023",
+      "description": "Selection of materials",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01T1/20",
+      "description": "Measuring radiation intensity with scintillation detectors",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C09K11/61",
+      "description": "Luminescent, e.g. electroluminescent, chemiluminescent materials containing inorganic luminescent materials containing fluorine, chlorine, bromine, iodine or unspecified halogen elements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G01T1/202",
+      "description": "Measuring radiation intensity with scintillation detectors the detector being a crystal",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "To present a scintillation crystal containing a fluorescent component with excellent luminous efficiency and short decay time while the wavelength of the emitted light being in the visible light region or very near the visible light region and a radiation detection device using the scintillation crystal having an excellent timing resolution capability.\nBarium chloride (BaCl2) is used as the scintillation crystal. A radiation detection device comprising a barium chloride (BaCl2) crystal as a scintillator and a photomultiplier tube to receive the light from the scintillator wherein the wavelength of the light emitted from the scintillator is between 250 nm and 350 nm and the scintillator is located in a low humidity atmosphere.",
+  "description_link": "https://serpapi.com/searches/68514e7aecf5edf7f4a02eaf/google_patents_details/description.html",
+  "claims": [
+    "1. A radiation detection device comprising a barium chloride (BaCl2) crystal as a scintillator and a photomultiplier tube to receive the light from the scintillator wherein the wavelength of the light emitted from the scintillator is between 250 nm and 350 nm and the scintillator is located in a low humidity atmosphere.",
+    "2. The radiation detector as in claim 1 wherein the barium chloride crystal as a scintillator is cooled.",
+    "3. The radiation detection device as in claim 1 wherein the device is used to detect gamma rays.",
+    "4. The radiation detection device as in claim 2 wherein the device is used to detect gamma rays."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2004-010449",
+      "filing_date": "2004-01-19"
+    },
+    {
+      "application_number": "JP2004010449",
+      "filing_date": "2004-01-19"
+    },
+    {
+      "application_number": "PCT/JP2005/000210",
+      "representative_publication": "WO2005069039A1",
+      "primary_language": "en",
+      "priority_date": "2004-01-19",
+      "filing_date": "2005-01-12",
+      "title": "Radiation detector assembly"
+    }
+  ],
+  "family_id": "34792303",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4631409A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-04-03",
+        "publication_date": "1986-12-23",
+        "assignee_original": "Harshaw/Filtrol",
+        "title": "Scintillator crystal having a highly reflective surface",
+        "patent_id": "patent/US4631409A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4631409A%2Fen"
+      },
+      {
+        "publication_number": "US4658141A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-04-03",
+        "publication_date": "1987-04-14",
+        "assignee_original": "Harshaw/Filtrol Partnership",
+        "title": "Inorganic scintillator crystal having a highly reflective surface",
+        "patent_id": "patent/US4658141A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4658141A%2Fen"
+      },
+      {
+        "publication_number": "US5319203A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-07-12",
+        "publication_date": "1994-06-07",
+        "assignee_original": "Universities Research Association, Inc.",
+        "title": "Scintillator material",
+        "patent_id": "patent/US5319203A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5319203A%2Fen"
+      },
+      {
+        "publication_number": "US5629515A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-03-23",
+        "publication_date": "1997-05-13",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Radiation measuring system having scintillation detectors coupled by optical fibers for multipoint measurement",
+        "patent_id": "patent/US5629515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5629515A%2Fen"
+      },
+      {
+        "publication_number": "US5714761A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-01",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Phi Applied Physical Sciences",
+        "title": "Scintillator apparatus",
+        "patent_id": "patent/US5714761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5714761A%2Fen"
+      },
+      {
+        "publication_number": "US6534771B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-08",
+        "publication_date": "2003-03-18",
+        "assignee_original": "Saint Gobain Industrial Ceramics, Inc.",
+        "title": "Gamma camera plate assembly for PET and SPECT imaging",
+        "patent_id": "patent/US6534771B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6534771B1%2Fen"
+      },
+      {
+        "publication_number": "US20030175982A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-06",
+        "publication_date": "2003-09-18",
+        "assignee_original": "Gerald Smith",
+        "title": "Positron annihilation monitor and method for detecting hazardous materials",
+        "patent_id": "patent/US20030175982A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030175982A1%2Fen"
+      },
+      {
+        "publication_number": "US20040173752A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-16",
+        "publication_date": "2004-09-09",
+        "assignee_original": "Kengo Shibuya",
+        "title": "Positron emission tomography device",
+        "patent_id": "patent/US20040173752A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040173752A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPH0731370B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-12-27",
+        "publication_date": "1995-04-10",
+        "assignee_original": "\u5bcc\u58eb\u5199\u771f\u30d5\u30a4\u30eb\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Radiation image conversion method and radiation image conversion body used therefor",
+        "patent_id": "patent/JPH0731370B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0731370B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20110017916A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-22",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Reflector and light collimator arrangement for improved light collection in scintillation detectors",
+        "patent_id": "patent/US20110017916A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110017916A1%2Fen"
+      },
+      {
+        "publication_number": "KR101265260B1",
+        "primary_language": "en",
+        "priority_date": "2011-03-22",
+        "publication_date": "2013-05-16",
+        "assignee_original": "\ud55c\uad6d\uc6d0\uc790\ub825\uc5f0\uad6c\uc6d0",
+        "title": "Automatic filling system of cooling liquid for absorption of Xenon and Krypton",
+        "patent_id": "patent/KR101265260B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101265260B1%2Fen"
+      },
+      {
+        "publication_number": "US20140264044A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-06",
+        "publication_date": "2014-09-18",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Scintillator material and radiation detector using same",
+        "patent_id": "patent/US20140264044A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140264044A1%2Fen"
+      },
+      {
+        "publication_number": "US9080102B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-30",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Porous scintillator crystal",
+        "patent_id": "patent/US9080102B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9080102B2%2Fen"
+      },
+      {
+        "publication_number": "US9907730B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2018-03-06",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US9907730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9907730B2%2Fen"
+      },
+      {
+        "publication_number": "US20220113185A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-27",
+        "publication_date": "2022-04-14",
+        "assignee_original": "Temple University-Of The Commonwealth System Of Higher Education",
+        "title": "Silicon photomultiplier imaging system and method for cooling the same",
+        "patent_id": "patent/US20220113185A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220113185A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US8692681B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-07",
+        "publication_date": "2014-04-08",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Dynamic PET imaging with isotope contamination compensation",
+        "patent_id": "patent/US8692681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8692681B2%2Fen"
+      },
+      {
+        "publication_number": "WO2012014538A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-26",
+        "publication_date": "2012-02-02",
+        "assignee_original": "\u5bcc\u58eb\u30d5\u30a4\u30eb\u30e0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Radiation detector panel",
+        "patent_id": "patent/WO2012014538A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012014538A1%2Fen"
+      },
+      {
+        "publication_number": "KR101206005B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-11",
+        "publication_date": "2012-11-28",
+        "assignee_original": "\ud55c\uc591\ub300\ud559\uad50 \uc0b0\ud559\ud611\ub825\ub2e8",
+        "title": "Gamma-ray detection apparatus and gamma-ray detection method using the same",
+        "patent_id": "patent/KR101206005B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101206005B1%2Fen"
+      },
+      {
+        "publication_number": "KR101912715B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-20",
+        "publication_date": "2018-10-29",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Method and apparatus for estimating distribution of position of emitted radiation",
+        "patent_id": "patent/KR101912715B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101912715B1%2Fen"
+      },
+      {
+        "publication_number": "CN103235330A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-25",
+        "publication_date": "2013-08-07",
+        "assignee_original": "\u8d1d\u8c37\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Radioactivity detection device for small-sized iron and steel plant",
+        "patent_id": "patent/CN103235330A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103235330A%2Fen"
+      },
+      {
+        "publication_number": "CN103344983B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-19",
+        "publication_date": "2015-11-25",
+        "assignee_original": "\u7530\u5fd7\u6052",
+        "title": "nuclear reactor steam generator leakage monitoring system and method",
+        "patent_id": "patent/CN103344983B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103344983B%2Fen"
+      },
+      {
+        "publication_number": "CN109405926A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-06",
+        "publication_date": "2019-03-01",
+        "assignee_original": "\u5317\u4eac\u91d1\u5fb7\u521b\u4e1a\u6d4b\u63a7\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Radioactive instrument measures material position, the method for density using Radioactive instrument",
+        "patent_id": "patent/CN109405926A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109405926A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "13413071336111782559",
+      "scholar_authors": "Schaart",
+      "publication_date": "2021",
+      "title": "Physics and technology of time-of-flight PET detectors",
+      "patent_id": "scholar/13413071336111782559",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13413071336111782559"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16500294804921382839",
+      "scholar_authors": "McGregor",
+      "publication_date": "2018",
+      "title": "Materials for gamma-ray spectrometers: Inorganic scintillators",
+      "patent_id": "scholar/16500294804921382839",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16500294804921382839"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11603559460157419919",
+      "scholar_authors": "Chewpraditkul et al.",
+      "publication_date": "2009",
+      "title": "Scintillation properties of LuAG: Ce, YAG: Ce and LYSO: Ce crystals for gamma-ray detection",
+      "patent_id": "scholar/11603559460157419919",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11603559460157419919"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9043041345990781008",
+      "scholar_authors": "Moses et al.",
+      "publication_date": "1989",
+      "title": "Cerium fluoride, a new fast, heavy scintillator",
+      "patent_id": "scholar/9043041345990781008",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9043041345990781008"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080099684A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-01",
+      "title": "Radiation Detection Device",
+      "patent_id": "patent/US20080099684A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080099684A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4606457B2",
+      "primary_language": "en",
+      "publication_date": "2011-01-05",
+      "title": "High counting rate scintillator",
+      "patent_id": "patent/JP4606457B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4606457B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1071394422036671463",
+      "scholar_authors": "Giaz et al.",
+      "publication_date": "2015",
+      "title": "Preliminary investigation of scintillator materials properties: SrI2: Eu, CeBr3 and GYGAG: Ce for gamma rays up to 9 MeV",
+      "patent_id": "scholar/1071394422036671463",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1071394422036671463"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15206368776548018275",
+      "scholar_authors": "Moszynski et al.",
+      "publication_date": "2004",
+      "title": "CdWO/sub 4/crystal in gamma-ray spectrometry",
+      "patent_id": "scholar/15206368776548018275",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15206368776548018275"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5720573869189441940",
+      "scholar_authors": "Bloser et al.",
+      "publication_date": "2013",
+      "title": "Scintillator gamma-ray detectors with silicon photomultiplier readouts for high-energy astronomy",
+      "patent_id": "scholar/5720573869189441940",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5720573869189441940"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11748754844424232056",
+      "scholar_authors": "Moszynski",
+      "publication_date": "2005",
+      "title": "Energy resolution of scintillation detectors",
+      "patent_id": "scholar/11748754844424232056",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11748754844424232056"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10851310296814447635",
+      "scholar_authors": "Nassalski et al.",
+      "publication_date": "2008",
+      "title": "Non-proportionality of organic scintillators and BGO",
+      "patent_id": "scholar/10851310296814447635",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10851310296814447635"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14888804527903116659",
+      "scholar_authors": "Plettner et al.",
+      "publication_date": "2013",
+      "title": "CaF2 (Eu): an``old''scintillator revisited",
+      "patent_id": "scholar/14888804527903116659",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14888804527903116659"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "891120420131402593",
+      "scholar_authors": "Syntfeld et al.",
+      "publication_date": "2006",
+      "title": "Comparison of a LaBr $ _ {3} $(Ce) scintillation detector with a large volume CdZnTe detector",
+      "patent_id": "scholar/891120420131402593",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F891120420131402593"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2846429800539448670",
+      "scholar_authors": "Kraft et al.",
+      "publication_date": "2007",
+      "title": "Development and characterization of large la-halide gamma-ray scintillators for future planetary missions",
+      "patent_id": "scholar/2846429800539448670",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2846429800539448670"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4137121B2",
+      "primary_language": "en",
+      "publication_date": "2008-08-20",
+      "title": "Radiation detector",
+      "patent_id": "patent/JP4137121B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4137121B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9250215116214513775",
+      "scholar_authors": "Rawat et al.",
+      "publication_date": "2018",
+      "title": "Efficiency studies on Gd 3 Ga 3 Al 2 O 12: Ce scintillators: simulations and measurements",
+      "patent_id": "scholar/9250215116214513775",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9250215116214513775"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "92202396505851200",
+      "scholar_authors": "Brubaker et al.",
+      "publication_date": "2011",
+      "title": "Thermal neutron detection using alkali halide scintillators with 6 Li and pulse shape discrimination",
+      "patent_id": "scholar/92202396505851200",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F92202396505851200"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5792000222137777730",
+      "scholar_authors": "Kuntner et al.",
+      "publication_date": "2003",
+      "title": "Scintillation properties of mixed LuYAP crystals in view of their use in a small animal PET scanner in phoswich configuration",
+      "patent_id": "scholar/5792000222137777730",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5792000222137777730"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17722670814253188509",
+      "scholar_authors": "Bloser et al.",
+      "publication_date": "2012",
+      "title": "Balloon-flight test of a lanthanum bromide gamma-ray detector with silicon photomultiplier readout",
+      "patent_id": "scholar/17722670814253188509",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17722670814253188509"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16789422589029459459",
+      "scholar_authors": "D\u2019ambrosio et al.",
+      "publication_date": "2006",
+      "title": "Study of LaCl3: Ce light yield proportionality with a hybrid photomultiplier tube",
+      "patent_id": "scholar/16789422589029459459",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16789422589029459459"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12275748574121617475",
+      "scholar_authors": "Klamra et al.",
+      "publication_date": "2013",
+      "title": "Extensive studies on light yield non-proportional response of undoped CeF3 at room and liquid nitrogen temperatures",
+      "patent_id": "scholar/12275748574121617475",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12275748574121617475"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8594172055037601169",
+      "scholar_authors": "Szcz\u0119\u015bniak et al.",
+      "publication_date": "2014",
+      "title": "MicroPMT\u2013A new photodetector for gamma spectrometry and fast timing?",
+      "patent_id": "scholar/8594172055037601169",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8594172055037601169"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7118645006389015909",
+      "scholar_authors": "Wolszczak et al.",
+      "publication_date": "2014",
+      "title": "Temperature properties of scintillators for PET detectors: A comparative study",
+      "patent_id": "scholar/7118645006389015909",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7118645006389015909"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7515660428462794913",
+      "scholar_authors": "Dzhosyuk et al.",
+      "publication_date": "2004",
+      "title": "Neutron-induced luminescence and activation in neutron shielding and scintillation detection materials at cryogenic temperatures",
+      "patent_id": "scholar/7515660428462794913",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7515660428462794913"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2140645897396916774",
+      "scholar_authors": "MITRA",
+      "publication_date": "2021",
+      "title": "SIMULATION BASED OPTIMIZATION OF INDIGENOUSLY DEVELOPED INORGANIC SCINTILLATORS AND VARIOUS LIGHT SENSORS TO DEVELOP GAMMA SPECTROMETER SYSTEMS",
+      "patent_id": "scholar/2140645897396916774",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2140645897396916774"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-06-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JAPAN SCIENCE AND TECHNOLOGY AGENCY, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MURAKAMI, HIDOTOSHI;SHIBUYA, KENGO;SAITO, HARUO;AND OTHERS;REEL/FRAME:018098/0799;SIGNING DATES FROM 20060530 TO 20060609"
+        }
+      ]
+    },
+    {
+      "date": "2008-10-16",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO PAY ISSUE FEE"
+        }
+      ]
+    }
+  ]
+}

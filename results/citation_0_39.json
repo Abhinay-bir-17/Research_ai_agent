@@ -1,0 +1,2565 @@
+{
+  "search_metadata": {
+    "id": "68514dfba3ce841d4f3389d2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f791c6230dca0cfa/68514dfba3ce841d4f3389d2.json",
+    "created_at": "2025-06-17 11:14:03 UTC",
+    "processed_at": "2025-06-17 11:14:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20020133379A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f791c6230dca0cfa/68514dfba3ce841d4f3389d2.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20020133379A1/en"
+  },
+  "title": "Method and system for healthcare practice management",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/74/b0/23/5c708401080b35/US20020133379A1.pdf",
+  "publication_number": "US20020133379A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "ancillary medical",
+    "physician",
+    "costs",
+    "physicians",
+    "healthcare"
+  ],
+  "prior_art_date": "2001-03-19",
+  "application_number": "US09/812,704",
+  "inventors": [
+    {
+      "name": "Charles Lewis",
+      "link": "https://patents.google.com/?inventor=Charles+Lewis",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Charles+Lewis"
+    },
+    {
+      "name": "Terrance Moore",
+      "link": "https://patents.google.com/?inventor=Terrance+Moore",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Terrance+Moore"
+    }
+  ],
+  "assignees": [
+    "JASOS INTELLECTUAL PROPERTY",
+    "Jasos Intellectual Property LLC",
+    "Jasos Group LLC"
+  ],
+  "priority_date": "2001-03-19",
+  "filing_date": "2001-03-19",
+  "publication_date": "2002-09-19",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-03-19",
+        "country_code": "US",
+        "application_number": "US09/812,704",
+        "document_id": "patent/US7398217B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ],
+    "2007": [
+      {
+        "filing_date": "2007-10-31",
+        "country_code": "US",
+        "application_number": "US11/933,075",
+        "document_id": "patent/US20080059248A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2010": [
+      {
+        "filing_date": "2010-07-08",
+        "country_code": "US",
+        "application_number": "US12/832,813",
+        "document_id": "patent/USRE42508E1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-03-19",
+      "title": "Priority to US09/812,704",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7398217B2/en"
+    },
+    {
+      "date": "2001-03-19",
+      "title": "Application filed by Jasos Group",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Jasos Group"
+    },
+    {
+      "date": "2001-09-11",
+      "title": "Assigned to JASOS GROUP",
+      "type": "reassignment",
+      "assignee_search": "JASOS GROUP",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LEWIS, CHARLES, MOORE, TERRANCE"
+      ]
+    },
+    {
+      "date": "2002-09-19",
+      "title": "Publication of US20020133379A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20020133379A1/en"
+    },
+    {
+      "date": "2007-10-31",
+      "title": "Priority to US11/933,075",
+      "type": "priority",
+      "document_id": "patent/US20080059248A1/en"
+    },
+    {
+      "date": "2008-07-08",
+      "title": "Publication of US7398217B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7398217B2/en"
+    },
+    {
+      "date": "2008-07-08",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2009-03-23",
+      "title": "Assigned to JASOS INTELLECTUAL PROPERTY",
+      "type": "reassignment",
+      "assignee_search": "JASOS INTELLECTUAL PROPERTY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: THE JASOS GROUP, LLC"
+      ]
+    },
+    {
+      "date": "2010-07-08",
+      "title": "Priority to US12/832,813",
+      "type": "priority",
+      "document_id": "patent/USRE42508E1/en"
+    },
+    {
+      "date": "2011-09-21",
+      "title": "Assigned to JASOS GROUP, LLC",
+      "type": "reassignment",
+      "assignee_search": "JASOS GROUP, LLC",
+      "description": [
+        "NUNC PRO TUNC ASSIGNMENT (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: LEWIS, CHARLES, MOORE, TERRANCE"
+      ]
+    },
+    {
+      "date": "2011-09-22",
+      "title": "Assigned to JASOS INTELLECTUAL PROPERTY LLC",
+      "type": "reassignment",
+      "assignee_search": "JASOS INTELLECTUAL PROPERTY LLC",
+      "description": [
+        "NUNC PRO TUNC ASSIGNMENT (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: JASOS GROUP, LLC"
+      ]
+    },
+    {
+      "date": "2017-11-29",
+      "title": "Assigned to JASOS INTELLECTUAL PROPERTY LLC",
+      "type": "reassignment",
+      "assignee_search": "JASOS INTELLECTUAL PROPERTY LLC",
+      "description": [
+        "CHANGE OF ADDRESS",
+        "Assignors: JASOS INTELLECTUAL PROPERTY LLC"
+      ]
+    },
+    {
+      "date": "2021-05-30",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20020133379.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09812704"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20020133379"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2002133379A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09812704/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20020133379"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/c9/ad/59/007a453586b006/US20020133379A1-20020919-D00000.png",
+    "https://patentimages.storage.googleapis.com/ef/9c/2f/23d9fdd9ca24d8/US20020133379A1-20020919-D00001.png",
+    "https://patentimages.storage.googleapis.com/55/56/81/d7a7de08913ebf/US20020133379A1-20020919-D00002.png",
+    "https://patentimages.storage.googleapis.com/b8/4b/68/9d022ab51a447c/US20020133379A1-20020919-D00003.png",
+    "https://patentimages.storage.googleapis.com/fc/7d/15/8bcd19e56f8659/US20020133379A1-20020919-D00004.png",
+    "https://patentimages.storage.googleapis.com/54/87/84/17a63fc0790cf0/US20020133379A1-20020919-D00005.png",
+    "https://patentimages.storage.googleapis.com/40/e2/0d/429b0059f22621/US20020133379A1-20020919-D00006.png",
+    "https://patentimages.storage.googleapis.com/29/f8/1c/0c56c8bb80d3c3/US20020133379A1-20020919-D00007.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/06",
+      "description": "Resources, workflows, human or project management; Enterprise or organisation planning; Enterprise or organisation modelling",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q40/08",
+      "description": "Insurance",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Methods and systems are provided for optimizing profits for healthcare practices and insurance networks. The methods and systems include modifying physician's cost management behavior to enhance profitability of healthcare practices and insurance networks by identifying physicians that are not profitable because of cost management behavior and providing intervention to change the management behavior of the physician.",
+  "description_link": "https://serpapi.com/searches/68514dfba3ce841d4f3389d2/google_patents_details/description.html",
+  "claims": [
+    "1. A method of managing a healthcare practice participating in an insurance network to optimize profitability of the healthcare practice with respect to a predetermined reimbursement amount for pharmacy costs, the method comprising: \ngathering data from each of a plurality of physicians in the healthcare practice participating in the insurance network regarding management of the pharmacy costs;  identifying at least one of the plurality of physicians in the healthcare practice participating in the insurance network that is at a greater risk of not receiving the predetermined reimbursement amount for the pharmacy costs from the insurance network by prescribing medications that are detrimental to receiving the predetermined reimbursement amount for the pharmacy costs; and  modifying the at least one physician's management behavior regarding the pharmacy costs to substantially reduce the risk of not receiving the predetermined reimbursement amount for the pharmacy costs from the insurance network.",
+    "2. The method as defined in claim 1, wherein the step of gathering data includes gathering information regarding the pharmacy costs of each of the plurality of physicians in the healthcare practice participating in the insurance network from a database associated with a pharmacy network, the database positioned on a server in communication with each of a plurality of pharmacies in the pharmacy network participating in the insurance network.",
+    "3. The method as defined in claim 2, wherein the step of identifying the at least one physician comprises analyzing the pharmacy costs of each of the plurality of physicians in the healthcare practice, calculating an average pharmacy cost per physician for the healthcare practice, and identifying the physicians that have pharmacy costs that are a predetermined percentage greater than the average pharmacy costs per physician for the healthcare practice.",
+    "4. The method as defined in claim 2, wherein the step of identifying the at least one physician comprises selecting the physician having the highest pharmacy costs within the healthcare practice.",
+    "5. The method as defined in claim 1, wherein the step of modifying the at least one physician's management behavior regarding the pharmacy costs comprises educating the at least one physician on the benefits of alternative prescription medications using research literature for comparing the alternative medications to the prescribed medications and further comprises organizing continued medical education classes to educate each of the plurality of physicians in the healthcare practice on the benefits of the alternative prescription medications.",
+    "6. The method as defined in claim 5, wherein the step of modifying the at least one physician's management behavior further comprises preparing a list of prescription medications that the at least one physician may prescribe that enable a physician to receive the predetermined reimbursement amount for the pharmacy costs.",
+    "7. The method as defined in claim 6, wherein the step of modifying the at least one physician's management behavior further comprises providing custom prescription medication forms that include the list of prescription medications that the at least one physician may prescribe that enable the at least one physician to receive the predetermined reimbursement amount for the pharmacy costs.",
+    "8. The method as defined in claim 7, wherein the insurance network comprises one of a plurality of insurance networks, the at least one physician participates in the plurality of insurance networks, and wherein the step of modifying the at least one physician's management behavior further comprises preparing a list of common prescription medications that are approved by each of the plurality of insurance networks so as to enable the at least one physician to receive the predetermined reimbursement amount for the pharmacy costs.",
+    "9. The method as defined in claim 7, wherein the step of modifying the at least one physician's management behavior further comprises analyzing a patient's prescription history to thereby avoid possible adverse prescription medication reactions.",
+    "10. The method as defined in claim 9, further comprising providing patient intervention to modify the at least one physician's management behavior, the patient intervention including identifying at least one patient whose present prescription medications put the at least one physician at risk for not receiving the predetermined reimbursements for the pharmacy costs, amending the at least one patient's present prescription medications to decrease the at least one physician's risk of not receiving the predetermined reimbursements for the pharmacy costs, and discontinuing the at least one patient's present prescription medications that put the at least one physician at risk for not receiving the predetermined reimbursements for the pharmacy costs.",
+    "11. The method as defined in claim 10, wherein the step of discontinuing the at least one patient's present prescription medications further includes preparing first and second letters on the at least one physician's letterhead, the first letter informing the pharmacy that the at least one patient's present prescription medication is discontinued and the second letter informing the at least one patient that the patient's present prescription medication is discontinued, wherein the first and second letters are reviewed for accuracy, signed by the physician, and transmitted to the pharmacy.",
+    "12. The method as defined in claim 1, further comprising updating each of the plurality of physicians in the healthcare practice of any changes in the management of pharmacy costs from the insurance network.",
+    "13. A method of managing a healthcare practice participating in an insurance network to optimize profitability of the healthcare practice with respect to a predetermined reimbursement amount for selected ancillary medical costs, the method comprising: \ngathering data from each of a plurality of physicians in the healthcare practice participating in the insurance network regarding management of the selected ancillary medical costs;  identifying at least one of the plurality of physicians in the healthcare practice participating in the insurance network that is at a greater risk of not receiving the predetermined reimbursement amount for the ancillary medical costs from the insurance network by engaging in ancillary medical procedures that are detrimental to receiving the predetermined reimbursement amount for the ancillary medical costs; and  modifying the at least one physician's management behavior regarding the ancillary medical costs to substantially reduce the risk of not receiving the predetermined reimbursement amount for the ancillary medical costs from the insurance network.",
+    "14. The method as defined in claim 13, wherein the step of gathering data includes gathering information regarding the ancillary medical costs of each of the plurality of physicians in the healthcare practice participating in the insurance network from databases associated with ancillary medical networks, the databases positioned on servers in communication with each of a plurality of ancillary medical facilities participating in the ancillary medical networks.",
+    "15. The method as defined in claim 14, wherein the step of identifying the at least one physician comprises analyzing the ancillary medical costs of each of the plurality of physicians in the healthcare practice, calculating an average ancillary medical cost per physician for the healthcare practice, and identifying the physicians that have ancillary medical costs that are a predetermined percentage greater than the average ancillary medical cost per physician for the healthcare practice.",
+    "16. The method as defined in claim 14, wherein the step of identifying the at least one physician comprises selecting the physician having the highest ancillary medical costs within the healthcare practice.",
+    "17. The method as defined in claim 13, wherein the step of modifying the at least one physician's management behavior comprises educating the at least one physician on benefits of alternative ancillary medical procedures using research literature for comparing the alternative ancillary medical procedures to current ancillary medical procedures and further comprises organizing continued medical education classes through ancillary medical facilities to educate each of the plurality of physicians in the healthcare practice on the benefits of the alternative ancillary medical procedures.",
+    "18. The method as defined in claim 17, wherein the step of modifying the at least one physician's management behavior further comprises preparing a list of ancillary medical procedures that the at least one physician may engage in that enable the at least one physician to receiving the predetermined reimbursement amount for the ancillary medical costs.",
+    "19. The method as defined in claim 18, wherein the step of modifying the at least one physician's management behavior further comprises providing custom ancillary medical procedure forms that include the list of ancillary medical procedures that the at least one physician may engage in to further enable the at least one physician to receive the predetermined reimbursement amount for the ancillary medical costs.",
+    "20. The method as defined in claim 19, wherein the insurance network comprises one of a plurality of insurance networks, the at least one physician participates in the plurality of insurance networks, and wherein the step of modifying the at least one physician's management behavior further comprises preparing a list of common ancillary medical procedures that are approved by each of the plurality of insurance networks so as to enable the at least one physician to receive the predetermined reimbursement amount for the ancillary medical costs.",
+    "21. The method as defined in claim 27, further comprises providing patient intervention to modify the at least one physician's management behavior, the patient intervention including identifying at least one patient whose present ancillary medical procedures put the at least one physician at risk for not receiving the predetermined reimbursements for the ancillary medical costs, amending the at least one patient's present ancillary medical procedures to decrease the at least one physician's risk of not receiving the predetermined reimbursements for the ancillary medical costs, and discontinuing the at least one patient's present ancillary medical procedures that put the at least one physician at risk for not receiving the predetermined reimbursements for the ancillary medical costs.",
+    "22. The method as define in claim 21, wherein the step of discontinuing the at least one patient's ancillary medical procedures further includes preparing first and second letters on the at least one physician's letterhead, the first letter informing the ancillary medical facility that the at least one patient's present ancillary medical procedures are discontinued and the second letter informing the at least one patient that the patient's present ancillary medical procedures are discontinued, wherein the first and second letters are reviewed for accuracy, signed by the physician, and transmitted to the ancillary medical facility.",
+    "23. The method as defined in claim 20, further comprising updating each of the plurality of physicians in the healthcare practice of any changes in the management of ancillary medical costs from the insurance network.",
+    "24. The method as defined in claim 20, wherein the ancillary medical costs include any costs taken from the group of pharmacy, anesthesiology, blood, blood storage procedure and administration, radiology, electroencephalogram, electrocardiogram, emergency room, intravenous therapy, organ and tissue acquisition, labor and delivery, medical/surgical supplies, nuclear medicine, occupational therapy, operating room, physical therapy, recovery room, renal dialysis, respiratory therapy, special care, speech therapy, or therapeutic radiology.",
+    "25. A method of optimizing the profitability of an insurance network having a plurality of physicians in a healthcare practice participating therein by managing ancillary medical costs, the method comprising the steps of: \ngathering data from each of the plurality of physicians in the healthcare practice participating in the insurance network regarding management of ancillary medical costs;  modifying the plurality of physicians' in the healthcare practice management behavior regarding ancillary medical costs that are not profitable for the insurance network; and  providing a financial incentive to the insurance network and the plurality of physicians in the healthcare practice participating in the insurance network to modify the plurality of physicians' management behavior of ancillary medical costs that are not as profitable to the insurance network.",
+    "26. The method as defined in claim 25, wherein the step of gathering data includes gathering information regarding the ancillary medical costs of each of the plurality of physicians participating in the insurance network from databases associated with the ancillary medical networks, the databases positioned on servers in communication with each of a plurality of ancillary medical facilities participating in the ancillary medical networks.",
+    "27. The method as defined in claim 26, further comprising identifying at least one of the plurality of physicians in the healthcare practice participating in the insurance network whose management of ancillary medical costs are not profitable to the insurance network.",
+    "28. The method as defined in claim 27, wherein the step of identifying the at least one physician includes calculating an average ancillary medical cost per physician for the healthcare practice, and identifying the physicians that have ancillary medical costs that are a predetermined percentage greater than the average ancillary medical cost per physician for the healthcare practice.",
+    "29. The method as defined in claim 27, wherein the step of identifying the at least one physician includes selecting the at least one physician having the highest ancillary medical costs within the healthcare practice.",
+    "30. The method as defined in claim 28, wherein the step of modifying the plurality of physicians' management behavior regarding ancillary medical costs that are not profitable for the insurance network includes educating the plurality of physicians on benefits of alternative ancillary medical procedures using research literature for comparing the alternative ancillary medical procedures with current ancillary medical procedures and further comprises organizing continued medical education classes through ancillary medical facilities to educate each of the plurality of physicians in the healthcare practice on the benefits of the alternative ancillary medical procedures.",
+    "31. The method as defined in claim 30, wherein the step of modifying the plurality of physicians' management behavior further comprises preparing a list of ancillary medical procedures that the plurality of physicians may engage in that are more profitable to the insurance network.",
+    "32. The method as defined in claim 31, wherein the step of modifying the plurality of physicians' management behavior further comprises providing custom ancillary medical procedure forms that include the list of ancillary medical procedures that the plurality of physicians may engage in that are more profitable to the insurance network.",
+    "33. The method as defined in claim 32, further comprises providing patient intervention to modify the plurality of physicians' management behavior, the patient intervention including identifying at least one patient whose present ancillary medical procedures are not as profitable for the insurance network and amending the at least one patient's present ancillary medical procedures to ancillary medical procedures that are more profitable to the insurance network.",
+    "34. The method as defined in claim 33, wherein the step of amending the at least one patient's present ancillary medical procedures further includes preparing first and second letters on the plurality of physicians' letterhead, the first letter informing the ancillary medical facility that the at least one patient's present ancillary medical procedures are amended to new ancillary medical procedure and the second letter informing the at least one patient that the patient's present ancillary medical procedures are amended to the new ancillary medical procedures, wherein the first and second letters are reviewed for accuracy, signed by the physician, and transmitted to the respective ancillary medical facility and the at least one patient.",
+    "35. The method as defined in claim 25, further comprising updating each of the plurality of physicians in the healthcare practice of new ancillary medical procedures that are more profitable to the insurance network.",
+    "36. The method as defined in claim 35, wherein the ancillary medical costs include any costs taken from the group of pharmacy, anesthesiology, blood, blood storage procedure and administration, radiology, electroencephalogram, electrocardiogram, emergency room, intravenous therapy, organ and tissue acquisition, labor and delivery, medical/surgical supplies, nuclear medicine, occupational therapy, operating room, physical therapy, recovery room, renal dialysis, respiratory therapy, special care, speech therapy, or therapeutic radiology.",
+    "37. A healthcare management optimization system for a healthcare practice including a plurality of physicians participating in an insurance network comprising: \na first database comprising ancillary medical procedures that are preferred by the insurance network;  a second database comprising ancillary medical costs of each of the plurality of physicians participating in the insurance network;  an analyzer in communication with the first and second databases for analyzing the data in the first and second databases and comparing the ancillary medical procedures that are preferred by the insurance network with the ancillary medical costs of the plurality of physicians participating in the insurance network to thereby identify ancillary medical costs of the physicians that are not preferred by the insurance network; and  managing means responsive to the analyzer for managing the ancillary medical costs of the healthcare practice to thereby modify the ancillary medical costs of the physicians in the healthcare practice to be more profitable to the insurance network.",
+    "38. The healthcare management optimization system as defined in claim 37, wherein the managing means includes an identifier for identifying at least one of the plurality of physicians in the healthcare practice participating in the insurance network that is at a greater risk of not receiving a predetermined reimbursement amount for the ancillary medical costs from the insurance network by engaging in ancillary medical procedures that are detrimental to receiving the predetermined reimbursement amount for the ancillary medical costs.",
+    "39. The healthcare management optimization system as defined in claim 38, wherein the analyzer further includes calculating means for calculating an average ancillary medical cost per physician for the healthcare practice and identifying the at least one physician that has ancillary medical costs that are a predetermined percentage greater than the average ancillary medical costs per physician for the healthcare practice.",
+    "40. The healthcare management optimization system as defined in claim 39, further comprising an educator responsive to the analyzer for educating the at least one physician on benefits of alternative ancillary medical procedures using research literature for comparing the alternative ancillary medical procedures to current ancillary medical procedures and further includes continued medical education classes to educate each of the plurality of physicians in the healthcare practice on the benefits of the alternative ancillary medical procedures.",
+    "41. The healthcare management optimization system as defined in claim 40, further comprises custom ancillary medical procedure forms provided to each of the plurality of physicians in the healthcare practice participating in the insurance network that include the ancillary medical procedures that are preferred by the insurance network.",
+    "42. The healthcare management optimization system as defined in claim 41, wherein the managing means further comprises patient intervening means for identifying at least one patient whose present ancillary medical procedures are not preferred by the insurance network and amending the at least one patient's present ancillary medical procedures.",
+    "43. The healthcare management optimization system as defined in claim 42, wherein the management means further comprises generating means for generating first and second letters, the first letter informing the ancillary medical facility that the at least one patient's ancillary medical procedures are amended to new ancillary medical procedures and the second letter informing the at least one patient that the patient's present ancillary medical procedures are amended to the new ancillary medical procedures, wherein the first and second letters are reviewed for accuracy, signed by the physician, and transmitted to the respective ancillary medical facility and the at least one patient.",
+    "44. The healthcare management optimization system as defined in claim 43, wherein the management means further comprises an updater for updating each of the plurality of physicians in the healthcare practice of any changes in the management of ancillary medical costs that are preferred by the insurance network.",
+    "45. The healthcare management optimization system as defined in claim 44, wherein the ancillary medical costs include any costs taken from the group of pharmacy, anesthesiology, blood, blood storage procedure and administration, radiology, electroencephalogram, electrocardiogram, emergency room, intravenous therapy, organ and tissue acquisition, labor and delivery, medical/surgical supplies, nuclear medicine, occupational therapy, operating room, physical therapy, recovery room, renal dialysis, respiratory therapy, special care, speech therapy, or therapeutic radiology.",
+    "46. A healthcare management optimization system for a healthcare practice including a plurality of physicians participating in an insurance network comprising: \na server having at least one database;  a communications network positioned to be in communication with the server;  a plurality of computers positioned to be in communication with the communications network, each including a user interface responsive to a user;  an updater positioned on the server and responsive to the user interface updating each of the plurality of physicians in the healthcare practice of any changes in the management of ancillary medical costs that are preferred by the insurance network; and  recommending means positioned on the server and responsive to the user interface for recommending to each of the plurality of physicians alternative ancillary medical procedures that are preferred by the insurance network.",
+    "47. The healthcare management optimization system as defined in claim 46, wherein the at least one database comprises a first and second database, the first database including ancillary medical procedures that are more preferred by the insurance network and wherein the second database includes ancillary medical costs of each of the plurality of physicians participating in the insurance network.",
+    "48. The healthcare management optimization system as defined in claim 47, further comprising an analyzer positioned on the server and in communication with the first and second databases for analyzing the data in the first and second databases and comparing the ancillary medical procedures that are preferred by the insurance network with the ancillary medical costs of the plurality of physicians participating in the insurance network to thereby identify ancillary medical costs of the physicians that are not preferred by the insurance network.",
+    "49. The healthcare management optimization system as defined in claim 48, further comprising managing means positioned on the server and responsive to the analyzer for managing the ancillary medical costs of the healthcare practice to thereby modify the ancillary medical costs of the physicians in the healthcare practice to be more profitable to the insurance network.",
+    "50. The healthcare management optimization system as defined in claim 49, wherein the managing means includes an identifier for identifying at least one of the plurality of physicians in the healthcare practice participating in the insurance network that is at a greater risk of not receiving a predetermined reimbursement amount for the ancillary medical costs from the insurance network by engaging in ancillary medical procedures that are detrimental to receiving the predetermined reimbursement amount for the ancillary medical costs.",
+    "51. The healthcare management optimization system as defined in claim 50, wherein the analyzer further includes calculating means for calculating an average ancillary medical cost per physician for the healthcare practice and identifying the at least one physician that has ancillary medical costs that are a predetermined percentage greater than the average ancillary medical costs per physician for the healthcare practice.",
+    "52. The healthcare management optimization system as defined in claim 51, further comprising an educator responsive to the analyzer for educating the at least one physician on benefits of alternative ancillary medical procedures using research literature for comparing the alternative ancillary medical procedures to current ancillary medical procedures and further includes continued medical education classes to educate each of the plurality of physicians in the healthcare practice on the benefits of the alternative ancillary medical procedures.",
+    "53. The healthcare management optimization system as defined in claim 52, further comprises custom ancillary medical procedure forms provided to each of the plurality of physicians in the healthcare practice participating in the insurance network that include the ancillary medical procedures that are preferred by the insurance network.",
+    "54. The healthcare management optimization system as defined in claim 53, wherein the managing means further comprises patient intervening means for identifying at least one patient whose present ancillary medical procedures are not preferred by the insurance network and amending the at least one patient's present ancillary medical procedures.",
+    "55. The healthcare management optimization system as defined in claim 54, wherein the management means further comprises generating means for generating first and second letters, the first letter informing the ancillary medical facility that the at least one patient's ancillary medical procedures are amended to new ancillary medical procedure and the second letter informing the at least one patient that the patient's present ancillary medical procedures are amended to the new ancillary medical procedures, wherein the first and second letters are reviewed for accuracy, signed by the physician, and transmitted to the respective ancillary medical facility and the at least one patient.",
+    "56. The healthcare management optimization system as defined in claim 55, wherein the ancillary medical costs include any costs taken from the group of pharmacy, anesthesiology, blood, blood storage procedure and administration, radiology, electroencephalogram, electrocardiogram, emergency room, intravenous therapy, organ and tissue acquisition, labor and delivery, medical/surgical supplies, nuclear medicine, occupational therapy, operating room, physical therapy, recovery room, renal dialysis, respiratory therapy, special care, speech therapy, or therapeutic radiology."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US11/933,075",
+      "relation_type": "Continuation",
+      "representative_publication": "US20080059248A1",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2007-10-31",
+      "title": "Methods, program product, and systems for healthcare practice management"
+    },
+    {
+      "application_number": "US12/832,813",
+      "relation_type": "Reissue",
+      "representative_publication": "USRE42508E1",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2010-07-08",
+      "title": "Methods and systems for healthcare practice management"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/812,704",
+      "representative_publication": "US7398217B2",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2001-03-19",
+      "title": "Methods and systems for healthcare practice management"
+    },
+    {
+      "application_number": "US11/933,075",
+      "representative_publication": "US20080059248A1",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2007-10-31",
+      "title": "Methods, program product, and systems for healthcare practice management"
+    },
+    {
+      "application_number": "US12/832,813",
+      "representative_publication": "USRE42508E1",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2010-07-08",
+      "title": "Methods and systems for healthcare practice management"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US09/812,704",
+      "representative_publication": "US7398217B2",
+      "primary_language": "en",
+      "priority_date": "2001-03-19",
+      "filing_date": "2001-03-19",
+      "title": "Methods and systems for healthcare practice management"
+    }
+  ],
+  "family_id": "25210385",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5365425A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-04-22",
+        "publication_date": "1994-11-15",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Air Force",
+        "title": "Method and system for measuring management effectiveness",
+        "patent_id": "patent/US5365425A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5365425A%2Fen"
+      },
+      {
+        "publication_number": "US5557514A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-23",
+        "publication_date": "1996-09-17",
+        "assignee_original": "Medicode, Inc.",
+        "title": "Method and system for generating statistically-based medical provider utilization profiles",
+        "patent_id": "patent/US5557514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5557514A%2Fen"
+      },
+      {
+        "publication_number": "US5706441A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-07",
+        "publication_date": "1998-01-06",
+        "assignee_original": "Cigna Health Corporation",
+        "title": "Method and apparatus for objectively monitoring and assessing the performance of health-care providers",
+        "patent_id": "patent/US5706441A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5706441A%2Fen"
+      },
+      {
+        "publication_number": "US5724379A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-01",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Healthchex, Inc.",
+        "title": "Method of modifying comparable health care services",
+        "patent_id": "patent/US5724379A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724379A%2Fen"
+      },
+      {
+        "publication_number": "US5722418A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-08-30",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Bro; L. William",
+        "title": "Method for mediating social and behavioral processes in medicine and business through an interactive telecommunications guidance system",
+        "patent_id": "patent/US5722418A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5722418A%2Fen"
+      },
+      {
+        "publication_number": "US5784635A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-31",
+        "publication_date": "1998-07-21",
+        "assignee_original": "Integration Concepts, Inc.",
+        "title": "System and method for the rationalization of physician data",
+        "patent_id": "patent/US5784635A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5784635A%2Fen"
+      },
+      {
+        "publication_number": "US5835897A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-22",
+        "publication_date": "1998-11-10",
+        "assignee_original": "Symmetry Health Data Systems",
+        "title": "Computer-implemented method for profiling medical claims",
+        "patent_id": "patent/US5835897A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5835897A%2Fen"
+      },
+      {
+        "publication_number": "US5918208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-13",
+        "publication_date": "1999-06-29",
+        "assignee_original": "Ingenix, Inc.",
+        "title": "System for providing medical information",
+        "patent_id": "patent/US5918208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5918208A%2Fen"
+      },
+      {
+        "publication_number": "US5924073A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-14",
+        "publication_date": "1999-07-13",
+        "assignee_original": "Beacon Patient Physician Association, Llc",
+        "title": "System and method for assessing physician performance using robust multivariate techniques of statistical analysis",
+        "patent_id": "patent/US5924073A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5924073A%2Fen"
+      },
+      {
+        "publication_number": "US5953704A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-06-22",
+        "publication_date": "1999-09-14",
+        "assignee_original": "Health Risk Management, Inc.",
+        "title": "Health care management system for comparing user-proposed and recommended resources required for treatment",
+        "patent_id": "patent/US5953704A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5953704A%2Fen"
+      },
+      {
+        "publication_number": "US6000828A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-22",
+        "publication_date": "1999-12-14",
+        "assignee_original": "Power Med Incorporated",
+        "title": "Method of improving drug treatment",
+        "patent_id": "patent/US6000828A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6000828A%2Fen"
+      },
+      {
+        "publication_number": "US6026364A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-28",
+        "publication_date": "2000-02-15",
+        "assignee_original": "Whitworth; Brian L.",
+        "title": "System and method for replacing a liability with insurance and for analyzing data and generating documents pertaining to a premium financing mechanism paying for such insurance",
+        "patent_id": "patent/US6026364A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6026364A%2Fen"
+      },
+      {
+        "publication_number": "US6029138A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-15",
+        "publication_date": "2000-02-22",
+        "assignee_original": "Brigham And Women's Hospital",
+        "title": "Computer system for decision support in the selection of diagnostic and therapeutic tests and interventions for patients",
+        "patent_id": "patent/US6029138A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6029138A%2Fen"
+      },
+      {
+        "publication_number": "US6112182A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-16",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Healthcare Computer Corporation",
+        "title": "Method and apparatus for integrated management of pharmaceutical and healthcare services",
+        "patent_id": "patent/US6112182A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6112182A%2Fen"
+      },
+      {
+        "publication_number": "US6151581A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-17",
+        "publication_date": "2000-11-21",
+        "assignee_original": "Pulsegroup Inc.",
+        "title": "System for and method of collecting and populating a database with physician/patient data for processing to improve practice quality and healthcare delivery",
+        "patent_id": "patent/US6151581A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6151581A%2Fen"
+      },
+      {
+        "publication_number": "US6195512B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-02-12",
+        "publication_date": "2001-02-27",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Camera adapted for films provided with magnetic storage portions",
+        "patent_id": "patent/US6195512B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6195512B1%2Fen"
+      },
+      {
+        "publication_number": "US6195612B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-01-05",
+        "publication_date": "2001-02-27",
+        "assignee_original": "Tama L. Pack-Harris",
+        "title": "Pharmacy benefit management system and method of using same",
+        "patent_id": "patent/US6195612B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6195612B1%2Fen"
+      },
+      {
+        "publication_number": "US20010037216A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-20",
+        "publication_date": "2001-11-01",
+        "assignee_original": "Oscar Robert S.",
+        "title": "Pharmacy benefits management method and apparatus",
+        "patent_id": "patent/US20010037216A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010037216A1%2Fen"
+      },
+      {
+        "publication_number": "US6381576B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-16",
+        "publication_date": "2002-04-30",
+        "assignee_original": "Edward Howard Gilbert",
+        "title": "Method, apparatus, and data structure for capturing and representing diagnostic, treatment, costs, and outcomes information in a form suitable for effective analysis and health care guidance",
+        "patent_id": "patent/US6381576B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6381576B1%2Fen"
+      },
+      {
+        "publication_number": "US20020111826A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-07",
+        "publication_date": "2002-08-15",
+        "assignee_original": "Potter Jane I.",
+        "title": "Method of administering a health plan",
+        "patent_id": "patent/US20020111826A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020111826A1%2Fen"
+      },
+      {
+        "publication_number": "US20020120468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-27",
+        "publication_date": "2002-08-29",
+        "assignee_original": "William Atallah",
+        "title": "Method and apparatus for providing financial analyses for medical procedures",
+        "patent_id": "patent/US20020120468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020120468A1%2Fen"
+      },
+      {
+        "publication_number": "US20020138303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-08",
+        "publication_date": "2002-09-26",
+        "assignee_original": "Gil Enos",
+        "title": "Method and apparatus for personalized medical prescription services",
+        "patent_id": "patent/US20020138303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020138303A1%2Fen"
+      },
+      {
+        "publication_number": "US20020152097A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-01",
+        "publication_date": "2002-10-17",
+        "assignee_original": "Javors Jonathan R.",
+        "title": "Method of administration and health management",
+        "patent_id": "patent/US20020152097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020152097A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6012035A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-07-08",
+        "publication_date": "2000-01-04",
+        "assignee_original": "Integral Business Services, Inc.",
+        "title": "System and method for supporting delivery of health care",
+        "patent_id": "patent/US6012035A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6012035A%2Fen"
+      },
+      {
+        "publication_number": "US5652842A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-03-01",
+        "publication_date": "1997-07-29",
+        "assignee_original": "Healthshare Technology, Inc.",
+        "title": "Analysis and reporting of performance of service providers",
+        "patent_id": "patent/US5652842A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5652842A%2Fen"
+      },
+      {
+        "publication_number": "US5737539A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-28",
+        "publication_date": "1998-04-07",
+        "assignee_original": "Advanced Health Med-E-Systems Corp.",
+        "title": "Prescription creation system",
+        "patent_id": "patent/US5737539A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5737539A%2Fen"
+      },
+      {
+        "publication_number": "US5722416A",
+        "primary_language": "en",
+        "priority_date": "1995-02-17",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Ep Technologies, Inc.",
+        "title": "Systems and methods for analyzing biopotential morphologies in heart tissue to locate potential ablation sites",
+        "patent_id": "patent/US5722416A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5722416A%2Fen"
+      },
+      {
+        "publication_number": "US5535118A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-22",
+        "publication_date": "1996-07-09",
+        "assignee_original": "Chumbley; Gregory R.",
+        "title": "Data collection device",
+        "patent_id": "patent/US5535118A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5535118A%2Fen"
+      },
+      {
+        "publication_number": "US5812983A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-03",
+        "publication_date": "1998-09-22",
+        "assignee_original": "Kumagai; Yasuo",
+        "title": "Computed medical file and chart system",
+        "patent_id": "patent/US5812983A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5812983A%2Fen"
+      },
+      {
+        "publication_number": "US5924074A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-27",
+        "publication_date": "1999-07-13",
+        "assignee_original": "Azron Incorporated",
+        "title": "Electronic medical records system",
+        "patent_id": "patent/US5924074A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5924074A%2Fen"
+      },
+      {
+        "publication_number": "US6112183A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-11",
+        "publication_date": "2000-08-29",
+        "assignee_original": "United Healthcare Corporation",
+        "title": "Method and apparatus for processing health care transactions through a common interface in a distributed computing environment",
+        "patent_id": "patent/US6112183A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6112183A%2Fen"
+      },
+      {
+        "publication_number": "US6014631A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-02",
+        "publication_date": "2000-01-11",
+        "assignee_original": "Merck-Medco Managed Care, Llc",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6014631A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6014631A%2Fen"
+      },
+      {
+        "publication_number": "US6055511A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-30",
+        "publication_date": "2000-04-25",
+        "assignee_original": "Breault Research Organization, Inc.",
+        "title": "Computerized incentive compensation",
+        "patent_id": "patent/US6055511A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6055511A%2Fen"
+      },
+      {
+        "publication_number": "US6385589B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-30",
+        "publication_date": "2002-05-07",
+        "assignee_original": "Pharmacia Corporation",
+        "title": "System for monitoring and managing the health care of a patient population",
+        "patent_id": "patent/US6385589B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6385589B1%2Fen"
+      },
+      {
+        "publication_number": "US6302844B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-31",
+        "publication_date": "2001-10-16",
+        "assignee_original": "Walker Digital, Llc",
+        "title": "Patient care delivery system",
+        "patent_id": "patent/US6302844B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6302844B1%2Fen"
+      },
+      {
+        "publication_number": "US7593952B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-09",
+        "publication_date": "2009-09-22",
+        "assignee_original": "Soll Andrew H",
+        "title": "Enhanced medical treatment system",
+        "patent_id": "patent/US7593952B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7593952B2%2Fen"
+      },
+      {
+        "publication_number": "US8799208B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-07",
+        "publication_date": "2014-08-05",
+        "assignee_original": "E-Rewards, Inc.",
+        "title": "Method and system for evaluating, reporting, and improving on-line promotion effectiveness",
+        "patent_id": "patent/US8799208B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8799208B2%2Fen"
+      },
+      {
+        "publication_number": "US7379885B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-10",
+        "publication_date": "2008-05-27",
+        "assignee_original": "David S. Zakim",
+        "title": "System and method for obtaining, processing and evaluating patient information for diagnosing disease and selecting treatment",
+        "patent_id": "patent/US7379885B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7379885B1%2Fen"
+      },
+      {
+        "publication_number": "WO2001069384A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-14",
+        "publication_date": "2001-09-20",
+        "assignee_original": "Buzzpad, Inc.",
+        "title": "Method and apparatus for forming linked multi-user groups of shared software applications",
+        "patent_id": "patent/WO2001069384A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001069384A2%2Fen"
+      },
+      {
+        "publication_number": "US7383196B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-14",
+        "publication_date": "2008-06-03",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "Method for operating active clinical guidelines",
+        "patent_id": "patent/US7383196B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7383196B1%2Fen"
+      },
+      {
+        "publication_number": "US7426474B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-25",
+        "publication_date": "2008-09-16",
+        "assignee_original": "The Rand Corporation",
+        "title": "Health cost calculator/flexible spending account calculator",
+        "patent_id": "patent/US7426474B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7426474B2%2Fen"
+      },
+      {
+        "publication_number": "US7389245B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-25",
+        "publication_date": "2008-06-17",
+        "assignee_original": "Clinton B. Ashford",
+        "title": "Method and apparatus for providing incentives to physicians",
+        "patent_id": "patent/US7389245B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7389245B1%2Fen"
+      },
+      {
+        "publication_number": "US7447643B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-21",
+        "publication_date": "2008-11-04",
+        "assignee_original": "Theradoc.Com, Inc.",
+        "title": "Systems and methods for communicating between a decision-support system and one or more mobile information devices",
+        "patent_id": "patent/US7447643B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7447643B1%2Fen"
+      },
+      {
+        "publication_number": "US7398217B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2008-07-08",
+        "assignee_original": "The Jasos Group, Llc",
+        "title": "Methods and systems for healthcare practice management",
+        "patent_id": "patent/US7398217B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7398217B2%2Fen"
+      },
+      {
+        "publication_number": "US7401027B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2008-07-15",
+        "assignee_original": "The Jasos Group, Llc",
+        "title": "Methods for collecting fees for healthcare management group",
+        "patent_id": "patent/US7401027B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7401027B2%2Fen"
+      },
+      {
+        "publication_number": "US6654196B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-20",
+        "publication_date": "2003-11-25",
+        "assignee_original": "Hitachi Global Storage Technologies Netherlands B.V.",
+        "title": "Avoiding write to read interference during self-servowriting",
+        "patent_id": "patent/US6654196B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6654196B2%2Fen"
+      },
+      {
+        "publication_number": "US7223234B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-10",
+        "publication_date": "2007-05-29",
+        "assignee_original": "Monitrix, Inc.",
+        "title": "Apparatus for determining association variables",
+        "patent_id": "patent/US7223234B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7223234B2%2Fen"
+      },
+      {
+        "publication_number": "US20070250343A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-21",
+        "publication_date": "2007-10-25",
+        "assignee_original": "Ravinder Sohal",
+        "title": "Medical services and goods exchange",
+        "patent_id": "patent/US20070250343A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070250343A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20040030669A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-12",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Harris Jeffrey Saul",
+        "title": "Method for analyzing records in a data base",
+        "patent_id": "patent/US20040030669A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040030669A1%2Fen"
+      },
+      {
+        "publication_number": "US20040148196A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-08",
+        "publication_date": "2004-07-29",
+        "assignee_original": "Kalies Ralph F.",
+        "title": "Method for assimilating and using pharmacy data",
+        "patent_id": "patent/US20040148196A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040148196A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-08",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Hodgdon Darren W",
+        "title": "Incentive based health care insurance program",
+        "patent_id": "patent/US20050234742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234742A1%2Fen"
+      },
+      {
+        "publication_number": "US20060053032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-13",
+        "publication_date": "2006-03-09",
+        "assignee_original": "Weiler Blake R",
+        "title": "Method and apparatus for reporting national and sub-national longitudinal prescription data",
+        "patent_id": "patent/US20060053032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060053032A1%2Fen"
+      },
+      {
+        "publication_number": "US20070122780A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-31",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Behavioral Health Strategies Of Utah, Llc",
+        "title": "Systems and methods for support of behavioral modification coaching",
+        "patent_id": "patent/US20070122780A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070122780A1%2Fen"
+      },
+      {
+        "publication_number": "US20070136090A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-12",
+        "publication_date": "2007-06-14",
+        "assignee_original": "General Electric Company",
+        "title": "System and method for macro-enhanced clinical workflow",
+        "patent_id": "patent/US20070136090A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070136090A1%2Fen"
+      },
+      {
+        "publication_number": "US20070226009A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-24",
+        "publication_date": "2007-09-27",
+        "assignee_original": "Hicks H D",
+        "title": "Methods and systems for prescription review to identify substitutions",
+        "patent_id": "patent/US20070226009A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070226009A1%2Fen"
+      },
+      {
+        "publication_number": "US20070265888A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-15",
+        "publication_date": "2007-11-15",
+        "assignee_original": "Dario Dante Castelli",
+        "title": "Healthcare management system",
+        "patent_id": "patent/US20070265888A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070265888A1%2Fen"
+      },
+      {
+        "publication_number": "US20080046303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-21",
+        "publication_date": "2008-02-21",
+        "assignee_original": "Gordon Penelope E",
+        "title": "Method and system of determining elements of a value priced contract",
+        "patent_id": "patent/US20080046303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080046303A1%2Fen"
+      },
+      {
+        "publication_number": "US20080052101A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-31",
+        "publication_date": "2008-02-28",
+        "assignee_original": "Richard Ziade",
+        "title": "Apparatuses, Methods, and Systems for Building A Risk Evaluation Product",
+        "patent_id": "patent/US20080052101A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080052101A1%2Fen"
+      },
+      {
+        "publication_number": "US20080059248A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2008-03-06",
+        "assignee_original": "The Jasos Group, Llc",
+        "title": "Methods, program product, and systems for healthcare practice management",
+        "patent_id": "patent/US20080059248A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080059248A1%2Fen"
+      },
+      {
+        "publication_number": "US20080065426A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-31",
+        "publication_date": "2008-03-13",
+        "assignee_original": "Richard Ziade",
+        "title": "Apparatuses, Methods, and Systems for a Reconfigurable Insurance Quoting Engine",
+        "patent_id": "patent/US20080065426A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080065426A1%2Fen"
+      },
+      {
+        "publication_number": "US20100191563A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-23",
+        "publication_date": "2010-07-29",
+        "assignee_original": "Doctors' Administrative Solutions, Llc",
+        "title": "Physician Practice Optimization Tracking",
+        "patent_id": "patent/US20100191563A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100191563A1%2Fen"
+      },
+      {
+        "publication_number": "US20100249534A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-26",
+        "publication_date": "2010-09-30",
+        "assignee_original": "Jay Pierce",
+        "title": "System and method for an orthopedic dynamic data repository and registry for efficacy",
+        "patent_id": "patent/US20100249534A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100249534A1%2Fen"
+      },
+      {
+        "publication_number": "US20110173704A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-08",
+        "publication_date": "2011-07-14",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Effectuating clinical orders upon receipt of authorization from two privileged clinicians",
+        "patent_id": "patent/US20110173704A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110173704A1%2Fen"
+      },
+      {
+        "publication_number": "US20110213624A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-19",
+        "publication_date": "2011-09-01",
+        "assignee_original": "Terrance Moore",
+        "title": "Computer Implemented Method and Computer Program Product for Collecting Fees for an Insurance Network",
+        "patent_id": "patent/US20110213624A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110213624A1%2Fen"
+      },
+      {
+        "publication_number": "US20110238452A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-31",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Richard Ziade",
+        "title": "Apparatuses, methods, and systems for providing a risk scoring engine user interface",
+        "patent_id": "patent/US20110238452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110238452A1%2Fen"
+      },
+      {
+        "publication_number": "US20130117033A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-04",
+        "publication_date": "2013-05-09",
+        "assignee_original": "Verras Healthcare Group",
+        "title": "Healthcare performance measurement and equitable provider reimbursement system",
+        "patent_id": "patent/US20130117033A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130117033A1%2Fen"
+      },
+      {
+        "publication_number": "US20140019155A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-13",
+        "publication_date": "2014-01-16",
+        "assignee_original": "ConSova Corporation",
+        "title": "Systems and methods for healthcare cost management",
+        "patent_id": "patent/US20140019155A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140019155A1%2Fen"
+      },
+      {
+        "publication_number": "US8635140B2",
+        "primary_language": "en",
+        "priority_date": "2006-07-31",
+        "publication_date": "2014-01-21",
+        "assignee_original": "Insight Catastrophe Group, Llc",
+        "title": "Apparatuses, methods, and systems for providing a reconfigurable insurance quote generator user interface",
+        "patent_id": "patent/US8635140B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8635140B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20150310508A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-25",
+        "publication_date": "2015-10-29",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Computer-Implemented System And Method For Real-Time Feedback Collection And Analysis",
+        "patent_id": "patent/US20150310508A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150310508A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "CN106203953A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-06",
+        "publication_date": "2016-12-07",
+        "assignee_original": "\u592a\u4ed3\u8bda\u6cfd\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of enterprise staff finance based on tribal group reimbursement management system",
+        "patent_id": "patent/CN106203953A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106203953A%2Fen"
+      },
+      {
+        "publication_number": "US20170286607A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-31",
+        "publication_date": "2017-10-05",
+        "assignee_original": "Zoll Medical Corporation",
+        "title": "Automated workflow in emergency medical services billing",
+        "patent_id": "patent/US20170286607A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170286607A1%2Fen"
+      },
+      {
+        "publication_number": "US10839957B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-25",
+        "publication_date": "2020-11-17",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Computer-implemented system and method for tracking entity locations and generating histories from the locations",
+        "patent_id": "patent/US10839957B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10839957B2%2Fen"
+      },
+      {
+        "publication_number": "US11048891B1",
+        "primary_language": "en",
+        "priority_date": "2015-12-30",
+        "publication_date": "2021-06-29",
+        "assignee_original": "Palo Alto Research Center Incorporated",
+        "title": "Computer-implemented system and method for tracking and authenticating interactions",
+        "patent_id": "patent/US11048891B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11048891B1%2Fen"
+      },
+      {
+        "publication_number": "US12165756B1",
+        "primary_language": "en",
+        "priority_date": "2016-03-30",
+        "publication_date": "2024-12-10",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Alternative therapy identification system",
+        "patent_id": "patent/US12165756B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12165756B1%2Fen"
+      },
+      {
+        "publication_number": "US12197972B1",
+        "primary_language": "en",
+        "priority_date": "2022-03-28",
+        "publication_date": "2025-01-14",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for generating alternative evaluation messages",
+        "patent_id": "patent/US12197972B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12197972B1%2Fen"
+      },
+      {
+        "publication_number": "US12229834B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-17",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for partitioning prescription transaction costs in an electronic prescription transaction",
+        "patent_id": "patent/US12229834B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12229834B1%2Fen"
+      },
+      {
+        "publication_number": "US12229833B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-17",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Method, apparatus, and computer program product for reformatting an electronic prescription transaction",
+        "patent_id": "patent/US12229833B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12229833B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US8131570B2",
+        "primary_language": "en",
+        "priority_date": "1998-03-10",
+        "publication_date": "2012-03-06",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "Managing the business of a medical insurance plan",
+        "patent_id": "patent/US8131570B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8131570B2%2Fen"
+      },
+      {
+        "publication_number": "US8359208B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-09",
+        "publication_date": "2013-01-22",
+        "assignee_original": "Discover Holdings Limited",
+        "title": "Wellness program management and integration with payroll vendor systems",
+        "patent_id": "patent/US8359208B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8359208B2%2Fen"
+      },
+      {
+        "publication_number": "US7640173B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-17",
+        "publication_date": "2009-12-29",
+        "assignee_original": "Applied Medical Software, Inc.",
+        "title": "Method and system for evaluating a physician's economic performance and gainsharing of physician services",
+        "patent_id": "patent/US7640173B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7640173B2%2Fen"
+      },
+      {
+        "publication_number": "US7437303B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-07",
+        "publication_date": "2008-10-14",
+        "assignee_original": "Physician Hospital Services, Llc",
+        "title": "Method and system for implementing and tracking cost-saving measures in hospitals and compensating physicians",
+        "patent_id": "patent/US7437303B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7437303B2%2Fen"
+      },
+      {
+        "publication_number": "AU2003282505A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-08",
+        "publication_date": "2004-05-04",
+        "assignee_original": "Omnicare, Inc.",
+        "title": "System for storing and reporting pharmacy data",
+        "patent_id": "patent/AU2003282505A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2003282505A1%2Fen"
+      },
+      {
+        "publication_number": "AU2005201382A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-01",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Discovery Life Limited",
+        "title": "A method of managing a life insurance policy and a system therefor",
+        "patent_id": "patent/AU2005201382A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2005201382A1%2Fen"
+      },
+      {
+        "publication_number": "ZA200501719B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-16",
+        "publication_date": "2006-11-29",
+        "assignee_original": "Discovery Life Ltd",
+        "title": "Methods of managing a life insurance policy with a related medical scheme",
+        "patent_id": "patent/ZA200501719B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FZA200501719B%2Fen"
+      },
+      {
+        "publication_number": "US20090240532A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-06",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Adrian Gore",
+        "title": "System and method of managing an insurance scheme",
+        "patent_id": "patent/US20090240532A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090240532A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007141695A2",
+        "primary_language": "en",
+        "priority_date": "2006-06-07",
+        "publication_date": "2007-12-13",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/WO2007141695A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007141695A2%2Fen"
+      },
+      {
+        "publication_number": "US20100023384A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-26",
+        "publication_date": "2010-01-28",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "System and method for rewarding employees of an organisation",
+        "patent_id": "patent/US20100023384A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100023384A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009147593A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-03",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/WO2009147593A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009147593A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009147592A1",
+        "primary_language": "en",
+        "priority_date": "2008-06-03",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/WO2009147592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009147592A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009147594A1",
+        "primary_language": "en",
+        "priority_date": "2008-06-03",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/WO2009147594A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009147594A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009147591A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-03",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Discovery Holdings Limited",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/WO2009147591A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009147591A2%2Fen"
+      },
+      {
+        "publication_number": "US20100030571A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-04",
+        "publication_date": "2010-02-04",
+        "assignee_original": "Jones Dennis R",
+        "title": "Physician's practice aesthetic care program",
+        "patent_id": "patent/US20100030571A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100030571A1%2Fen"
+      },
+      {
+        "publication_number": "US20100100408A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-21",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Dion Kenneth W",
+        "title": "Professional continuing competency optimizer",
+        "patent_id": "patent/US20100100408A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100100408A1%2Fen"
+      },
+      {
+        "publication_number": "ZA201001743B",
+        "primary_language": "en",
+        "priority_date": "2009-03-11",
+        "publication_date": "2010-12-29",
+        "assignee_original": "Discovery Holdings Ltd",
+        "title": "Method of and system for operating an insurance scheme to insure a performance bonus of a person",
+        "patent_id": "patent/ZA201001743B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FZA201001743B%2Fen"
+      },
+      {
+        "publication_number": "KR20120088779A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-26",
+        "publication_date": "2012-08-08",
+        "assignee_original": "\ub514\uc2a4\ucee4\ubc84\ub9ac \ub77c\uc774\ud504 \ub9ac\ubbf8\ud2f0\ub4dc",
+        "title": "A system and method of managing an insurance scheme",
+        "patent_id": "patent/KR20120088779A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20120088779A%2Fen"
+      },
+      {
+        "publication_number": "US10128000B1",
+        "primary_language": "en",
+        "priority_date": "2012-04-19",
+        "publication_date": "2018-11-13",
+        "assignee_original": "Kaiser Foundation Hospitals",
+        "title": "Computer system and method for delivering operational intelligence for ambulatory team based care and virtual medicine",
+        "patent_id": "patent/US10128000B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10128000B1%2Fen"
+      },
+      {
+        "publication_number": "US20140019150A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-28",
+        "publication_date": "2014-01-16",
+        "assignee_original": "Christopher Tayler",
+        "title": "Systems and methods for providing financial analyses for service providers",
+        "patent_id": "patent/US20140019150A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140019150A1%2Fen"
+      },
+      {
+        "publication_number": "US20140081659A1",
+        "primary_language": "en",
+        "priority_date": "2012-09-17",
+        "publication_date": "2014-03-20",
+        "assignee_original": "Depuy Orthopaedics, Inc.",
+        "title": "Systems and methods for surgical and interventional planning, support, post-operative follow-up, and functional recovery tracking",
+        "patent_id": "patent/US20140081659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140081659A1%2Fen"
+      },
+      {
+        "publication_number": "ZA201308624B",
+        "primary_language": "en",
+        "priority_date": "2012-12-21",
+        "publication_date": "2015-02-25",
+        "assignee_original": "Destiny Health Inc",
+        "title": "A method of determining the attendance of an individual at a location and a system therefor",
+        "patent_id": "patent/ZA201308624B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FZA201308624B%2Fen"
+      },
+      {
+        "publication_number": "US11144554B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2021-10-12",
+        "assignee_original": "Parallax Behavioral Health, Inc.",
+        "title": "Platform for optimizing goal progression",
+        "patent_id": "patent/US11144554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11144554B2%2Fen"
+      },
+      {
+        "publication_number": "US10061812B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Parallax Behavioral Health, Inc",
+        "title": "Platform for optimizing data driven outcomes",
+        "patent_id": "patent/US10061812B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10061812B2%2Fen"
+      },
+      {
+        "publication_number": "US10558785B2",
+        "primary_language": "en",
+        "priority_date": "2016-01-27",
+        "publication_date": "2020-02-11",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Variable list based caching of patient information for evaluation of patient rules",
+        "patent_id": "patent/US10558785B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10558785B2%2Fen"
+      },
+      {
+        "publication_number": "US10528702B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-02",
+        "publication_date": "2020-01-07",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Multi-modal communication with patients based on historical analysis",
+        "patent_id": "patent/US10528702B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10528702B2%2Fen"
+      },
+      {
+        "publication_number": "US10937526B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2021-03-02",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Cognitive evaluation of assessment questions and answers to determine patient characteristics",
+        "patent_id": "patent/US10937526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10937526B2%2Fen"
+      },
+      {
+        "publication_number": "US10437957B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2019-10-08",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Driving patient campaign based on trend patterns in patient registry information",
+        "patent_id": "patent/US10437957B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10437957B2%2Fen"
+      },
+      {
+        "publication_number": "US11037658B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2021-06-15",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Clinical condition based cohort identification and evaluation",
+        "patent_id": "patent/US11037658B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11037658B2%2Fen"
+      },
+      {
+        "publication_number": "US10395330B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2019-08-27",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Evaluating vendor communications for accuracy and quality",
+        "patent_id": "patent/US10395330B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10395330B2%2Fen"
+      },
+      {
+        "publication_number": "US10565309B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2020-02-18",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Interpreting the meaning of clinical values in electronic medical records",
+        "patent_id": "patent/US10565309B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10565309B2%2Fen"
+      },
+      {
+        "publication_number": "US10685089B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-17",
+        "publication_date": "2020-06-16",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Modifying patient communications based on simulation of vendor communications",
+        "patent_id": "patent/US10685089B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10685089B2%2Fen"
+      },
+      {
+        "publication_number": "US10311388B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-22",
+        "publication_date": "2019-06-04",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Optimization of patient care team based on correlation of patient characteristics and care provider characteristics",
+        "patent_id": "patent/US10311388B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10311388B2%2Fen"
+      },
+      {
+        "publication_number": "US10923231B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-23",
+        "publication_date": "2021-02-16",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Dynamic selection and sequencing of healthcare assessments for patients",
+        "patent_id": "patent/US10923231B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10923231B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7398217B2",
+      "primary_language": "en",
+      "publication_date": "2008-07-08",
+      "title": "Methods and systems for healthcare practice management",
+      "patent_id": "patent/US7398217B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7398217B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7401027B2",
+      "primary_language": "en",
+      "publication_date": "2008-07-15",
+      "title": "Methods for collecting fees for healthcare management group",
+      "patent_id": "patent/US7401027B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7401027B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8700430B2",
+      "primary_language": "en",
+      "publication_date": "2014-04-15",
+      "title": "Optimization of a medication therapy regimen",
+      "patent_id": "patent/US8700430B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8700430B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8478605B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-02",
+      "title": "Appropriateness of a medication therapy regimen",
+      "patent_id": "patent/US8478605B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8478605B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7925519B2",
+      "primary_language": "en",
+      "publication_date": "2011-04-12",
+      "title": "Method and system for delivery of healthcare services",
+      "patent_id": "patent/US7925519B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7925519B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8165894B2",
+      "primary_language": "en",
+      "publication_date": "2012-04-24",
+      "title": "Fully automated health plan administrator",
+      "patent_id": "patent/US8165894B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8165894B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080126131A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-29",
+      "title": "Predictive Modeling And Risk Stratification Of A Medication Therapy Regimen",
+      "patent_id": "patent/US20080126131A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080126131A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080015894A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-17",
+      "title": "Health Risk Assessment Of A Medication Therapy Regimen",
+      "patent_id": "patent/US20080015894A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080015894A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080015893A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-17",
+      "title": "Identification of Inappropriate Medications In A Medication Therapy Regimen",
+      "patent_id": "patent/US20080015893A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080015893A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080126130A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-29",
+      "title": "Compliance With A Medication Therapy Regimen",
+      "patent_id": "patent/US20080126130A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080126130A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8548830B2",
+      "primary_language": "en",
+      "publication_date": "2013-10-01",
+      "title": "System and method for selecting healthcare management",
+      "patent_id": "patent/US8548830B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8548830B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001050383A1",
+      "primary_language": "en",
+      "publication_date": "2001-07-12",
+      "title": "System and method for facilitating selection of benefits",
+      "patent_id": "patent/WO2001050383A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001050383A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2688720A1",
+      "primary_language": "en",
+      "publication_date": "2008-11-27",
+      "title": "Systems and methods of analyzing healthcare data",
+      "patent_id": "patent/CA2688720A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2688720A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250095836A1",
+      "primary_language": "en",
+      "publication_date": "2025-03-20",
+      "title": "Healthcare occupational outcomes navigation engine",
+      "patent_id": "patent/US20250095836A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250095836A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10438291B1",
+      "primary_language": "en",
+      "publication_date": "2019-10-08",
+      "title": "Systems and methods for managing benefits in a health plan",
+      "patent_id": "patent/US10438291B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10438291B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6748621584158983737",
+      "scholar_authors": "Venkat et al.",
+      "publication_date": "2015",
+      "title": "Strategic management of operations in the emergency department",
+      "patent_id": "scholar/6748621584158983737",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6748621584158983737"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090248449A1",
+      "primary_language": "en",
+      "publication_date": "2009-10-01",
+      "title": "Care Plan Oversight Billing System",
+      "patent_id": "patent/US20090248449A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090248449A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6584330289975315887",
+      "scholar_authors": "Bernacki et al.",
+      "publication_date": "2006",
+      "title": "An investigation of the effects of a healthcare provider network on costs and lost time in workers\u2019 compensation",
+      "patent_id": "scholar/6584330289975315887",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6584330289975315887"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11335446B2",
+      "primary_language": "en",
+      "publication_date": "2022-05-17",
+      "title": "Method of optimizing healthcare services consumption",
+      "patent_id": "patent/US11335446B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11335446B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2608761396110485892",
+      "scholar_authors": "Conwell et al.",
+      "publication_date": "2019",
+      "title": "Evaluation of the Million Hearts\u00ae Cardiovascular Disease Risk Reduction Model: First Annual Report",
+      "patent_id": "scholar/2608761396110485892",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2608761396110485892"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1056715492104179035",
+      "scholar_authors": "Malas",
+      "publication_date": "2021",
+      "title": "Quality Assessment and Improvement",
+      "patent_id": "scholar/1056715492104179035",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1056715492104179035"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6440902531986782016",
+      "scholar_authors": "Kalainov et al.",
+      "publication_date": "2022",
+      "title": "Medicaid and the Children's Health Insurance Program: Understanding These Programs to Promote Advancements",
+      "patent_id": "scholar/6440902531986782016",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6440902531986782016"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13581435434800297741",
+      "scholar_authors": "Barney Singer et al.",
+      "publication_date": "1999",
+      "title": "Developing a managed care delivery system for people with HIV/AIDS",
+      "patent_id": "scholar/13581435434800297741",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13581435434800297741"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15079162968618180620",
+      "scholar_authors": "Prescott",
+      "publication_date": "1997",
+      "title": "PSNs: a new model for medicare risk contracting",
+      "patent_id": "scholar/15079162968618180620",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15079162968618180620"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11665846812075878122",
+      "scholar_authors": "Miller et al.",
+      "publication_date": "1987",
+      "title": "Using supply and demand economics to purchase health care",
+      "patent_id": "scholar/11665846812075878122",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11665846812075878122"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2001-09-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JASOS GROUP, FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:LEWIS, CHARLES;MOORE, TERRANCE;REEL/FRAME:012171/0811"
+        },
+        {
+          "label": "Effective date",
+          "value": "20010731"
+        }
+      ]
+    },
+    {
+      "date": "2008-06-18",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2009-03-10",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2009-03-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JASOS INTELLECTUAL PROPERTY, FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:THE JASOS GROUP, LLC;REEL/FRAME:022427/0574"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090130"
+        }
+      ]
+    },
+    {
+      "date": "2010-08-24",
+      "code": "RF",
+      "title": "Reissue application filed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20100708"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-21",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JASOS GROUP, LLC, FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "NUNC PRO TUNC ASSIGNMENT;ASSIGNORS:MOORE, TERRANCE;LEWIS, CHARLES;REEL/FRAME:026939/0411"
+        },
+        {
+          "label": "Effective date",
+          "value": "20110915"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JASOS INTELLECTUAL PROPERTY LLC, FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "NUNC PRO TUNC ASSIGNMENT;ASSIGNOR:JASOS GROUP, LLC;REEL/FRAME:026951/0260"
+        },
+        {
+          "label": "Effective date",
+          "value": "20110915"
+        }
+      ]
+    },
+    {
+      "date": "2011-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-29",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JASOS INTELLECTUAL PROPERTY LLC, FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF ADDRESS;ASSIGNOR:JASOS INTELLECTUAL PROPERTY LLC;REEL/FRAME:044535/0787"
+        },
+        {
+          "label": "Effective date",
+          "value": "20171129"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 235
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 86
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 72
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 72
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000001627",
+        "name": "detrimental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000001584",
+        "name": "occupational therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000000554",
+        "name": "physical therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000002630",
+        "name": "speech therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001225",
+        "name": "therapeutic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000000502",
+        "name": "dialysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002642",
+        "name": "intravenous therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000009206",
+        "name": "nuclear medicine",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000000056",
+        "name": "organ",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000002644",
+        "name": "respiratory therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001965",
+        "name": "increasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "206010061623",
+        "name": "Adverse drug reaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000030453",
+        "name": "Drug-Related Side Effects and Adverse reaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002860",
+        "name": "competitive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007405",
+        "name": "data analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001939",
+        "name": "inductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003607",
+        "name": "modifier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036961",
+        "name": "partial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008447",
+        "name": "perception",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000630",
+        "name": "rising effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002459",
+        "name": "sustained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

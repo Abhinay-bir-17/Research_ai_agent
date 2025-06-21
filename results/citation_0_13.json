@@ -1,0 +1,3644 @@
+{
+  "search_metadata": {
+    "id": "68514db080a07839689d466d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eb374c05712611d5/68514db080a07839689d466d.json",
+    "created_at": "2025-06-17 11:12:48 UTC",
+    "processed_at": "2025-06-17 11:12:48 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5492117A/en",
+    "raw_html_file": "https://serpapi.com/searches/eb374c05712611d5/68514db080a07839689d466d.html",
+    "total_time_taken": 0.89
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5492117A/en"
+  },
+  "title": "System and method for assessing medical risk",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/41/a4/9f/12c06967f058f4/US5492117.pdf",
+  "publication_number": "US5492117A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "data",
+    "mean",
+    "standard deviation",
+    "database",
+    "given"
+  ],
+  "prior_art_date": "1993-05-26",
+  "application_number": "US08/239,811",
+  "inventors": [
+    {
+      "name": "Alan J. Eisenberg",
+      "link": "https://patents.google.com/?inventor=Alan+J.+Eisenberg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Alan+J.+Eisenberg"
+    },
+    {
+      "name": "Alexander Adelson",
+      "link": "https://patents.google.com/?inventor=Alexander+Adelson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Alexander+Adelson"
+    }
+  ],
+  "assignees": [
+    "Base Ten Systems Inc"
+  ],
+  "priority_date": "1993-05-26",
+  "filing_date": "1994-05-09",
+  "publication_date": "1996-02-20",
+  "worldwide_applications": {
+    "1993": [
+      {
+        "filing_date": "1993-05-26",
+        "country_code": "US",
+        "application_number": "US08/067,305",
+        "document_id": "patent/US5594637A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "1994": [
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "CA",
+        "application_number": "CA002163082A",
+        "document_id": "patent/CA2163082A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "WO",
+        "application_number": "PCT/US1994/004690",
+        "document_id": "patent/WO1994027490A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "AU",
+        "application_number": "AU70156/94A",
+        "document_id": "patent/AU7015694A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "DE",
+        "application_number": "DE69414108T",
+        "document_id": "patent/DE69414108T2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "EP",
+        "application_number": "EP94919100A",
+        "document_id": "patent/EP0700542B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "AT",
+        "application_number": "AT94919100T",
+        "document_id": "patent/ATE172561T1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "1994-04-29",
+        "country_code": "JP",
+        "application_number": "JP7500642A",
+        "document_id": "patent/JPH09500290A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1994-05-09",
+        "country_code": "US",
+        "application_number": "US08/239,811",
+        "document_id": "patent/US5492117A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ],
+    "1997": [
+      {
+        "filing_date": "1997-09-11",
+        "country_code": "US",
+        "application_number": "US08/927,931",
+        "document_id": "patent/US5796759A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1994-05-09",
+      "title": "Application filed by Base Ten Systems Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Base Ten Systems Inc"
+    },
+    {
+      "date": "1994-05-09",
+      "title": "Priority to US08/239,811",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5492117A/en"
+    },
+    {
+      "date": "1996-02-20",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1996-02-20",
+      "title": "Publication of US5492117A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5492117A/en"
+    },
+    {
+      "date": "1997-09-11",
+      "title": "Priority to US08/927,931",
+      "type": "priority",
+      "document_id": "patent/US5796759A/en"
+    },
+    {
+      "date": "2013-05-26",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5492117.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08239811"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5492117"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5492117A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08239811/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5492117"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/58/30/e1/168c5ac64204bc/US5492117-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/56/ed/78/ac90791d04cafc/US5492117-drawings-page-3.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H15/00",
+      "description": "ICT specially adapted for medical reports, e.g. generation or transmission thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A system and method for assessing the medical risk of a given outcome for a patient comprises obtaining test data from a given patient corresponding to at least one test marker for predicting the medical risk of a given outcome and obtaining at least one variable relating to the given patient and transforming the test data with the variable to produce transformed data for each test markers. A database of transformed data from previously assessed patients is provided and mean and standard deviation values are determined from the database in accordance with the actual occurrence of the given outcome for previously assessed patients. The transformed data is compared with the mean and standard deviation values to assess the likelihood of the given outcome for the given patient and the database is updated with the actual occurrence for the given patient, whereby the determined mean and standard deviation will be adjusted.",
+  "description_link": "https://serpapi.com/searches/68514db080a07839689d466d/google_patents_details/description.html",
+  "claims": [
+    "1. A system for assessing a medical risk of a given outcome for a patient, the system comprising:data input means receptive of test data from a given patient corresponding to at least one test marker for predicting the medical risk of a given outcome and at least one variable relating to the given patient; means for transforming the test data with the variable to produce transformed data for each test marker; means storing a database of transformed data from other medical risk assessment systems for previously assessed patients; means for determining mean and standard deviation values from the database in accordance with an actual occurrence of the given outcome for previously assessed patients; means for comparing the transformed data with the mean and standard deviation values to assess a likelihood of the given outcome for the given patient; and means for locally updating the database of said system with the actual occurrence for the given patient; wherein the means for determining mean and standard deviation values includes means for locally adjusting determined mean and standard deviation values of said system for the locally updated database, whereby adjusted mean and standard deviation values for said system are adjusted for a particular patient population assessed by said system relative to mean and standard deviation values determined from the database from other medical risk assessment systems.",
+    "2. The system according to claim 1, further comprising means for storing predetermined requirements for risk data comprising the test data, the at least one variable, the transformed data, the determined mean and determined deviation, means for validating the data when received, transformed and determined with regard to the predetermined requirements and means for indicating when the data does not meet the requirements.",
+    "3. The system according to claim 1, for use in assessing prenatal risks, wherein said at least one test marker is selected from the group consisting of AFP, hCG and uE3.",
+    "4. The system according to claim 3, wherein said at least one variable is selected from the group consisting of age, race, weight and diabetic status.",
+    "5. The system according to claim 1, wherein at least two markers are used and further comprising means for correlating the comparisons of the transformed data for the at least two markers.",
+    "6. A method for assessing a medical risk of a given outcome for a patient, comprising the steps of:obtaining test data from a given patient from a particular patient population corresponding to at least one test marker for predicting the medical risk of a given outcome; obtaining at least one variable relating to the given patient and transforming the test data with the variable to produce transformed data for each test marker; providing a database of transformed data from previously assessed patients from other patient populations; determining mean and standard deviation values from the database in accordance with an actual occurrence of the given outcome for previously assessed patients; comparing the transformed data with the mean and standard deviation values to assess a likelihood of the given outcome for the given patient; and locally updating the database with the actual occurrence for the given patient and locally adjusting the mean and standard deviation values, whereby adjusted mean and standard deviation values are adjusted for the particular patient population relative to said mean and standard deviation values determined from the database from other patient populations.",
+    "7. The method according to claim 6, further comprising providing predetermined requirements for risk data comprising the test data, the at least one variable, the transformed data, the mean and the standard deviation, validating the data when received, transformed and determined with regard to the predetermined requirements and indicating when the data does not meet the requirements.",
+    "8. The method according to claim 6, for use in assessing prenatal risk, further comprising obtaining test markers including at least one selected from the group consisting of AFP, hCG and uE3.",
+    "9. The method according to claim 8, wherein the step of obtaining variables comprises obtaining at least one variable selected from the group consisting of age, race, weight and diabetic status.",
+    "10. The method according to claim 1, wherein at least two markers are used and further comprising correlating the comparisons of the transformed data for the at least two markers."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US52387995A",
+      "relation_type": "Division",
+      "priority_date": "1993-05-26",
+      "filing_date": "1995-09-06"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US08/067,305",
+      "relation_type": "Continuation",
+      "representative_publication": "US5594637A",
+      "primary_language": "en",
+      "priority_date": "1993-05-26",
+      "filing_date": "1993-05-26",
+      "title": "System and method for assessing medical risk"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/239,811",
+      "representative_publication": "US5492117A",
+      "primary_language": "en",
+      "priority_date": "1993-05-26",
+      "filing_date": "1994-05-09",
+      "title": "System and method for assessing medical risk"
+    },
+    {
+      "application_number": "US08/927,931",
+      "representative_publication": "US5796759A",
+      "primary_language": "en",
+      "priority_date": "1993-05-26",
+      "filing_date": "1997-09-11",
+      "title": "System and method for assessing medical risk"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/067,305",
+      "representative_publication": "US5594637A",
+      "primary_language": "en",
+      "priority_date": "1993-05-26",
+      "filing_date": "1993-05-26",
+      "title": "System and method for assessing medical risk"
+    },
+    {
+      "application_number": "US08/239,811",
+      "representative_publication": "US5492117A",
+      "primary_language": "en",
+      "priority_date": "1993-05-26",
+      "filing_date": "1994-05-09",
+      "title": "System and method for assessing medical risk"
+    }
+  ],
+  "family_id": "22075106",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4864492A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-09-17",
+        "publication_date": "1989-09-05",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "System and method for network configuration",
+        "patent_id": "patent/US4864492A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4864492A%2Fen"
+      },
+      {
+        "publication_number": "US5258907A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-17",
+        "publication_date": "1993-11-02",
+        "assignee_original": "Macri James N",
+        "title": "Method and apparatus for detecting down syndrome by non-invasive maternal blood screening",
+        "patent_id": "patent/US5258907A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5258907A%2Fen"
+      },
+      {
+        "publication_number": "US5316953A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-17",
+        "publication_date": "1994-05-31",
+        "assignee_original": "Macri James N",
+        "title": "Screening method for detecting fetal chromosal abnormalities",
+        "patent_id": "patent/US5316953A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5316953A%2Fen"
+      },
+      {
+        "publication_number": "US5324667A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-17",
+        "publication_date": "1994-06-28",
+        "assignee_original": "Macri James N",
+        "title": "Method for detecting down sydrown by non-invasive maternal blood screening",
+        "patent_id": "patent/US5324667A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5324667A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS5730016A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-07-31",
+        "publication_date": "1982-02-18",
+        "assignee_original": "Hitachi Ltd",
+        "title": "Interface controlling system",
+        "patent_id": "patent/JPS5730016A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS5730016A%2Fen"
+      },
+      {
+        "publication_number": "US4695471A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-07-30",
+        "publication_date": "1987-09-22",
+        "assignee_original": "Sloan-Kettering Institute For Cancer Research",
+        "title": "Breast cyst fluid screening method for cancer risk assessment",
+        "patent_id": "patent/US4695471A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4695471A%2Fen"
+      },
+      {
+        "publication_number": "JPS61133873A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-12-03",
+        "publication_date": "1986-06-21",
+        "assignee_original": "Mitsubishi Electric Corp",
+        "title": "Semiconductor tester",
+        "patent_id": "patent/JPS61133873A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS61133873A%2Fen"
+      },
+      {
+        "publication_number": "US4870576A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-03-19",
+        "publication_date": "1989-09-26",
+        "assignee_original": "Realpro, Ltd.",
+        "title": "Real estate search and location system and method",
+        "patent_id": "patent/US4870576A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4870576A%2Fen"
+      },
+      {
+        "publication_number": "US5191643A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-04-04",
+        "publication_date": "1993-03-02",
+        "assignee_original": "Alsenz Richard H",
+        "title": "Method and apparatus for refrigeration control and display",
+        "patent_id": "patent/US5191643A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5191643A%2Fen"
+      },
+      {
+        "publication_number": "JPH0648442B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-08-14",
+        "publication_date": "1994-06-22",
+        "assignee_original": "\u4e09\u83f1\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Sequence control device",
+        "patent_id": "patent/JPH0648442B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0648442B2%2Fen"
+      },
+      {
+        "publication_number": "JPS63271180A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-04-30",
+        "publication_date": "1988-11-09",
+        "assignee_original": "Fujitsu Ltd",
+        "title": "Integrated circuit test equipment",
+        "patent_id": "patent/JPS63271180A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63271180A%2Fen"
+      },
+      {
+        "publication_number": "GB8722899D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-09-30",
+        "publication_date": "1987-11-04",
+        "assignee_original": "Kirk D L",
+        "title": "Fetal monitoring during labour",
+        "patent_id": "patent/GB8722899D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB8722899D0%2Fen"
+      },
+      {
+        "publication_number": "US4957115A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-03-25",
+        "publication_date": "1990-09-18",
+        "assignee_original": "New England Medical Center Hosp.",
+        "title": "Device for determining the probability of death of cardiac patients",
+        "patent_id": "patent/US4957115A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4957115A%2Fen"
+      },
+      {
+        "publication_number": "US5046499A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-13",
+        "publication_date": "1991-09-10",
+        "assignee_original": "Centocor, Inc.",
+        "title": "Method for myocardial infarct risk assessment",
+        "patent_id": "patent/US5046499A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5046499A%2Fen"
+      },
+      {
+        "publication_number": "US5178544A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-11-16",
+        "publication_date": "1993-01-12",
+        "assignee_original": "Vivigen, Inc.",
+        "title": "Graphic method for reporting risk to a patient",
+        "patent_id": "patent/US5178544A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5178544A%2Fen"
+      },
+      {
+        "publication_number": "US5252489A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-01-17",
+        "publication_date": "1993-10-12",
+        "assignee_original": "Macri James N",
+        "title": "Down syndrome screening method utilizing dried blood samples",
+        "patent_id": "patent/US5252489A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5252489A%2Fen"
+      },
+      {
+        "publication_number": "CA2027751C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-11-30",
+        "publication_date": "2001-01-23",
+        "assignee_original": "Ronald Evan Norden-Paul",
+        "title": "Table modifiable edit functions with order-effective edit rules",
+        "patent_id": "patent/CA2027751C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2027751C%2Fen"
+      },
+      {
+        "publication_number": "US5231031A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-08-17",
+        "publication_date": "1993-07-27",
+        "assignee_original": "Fox Chase Cancer Center",
+        "title": "Method for assessing risk of diabetes-associated pathologic conditions and efficacy of therapies for such conditions",
+        "patent_id": "patent/US5231031A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5231031A%2Fen"
+      },
+      {
+        "publication_number": "JP2937440B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-08-21",
+        "publication_date": "1999-08-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Integrated circuit inspection equipment",
+        "patent_id": "patent/JP2937440B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2937440B2%2Fen"
+      },
+      {
+        "publication_number": "CA2055056C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-10",
+        "publication_date": "1996-05-14",
+        "assignee_original": "Shih-Gong Li",
+        "title": "Graphic definition of range in the selection of data from a database field",
+        "patent_id": "patent/CA2055056C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2055056C%2Fen"
+      },
+      {
+        "publication_number": "US5255208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-08-08",
+        "publication_date": "1993-10-19",
+        "assignee_original": "Aeg Westinghouse Transportation Systems, Inc.",
+        "title": "On-line processor based diagnostic system",
+        "patent_id": "patent/US5255208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5255208A%2Fen"
+      },
+      {
+        "publication_number": "US5442940A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-24",
+        "publication_date": "1995-08-22",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Apparatus and method for evaluating the fetal condition",
+        "patent_id": "patent/US5442940A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5442940A%2Fen"
+      },
+      {
+        "publication_number": "GB9212133D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-06-09",
+        "publication_date": "1992-07-22",
+        "assignee_original": "Polytechnic South West",
+        "title": "Medical signal analyzer",
+        "patent_id": "patent/GB9212133D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9212133D0%2Fen"
+      },
+      {
+        "publication_number": "US5339261A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-10-22",
+        "publication_date": "1994-08-16",
+        "assignee_original": "Base 10 Systems, Inc.",
+        "title": "System for operating application software in a safety critical environment",
+        "patent_id": "patent/US5339261A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5339261A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO1996025707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-17",
+        "publication_date": "1996-08-22",
+        "assignee_original": "Base Ten Systems, Inc.",
+        "title": "Method for operating application software in a safety critical environment",
+        "patent_id": "patent/WO1996025707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996025707A1%2Fen"
+      },
+      {
+        "publication_number": "US5692501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-20",
+        "publication_date": "1997-12-02",
+        "assignee_original": "Minturn; Paul",
+        "title": "Scientific wellness personal/clinical/laboratory assessments, profile and health risk managment system with insurability rankings on cross-correlated 10-point optical health/fitness/wellness scales",
+        "patent_id": "patent/US5692501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5692501A%2Fen"
+      },
+      {
+        "publication_number": "US5724580A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-31",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Qmed, Inc.",
+        "title": "System and method of generating prognosis and therapy reports for coronary health management",
+        "patent_id": "patent/US5724580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724580A%2Fen"
+      },
+      {
+        "publication_number": "DE19638738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-10",
+        "publication_date": "1998-03-12",
+        "assignee_original": "Ralf Dr Bousseljot",
+        "title": "Evaluation system for deriving diagnostic information from signals and data from medical sensor systems",
+        "patent_id": "patent/DE19638738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19638738A1%2Fen"
+      },
+      {
+        "publication_number": "DE19718806A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-05-03",
+        "publication_date": "1998-11-05",
+        "assignee_original": "Forschungszentrum Juelich Gmbh",
+        "title": "Diagnosis using respiratory sinus arrhythmia",
+        "patent_id": "patent/DE19718806A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19718806A1%2Fen"
+      },
+      {
+        "publication_number": "US5937387A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-04",
+        "publication_date": "1999-08-10",
+        "assignee_original": "Real Age, Inc.",
+        "title": "System and method for developing and selecting a customized wellness plan",
+        "patent_id": "patent/US5937387A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5937387A%2Fen"
+      },
+      {
+        "publication_number": "US5976082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-17",
+        "publication_date": "1999-11-02",
+        "assignee_original": "Smithkline Beecham Corporation",
+        "title": "Method for identifying at risk patients diagnosed with congestive heart failure",
+        "patent_id": "patent/US5976082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5976082A%2Fen"
+      },
+      {
+        "publication_number": "WO1999060926A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-28",
+        "publication_date": "1999-12-02",
+        "assignee_original": "The Trustees Of Columbia University In The City Of New York",
+        "title": "System and method for remotely monitoring asthma severity",
+        "patent_id": "patent/WO1999060926A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999060926A1%2Fen"
+      },
+      {
+        "publication_number": "US6334192B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-09",
+        "publication_date": "2001-12-25",
+        "assignee_original": "Ronald S. Karpf",
+        "title": "Computer system and method for a self administered risk assessment",
+        "patent_id": "patent/US6334192B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6334192B1%2Fen"
+      },
+      {
+        "publication_number": "US20040254434A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-10",
+        "publication_date": "2004-12-16",
+        "assignee_original": "Goodnow Timothy T.",
+        "title": "Glucose measuring module and insulin pump combination",
+        "patent_id": "patent/US20040254434A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040254434A1%2Fen"
+      },
+      {
+        "publication_number": "US20050228692A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-08",
+        "publication_date": "2005-10-13",
+        "assignee_original": "Hodgdon Darren W",
+        "title": "Incentive based health care insurance program",
+        "patent_id": "patent/US20050228692A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050228692A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-08",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Hodgdon Darren W",
+        "title": "Incentive based health care insurance program",
+        "patent_id": "patent/US20050234742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234742A1%2Fen"
+      },
+      {
+        "publication_number": "US20050251054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-10",
+        "publication_date": "2005-11-10",
+        "assignee_original": "Medpond, Llc",
+        "title": "Method and apparatus for measurement of autonomic nervous system function",
+        "patent_id": "patent/US20050251054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050251054A1%2Fen"
+      },
+      {
+        "publication_number": "US20060122873A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-01",
+        "publication_date": "2006-06-08",
+        "assignee_original": "Minotto Francis J",
+        "title": "Method and system for managing risk",
+        "patent_id": "patent/US20060122873A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060122873A1%2Fen"
+      },
+      {
+        "publication_number": "US20060241972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-26",
+        "publication_date": "2006-10-26",
+        "assignee_original": "Lang Robert G",
+        "title": "Medical outcomes systems",
+        "patent_id": "patent/US20060241972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060241972A1%2Fen"
+      },
+      {
+        "publication_number": "US20070118398A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Flicker Technologies, Llc",
+        "title": "System and method for estimating life expectancy and providing customized advice for improving life expectancy",
+        "patent_id": "patent/US20070118398A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118398A1%2Fen"
+      },
+      {
+        "publication_number": "US20070239490A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-02",
+        "publication_date": "2007-10-11",
+        "assignee_original": "Sullivan Daniel J",
+        "title": "Computerized risk management module for medical diagnosis",
+        "patent_id": "patent/US20070239490A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070239490A1%2Fen"
+      },
+      {
+        "publication_number": "US20080060955A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-15",
+        "publication_date": "2008-03-13",
+        "assignee_original": "Therasense, Inc.",
+        "title": "Glucose measuring device integrated into a holster for a personal area network device",
+        "patent_id": "patent/US20080060955A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080060955A1%2Fen"
+      },
+      {
+        "publication_number": "US20080140456A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-11",
+        "publication_date": "2008-06-12",
+        "assignee_original": "Glick Gregg W",
+        "title": "Evaluating susceptibility to a claim occurring infrequently",
+        "patent_id": "patent/US20080140456A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080140456A1%2Fen"
+      },
+      {
+        "publication_number": "US20090030723A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-27",
+        "publication_date": "2009-01-29",
+        "assignee_original": "Buchanan Philip D",
+        "title": "Method of genetic screening and analysis",
+        "patent_id": "patent/US20090030723A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090030723A1%2Fen"
+      },
+      {
+        "publication_number": "US7739124B1",
+        "primary_language": "en",
+        "priority_date": "2000-06-02",
+        "publication_date": "2010-06-15",
+        "assignee_original": "Walker Digital, Llc",
+        "title": "System, method and apparatus for encouraging the undertaking of a preventative treatment",
+        "patent_id": "patent/US7739124B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7739124B1%2Fen"
+      },
+      {
+        "publication_number": "US20110040489A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-04",
+        "publication_date": "2011-02-17",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Diabetes Care Host-Client Architecture and Data Management System",
+        "patent_id": "patent/US20110040489A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110040489A1%2Fen"
+      },
+      {
+        "publication_number": "US7945462B1",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2011-05-17",
+        "assignee_original": "United Services Automobile Association (Usaa)",
+        "title": "Systems and methods of automating reconsideration of cardiac risk",
+        "patent_id": "patent/US7945462B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7945462B1%2Fen"
+      },
+      {
+        "publication_number": "US8005694B1",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2011-08-23",
+        "assignee_original": "United Services Automobile Association",
+        "title": "Systems and methods of automating consideration of low cholesterol risk",
+        "patent_id": "patent/US8005694B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8005694B1%2Fen"
+      },
+      {
+        "publication_number": "US8019628B1",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2011-09-13",
+        "assignee_original": "United Services Automobile Association",
+        "title": "Systems and methods of automating determination of hepatitis risk",
+        "patent_id": "patent/US8019628B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8019628B1%2Fen"
+      },
+      {
+        "publication_number": "US8024204B1",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2011-09-20",
+        "assignee_original": "United Services Automobile Association",
+        "title": "Systems and methods of automating determination of low body mass risk",
+        "patent_id": "patent/US8024204B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8024204B1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20150186023A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-30",
+        "publication_date": "2015-07-02",
+        "assignee_original": "Welch Allyn, Inc.",
+        "title": "Parameter measuring device with manual override selection",
+        "patent_id": "patent/US20150186023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150186023A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US10468139B1",
+        "primary_language": "en",
+        "priority_date": "2005-12-28",
+        "publication_date": "2019-11-05",
+        "assignee_original": "United Services Automobile Association",
+        "title": "Systems and methods of automating consideration of low body mass risk",
+        "patent_id": "patent/US10468139B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10468139B1%2Fen"
+      },
+      {
+        "publication_number": "US11534089B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-28",
+        "publication_date": "2022-12-27",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Devices, systems, and methods associated with analyte monitoring devices and devices incorporating the same",
+        "patent_id": "patent/US11534089B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11534089B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5956501A",
+        "primary_language": "en",
+        "priority_date": "1997-01-10",
+        "publication_date": "1999-09-21",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Disease simulation system and method",
+        "patent_id": "patent/US5956501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956501A%2Fen"
+      },
+      {
+        "publication_number": "US5951300A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-10",
+        "publication_date": "1999-09-14",
+        "assignee_original": "Health Hero Network",
+        "title": "Online system and method for providing composite entertainment and health information",
+        "patent_id": "patent/US5951300A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5951300A%2Fen"
+      },
+      {
+        "publication_number": "US5832448A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-16",
+        "publication_date": "1998-11-03",
+        "assignee_original": "Health Hero Network",
+        "title": "Multiple patient monitoring system for proactive health management",
+        "patent_id": "patent/US5832448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5832448A%2Fen"
+      },
+      {
+        "publication_number": "US8027809B2",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2011-09-27",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Home power management system",
+        "patent_id": "patent/US8027809B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8027809B2%2Fen"
+      },
+      {
+        "publication_number": "US6968375B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-28",
+        "publication_date": "2005-11-22",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Networked system for interactive communication and remote monitoring of individuals",
+        "patent_id": "patent/US6968375B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6968375B1%2Fen"
+      },
+      {
+        "publication_number": "US20040019259A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2004-01-29",
+        "assignee_original": "Brown Stephen J.",
+        "title": "Remote monitoring and data management platform",
+        "patent_id": "patent/US20040019259A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040019259A1%2Fen"
+      },
+      {
+        "publication_number": "US8078407B1",
+        "primary_language": "en",
+        "priority_date": "1997-03-28",
+        "publication_date": "2011-12-13",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "System and method for identifying disease-influencing genes",
+        "patent_id": "patent/US8078407B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8078407B1%2Fen"
+      },
+      {
+        "publication_number": "US7624028B1",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2009-11-24",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Remote health monitoring and maintenance system",
+        "patent_id": "patent/US7624028B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7624028B1%2Fen"
+      },
+      {
+        "publication_number": "US8095340B2",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2012-01-10",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Home power management system",
+        "patent_id": "patent/US8095340B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8095340B2%2Fen"
+      },
+      {
+        "publication_number": "US9215979B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2015-12-22",
+        "assignee_original": "Robert Bosch Healthcare Systems, Inc.",
+        "title": "Multi-user remote health monitoring system",
+        "patent_id": "patent/US9215979B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9215979B2%2Fen"
+      },
+      {
+        "publication_number": "US5307263A",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "1994-04-26",
+        "assignee_original": "Raya Systems, Inc.",
+        "title": "Modular microprocessor-based health monitoring system",
+        "patent_id": "patent/US5307263A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5307263A%2Fen"
+      },
+      {
+        "publication_number": "US7941326B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-14",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Interactive patient communication development system for reporting on patient healthcare management",
+        "patent_id": "patent/US7941326B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7941326B2%2Fen"
+      },
+      {
+        "publication_number": "US6330426B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-23",
+        "publication_date": "2001-12-11",
+        "assignee_original": "Stephen J. Brown",
+        "title": "System and method for remote education using a memory card",
+        "patent_id": "patent/US6330426B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6330426B2%2Fen"
+      },
+      {
+        "publication_number": "US8078431B2",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2011-12-13",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Home power management system",
+        "patent_id": "patent/US8078431B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8078431B2%2Fen"
+      },
+      {
+        "publication_number": "AU1766201A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2001-05-30",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Method and system for improving adherence with a diet program or other medical regimen",
+        "patent_id": "patent/AU1766201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU1766201A%2Fen"
+      },
+      {
+        "publication_number": "US7613590B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2009-11-03",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Modular microprocessor-based power tool system",
+        "patent_id": "patent/US7613590B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7613590B2%2Fen"
+      },
+      {
+        "publication_number": "US8626521B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-11-21",
+        "publication_date": "2014-01-07",
+        "assignee_original": "Robert Bosch Healthcare Systems, Inc.",
+        "title": "Public health surveillance system",
+        "patent_id": "patent/US8626521B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8626521B2%2Fen"
+      },
+      {
+        "publication_number": "US7970620B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2011-06-28",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Multi-user remote health monitoring system with biometrics support",
+        "patent_id": "patent/US7970620B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7970620B2%2Fen"
+      },
+      {
+        "publication_number": "US20070299321A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2007-12-27",
+        "assignee_original": "Brown Stephen J",
+        "title": "Method and apparatus for remote health monitoring and providing health related information",
+        "patent_id": "patent/US20070299321A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070299321A1%2Fen"
+      },
+      {
+        "publication_number": "US20010011224A1",
+        "primary_language": "en",
+        "priority_date": "1995-06-07",
+        "publication_date": "2001-08-02",
+        "assignee_original": "Stephen James Brown",
+        "title": "Modular microprocessor-based health monitoring system",
+        "patent_id": "patent/US20010011224A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010011224A1%2Fen"
+      },
+      {
+        "publication_number": "US8015033B2",
+        "primary_language": "en",
+        "priority_date": "1994-04-26",
+        "publication_date": "2011-09-06",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Treatment regimen compliance and efficacy with feedback",
+        "patent_id": "patent/US8015033B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8015033B2%2Fen"
+      },
+      {
+        "publication_number": "US5557514A",
+        "primary_language": "en",
+        "priority_date": "1994-06-23",
+        "publication_date": "1996-09-17",
+        "assignee_original": "Medicode, Inc.",
+        "title": "Method and system for generating statistically-based medical provider utilization profiles",
+        "patent_id": "patent/US5557514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5557514A%2Fen"
+      },
+      {
+        "publication_number": "US7222079B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-23",
+        "publication_date": "2007-05-22",
+        "assignee_original": "Ingenix, Inc.",
+        "title": "Method and system for generating statistically-based medical provider utilization profiles",
+        "patent_id": "patent/US7222079B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7222079B1%2Fen"
+      },
+      {
+        "publication_number": "US6242463B1",
+        "primary_language": "en",
+        "priority_date": "1994-10-31",
+        "publication_date": "2001-06-05",
+        "assignee_original": "Opt-E-Scrip, Inc.",
+        "title": "Method and kit for treating illnesses",
+        "patent_id": "patent/US6242463B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6242463B1%2Fen"
+      },
+      {
+        "publication_number": "US6434531B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-28",
+        "publication_date": "2002-08-13",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "Method and system for facilitating patient care plans",
+        "patent_id": "patent/US6434531B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6434531B1%2Fen"
+      },
+      {
+        "publication_number": "US5946659A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-28",
+        "publication_date": "1999-08-31",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "System and method for notification and access of patient care information being simultaneously entered",
+        "patent_id": "patent/US5946659A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5946659A%2Fen"
+      },
+      {
+        "publication_number": "NZ314144A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-02",
+        "publication_date": "1999-04-29",
+        "assignee_original": "Smithkline Beecham Corp",
+        "title": "Computerised identification of at risk patients diagnosed with depression",
+        "patent_id": "patent/NZ314144A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ314144A%2Fen"
+      },
+      {
+        "publication_number": "US6678669B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-09",
+        "publication_date": "2004-01-13",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Method for selecting medical and biochemical diagnostic tests using neural network-related applications",
+        "patent_id": "patent/US6678669B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6678669B2%2Fen"
+      },
+      {
+        "publication_number": "US7305348B1",
+        "primary_language": "en",
+        "priority_date": "1996-02-20",
+        "publication_date": "2007-12-04",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Aggregating and pooling health related information in a communication system with feedback",
+        "patent_id": "patent/US7305348B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7305348B1%2Fen"
+      },
+      {
+        "publication_number": "JP3688822B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-03",
+        "publication_date": "2005-08-31",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Electronic medical record system",
+        "patent_id": "patent/JP3688822B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3688822B2%2Fen"
+      },
+      {
+        "publication_number": "US7584108B2",
+        "primary_language": "en",
+        "priority_date": "1996-12-23",
+        "publication_date": "2009-09-01",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Network media access control system for encouraging patient compliance with a treatment plan",
+        "patent_id": "patent/US7584108B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7584108B2%2Fen"
+      },
+      {
+        "publication_number": "US6032119A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-16",
+        "publication_date": "2000-02-29",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Personalized display of health information",
+        "patent_id": "patent/US6032119A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6032119A%2Fen"
+      },
+      {
+        "publication_number": "US5956689A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-31",
+        "publication_date": "1999-09-21",
+        "assignee_original": "Accordant Health Services, Inc.",
+        "title": "Systems, methods and computer program products for using event specificity to identify patients having a specified disease",
+        "patent_id": "patent/US5956689A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956689A%2Fen"
+      },
+      {
+        "publication_number": "US6587829B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-31",
+        "publication_date": "2003-07-01",
+        "assignee_original": "Schering Corporation",
+        "title": "Method and apparatus for improving patient compliance with prescriptions",
+        "patent_id": "patent/US6587829B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6587829B1%2Fen"
+      },
+      {
+        "publication_number": "US6230142B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-12-24",
+        "publication_date": "2001-05-08",
+        "assignee_original": "Homeopt, Llc",
+        "title": "Health care data manipulation and analysis system",
+        "patent_id": "patent/US6230142B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6230142B1%2Fen"
+      },
+      {
+        "publication_number": "US6394952B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-03",
+        "publication_date": "2002-05-28",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6394952B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6394952B1%2Fen"
+      },
+      {
+        "publication_number": "US6267722B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-03",
+        "publication_date": "2001-07-31",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6267722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6267722B1%2Fen"
+      },
+      {
+        "publication_number": "USD432244S",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-20",
+        "publication_date": "2000-10-17",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Device for encasing an assay test strip",
+        "patent_id": "patent/USD432244S/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD432244S%2Fen"
+      },
+      {
+        "publication_number": "USD434153S",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-20",
+        "publication_date": "2000-11-21",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care analyte detector system",
+        "patent_id": "patent/USD434153S/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD434153S%2Fen"
+      },
+      {
+        "publication_number": "US6045501A",
+        "primary_language": "en",
+        "priority_date": "1998-08-28",
+        "publication_date": "2000-04-04",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while preventing the exposure of a foetus or other contraindicated individual to the drug",
+        "patent_id": "patent/US6045501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6045501A%2Fen"
+      },
+      {
+        "publication_number": "US8005690B2",
+        "primary_language": "en",
+        "priority_date": "1998-09-25",
+        "publication_date": "2011-08-23",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Dynamic modeling and scoring risk assessment",
+        "patent_id": "patent/US8005690B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8005690B2%2Fen"
+      },
+      {
+        "publication_number": "US7115277B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-04",
+        "publication_date": "2006-10-03",
+        "assignee_original": "Allergan, Inc.",
+        "title": "Method for enabling delivery of an active agent",
+        "patent_id": "patent/US7115277B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7115277B2%2Fen"
+      },
+      {
+        "publication_number": "US20080201168A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-03",
+        "publication_date": "2008-08-21",
+        "assignee_original": "Brown Stephen J",
+        "title": "Treatment regimen compliance and efficacy with feedback",
+        "patent_id": "patent/US20080201168A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080201168A1%2Fen"
+      },
+      {
+        "publication_number": "CA2376831A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-29",
+        "publication_date": "2001-01-04",
+        "assignee_original": "Intercet, Ltd.",
+        "title": "Human cancer virtual simulation system",
+        "patent_id": "patent/CA2376831A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2376831A1%2Fen"
+      },
+      {
+        "publication_number": "DE60139457D1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-02",
+        "publication_date": "2009-09-17",
+        "assignee_original": "Gen Hospital Corp",
+        "title": "UNGEN USING A TISSUE HAZARD CARD",
+        "patent_id": "patent/DE60139457D1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE60139457D1%2Fen"
+      },
+      {
+        "publication_number": "US20020038227A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-25",
+        "publication_date": "2002-03-28",
+        "assignee_original": "Fey Christopher T.",
+        "title": "Method for centralized health data management",
+        "patent_id": "patent/US20020038227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020038227A1%2Fen"
+      },
+      {
+        "publication_number": "US6322504B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-27",
+        "publication_date": "2001-11-27",
+        "assignee_original": "R And T, Llc",
+        "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease",
+        "patent_id": "patent/US6322504B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6322504B1%2Fen"
+      },
+      {
+        "publication_number": "US6957218B1",
+        "primary_language": "en",
+        "priority_date": "2000-04-06",
+        "publication_date": "2005-10-18",
+        "assignee_original": "Medical Central Online",
+        "title": "Method and system for creating a website for a healthcare provider",
+        "patent_id": "patent/US6957218B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6957218B1%2Fen"
+      },
+      {
+        "publication_number": "US20020052761A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-11",
+        "publication_date": "2002-05-02",
+        "assignee_original": "Fey Christopher T.",
+        "title": "Method and system for genetic screening data collection, analysis, report generation and access",
+        "patent_id": "patent/US20020052761A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020052761A1%2Fen"
+      },
+      {
+        "publication_number": "US6847940B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-16",
+        "publication_date": "2005-01-25",
+        "assignee_original": "John S. Shelton",
+        "title": "System and methods for providing a health care industry trade show via internet",
+        "patent_id": "patent/US6847940B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6847940B1%2Fen"
+      },
+      {
+        "publication_number": "WO2002006826A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-17",
+        "publication_date": "2002-01-24",
+        "assignee_original": "Opt-E-Scrip, Inc.",
+        "title": "Single-patient drug trials used with accumulated database",
+        "patent_id": "patent/WO2002006826A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002006826A1%2Fen"
+      },
+      {
+        "publication_number": "US6315720B1",
+        "primary_language": "en",
+        "priority_date": "2000-10-23",
+        "publication_date": "2001-11-13",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while avoiding the occurrence of an adverse side effect known or suspected of being caused by the drug",
+        "patent_id": "patent/US6315720B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6315720B1%2Fen"
+      },
+      {
+        "publication_number": "US20020123906A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-29",
+        "publication_date": "2002-09-05",
+        "assignee_original": "Goetzke Gary A.",
+        "title": "Chronic pain patient risk stratification system",
+        "patent_id": "patent/US20020123906A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020123906A1%2Fen"
+      },
+      {
+        "publication_number": "US7319971B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-31",
+        "publication_date": "2008-01-15",
+        "assignee_original": "Corprofit Systems Pty Ltd",
+        "title": "System for managing risk",
+        "patent_id": "patent/US7319971B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7319971B2%2Fen"
+      },
+      {
+        "publication_number": "TWI248508B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-27",
+        "publication_date": "2006-02-01",
+        "assignee_original": "Matsushita Electric Ind Co Ltd",
+        "title": "Method for extracting significant signal, recording medium and program",
+        "patent_id": "patent/TWI248508B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI248508B%2Fen"
+      },
+      {
+        "publication_number": "US6778994B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-02",
+        "publication_date": "2004-08-17",
+        "assignee_original": "Victor Gogolak",
+        "title": "Pharmacovigilance database",
+        "patent_id": "patent/US6778994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6778994B2%2Fen"
+      },
+      {
+        "publication_number": "US7542961B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-02",
+        "publication_date": "2009-06-02",
+        "assignee_original": "Victor Gogolak",
+        "title": "Method and system for analyzing drug adverse effects",
+        "patent_id": "patent/US7542961B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7542961B2%2Fen"
+      },
+      {
+        "publication_number": "US7925612B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-02",
+        "publication_date": "2011-04-12",
+        "assignee_original": "Victor Gogolak",
+        "title": "Method for graphically depicting drug adverse effect risks",
+        "patent_id": "patent/US7925612B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7925612B2%2Fen"
+      },
+      {
+        "publication_number": "US6789091B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-02",
+        "publication_date": "2004-09-07",
+        "assignee_original": "Victor Gogolak",
+        "title": "Method and system for web-based analysis of drug adverse effects",
+        "patent_id": "patent/US6789091B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6789091B2%2Fen"
+      },
+      {
+        "publication_number": "US20020183965A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-02",
+        "publication_date": "2002-12-05",
+        "assignee_original": "Gogolak Victor V.",
+        "title": "Method for analyzing drug adverse effects employing multivariate statistical analysis",
+        "patent_id": "patent/US20020183965A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020183965A1%2Fen"
+      },
+      {
+        "publication_number": "US20020192159A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-01",
+        "publication_date": "2002-12-19",
+        "assignee_original": "Reitberg Donald P.",
+        "title": "Single-patient drug trials used with accumulated database: flowchart",
+        "patent_id": "patent/US20020192159A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020192159A1%2Fen"
+      },
+      {
+        "publication_number": "US7461006B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-29",
+        "publication_date": "2008-12-02",
+        "assignee_original": "Victor Gogolak",
+        "title": "Method and system for the analysis and association of patient-specific and population-based genomic data with drug safety adverse event data",
+        "patent_id": "patent/US7461006B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7461006B2%2Fen"
+      },
+      {
+        "publication_number": "US20030171657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-22",
+        "publication_date": "2003-09-11",
+        "assignee_original": "Ralph Leonard",
+        "title": "Selection of optimal medication methodology (SOOMM)",
+        "patent_id": "patent/US20030171657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030171657A1%2Fen"
+      },
+      {
+        "publication_number": "US20030204419A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-10-30",
+        "assignee_original": "Wilkes Gordon J.",
+        "title": "Automated messaging center system and method for use with a healthcare system",
+        "patent_id": "patent/US20030204419A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030204419A1%2Fen"
+      },
+      {
+        "publication_number": "US8775196B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for notification and escalation of medical data",
+        "patent_id": "patent/US8775196B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8775196B2%2Fen"
+      },
+      {
+        "publication_number": "US10173008B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2019-01-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for communicating with a dialysis machine through a network",
+        "patent_id": "patent/US10173008B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10173008B2%2Fen"
+      },
+      {
+        "publication_number": "US20040176667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2004-09-09",
+        "assignee_original": "Mihai Dan M.",
+        "title": "Method and system for medical device connectivity",
+        "patent_id": "patent/US20040176667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040176667A1%2Fen"
+      },
+      {
+        "publication_number": "US20030201697A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-10-30",
+        "assignee_original": "Richardson William R.",
+        "title": "Storage device for health care facility",
+        "patent_id": "patent/US20030201697A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030201697A1%2Fen"
+      },
+      {
+        "publication_number": "US20040172300A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2004-09-02",
+        "assignee_original": "Mihai Dan M.",
+        "title": "Method and system for integrating data flows",
+        "patent_id": "patent/US20040172300A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040172300A1%2Fen"
+      },
+      {
+        "publication_number": "US8234128B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-30",
+        "publication_date": "2012-07-31",
+        "assignee_original": "Baxter International, Inc.",
+        "title": "System and method for verifying medical device operational parameters",
+        "patent_id": "patent/US8234128B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8234128B2%2Fen"
+      },
+      {
+        "publication_number": "US20040172301A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2004-09-02",
+        "assignee_original": "Mihai Dan M.",
+        "title": "Remote multi-purpose user interface for a healthcare system",
+        "patent_id": "patent/US20040172301A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040172301A1%2Fen"
+      },
+      {
+        "publication_number": "US20050065817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2005-03-24",
+        "assignee_original": "Mihai Dan M.",
+        "title": "Separation of validated information and functions in a healthcare system",
+        "patent_id": "patent/US20050065817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050065817A1%2Fen"
+      },
+      {
+        "publication_number": "US20040167804A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2004-08-26",
+        "assignee_original": "Simpson Thomas L.C.",
+        "title": "Medical data communication notification and messaging system and method",
+        "patent_id": "patent/US20040167804A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040167804A1%2Fen"
+      },
+      {
+        "publication_number": "USRE48890E1",
+        "primary_language": "en",
+        "priority_date": "2002-05-17",
+        "publication_date": "2022-01-11",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for treating multiple myeloma with 3-(4-amino-1-oxo-1,3-dihydroisoindol-2-yl)-piperidine-2,6-dione after stem cell transplantation",
+        "patent_id": "patent/USRE48890E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE48890E1%2Fen"
+      },
+      {
+        "publication_number": "US7968569B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-17",
+        "publication_date": "2011-06-28",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for treatment of multiple myeloma using 3-(4-amino-1-oxo-1,3-dihydro-isoindol-2-yl)-piperidine-2,6-dione",
+        "patent_id": "patent/US7968569B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7968569B2%2Fen"
+      },
+      {
+        "publication_number": "US20040078231A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-31",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Wilkes Gordon J.",
+        "title": "System and method for facilitating and administering treatment to a patient, including clinical decision making, order workflow and integration of clinical documentation",
+        "patent_id": "patent/US20040078231A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078231A1%2Fen"
+      },
+      {
+        "publication_number": "US20030225596A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-31",
+        "publication_date": "2003-12-04",
+        "assignee_original": "Richardson Bill R.",
+        "title": "Biometric security for access to a storage device for a healthcare facility",
+        "patent_id": "patent/US20030225596A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030225596A1%2Fen"
+      },
+      {
+        "publication_number": "US8404716B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-15",
+        "publication_date": "2013-03-26",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods of treating myelodysplastic syndromes with a combination therapy using lenalidomide and azacitidine",
+        "patent_id": "patent/US8404716B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8404716B2%2Fen"
+      },
+      {
+        "publication_number": "US11116782B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-15",
+        "publication_date": "2021-09-14",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods of treating myelodysplastic syndromes with a combination therapy using lenalidomide and azacitidine",
+        "patent_id": "patent/US11116782B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11116782B2%2Fen"
+      },
+      {
+        "publication_number": "US20040088189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-06",
+        "publication_date": "2004-05-06",
+        "assignee_original": "Veome Edmond A.",
+        "title": "System and method for monitoring , reporting, managing and administering the treatment of a blood component",
+        "patent_id": "patent/US20040088189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040088189A1%2Fen"
+      },
+      {
+        "publication_number": "US20050060194A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-04-04",
+        "publication_date": "2005-03-17",
+        "assignee_original": "Brown Stephen J.",
+        "title": "Method and system for monitoring health of an individual",
+        "patent_id": "patent/US20050060194A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050060194A1%2Fen"
+      },
+      {
+        "publication_number": "US7260480B1",
+        "primary_language": "en",
+        "priority_date": "2003-04-07",
+        "publication_date": "2007-08-21",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Method and system for integrating feedback loops in medical knowledge development and healthcare management",
+        "patent_id": "patent/US7260480B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7260480B1%2Fen"
+      },
+      {
+        "publication_number": "US7399276B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-08",
+        "publication_date": "2008-07-15",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Remote health monitoring system",
+        "patent_id": "patent/US7399276B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7399276B1%2Fen"
+      },
+      {
+        "publication_number": "US7254566B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2007-08-07",
+        "assignee_original": "Merkle Van D",
+        "title": "System and method for medical diagnosis",
+        "patent_id": "patent/US7254566B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7254566B2%2Fen"
+      },
+      {
+        "publication_number": "US7282031B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-17",
+        "publication_date": "2007-10-16",
+        "assignee_original": "Ann Hendrich & Associates",
+        "title": "Method and system for assessing fall risk",
+        "patent_id": "patent/US7282031B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7282031B2%2Fen"
+      },
+      {
+        "publication_number": "US8340981B1",
+        "primary_language": "en",
+        "priority_date": "2004-03-02",
+        "publication_date": "2012-12-25",
+        "assignee_original": "Cave Consulting Group, Inc.",
+        "title": "Method, system, and computer program product for physician efficiency measurement and patient health risk stratification utilizing variable windows for episode creation",
+        "patent_id": "patent/US8340981B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8340981B1%2Fen"
+      },
+      {
+        "publication_number": "JP2005309506A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-16",
+        "publication_date": "2005-11-04",
+        "assignee_original": "Fuji Photo Film Co Ltd",
+        "title": "Medical information management device, method, and program",
+        "patent_id": "patent/JP2005309506A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005309506A%2Fen"
+      },
+      {
+        "publication_number": "DE102004043312A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-08",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Ipocare Gmbh & Co. Kg",
+        "title": "Patient health disturbance e.g. respiratory insufficiency, medical risk measuring and monitoring method for use in hospital, involves determining risk value from values of physiological parameters of patient and time-based changes",
+        "patent_id": "patent/DE102004043312A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102004043312A1%2Fen"
+      },
+      {
+        "publication_number": "US7443303B2",
+        "primary_language": "en",
+        "priority_date": "2005-01-10",
+        "publication_date": "2008-10-28",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "System and method for managing workflow",
+        "patent_id": "patent/US7443303B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7443303B2%2Fen"
+      },
+      {
+        "publication_number": "US7682308B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-16",
+        "publication_date": "2010-03-23",
+        "assignee_original": "Ahi Of Indiana, Inc.",
+        "title": "Method and system for assessing fall risk",
+        "patent_id": "patent/US7682308B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7682308B2%2Fen"
+      },
+      {
+        "publication_number": "US7643969B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-04",
+        "publication_date": "2010-01-05",
+        "assignee_original": "Health Outcomes Sciences, Llc",
+        "title": "Methods and apparatus for providing decision support",
+        "patent_id": "patent/US7643969B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7643969B2%2Fen"
+      },
+      {
+        "publication_number": "US8209156B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2012-06-26",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Asymmetric random scatter process for probabilistic modeling system for product design",
+        "patent_id": "patent/US8209156B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8209156B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229852A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Zeta statistic process method and system",
+        "patent_id": "patent/US20060229852A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229852A1%2Fen"
+      },
+      {
+        "publication_number": "US8364610B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2013-01-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process modeling and optimization method and system",
+        "patent_id": "patent/US8364610B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8364610B2%2Fen"
+      },
+      {
+        "publication_number": "US7565333B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2009-07-21",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Control system and method",
+        "patent_id": "patent/US7565333B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7565333B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229854A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Computer system architecture for probabilistic modeling",
+        "patent_id": "patent/US20060229854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229854A1%2Fen"
+      },
+      {
+        "publication_number": "US20060230097A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model monitoring method and system",
+        "patent_id": "patent/US20060230097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060230097A1%2Fen"
+      },
+      {
+        "publication_number": "US20060229753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Probabilistic modeling system for product design",
+        "patent_id": "patent/US20060229753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229753A1%2Fen"
+      },
+      {
+        "publication_number": "US7877239B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2011-01-25",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Symmetric random scatter process for probabilistic modeling system for product design",
+        "patent_id": "patent/US7877239B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7877239B2%2Fen"
+      },
+      {
+        "publication_number": "NZ564868A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-08",
+        "publication_date": "2012-04-27",
+        "assignee_original": "Carefusion 303 Inc",
+        "title": "System for dynamic determination of disease prognosis",
+        "patent_id": "patent/NZ564868A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ564868A%2Fen"
+      },
+      {
+        "publication_number": "US20070061144A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-30",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Batch statistics process model method and system",
+        "patent_id": "patent/US20070061144A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070061144A1%2Fen"
+      },
+      {
+        "publication_number": "US7487134B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-25",
+        "publication_date": "2009-02-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Medical risk stratifying method and system",
+        "patent_id": "patent/US7487134B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7487134B2%2Fen"
+      },
+      {
+        "publication_number": "US20070118487A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Product cost modeling method and system",
+        "patent_id": "patent/US20070118487A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118487A1%2Fen"
+      },
+      {
+        "publication_number": "US7499842B2",
+        "primary_language": "en",
+        "priority_date": "2005-11-18",
+        "publication_date": "2009-03-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model based virtual sensor and method",
+        "patent_id": "patent/US7499842B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7499842B2%2Fen"
+      },
+      {
+        "publication_number": "US20070143137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-19",
+        "publication_date": "2007-06-21",
+        "assignee_original": "Ross S M",
+        "title": "Prescription management systems with interface elements and associated methods",
+        "patent_id": "patent/US20070143137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070143137A1%2Fen"
+      },
+      {
+        "publication_number": "US7505949B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-31",
+        "publication_date": "2009-03-17",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model error correction method and system",
+        "patent_id": "patent/US7505949B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7505949B2%2Fen"
+      },
+      {
+        "publication_number": "US20070203810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-13",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Supply chain modeling method and system",
+        "patent_id": "patent/US20070203810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070203810A1%2Fen"
+      },
+      {
+        "publication_number": "US20080051770A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-22",
+        "publication_date": "2008-02-28",
+        "assignee_original": "Synergetics, Inc.",
+        "title": "Multiple Target Laser Probe",
+        "patent_id": "patent/US20080051770A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080051770A1%2Fen"
+      },
+      {
+        "publication_number": "US8478506B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-29",
+        "publication_date": "2013-07-02",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor based engine control system and method",
+        "patent_id": "patent/US8478506B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8478506B2%2Fen"
+      },
+      {
+        "publication_number": "US20080201173A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-05",
+        "publication_date": "2008-08-21",
+        "assignee_original": "Toyohiro Takehara",
+        "title": "Methods for delivering a drug to a patient while restricting access to the drug by patients for whom the drug may be contraindicated",
+        "patent_id": "patent/US20080201173A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080201173A1%2Fen"
+      },
+      {
+        "publication_number": "US20080154811A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for verifying virtual sensors",
+        "patent_id": "patent/US20080154811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154811A1%2Fen"
+      },
+      {
+        "publication_number": "US7483774B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2009-01-27",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for intelligent maintenance",
+        "patent_id": "patent/US7483774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7483774B2%2Fen"
+      },
+      {
+        "publication_number": "US7787969B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-15",
+        "publication_date": "2010-08-31",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Virtual sensor system and method",
+        "patent_id": "patent/US7787969B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7787969B2%2Fen"
+      },
+      {
+        "publication_number": "US8219414B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-16",
+        "publication_date": "2012-07-10",
+        "assignee_original": "Computer Task Group, Inc.",
+        "title": "Method of appraising a mammal's health",
+        "patent_id": "patent/US8219414B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8219414B2%2Fen"
+      },
+      {
+        "publication_number": "US7831416B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-17",
+        "publication_date": "2010-11-09",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Probabilistic modeling system for product design",
+        "patent_id": "patent/US7831416B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7831416B2%2Fen"
+      },
+      {
+        "publication_number": "US7788070B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-30",
+        "publication_date": "2010-08-31",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Product design optimization method and system",
+        "patent_id": "patent/US7788070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7788070B2%2Fen"
+      },
+      {
+        "publication_number": "US7542879B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2009-06-02",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor based control system and method",
+        "patent_id": "patent/US7542879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7542879B2%2Fen"
+      },
+      {
+        "publication_number": "JP2011501276A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-12",
+        "publication_date": "2011-01-06",
+        "assignee_original": "\u30da\u30a4\u30b7\u30a7\u30f3\u30c4\u30e9\u30a4\u30af\u30df\u30fc\uff0c  \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Self-improvement methods using online communities to predict health-related outcomes",
+        "patent_id": "patent/JP2011501276A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011501276A%2Fen"
+      },
+      {
+        "publication_number": "US7593804B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-31",
+        "publication_date": "2009-09-22",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Fixed-point virtual sensor control system and method",
+        "patent_id": "patent/US7593804B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7593804B2%2Fen"
+      },
+      {
+        "publication_number": "US8224468B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-02",
+        "publication_date": "2012-07-17",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Calibration certificate for virtual sensor network (VSN)",
+        "patent_id": "patent/US8224468B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8224468B2%2Fen"
+      },
+      {
+        "publication_number": "US8036764B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-02",
+        "publication_date": "2011-10-11",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor network (VSN) system and method",
+        "patent_id": "patent/US8036764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8036764B2%2Fen"
+      },
+      {
+        "publication_number": "DE102007057169A1",
+        "primary_language": "en",
+        "priority_date": "2007-11-26",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Helmut Rauer",
+        "title": "Diagnostic machine for web-based sensor- and evaluation system, has personal-computer-based processor, where machine supplies processed data into diagnostic- and management center over secured internet connection",
+        "patent_id": "patent/DE102007057169A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007057169A1%2Fen"
+      },
+      {
+        "publication_number": "SG187453A1",
+        "primary_language": "en",
+        "priority_date": "2008-01-18",
+        "publication_date": "2013-02-28",
+        "assignee_original": "Harvard College",
+        "title": "Methods of detecting signatures of disease or conditions in bodily fluids",
+        "patent_id": "patent/SG187453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSG187453A1%2Fen"
+      },
+      {
+        "publication_number": "US20110166876A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-25",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while restricting access to the drug by patients for whom the drug may be contraindicated",
+        "patent_id": "patent/US20110166876A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110166876A1%2Fen"
+      },
+      {
+        "publication_number": "US20090271021A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-28",
+        "publication_date": "2009-10-29",
+        "assignee_original": "Popp Shane M",
+        "title": "Execution system for the monitoring and execution of insulin manufacture",
+        "patent_id": "patent/US20090271021A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090271021A1%2Fen"
+      },
+      {
+        "publication_number": "US8086640B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2011-12-27",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "System and method for improving data coverage in modeling systems",
+        "patent_id": "patent/US8086640B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8086640B2%2Fen"
+      },
+      {
+        "publication_number": "US20090293457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "System and method for controlling NOx reactant supply",
+        "patent_id": "patent/US20090293457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090293457A1%2Fen"
+      },
+      {
+        "publication_number": "US8057679B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2011-11-15",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Dialysis system having trending and alert generation",
+        "patent_id": "patent/US8057679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8057679B2%2Fen"
+      },
+      {
+        "publication_number": "US10089443B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-15",
+        "publication_date": "2018-10-02",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Home medical device systems and methods for therapy prescription and tracking, servicing and inventory",
+        "patent_id": "patent/US10089443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10089443B2%2Fen"
+      },
+      {
+        "publication_number": "US7917333B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-20",
+        "publication_date": "2011-03-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor network (VSN) based control system and method",
+        "patent_id": "patent/US7917333B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7917333B2%2Fen"
+      },
+      {
+        "publication_number": "US8504390B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-03",
+        "publication_date": "2013-08-06",
+        "assignee_original": "Physicians Mutual Insurance Company",
+        "title": "System and method for providing variable insurance coverage",
+        "patent_id": "patent/US8504390B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8504390B2%2Fen"
+      },
+      {
+        "publication_number": "US8554579B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-13",
+        "publication_date": "2013-10-08",
+        "assignee_original": "Fht, Inc.",
+        "title": "Management, reporting and benchmarking of medication preparation",
+        "patent_id": "patent/US8554579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8554579B2%2Fen"
+      },
+      {
+        "publication_number": "WO2010126577A1",
+        "primary_language": "en",
+        "priority_date": "2009-04-30",
+        "publication_date": "2010-11-04",
+        "assignee_original": "Patientslikeme, Inc.",
+        "title": "Systems and methods for encouragement of data submission in online communities",
+        "patent_id": "patent/WO2010126577A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010126577A1%2Fen"
+      },
+      {
+        "publication_number": "ES2615511T3",
+        "primary_language": "en",
+        "priority_date": "2009-05-19",
+        "publication_date": "2017-06-07",
+        "assignee_original": "Celgene Corporation",
+        "title": "Formulations of 4-amino-2- (2,6-dioxopiperidine-3-yl) isoindolin-1,3-dione",
+        "patent_id": "patent/ES2615511T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2615511T3%2Fen"
+      },
+      {
+        "publication_number": "US8315811B1",
+        "primary_language": "en",
+        "priority_date": "2009-08-07",
+        "publication_date": "2012-11-20",
+        "assignee_original": "Mark Evans",
+        "title": "Method for quantifying the extent of human-introduced variability in medical test data",
+        "patent_id": "patent/US8315811B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8315811B1%2Fen"
+      },
+      {
+        "publication_number": "US20110046972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-20",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Andromeda Systems Incorporated",
+        "title": "Method and system for health-centered medicine",
+        "patent_id": "patent/US20110046972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110046972A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011120018A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-25",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Rice William H",
+        "title": "Method and system for identifying volatility in medical data",
+        "patent_id": "patent/WO2011120018A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011120018A2%2Fen"
+      },
+      {
+        "publication_number": "AU2011280997A1",
+        "primary_language": "en",
+        "priority_date": "2010-07-23",
+        "publication_date": "2013-02-28",
+        "assignee_original": "President And Fellows Of Harvard College",
+        "title": "Methods of detecting autoimmune or immune-related diseases or conditions",
+        "patent_id": "patent/AU2011280997A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2011280997A1%2Fen"
+      },
+      {
+        "publication_number": "TW201209171A",
+        "primary_language": "en",
+        "priority_date": "2010-07-23",
+        "publication_date": "2012-03-01",
+        "assignee_original": "Harvard College",
+        "title": "Methods of detecting diseases or conditions using phagocytic cells",
+        "patent_id": "patent/TW201209171A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW201209171A%2Fen"
+      },
+      {
+        "publication_number": "CA2806304A1",
+        "primary_language": "en",
+        "priority_date": "2010-07-23",
+        "publication_date": "2012-01-26",
+        "assignee_original": "President And Fellows Of Harvard College",
+        "title": "Methods of detecting prenatal or pregnancy-related diseases or conditions",
+        "patent_id": "patent/CA2806304A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2806304A1%2Fen"
+      },
+      {
+        "publication_number": "EP2596132A4",
+        "primary_language": "en",
+        "priority_date": "2010-07-23",
+        "publication_date": "2013-12-18",
+        "assignee_original": "Harvard College",
+        "title": "METHOD FOR DETECTING SIGNS FOR ILLNESS OR SUFFERING IN BODY FLUIDS",
+        "patent_id": "patent/EP2596132A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2596132A4%2Fen"
+      },
+      {
+        "publication_number": "US8793004B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-15",
+        "publication_date": "2014-07-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor system and method for generating output parameters",
+        "patent_id": "patent/US8793004B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8793004B2%2Fen"
+      },
+      {
+        "publication_number": "KR102674051B1",
+        "primary_language": "en",
+        "priority_date": "2012-08-31",
+        "publication_date": "2024-06-12",
+        "assignee_original": "\ubc31\uc2a4\ud130 \ucf54\ud3ec\ub808\uc774\uc158 \uc789\uae00\uc6b0\ub4dc",
+        "title": "Medication requisition fulfillment system and method",
+        "patent_id": "patent/KR102674051B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102674051B1%2Fen"
+      },
+      {
+        "publication_number": "WO2014065872A1",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2014-05-01",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Improved work station for medical dose preparation system",
+        "patent_id": "patent/WO2014065872A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014065872A1%2Fen"
+      },
+      {
+        "publication_number": "BR112015009108A2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2017-07-04",
+        "assignee_original": "Baxter Corp Englewood",
+        "title": "medical dose preparation management system and method for processing and capturing medical dose preparation image data",
+        "patent_id": "patent/BR112015009108A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBR112015009108A2%2Fen"
+      },
+      {
+        "publication_number": "WO2014164362A1",
+        "primary_language": "en",
+        "priority_date": "2013-03-09",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Harry Stylli",
+        "title": "Methods of detecting prostate cancer",
+        "patent_id": "patent/WO2014164362A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014164362A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014164366A1",
+        "primary_language": "en",
+        "priority_date": "2013-03-09",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Harry Stylli",
+        "title": "Methods of detecting cancer",
+        "patent_id": "patent/WO2014164366A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014164366A1%2Fen"
+      },
+      {
+        "publication_number": "US10119978B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2018-11-06",
+        "assignee_original": "Wallac Oy",
+        "title": "System and method for determining risk of diabetes based on biochemical marker analysis",
+        "patent_id": "patent/US10119978B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10119978B2%2Fen"
+      },
+      {
+        "publication_number": "AU2015284368A1",
+        "primary_language": "en",
+        "priority_date": "2014-06-30",
+        "publication_date": "2017-01-12",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Managed medical information exchange",
+        "patent_id": "patent/AU2015284368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2015284368A1%2Fen"
+      },
+      {
+        "publication_number": "HUE061382T2",
+        "primary_language": "en",
+        "priority_date": "2014-08-22",
+        "publication_date": "2023-06-28",
+        "assignee_original": "Celgene Corp",
+        "title": "Methods of treating multiple myeloma with immunomodulatory compounds in combination with antibodies",
+        "patent_id": "patent/HUE061382T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHUE061382T2%2Fen"
+      },
+      {
+        "publication_number": "WO2016040843A1",
+        "primary_language": "en",
+        "priority_date": "2014-09-11",
+        "publication_date": "2016-03-17",
+        "assignee_original": "Harry Stylli",
+        "title": "Methods of detecting prostate cancer",
+        "patent_id": "patent/WO2016040843A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016040843A1%2Fen"
+      },
+      {
+        "publication_number": "US11575673B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Central user management in a distributed healthcare information management system",
+        "patent_id": "patent/US11575673B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11575673B2%2Fen"
+      },
+      {
+        "publication_number": "US11107574B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Management of medication preparation with formulary management",
+        "patent_id": "patent/US11107574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11107574B2%2Fen"
+      },
+      {
+        "publication_number": "JP6834488B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-08",
+        "publication_date": "2021-02-24",
+        "assignee_original": "\u5473\u306e\u7d20\u682a\u5f0f\u4f1a\u793e",
+        "title": "Acquisition method, evaluation device, evaluation program and evaluation system",
+        "patent_id": "patent/JP6834488B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6834488B2%2Fen"
+      },
+      {
+        "publication_number": "US10818387B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-05",
+        "publication_date": "2020-10-27",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Dose preparation data analytics",
+        "patent_id": "patent/US10818387B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818387B2%2Fen"
+      },
+      {
+        "publication_number": "CA2978455A1",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-09",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Pharmacy workflow management with integrated alerts",
+        "patent_id": "patent/CA2978455A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2978455A1%2Fen"
+      },
+      {
+        "publication_number": "US11495334B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system and method having a distributed database",
+        "patent_id": "patent/US11495334B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11495334B2%2Fen"
+      },
+      {
+        "publication_number": "US20170103181A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-08",
+        "publication_date": "2017-04-13",
+        "assignee_original": "Barbara Czerska",
+        "title": "Healthcare delivery system",
+        "patent_id": "patent/US20170103181A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170103181A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018114346A1",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2018-06-28",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system including information technology infrastructure having secure cluster domain supporting external domain",
+        "patent_id": "patent/WO2018114346A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018114346A1%2Fen"
+      },
+      {
+        "publication_number": "US10093647B1",
+        "primary_language": "en",
+        "priority_date": "2017-05-26",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione dihydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093647B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093647B1%2Fen"
+      },
+      {
+        "publication_number": "US10093649B1",
+        "primary_language": "en",
+        "priority_date": "2017-09-22",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione monohydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093649B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093649B1%2Fen"
+      },
+      {
+        "publication_number": "US10093648B1",
+        "primary_language": "en",
+        "priority_date": "2017-09-22",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione hemihydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093648B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093648B1%2Fen"
+      },
+      {
+        "publication_number": "US11894139B1",
+        "primary_language": "en",
+        "priority_date": "2018-12-03",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Patientslikeme Llc",
+        "title": "Disease spectrum classification",
+        "patent_id": "patent/US11894139B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11894139B1%2Fen"
+      },
+      {
+        "publication_number": "WO2022226227A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-21",
+        "publication_date": "2022-10-27",
+        "assignee_original": "Cedars-Sinai Medical Center",
+        "title": "Deep neural networks for predicting post-operative outcomes",
+        "patent_id": "patent/WO2022226227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022226227A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5492117A",
+      "primary_language": "en",
+      "publication_date": "1996-02-20",
+      "title": "System and method for assessing medical risk",
+      "patent_id": "patent/US5492117A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5492117A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15760211399359233601",
+      "scholar_authors": "Barnhart et al.",
+      "publication_date": "2004",
+      "title": "Decline of serum human chorionic gonadotropin and spontaneous complete abortion: defining the normal curve",
+      "patent_id": "scholar/15760211399359233601",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15760211399359233601"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10728587648621899086",
+      "scholar_authors": "Escobar et al.",
+      "publication_date": "2021",
+      "title": "Prediction of obstetrical and fetal complications using automated electronic health record data",
+      "patent_id": "scholar/10728587648621899086",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10728587648621899086"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2946324B1",
+      "primary_language": "en",
+      "publication_date": "2021-11-10",
+      "title": "Medical database and system",
+      "patent_id": "patent/EP2946324B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2946324B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107358018B",
+      "primary_language": "en",
+      "publication_date": "2020-12-04",
+      "title": "Early warning method and device for prenatal and postnatal care examination project",
+      "patent_id": "patent/CN107358018B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107358018B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11100748635424868401",
+      "scholar_authors": "Gilbody et al.",
+      "publication_date": "2005",
+      "title": "Screening and case finding instruments for depression",
+      "patent_id": "scholar/11100748635424868401",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11100748635424868401"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070226175A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-27",
+      "title": "Automated medical safety monitoring systems and methods",
+      "patent_id": "patent/US20070226175A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070226175A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110060618A1",
+      "primary_language": "en",
+      "publication_date": "2011-03-10",
+      "title": "Statistical Determination of Operator Error",
+      "patent_id": "patent/US20110060618A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110060618A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080114574A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-15",
+      "title": "Complex event evaluation systems and methods",
+      "patent_id": "patent/US20080114574A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080114574A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100332899A1",
+      "primary_language": "en",
+      "publication_date": "2010-12-30",
+      "title": "Quality Management in a Data-Processing Environment",
+      "patent_id": "patent/US20100332899A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100332899A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210118571A1",
+      "primary_language": "en",
+      "publication_date": "2021-04-22",
+      "title": "System and method for delivering polygenic-based predictions of complex traits and risks",
+      "patent_id": "patent/US20210118571A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210118571A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13123640987497924688",
+      "scholar_authors": "Royston",
+      "publication_date": "1992",
+      "title": "The use of cusums and other techniques in modelling continuous covariates in logistic regression",
+      "patent_id": "scholar/13123640987497924688",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13123640987497924688"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7959565B2",
+      "primary_language": "en",
+      "publication_date": "2011-06-14",
+      "title": "Method and apparatus for estimating a likelihood of shoulder dystocia",
+      "patent_id": "patent/US7959565B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7959565B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4160614A1",
+      "primary_language": "en",
+      "publication_date": "2023-04-05",
+      "title": "System and method for triggering mental healthcare services based on prediction of critical events",
+      "patent_id": "patent/EP4160614A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4160614A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9659560861328155719",
+      "scholar_authors": "Modi et al.",
+      "publication_date": "2024",
+      "title": "Detection and Classification of Polycystic Ovary Syndrome using Machine Learning-Based Approaches",
+      "patent_id": "scholar/9659560861328155719",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9659560861328155719"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5395662114451608814",
+      "scholar_authors": "Carey",
+      "publication_date": "2002",
+      "title": "How do you know that your care is improving? Part II: using control charts to learn from your data",
+      "patent_id": "scholar/5395662114451608814",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5395662114451608814"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17140944019271571552",
+      "scholar_authors": "Bolton",
+      "publication_date": "2011",
+      "title": "The extrapolation of creep rupture data by PD6605\u2013an independent case study",
+      "patent_id": "scholar/17140944019271571552",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17140944019271571552"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2020017112A",
+      "primary_language": "en",
+      "publication_date": "2020-01-30",
+      "title": "True / false judgment system",
+      "patent_id": "patent/JP2020017112A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020017112A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116975297B",
+      "primary_language": "en",
+      "publication_date": "2023-12-01",
+      "title": "Method for evaluating clinical trial risk",
+      "patent_id": "patent/CN116975297B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116975297B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3243208080334950208",
+      "scholar_authors": "Kyriacou et al.",
+      "publication_date": "2021",
+      "title": "Contemporary experience of polyhydramnios: A single\u2010centre experience",
+      "patent_id": "scholar/3243208080334950208",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3243208080334950208"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6858784588452467067",
+      "scholar_authors": "Colbert",
+      "publication_date": "1987",
+      "title": "Audit Risk--Tracing the Evolution.",
+      "patent_id": "scholar/6858784588452467067",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6858784588452467067"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200395125A1",
+      "primary_language": "en",
+      "publication_date": "2020-12-17",
+      "title": "Method and apparatus for monitoring a human or animal subject",
+      "patent_id": "patent/US20200395125A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200395125A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2020157212A1",
+      "primary_language": "en",
+      "publication_date": "2020-08-06",
+      "title": "Aortic stenosis echocardiographic follow-up expert system",
+      "patent_id": "patent/WO2020157212A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020157212A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11661869746401726741",
+      "scholar_authors": "Staffa et al.",
+      "publication_date": "2019",
+      "title": "Statistical evaluation of diagnostic tests: a primer for pediatric surgeons",
+      "patent_id": "scholar/11661869746401726741",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11661869746401726741"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116776072A",
+      "primary_language": "en",
+      "publication_date": "2023-09-19",
+      "title": "AB experiment calculation method and device based on meta-analysis and Bayesian factors",
+      "patent_id": "patent/CN116776072A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116776072A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1996-12-07",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "1999-07-13",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2000-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2003-09-10",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2004-02-20",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2004-04-20",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20040220"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-26",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 53
+      },
+      {
+        "id": "239000003550",
+        "name": "marker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "230000001131",
+        "name": "transforming effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "206010012601",
+        "name": "diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000012502",
+        "name": "risk assessment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102000013529",
+        "name": "alpha-Fetoproteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "108010026331",
+        "name": "alpha-Fetoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "230000008774",
+        "name": "maternal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000035935",
+        "name": "pregnancy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "210000002966",
+        "name": "serum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000010200",
+        "name": "validation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "102000011022",
+        "name": "Chorionic Gonadotropin",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "108010062540",
+        "name": "Chorionic Gonadotropin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "201000010374",
+        "name": "Down Syndrome",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "206010044688",
+        "name": "Trisomy 21",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229940084986",
+        "name": "human chorionic gonadotropin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000001605",
+        "name": "fetal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "201000010193",
+        "name": "neural tube defect",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000035581",
+        "name": "susceptibility to neural tube defects",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "PROQIPRRNZUXQM-UHFFFAOYSA-N",
+        "name": "(16alpha,17betaOH)-Estra-1,3,5(10)-triene-3,16,17-triol",
+        "domain": "Natural products",
+        "smiles": "OC1=CC=C2C3CCC(C)(C(C(O)C4)O)C4C3CCC2=C1",
+        "inchi_key": "PROQIPRRNZUXQM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004381",
+        "name": "amniotic fluid",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "PROQIPRRNZUXQM-ZXXIGWHRSA-N",
+        "name": "estriol",
+        "domain": "Chemical compound",
+        "smiles": "OC1=CC=C2[C@H]3CC[C@](C)([C@H]([C@H](O)C4)O)[C@@H]4[C@@H]3CCC2=C1",
+        "inchi_key": "PROQIPRRNZUXQM-ZXXIGWHRSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229960001348",
+        "name": "estriol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000032170",
+        "name": "Congenital Abnormalities",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010067477",
+        "name": "Cytogenetic abnormality",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010067584",
+        "name": "Type 1 diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009609",
+        "name": "prenatal screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012216",
+        "name": "screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010008805",
+        "name": "Chromosomal abnormalities",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000031404",
+        "name": "Chromosome Aberrations",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000033431",
+        "name": "Finnish type congenital nephrotic syndrome",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000036818",
+        "name": "High risk pregnancy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000010829",
+        "name": "Spina bifida",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000006097",
+        "name": "Spinal Dysraphism",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037280",
+        "name": "Trisomy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010002320",
+        "name": "anencephaly",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004407",
+        "name": "chorionic gonadotrophin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013502",
+        "name": "data validation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000605",
+        "name": "extraction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003754",
+        "name": "fetus",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001035",
+        "name": "gastrointestinal tract",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010348",
+        "name": "incorporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007670",
+        "name": "refining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036266",
+        "name": "weeks of gestation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

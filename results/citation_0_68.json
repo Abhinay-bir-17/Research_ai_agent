@@ -1,0 +1,2262 @@
+{
+  "search_metadata": {
+    "id": "68514e4ede1f33ae15ba80ac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f2192d1a570e6ccc/68514e4ede1f33ae15ba80ac.json",
+    "created_at": "2025-06-17 11:15:26 UTC",
+    "processed_at": "2025-06-17 11:15:26 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070093934A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f2192d1a570e6ccc/68514e4ede1f33ae15ba80ac.html",
+    "total_time_taken": 5.32
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070093934A1/en"
+  },
+  "title": "System and apparatus for dispensing information and product",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/97/74/5d/0405385db91e89/US20070093934A1.pdf",
+  "publication_number": "US20070093934A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "products",
+    "vending system",
+    "vending",
+    "information",
+    "individual"
+  ],
+  "prior_art_date": "2005-10-21",
+  "application_number": "US11/531,440",
+  "inventors": [
+    {
+      "name": "Leo Garneau",
+      "link": "https://patents.google.com/?inventor=Leo+Garneau",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Leo+Garneau"
+    }
+  ],
+  "assignees": [
+    "Kenvue Brands LLC"
+  ],
+  "priority_date": "2005-10-21",
+  "filing_date": "2006-09-13",
+  "publication_date": "2007-04-26",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-09-13",
+        "country_code": "US",
+        "application_number": "US11/531,440",
+        "document_id": "patent/US7734371B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2006-09-22",
+        "country_code": "WO",
+        "application_number": "PCT/US2006/037324",
+        "document_id": "patent/WO2007050216A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-09-13",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2006-09-13",
+      "title": "Priority to US11/531,440",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7734371B2/en"
+    },
+    {
+      "date": "2006-09-22",
+      "title": "Priority to PCT/US2006/037324",
+      "type": "priority",
+      "document_id": "patent/WO2007050216A2/en"
+    },
+    {
+      "date": "2007-04-26",
+      "title": "Publication of US20070093934A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070093934A1/en"
+    },
+    {
+      "date": "2010-05-06",
+      "title": "Assigned to MCNEIL-PPC INC.",
+      "type": "reassignment",
+      "assignee_search": "MCNEIL-PPC INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GARNEAU III, LEO J."
+      ]
+    },
+    {
+      "date": "2010-06-08",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-06-08",
+      "title": "Publication of US7734371B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7734371B2/en"
+    },
+    {
+      "date": "2015-07-02",
+      "title": "Assigned to JOHNSON & JOHNSON CONSUMER INC.",
+      "type": "reassignment",
+      "assignee_search": "JOHNSON & JOHNSON CONSUMER INC.",
+      "description": [
+        "MERGER AND CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: JOHNSON & JOHNSON CONSUMER INC., MCNEIL-PPC, INC."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-06-25",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070093934.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11531440"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070093934"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007093934A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11531440/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070093934"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/28/d9/2b/6148691bf64d6b/US20070093934A1-20070426-D00000.png",
+    "https://patentimages.storage.googleapis.com/7b/a1/f4/c20adcb0b3c45f/US20070093934A1-20070426-D00001.png",
+    "https://patentimages.storage.googleapis.com/57/b0/1a/b04f5a0ce70f13/US20070093934A1-20070426-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06Q30/02",
+      "description": "Marketing; Price estimation or determination; Fundraising",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q30/06",
+      "description": "Buying, selling or leasing transactions",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F17/0092",
+      "description": "Coin-freed apparatus for hiring articles; Coin-freed facilities or services for assembling and dispensing of pharmaceutical articles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G07F7/00",
+      "description": "Mechanisms actuated by objects other than coins to free or to actuate vending, hiring, coin or paper currency dispensing or refunding apparatus",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/13",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients delivered from dispensers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/40",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to drugs, e.g. their side effects or intended usage",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention is directed to a vending system or automated store and method of practice that has a means for inputting data, e.g., data input device, means for analyzing the data, e.g., microprocessor, and an output based on the analysis that includes information, product, or both. The invention is particularly suited for the delivery of healthcare and/or personal care products. The system provides a prospective consumer with information about products and their use, and preferably is capable of accessing qualified savings accounts for purposes of completing a transaction.",
+  "description_link": "https://serpapi.com/searches/68514e4ede1f33ae15ba80ac/google_patents_details/description.html",
+  "claims": [
+    "1. A vending system comprising at least one vending machine, each vending machine having: \na. data input means for receiving information from an individual;  b. an inventory of one or more products available for purchase;  c. a dispensing means for retrieving one or more products from the inventory and delivering such product(s) to a retrieval point; and  d. a payment means for selecting and providing payment for one or more selected products; and  e. communication means for accessing a database containing information relating to the products in inventory,  wherein the vending system is capable of delivering product information relating to the use of products selected by the individual prior to or simultaneously with the delivery of the product(s).",
+    "2. A vending system according to claim 1 wherein the information is selected from the group consisting of identification, payment method, insurance carriers, healthcare provider, symptoms, one or more desired products and combinations thereof.",
+    "3. A vending system according to claim 1 wherein the products are personal care or healthcare products.",
+    "4. A vending system according to claim 3 wherein at least some of the personal care or healthcare products are packaged in containers holding other than individual dose quantities.",
+    "5. A vending system according to claim 1 having a database suitable for recommending one or more products appropriate for treating symptoms entered by the individual.",
+    "6. A vending system comprising at least one vending machine, each vending machine having: \na. data input means for receiving information from an individual;  b. an inventory of one or more healthcare products that are packaged in containers holding other than individual dose quantities available for purchase;  c. a dispensing means for retrieving one or more products from the inventory and delivering such product(s) to a retrieval point; and  d. a payment means for selecting and providing payment for one or more selected products;  wherein the vending system is in communication with a central system that authorizes transactions or processes payments for a selected purchase by the individual.",
+    "7. A vending system according to claim 6 wherein the information is selected from the group consisting of identification, payment method, insurance carriers, healthcare provider, symptoms, one or more desired products and combinations thereof.",
+    "8. A vending system according to claim 6 wherein the vending machine delivers a reward for making a purchase.",
+    "9. A vending system according to 8 wherein the vending system delivers the reward electronically to the individual.",
+    "10. A vending system according to claim 6 having a database suitable for recommending one or more products appropriate for treating symptoms entered by the individual.",
+    "11. A vending system according to claim 6 wherein the central system authorizes payments for purchases from a qualified savings account associated with the individual.",
+    "12. A vending system according to claim 11 wherein the qualified savings account is only authorized for purchasing health-care related goods or services not otherwise covered by health insurance.",
+    "13. A vending system comprising at least one vending machine, each vending machine having: \na. a data input means for receiving information from an individual;  b. an inventory of one or more products available for purchase;  c. a dispensing means for retrieving one or more products from the inventory and delivering such product(s) to a retrieval point;  d. a payment means for selecting and providing payment for one or more selected products; and  e. a communication means for accessing a database containing information relating to the products in its inventory,  wherein the consumer provides the vending system with a description of symptoms for which treatment is sought and the vending system provides a recommendation of one or more products appropriate for treating such symptoms.",
+    "14. A vending system according to claim 13 wherein the information is selected from the group consisting of identification, payment method, insurance carriers, healthcare provider, symptoms, one or more desired products and combinations thereof.",
+    "15. A vending system according to claim 13 wherein the vending system analyzes products available in its inventory and provides a recommendation of one or more products that are currently in its inventory for treating the identified symptoms.",
+    "16. A vending system according to claim 13 wherein the vending system using the database relating to the use of products to produce a recommended product or products.",
+    "17. A vending system according to claim 16 wherein the database is stored remotely at a central location that is in communication with the vending machine.",
+    "18. A vending system comprising at least one vending machine, each vending machine having: \na. a data input means for receiving information from an individual;  b. an inventory of one or more products available for purchase;  c. a dispensing means for retrieving one or more products from the inventory and delivering such product(s) to a retrieval point; and  d. a payment means for selecting and providing payment for one or more selected products;  e. communication means for accessing a database containing information relating to the products in inventory, and  f. one or more diagnostic devices for humans;  wherein the one or more diagnostic devices deliver output information and the vending system provides a recommendation of one or more products appropriate for treating such symptoms.",
+    "19. A vending system according to claim 18 wherein the information provided by the consumer is based at least in part on the output information from the diagnostic devices.",
+    "20. A vending system according to claim 18 wherein the output information from one or more diagnostic devices is delivered directly to the vending system.",
+    "21. A vending system according to claim 18 wherein the information from the individual includes additional further physical condition information.",
+    "22. A vending system according to claim 18 wherein at least some of the information or the output information relates to physical conditions of the individual selected from the group consisting of body temperature, cholesterol levels, blood glucose levels blood pressure and combinations thereof."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/531,440",
+      "representative_publication": "US7734371B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-21",
+      "filing_date": "2006-09-13",
+      "title": "System and apparatus for dispensing information and product"
+    },
+    {
+      "application_number": "PCT/US2006/037324",
+      "representative_publication": "WO2007050216A2",
+      "primary_language": "en",
+      "priority_date": "2005-10-21",
+      "filing_date": "2006-09-22",
+      "title": "System and apparatus for dispensing information and product"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US72884905P",
+      "priority_date": "2005-10-21",
+      "filing_date": "2005-10-21"
+    },
+    {
+      "application_number": "US11/531,440",
+      "representative_publication": "US7734371B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-21",
+      "filing_date": "2006-09-13",
+      "title": "System and apparatus for dispensing information and product"
+    }
+  ],
+  "family_id": "37968298",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5377864A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-05-25",
+        "publication_date": "1995-01-03",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Drug dispensing apparatus",
+        "patent_id": "patent/US5377864A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5377864A%2Fen"
+      },
+      {
+        "publication_number": "US5758095A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-24",
+        "publication_date": "1998-05-26",
+        "assignee_original": "Albaum; David",
+        "title": "Interactive medication ordering system",
+        "patent_id": "patent/US5758095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5758095A%2Fen"
+      },
+      {
+        "publication_number": "US5907493A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-31",
+        "publication_date": "1999-05-25",
+        "assignee_original": "Innovation Associates, Inc.",
+        "title": "Pharmaceutical dispensing system",
+        "patent_id": "patent/US5907493A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5907493A%2Fen"
+      },
+      {
+        "publication_number": "US6021394A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-27",
+        "publication_date": "2000-02-01",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Sales management method in automatic vending machine",
+        "patent_id": "patent/US6021394A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6021394A%2Fen"
+      },
+      {
+        "publication_number": "US20020032582A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-14",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Feeney Robert J.",
+        "title": "System for medication dispensing and integrated data management",
+        "patent_id": "patent/US20020032582A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032582A1%2Fen"
+      },
+      {
+        "publication_number": "US20020103672A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-31",
+        "publication_date": "2002-08-01",
+        "assignee_original": "Torres Joseph L.",
+        "title": "Pre-paid health care system and methods of providing same",
+        "patent_id": "patent/US20020103672A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020103672A1%2Fen"
+      },
+      {
+        "publication_number": "US6529801B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-08",
+        "publication_date": "2003-03-04",
+        "assignee_original": "Mendota Healthcare, Inc.",
+        "title": "Automatic prescription drug dispenser",
+        "patent_id": "patent/US6529801B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6529801B1%2Fen"
+      },
+      {
+        "publication_number": "US6564121B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-22",
+        "publication_date": "2003-05-13",
+        "assignee_original": "Telepharmacy Solutions, Inc.",
+        "title": "Systems and methods for drug dispensing",
+        "patent_id": "patent/US6564121B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6564121B1%2Fen"
+      },
+      {
+        "publication_number": "US6711465B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-07",
+        "publication_date": "2004-03-23",
+        "assignee_original": "Robert Tomassi",
+        "title": "Vending machine having a biometric verification system for authorizing the sales of regulated products",
+        "patent_id": "patent/US6711465B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6711465B2%2Fen"
+      },
+      {
+        "publication_number": "US20040111179A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-29",
+        "publication_date": "2004-06-10",
+        "assignee_original": "Pyxis Corporation",
+        "title": "System and apparatus for the dispensing of drugs",
+        "patent_id": "patent/US20040111179A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040111179A1%2Fen"
+      },
+      {
+        "publication_number": "US20040215369A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-27",
+        "publication_date": "2004-10-28",
+        "assignee_original": "Mendota Healthcare, Inc.",
+        "title": "Automatic prescription drug dispenser",
+        "patent_id": "patent/US20040215369A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040215369A1%2Fen"
+      },
+      {
+        "publication_number": "US20050049746A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-26",
+        "publication_date": "2005-03-03",
+        "assignee_original": "Ken Rosenblum",
+        "title": "Automatic prescription drug dispenser",
+        "patent_id": "patent/US20050049746A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050049746A1%2Fen"
+      },
+      {
+        "publication_number": "US6883681B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-10",
+        "publication_date": "2005-04-26",
+        "assignee_original": "Scriptpro Llc",
+        "title": "Automatic dispensing system for unit medicament packages",
+        "patent_id": "patent/US6883681B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6883681B1%2Fen"
+      },
+      {
+        "publication_number": "US6898299B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-11",
+        "publication_date": "2005-05-24",
+        "assignee_original": "Juliana H. J. Brooks",
+        "title": "Method and system for biometric recognition based on electric and/or magnetic characteristics",
+        "patent_id": "patent/US6898299B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6898299B1%2Fen"
+      },
+      {
+        "publication_number": "US20050144037A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-14",
+        "publication_date": "2005-06-30",
+        "assignee_original": "Wolfgang Geiger",
+        "title": "Automatic system for medicaments",
+        "patent_id": "patent/US20050144037A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050144037A1%2Fen"
+      },
+      {
+        "publication_number": "US7006893B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-22",
+        "publication_date": "2006-02-28",
+        "assignee_original": "Telepharmacy Solutions, Inc.",
+        "title": "Systems for dispensing medical products",
+        "patent_id": "patent/US7006893B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7006893B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "NL1003596C2",
+        "primary_language": "en",
+        "priority_date": "1996-07-15",
+        "publication_date": "1997-05-27",
+        "assignee_original": "Cons Health Entrepreneurs Bv",
+        "title": "Vending machine dispenser.",
+        "patent_id": "patent/NL1003596C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL1003596C2%2Fen"
+      },
+      {
+        "publication_number": "AU2001275486A1",
+        "primary_language": "en",
+        "priority_date": "2000-06-14",
+        "publication_date": "2001-12-24",
+        "assignee_original": "Jascorp, Llc",
+        "title": "Customer-centered pharmaceutical product and information distribution system",
+        "patent_id": "patent/AU2001275486A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2001275486A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080319786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-16",
+        "publication_date": "2008-12-25",
+        "assignee_original": "Stivoric John M",
+        "title": "Publishing and insurance applications of lifeotypes",
+        "patent_id": "patent/US20080319786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080319786A1%2Fen"
+      },
+      {
+        "publication_number": "US20090125324A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-08",
+        "publication_date": "2009-05-14",
+        "assignee_original": "Daniel Paul Keravich",
+        "title": "Medical product dispensing systems and methods",
+        "patent_id": "patent/US20090125324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090125324A1%2Fen"
+      },
+      {
+        "publication_number": "JP2009162526A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-28",
+        "publication_date": "2009-07-23",
+        "assignee_original": "Mitsubishi Chemical Medience Corp",
+        "title": "Examination system and specimen collection kit providing device",
+        "patent_id": "patent/JP2009162526A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009162526A%2Fen"
+      },
+      {
+        "publication_number": "US20090315494A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-23",
+        "publication_date": "2009-12-24",
+        "assignee_original": "Young-Chun Jeung",
+        "title": "Optimization of motor operation using a test cycle",
+        "patent_id": "patent/US20090315494A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090315494A1%2Fen"
+      },
+      {
+        "publication_number": "US20110054678A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-25",
+        "publication_date": "2011-03-03",
+        "assignee_original": "Bryan Thompson",
+        "title": "System and method for dispensing pre-paid items using a uniquely identified container",
+        "patent_id": "patent/US20110054678A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110054678A1%2Fen"
+      },
+      {
+        "publication_number": "US20140089001A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-23",
+        "publication_date": "2014-03-27",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US20140089001A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140089001A1%2Fen"
+      },
+      {
+        "publication_number": "US20140122115A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-18",
+        "publication_date": "2014-05-01",
+        "assignee_original": "Kenneth J. Bagan",
+        "title": "Triple test kit",
+        "patent_id": "patent/US20140122115A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140122115A1%2Fen"
+      },
+      {
+        "publication_number": "US9188443B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-01",
+        "publication_date": "2015-11-17",
+        "assignee_original": "Innovaci Inc.",
+        "title": "Vending modified climate control device",
+        "patent_id": "patent/US9188443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9188443B2%2Fen"
+      },
+      {
+        "publication_number": "US20150348162A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-03",
+        "publication_date": "2015-12-03",
+        "assignee_original": "Margaret E. Morris",
+        "title": "User-state mediated product selection",
+        "patent_id": "patent/US20150348162A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150348162A1%2Fen"
+      },
+      {
+        "publication_number": "US9280863B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-16",
+        "publication_date": "2016-03-08",
+        "assignee_original": "Parata Systems, Llc",
+        "title": "Automated dispensing system for pharmaceuticals and other medical items",
+        "patent_id": "patent/US9280863B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9280863B2%2Fen"
+      },
+      {
+        "publication_number": "US9377790B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-03",
+        "publication_date": "2016-06-28",
+        "assignee_original": "Innovaci Inc.",
+        "title": "Method for remotely managing an environmental control and monitoring device",
+        "patent_id": "patent/US9377790B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9377790B2%2Fen"
+      },
+      {
+        "publication_number": "US9907730B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2018-03-06",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US9907730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9907730B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP4877832B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-09",
+        "publication_date": "2012-02-15",
+        "assignee_original": "\u30d3\u30fc\u30a8\u30eb\u30c7\u30fc\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb\u682a\u5f0f\u4f1a\u793e",
+        "title": "vending machine",
+        "patent_id": "patent/JP4877832B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4877832B2%2Fen"
+      },
+      {
+        "publication_number": "US8818552B2",
+        "primary_language": "en",
+        "priority_date": "2007-07-10",
+        "publication_date": "2014-08-26",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Point-of-care medication dispensing",
+        "patent_id": "patent/US8818552B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8818552B2%2Fen"
+      },
+      {
+        "publication_number": "US10332331B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-14",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Pepsico, Inc.",
+        "title": "Modular vending machine",
+        "patent_id": "patent/US10332331B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10332331B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7734371B2",
+      "primary_language": "en",
+      "publication_date": "2010-06-08",
+      "title": "System and apparatus for dispensing information and product",
+      "patent_id": "patent/US7734371B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7734371B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7957983B2",
+      "primary_language": "en",
+      "publication_date": "2011-06-07",
+      "title": "Healthcare provider, administrator and method for effectuating a medication therapy management, adherence and pharmacosurveillance program",
+      "patent_id": "patent/US7957983B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7957983B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2004273953C1",
+      "primary_language": "en",
+      "publication_date": "2011-03-31",
+      "title": "Method for competitive prescription drug and/or bidding service provider selection",
+      "patent_id": "patent/AU2004273953C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2004273953C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200327971A1",
+      "primary_language": "en",
+      "publication_date": "2020-10-15",
+      "title": "Medical product dispensing systems and methods",
+      "patent_id": "patent/US20200327971A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200327971A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8560338B2",
+      "primary_language": "en",
+      "publication_date": "2013-10-15",
+      "title": "Method for competitive prescription drug and/or bidding service provider selection",
+      "patent_id": "patent/US8560338B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8560338B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020032582A1",
+      "primary_language": "en",
+      "publication_date": "2002-03-14",
+      "title": "System for medication dispensing and integrated data management",
+      "patent_id": "patent/US20020032582A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032582A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080147518A1",
+      "primary_language": "en",
+      "publication_date": "2008-06-19",
+      "title": "Method and apparatus for pharmacy inventory management and trend detection",
+      "patent_id": "patent/US20080147518A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080147518A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080086326A1",
+      "primary_language": "en",
+      "publication_date": "2008-04-10",
+      "title": "System and apparatus for dispensing controlled pharmaceutical products",
+      "patent_id": "patent/US20080086326A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080086326A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120053958A1",
+      "primary_language": "en",
+      "publication_date": "2012-03-01",
+      "title": "System and Methods for Providing Incentives for Health Care Providers",
+      "patent_id": "patent/US20120053958A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120053958A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8781857B2",
+      "primary_language": "en",
+      "publication_date": "2014-07-15",
+      "title": "Method for competitive prescription drug and/or bidding service provider selection",
+      "patent_id": "patent/US8781857B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8781857B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060085231A1",
+      "primary_language": "en",
+      "publication_date": "2006-04-20",
+      "title": "Method and system for distribution and payment for pharmaceuticals",
+      "patent_id": "patent/US20060085231A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060085231A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8447628B2",
+      "primary_language": "en",
+      "publication_date": "2013-05-21",
+      "title": "Method for competitive prescription drug and/or bidding service provider selection",
+      "patent_id": "patent/US8447628B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8447628B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070214005A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-13",
+      "title": "Medical account system and method",
+      "patent_id": "patent/US20070214005A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070214005A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110264465A1",
+      "primary_language": "en",
+      "publication_date": "2011-10-27",
+      "title": "Issuing Prescriptions from Standing Orders",
+      "patent_id": "patent/US20110264465A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110264465A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100241445A1",
+      "primary_language": "en",
+      "publication_date": "2010-09-23",
+      "title": "Apparatus and method for effectuating a health-care related program",
+      "patent_id": "patent/US20100241445A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100241445A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030225627A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-04",
+      "title": "Method for retail distribution of medical products",
+      "patent_id": "patent/US20030225627A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030225627A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2023199192A1",
+      "primary_language": "en",
+      "publication_date": "2023-10-19",
+      "title": "Health management platform using blockchain healthcare record empowering connected healthcare ecosystem with tokenization",
+      "patent_id": "patent/WO2023199192A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023199192A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025054635A1",
+      "primary_language": "en",
+      "publication_date": "2025-03-13",
+      "title": "Online health care system using rfid chip technology in the mentioned technical field",
+      "patent_id": "patent/WO2025054635A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025054635A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2003046792A2",
+      "primary_language": "en",
+      "publication_date": "2003-06-05",
+      "title": "Pharmaceutical product sample distribution method and system",
+      "patent_id": "patent/WO2003046792A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003046792A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20020053433A",
+      "primary_language": "en",
+      "publication_date": "2002-07-05",
+      "title": "Circulation System And Method For Gift Certificate of Tonic",
+      "patent_id": "patent/KR20020053433A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20020053433A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2842631A1",
+      "primary_language": "en",
+      "publication_date": "2015-08-14",
+      "title": "Method, system and computer program product for enhancing business growth, marketing and analysis",
+      "patent_id": "patent/CA2842631A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2842631A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2467960A1",
+      "primary_language": "en",
+      "publication_date": "2003-06-05",
+      "title": "Pharmaceutical product sample distribution method and system",
+      "patent_id": "patent/CA2467960A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2467960A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2010-05-06",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MCNEIL-PPC INC.,NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GARNEAU III, LEO J.;REEL/FRAME:024346/0078"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100410"
+        }
+      ]
+    },
+    {
+      "date": "2013-11-06",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2015-07-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JOHNSON & JOHNSON CONSUMER INC., NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER AND CHANGE OF NAME;ASSIGNORS:MCNEIL-PPC, INC.;JOHNSON & JOHNSON CONSUMER INC.;REEL/FRAME:036049/0254"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150623"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-22",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-09",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-09",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-31",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20180608"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "name": "cholesterol",
+        "domain": "Chemical compound",
+        "smiles": "C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2",
+        "inchi_key": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "name": "Glucose",
+        "domain": "Natural products",
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000008103",
+        "name": "glucose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000036760",
+        "name": "body temperature",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000969",
+        "name": "carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "206010019233",
+        "name": "Headaches",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "-1",
+        "name": "antiarthritics",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "231100000869",
+        "name": "headache",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000825",
+        "name": "pharmaceutical preparation",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010011224",
+        "name": "Cough",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010037660",
+        "name": "Pyrexia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004480",
+        "name": "active ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012000",
+        "name": "cholesterol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940126534",
+        "name": "drug product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003172",
+        "name": "expectorant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000008035",
+        "name": "Back Pain",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010020751",
+        "name": "Hypersensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000019695",
+        "name": "Migraine disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000001132",
+        "name": "Osteoporosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000026935",
+        "name": "allergic disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007815",
+        "name": "allergy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002269",
+        "name": "analeptic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000202",
+        "name": "analgesic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940035676",
+        "name": "analgesics",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940035674",
+        "name": "anesthetics",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000954",
+        "name": "anitussive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000730",
+        "name": "antalgic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003242",
+        "name": "anti bacterial agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002456",
+        "name": "anti-arthritic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003474",
+        "name": "anti-emetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002260",
+        "name": "anti-inflammatory agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940121363",
+        "name": "anti-inflammatory agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002921",
+        "name": "anti-spasmodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124346",
+        "name": "antiarthritic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940088710",
+        "name": "antibiotic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003146",
+        "name": "anticoagulant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940127219",
+        "name": "anticoagulant drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000935",
+        "name": "antidepressant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940005513",
+        "name": "antidepressants",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003472",
+        "name": "antidiabetic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125708",
+        "name": "antidiabetic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125683",
+        "name": "antiemetic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002111",
+        "name": "antiemetic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940121375",
+        "name": "antifungal agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125715",
+        "name": "antihistaminic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000739",
+        "name": "antihistaminic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960005475",
+        "name": "antiinfective agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004599",
+        "name": "antimicrobial",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124575",
+        "name": "antispasmodic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003434",
+        "name": "antitussive agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124584",
+        "name": "antitussives",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003443",
+        "name": "antiviral agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940121357",
+        "name": "antivirals",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002830",
+        "name": "appetite depressant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003149",
+        "name": "assay kit",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013475",
+        "name": "authorization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013361",
+        "name": "beverage",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124630",
+        "name": "bronchodilator",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000168",
+        "name": "bronchodilator agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125692",
+        "name": "cardiovascular agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002327",
+        "name": "cardiovascular agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003576",
+        "name": "central nervous system agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125693",
+        "name": "central nervous system agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000850",
+        "name": "decongestant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124581",
+        "name": "decongestants",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013870",
+        "name": "dimethyl polysiloxane",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002934",
+        "name": "diuretic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940030606",
+        "name": "diuretics",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003419",
+        "name": "expectorant effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940066493",
+        "name": "expectorants",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004083",
+        "name": "gastrointestinal agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125695",
+        "name": "gastrointestinal agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003193",
+        "name": "general anesthetic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005414",
+        "name": "inactive ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000015181",
+        "name": "infectious disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010027599",
+        "name": "migraine",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000003152",
+        "name": "motion sickness",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000510",
+        "name": "mucolytic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940066491",
+        "name": "mucolytics",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940035363",
+        "name": "muscle relaxants",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003158",
+        "name": "myorelaxant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000820",
+        "name": "nonprescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940127234",
+        "name": "oral contraceptive",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003539",
+        "name": "oral contraceptive agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000737",
+        "name": "periodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940127557",
+        "name": "pharmaceutical product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000435",
+        "name": "poly(dimethylsiloxane)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009597",
+        "name": "pregnancy test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000955",
+        "name": "prescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000241",
+        "name": "respiratory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010845",
+        "name": "search algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000153",
+        "name": "supplemental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IMCGHZIGRANKHV-AJNGGQMLSA-N",
+        "name": "tert-butyl (3s,5s)-2-oxo-5-[(2s,4s)-5-oxo-4-propan-2-yloxolan-2-yl]-3-propan-2-ylpyrrolidine-1-carboxylate",
+        "domain": "Chemical compound",
+        "smiles": "O1C(=O)[C@H](C(C)C)C[C@H]1[C@H]1N(C(=O)OC(C)(C)C)C(=O)[C@H](C(C)C)C1",
+        "inchi_key": "IMCGHZIGRANKHV-AJNGGQMLSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000004371",
+        "name": "toothache",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002996",
+        "name": "urinary tract agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003612",
+        "name": "virological effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

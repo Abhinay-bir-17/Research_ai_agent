@@ -1,0 +1,1578 @@
+{
+  "search_metadata": {
+    "id": "68514e1ad2d740664a6bf819",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b66c5c476009faff/68514e1ad2d740664a6bf819.json",
+    "created_at": "2025-06-17 11:14:34 UTC",
+    "processed_at": "2025-06-17 11:14:34 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20040133452A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b66c5c476009faff/68514e1ad2d740664a6bf819.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20040133452A1/en"
+  },
+  "title": "Correcting and monitoring status of health care claims",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/1c/a8/ed/00219d5db87a3d/US20040133452A1.pdf",
+  "publication_number": "US20040133452A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "information",
+    "rejection",
+    "payer",
+    "new",
+    "errors"
+  ],
+  "prior_art_date": "2002-10-17",
+  "application_number": "US10/688,363",
+  "inventors": [
+    {
+      "name": "James Denny",
+      "link": "https://patents.google.com/?inventor=James+Denny",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+Denny"
+    },
+    {
+      "name": "Thomas Craig",
+      "link": "https://patents.google.com/?inventor=Thomas+Craig",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Thomas+Craig"
+    },
+    {
+      "name": "Kenneth Bradley",
+      "link": "https://patents.google.com/?inventor=Kenneth+Bradley",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kenneth+Bradley"
+    },
+    {
+      "name": "Shawn Edwards",
+      "link": "https://patents.google.com/?inventor=Shawn+Edwards",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shawn+Edwards"
+    }
+  ],
+  "assignees": [
+    "Waystar Technologies Inc"
+  ],
+  "priority_date": "2002-10-17",
+  "filing_date": "2003-10-17",
+  "publication_date": "2004-07-08",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-10-17",
+        "country_code": "US",
+        "application_number": "US10/688,363",
+        "document_id": "patent/US7739132B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2010": [
+      {
+        "filing_date": "2010-06-04",
+        "country_code": "US",
+        "application_number": "US12/794,358",
+        "document_id": "patent/US8719057B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2010-06-07",
+        "country_code": "US",
+        "application_number": "US12/795,054",
+        "document_id": "patent/US8655685B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-10-17",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2003-10-17",
+      "title": "Priority to US10/688,363",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7739132B2/en"
+    },
+    {
+      "date": "2003-10-17",
+      "title": "Assigned to NAVICURE, INC.",
+      "type": "reassignment",
+      "assignee_search": "NAVICURE, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BRADLEY, KENNETH PAUL, BRIDGE, THOMAS CRAIG, DENNY, JAMES MCCAHILL, JR., EDWARDS, SHAWN KEVIN"
+      ]
+    },
+    {
+      "date": "2004-07-08",
+      "title": "Publication of US20040133452A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20040133452A1/en"
+    },
+    {
+      "date": "2010-06-04",
+      "title": "Priority to US12/794,358",
+      "type": "priority",
+      "document_id": "patent/US8719057B2/en"
+    },
+    {
+      "date": "2010-06-07",
+      "title": "Priority to US12/795,054",
+      "type": "priority",
+      "document_id": "patent/US8655685B2/en"
+    },
+    {
+      "date": "2010-06-15",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-06-15",
+      "title": "Publication of US7739132B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7739132B2/en"
+    },
+    {
+      "date": "2016-07-01",
+      "title": "Assigned to ANTARES CAPITAL LP, AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "ANTARES CAPITAL LP, AS COLLATERAL AGENT",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: NAVICURE, INC."
+      ]
+    },
+    {
+      "date": "2017-11-07",
+      "title": "Assigned to NAVICURE, INC.",
+      "type": "reassignment",
+      "assignee_search": "NAVICURE, INC.",
+      "description": [
+        "RELEASE OF SECURITY INTEREST IN PATENTS AT REEL/FRAME NO. 039062/0750",
+        "Assignors: ANTARES CAPITAL LP."
+      ]
+    },
+    {
+      "date": "2017-11-10",
+      "title": "Assigned to ANTARES CAPITAL LP.",
+      "type": "reassignment",
+      "assignee_search": "ANTARES CAPITAL LP.",
+      "description": [
+        "FIRST LIEN GRANT OF SECURITY INTEREST IN PATENTS",
+        "Assignors: NAVICURE, INC."
+      ]
+    },
+    {
+      "date": "2017-11-13",
+      "title": "Assigned to ANTARES CAPITAL LP.",
+      "type": "reassignment",
+      "assignee_search": "ANTARES CAPITAL LP.",
+      "description": [
+        "SECOND LIEN GRANT OF SECURITY INTEREST IN PATENTS",
+        "Assignors: NAVICURE, INC."
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "title": "Assigned to JPMORGAN CHASE BANK, N.A.",
+      "type": "reassignment",
+      "assignee_search": "JPMORGAN CHASE BANK, N.A.",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CONNANCE, INC., NAVICURE, INC., ZIRMED INC."
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "title": "Assigned to GLAS AMERICAS LLC",
+      "type": "reassignment",
+      "assignee_search": "GLAS AMERICAS LLC",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CONNANCE, INC., NAVICURE, INC., ZIRMED INC."
+      ]
+    },
+    {
+      "date": "2019-10-23",
+      "title": "Assigned to NAVICURE, INC.",
+      "type": "reassignment",
+      "assignee_search": "NAVICURE, INC.",
+      "description": [
+        "RELEASE OF SECOND LIEN SECURITY INTEREST IN PATENTS",
+        "Assignors: ANTARES CAPITAL LP, AS COLLATERAL AGENT"
+      ]
+    },
+    {
+      "date": "2019-10-23",
+      "title": "Assigned to NAVICURE, INC.",
+      "type": "reassignment",
+      "assignee_search": "NAVICURE, INC.",
+      "description": [
+        "RELEASE OF FIRST LIEN SECURITY INTEREST IN PATENTS",
+        "Assignors: ANTARES CAPITAL LP, AS COLLATERAL AGENT"
+      ]
+    },
+    {
+      "date": "2020-11-10",
+      "title": "Assigned to WAYSTAR TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "WAYSTAR TECHNOLOGIES, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: NAVICURE, INC."
+      ]
+    },
+    {
+      "date": "2020-11-13",
+      "title": "Assigned to WAYSTAR TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "WAYSTAR TECHNOLOGIES, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: NAVICURE, INC."
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-03-05",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20040133452.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10688363"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20040133452"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2004133452A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10688363/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20040133452"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/49/8f/4b/b7b46f4380444b/US20040133452A1-20040708-D00000.png",
+    "https://patentimages.storage.googleapis.com/d9/e9/b5/9ae6c3856104b0/US20040133452A1-20040708-D00001.png",
+    "https://patentimages.storage.googleapis.com/50/b7/74/e4d99051d03864/US20040133452A1-20040708-D00002.png",
+    "https://patentimages.storage.googleapis.com/ec/bb/d5/6e54af85c803b7/US20040133452A1-20040708-D00003.png",
+    "https://patentimages.storage.googleapis.com/d9/c2/0a/a60b8c89b17792/US20040133452A1-20040708-D00004.png",
+    "https://patentimages.storage.googleapis.com/7e/5c/5c/6c1247f6eae061/US20040133452A1-20040708-D00005.png",
+    "https://patentimages.storage.googleapis.com/7a/42/cb/9051c8238d39ba/US20040133452A1-20040708-D00006.png",
+    "https://patentimages.storage.googleapis.com/8c/e5/35/f30b8f6f24a49a/US20040133452A1-20040708-D00007.png",
+    "https://patentimages.storage.googleapis.com/ce/03/55/065b8f0fa18c49/US20040133452A1-20040708-D00008.png",
+    "https://patentimages.storage.googleapis.com/79/8b/84/6ac9ad3f9669b6/US20040133452A1-20040708-D00009.png",
+    "https://patentimages.storage.googleapis.com/8c/f2/5b/52572670bd9fce/US20040133452A1-20040708-D00010.png",
+    "https://patentimages.storage.googleapis.com/af/1a/49/48848a8dca64f3/US20040133452A1-20040708-D00011.png",
+    "https://patentimages.storage.googleapis.com/07/55/29/699abda6be0de8/US20040133452A1-20040708-D00012.png",
+    "https://patentimages.storage.googleapis.com/16/1f/05/42483dff730c57/US20040133452A1-20040708-D00013.png",
+    "https://patentimages.storage.googleapis.com/41/03/a0/995630af04260a/US20040133452A1-20040708-D00014.png",
+    "https://patentimages.storage.googleapis.com/fb/1f/fd/25543acd60aa8d/US20040133452A1-20040708-D00015.png",
+    "https://patentimages.storage.googleapis.com/36/55/72/ee4499c6871c9b/US20040133452A1-20040708-D00016.png",
+    "https://patentimages.storage.googleapis.com/71/cf/10/26405e242cf0eb/US20040133452A1-20040708-D00017.png",
+    "https://patentimages.storage.googleapis.com/f7/7f/35/b79bc998e3c182/US20040133452A1-20040708-D00018.png",
+    "https://patentimages.storage.googleapis.com/ef/76/c2/2b4bf555d2b330/US20040133452A1-20040708-D00019.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q20/102",
+      "description": "Bill distribution or payments",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q40/08",
+      "description": "Insurance",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The system is an advanced, web-enabled, clearinghouse that facilitates efficient and effective claim routing, monitoring and report retrieval. A claim status summary is displayed that links directly to a rejected claim listing, wherein each rejected claim listed is a link to associated detailed claim information. The detailed claim information display has fields to edit the associated detailed claim information. During the editing process, a rules verification is performed against the edited claim information to ensure the edit comply with the known rules for the associated payer. Upon successfully completing the rules verification, the edited claim is submitted to a payer.",
+  "description_link": "https://serpapi.com/searches/68514e1ad2d740664a6bf819/google_patents_details/description.html",
+  "claims": [
+    "1. A computer implemented method for processing claims, comprising the steps of: \nreceiving practice identifying information:  in response to receiving the practice identifying information, displaying a claim status summary that links directly to a rejected claim listing;  in response to an activation of a rejected claim listing link, displaying the rejected claim listing wherein each rejected claim listed is a link to associated detailed claim information;  in response to an activation of a listed rejection claim link, displaying the associated detailed claim information wherein a detailed claim information display has fields to edit the associated detailed claim information;  in response to receipt of edited claim information, perform a rules verification against the edited claim information; and  upon successfully completing the rules verification, submitting an edited claim to a payer.",
+    "2. The method of claim 1 further comprising the steps of: \nassociating an easy to understand description with a rejection code; and \ndisplaying the easy to understand description in conjunction with the detailed claim information.",
+    "3. The method of claim 1 further comprising the steps of: \nprofiling a payer response to determine a corresponding pattern; and \ngenerating an alert when the payer response has not been received within limits determined by the corresponding pattern.",
+    "4. The method of claim 1, further comprising the steps of: \nreceiving claim rejection data;  analyzing the claim rejection data to determine if a rejection code is in a claim management database;  categorizing a new rejection code that is not in the claim management database into a general rejection category;  determine the general rejection category for a rejected claim; and  displaying the general rejection category.",
+    "5. The method of claim 4, wherein the step of determining the general rejection category includes selecting from a group consisting of eligibility errors, duplicate claim errors, provider enrollment errors, coding errors, patient demographic errors, and payer information errors.",
+    "6. The method of claim 4, further comprising the step of: \nadding a new rule verification in response to receipt of the new rejection code.",
+    "7. The method of claim 4, comprising the steps of: \nreceiving new claim information;  storing the new claim information;  maintaining a claim history wherein any information associated with the new claim is edited, the edit information is stored and retrievable; and  in response to a request, displaying all associated edits.",
+    "8. The method of claim 7, comprising the steps of: \nperforming a rules verification against the new claim information; and  providing a rejected claim report.",
+    "9. A computer implemented method for processing claim, comprising the steps of: \nreceiving claim rejection data over a global computer network;  analyzing the claim rejection data to determine if a rejection code is in a claim management database;  categorizing a new rejection code that is not in the claim management database into a general rejection category;  determine the general rejection category for a rejected claim; and  displaying a claim rejection summary that includes the general rejection category.",
+    "10. The method of claim 9 further comprising the steps of: \nassociating an easy to understand description with the new rejection code; and \ndisplaying the easy to understand description.",
+    "11. The method of claim 9 further comprising the steps of: \nprofiling a payer response to determine a corresponding pattern; and \ngenerating an alert when the payer response has not been received within limits determined by the corresponding pattern.",
+    "12. The method of claim 9, wherein the step of determining the general rejection category includes selecting from a group consisting of eligibility errors, duplicate claim errors, provider enrollment errors, coding errors, patient demographic errors, and payer information errors.",
+    "13. The method of claim 9, further comprising the step of: \nadding a new rule verification in response to receipt of the new rejection code.",
+    "14. The method of claim 9, comprising the steps of: \nreceiving new claim information;  storing the new claim information;  maintaining a claim history wherein any information associated with the new claim is edited, the edit information is stored and retrievable; and  in response to a request, displaying all associated edits.",
+    "15. The method of claim 14, comprising the steps of: \nperforming a rules verification against the new claim information; and  providing a rejected claim report.",
+    "16. A computer implemented method for processing claim, comprising the steps of: \nreceiving new claim information;  storing the new claim information:  performing a rules verification against the new claim information;  providing a rejected claim report;  receiving claim edit information associated with the new claim;  maintaining a claim history wherein any time information associated with the new claim is edited, the edit information is stored and retrievable; and  in response to a request, displaying a claim history report that provides the claim history that shows all associated edits.",
+    "17. The method of claim 16 further comprising the steps of: \nsubmitting the new claim to a payment processing system; \nreceiving claim rejection data that include a rejection code from the payment processing system; \nassociating an easy to understand description with the rejection code; and \ndisplaying the easy to understand description.",
+    "18. The method of claim 16 further comprising the steps of: \nprofiling a payer response to determine a corresponding pattern; and \ngenerating an alert when the payer response has not been received within limits determined by the corresponding pattern.",
+    "19. The method of claim 17, further comprising the steps of: \nanalyzing the claim rejection data to determine if the rejection code is in a claim management database;  categorizing a new rejection code that is not in the claim management database into a general rejection category;  determine the general rejection category for a rejected claim; and  displaying the general rejection category.",
+    "20. The method of claim 19, wherein the step of determining the general rejection category includes selecting from a group consisting of eligibility errors, duplicate claim errors, provider enrollment errors, coding errors, patient demographic errors, and payer information errors.",
+    "21. The method of claim 19, further comprising the step of: \nadding a new rule verification in response to receipt of the new rejection code."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US12/794,358",
+      "relation_type": "Continuation",
+      "representative_publication": "US8719057B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2010-06-04",
+      "title": "Systems and methods for monitoring the status of medical claims"
+    },
+    {
+      "application_number": "US12/795,054",
+      "relation_type": "Continuation",
+      "representative_publication": "US8655685B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2010-06-07",
+      "title": "Systems and methods for processing medical claims"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/688,363",
+      "representative_publication": "US7739132B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2003-10-17",
+      "title": "Correcting and monitoring status of health care claims"
+    },
+    {
+      "application_number": "US12/794,358",
+      "representative_publication": "US8719057B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2010-06-04",
+      "title": "Systems and methods for monitoring the status of medical claims"
+    },
+    {
+      "application_number": "US12/795,054",
+      "representative_publication": "US8655685B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2010-06-07",
+      "title": "Systems and methods for processing medical claims"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US41971302P",
+      "priority_date": "2002-10-17",
+      "filing_date": "2002-10-17"
+    },
+    {
+      "application_number": "US10/688,363",
+      "representative_publication": "US7739132B2",
+      "primary_language": "en",
+      "priority_date": "2002-10-17",
+      "filing_date": "2003-10-17",
+      "title": "Correcting and monitoring status of health care claims"
+    }
+  ],
+  "family_id": "32685068",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5359509A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-31",
+        "publication_date": "1994-10-25",
+        "assignee_original": "United Healthcare Corporation",
+        "title": "Health care payment adjudication and review system",
+        "patent_id": "patent/US5359509A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5359509A%2Fen"
+      },
+      {
+        "publication_number": "US6341265B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-03",
+        "publication_date": "2002-01-22",
+        "assignee_original": "P5 E.Health Services, Inc.",
+        "title": "Provider claim editing and settlement system",
+        "patent_id": "patent/US6341265B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6341265B1%2Fen"
+      },
+      {
+        "publication_number": "US20020120473A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-01",
+        "publication_date": "2002-08-29",
+        "assignee_original": "Wiggins Stephen K.",
+        "title": "Insurance claim filing system and method",
+        "patent_id": "patent/US20020120473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020120473A1%2Fen"
+      },
+      {
+        "publication_number": "US6879959B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-21",
+        "publication_date": "2005-04-12",
+        "assignee_original": "Quality Care Solutions, Inc.",
+        "title": "Method of adjudicating medical claims based on scores that determine medical procedure monetary values",
+        "patent_id": "patent/US6879959B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6879959B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20050102170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-09",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Lefever David L.",
+        "title": "System for processing transaction data",
+        "patent_id": "patent/US20050102170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050102170A1%2Fen"
+      },
+      {
+        "publication_number": "US20050182721A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-17",
+        "publication_date": "2005-08-18",
+        "assignee_original": "Gershon Weintraub",
+        "title": "Remittance information processing system",
+        "patent_id": "patent/US20050182721A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050182721A1%2Fen"
+      },
+      {
+        "publication_number": "US20060053093A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-03",
+        "publication_date": "2006-03-09",
+        "assignee_original": "Bonham David L",
+        "title": "Methods, apparatus and computer program products for processsing claims",
+        "patent_id": "patent/US20060053093A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060053093A1%2Fen"
+      },
+      {
+        "publication_number": "US20060212318A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-28",
+        "publication_date": "2006-09-21",
+        "assignee_original": "Dooley Cherie M",
+        "title": "Systems & methods for pharmacy reimbursement claim resubmission",
+        "patent_id": "patent/US20060212318A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060212318A1%2Fen"
+      },
+      {
+        "publication_number": "US20070050219A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-29",
+        "publication_date": "2007-03-01",
+        "assignee_original": "Sohr James M",
+        "title": "Healthcare claim and remittance processing system and associated method",
+        "patent_id": "patent/US20070050219A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070050219A1%2Fen"
+      },
+      {
+        "publication_number": "US20070088564A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-13",
+        "publication_date": "2007-04-19",
+        "assignee_original": "R&G Resources, Llc",
+        "title": "Healthcare provider data submission and billing system and method",
+        "patent_id": "patent/US20070088564A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070088564A1%2Fen"
+      },
+      {
+        "publication_number": "US20070255592A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-28",
+        "publication_date": "2007-11-01",
+        "assignee_original": "Medical Development International Ltd., Inc.",
+        "title": "Method and system for tracking treatment of patients in a health services environment",
+        "patent_id": "patent/US20070255592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070255592A1%2Fen"
+      },
+      {
+        "publication_number": "US20070255591A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-28",
+        "publication_date": "2007-11-01",
+        "assignee_original": "Medical Development International Ltd., Inc.",
+        "title": "Method and system for acquiring claims in a health services environment",
+        "patent_id": "patent/US20070255591A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070255591A1%2Fen"
+      },
+      {
+        "publication_number": "US20080010094A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-21",
+        "publication_date": "2008-01-10",
+        "assignee_original": "Mark Carlson",
+        "title": "Distribution of health information for providing health related services",
+        "patent_id": "patent/US20080010094A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080010094A1%2Fen"
+      },
+      {
+        "publication_number": "US20090319311A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-23",
+        "publication_date": "2009-12-24",
+        "assignee_original": "Zhe Cheng Mi",
+        "title": "Systems and Methods for Real-Time Monitoring and Analysis of Prescription Claim Rejections",
+        "patent_id": "patent/US20090319311A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090319311A1%2Fen"
+      },
+      {
+        "publication_number": "US20100057489A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-03",
+        "publication_date": "2010-03-04",
+        "assignee_original": "Medimpact Healthcare Systems Inc.",
+        "title": "Virtual Health Care Needs Fulfillment System",
+        "patent_id": "patent/US20100057489A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100057489A1%2Fen"
+      },
+      {
+        "publication_number": "US20100138243A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-02",
+        "publication_date": "2010-06-03",
+        "assignee_original": "Payformance Corporation",
+        "title": "Systems and methods for facilitating healthcare cost remittance, adjudication, and reimbursement processes",
+        "patent_id": "patent/US20100138243A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100138243A1%2Fen"
+      },
+      {
+        "publication_number": "US20100217622A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-23",
+        "publication_date": "2010-08-26",
+        "assignee_original": "Brown Dale R",
+        "title": "System for Processing Retail Clinic Claims",
+        "patent_id": "patent/US20100217622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100217622A1%2Fen"
+      },
+      {
+        "publication_number": "US20100287002A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-11",
+        "publication_date": "2010-11-11",
+        "assignee_original": "Medimpact Healthcare Systems, Inc.",
+        "title": "Method for providing consumer choice and equalizing pharmacy provider availability in prescription medication dispensing plans",
+        "patent_id": "patent/US20100287002A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100287002A1%2Fen"
+      },
+      {
+        "publication_number": "US20110029321A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-28",
+        "publication_date": "2011-02-03",
+        "assignee_original": "Medlmpact Healthcare Systems, Inc.",
+        "title": "System and method for web-based claim management",
+        "patent_id": "patent/US20110029321A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110029321A1%2Fen"
+      },
+      {
+        "publication_number": "US7962350B1",
+        "primary_language": "en",
+        "priority_date": "2001-01-08",
+        "publication_date": "2011-06-14",
+        "assignee_original": "Pps Data, Llc",
+        "title": "Payment of health care insurance claims using short-term loans",
+        "patent_id": "patent/US7962350B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7962350B1%2Fen"
+      },
+      {
+        "publication_number": "US20110185284A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-26",
+        "publication_date": "2011-07-28",
+        "assignee_original": "Allen Andrew T",
+        "title": "Techniques for grammar rule composition and testing",
+        "patent_id": "patent/US20110185284A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110185284A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140278512A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-15",
+        "publication_date": "2014-09-18",
+        "assignee_original": "Adp, Inc.",
+        "title": "Healthcare claim editing system, method, and apparatus",
+        "patent_id": "patent/US20140278512A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140278512A1%2Fen"
+      },
+      {
+        "publication_number": "JP2014182613A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-19",
+        "publication_date": "2014-09-29",
+        "assignee_original": "Fujitsu Ltd",
+        "title": "Medical business support program, medical business support method, and medical business support device",
+        "patent_id": "patent/JP2014182613A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014182613A%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20160283676A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-07",
+        "publication_date": "2016-09-29",
+        "assignee_original": "Ckn Group, Inc.",
+        "title": "Systems and methods for interactive digital data collection",
+        "patent_id": "patent/US20160283676A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160283676A1%2Fen"
+      },
+      {
+        "publication_number": "US20170004265A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-30",
+        "publication_date": "2017-01-05",
+        "assignee_original": "Invidasys, Inc.",
+        "title": "Encounter management",
+        "patent_id": "patent/US20170004265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170004265A1%2Fen"
+      },
+      {
+        "publication_number": "US9760951B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-10",
+        "publication_date": "2017-09-12",
+        "assignee_original": "State Farm Mutual Automobile Insurance Company",
+        "title": "Systems and methods for automatically updating data representative of insurance related information",
+        "patent_id": "patent/US9760951B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9760951B2%2Fen"
+      },
+      {
+        "publication_number": "US20180014804A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-21",
+        "publication_date": "2018-01-18",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Radiographic apparatus, and control method and program thereof",
+        "patent_id": "patent/US20180014804A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180014804A1%2Fen"
+      },
+      {
+        "publication_number": "US10423759B1",
+        "primary_language": "en",
+        "priority_date": "2015-01-16",
+        "publication_date": "2019-09-24",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for identifying prior authorization assistance requests in healthcare transactions",
+        "patent_id": "patent/US10423759B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10423759B1%2Fen"
+      },
+      {
+        "publication_number": "US10430555B1",
+        "primary_language": "en",
+        "priority_date": "2014-03-13",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining and communicating information to a pharmacy indicating patient eligibility for an intervention service",
+        "patent_id": "patent/US10430555B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10430555B1%2Fen"
+      },
+      {
+        "publication_number": "US10642957B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-21",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining, collecting, and configuring patient intervention screening information from a pharmacy",
+        "patent_id": "patent/US10642957B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10642957B1%2Fen"
+      },
+      {
+        "publication_number": "US10650380B1",
+        "primary_language": "en",
+        "priority_date": "2017-03-31",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Mckesson Corporation",
+        "title": "System and method for evaluating requests",
+        "patent_id": "patent/US10650380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10650380B1%2Fen"
+      },
+      {
+        "publication_number": "US12198083B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-14",
+        "publication_date": "2025-01-14",
+        "assignee_original": "Medimpact Healthcare Systems, Inc.",
+        "title": "Healthcare fulfillment methods and systems",
+        "patent_id": "patent/US12198083B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12198083B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20100332263A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-30",
+        "publication_date": "2010-12-30",
+        "assignee_original": "William Frank",
+        "title": "Method, apparatus and computer program product for providing a contract compliance solution",
+        "patent_id": "patent/US20100332263A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100332263A1%2Fen"
+      },
+      {
+        "publication_number": "US8762181B1",
+        "primary_language": "en",
+        "priority_date": "2009-12-31",
+        "publication_date": "2014-06-24",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "Systems and methods for evaluating healthcare claim transactions for medicare eligibility",
+        "patent_id": "patent/US8762181B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8762181B1%2Fen"
+      },
+      {
+        "publication_number": "US8781850B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-25",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Trans Union Llc",
+        "title": "System and method for enhancing and authenticating an insurance eligibility transaction",
+        "patent_id": "patent/US8781850B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8781850B2%2Fen"
+      },
+      {
+        "publication_number": "US8335672B1",
+        "primary_language": "en",
+        "priority_date": "2010-03-26",
+        "publication_date": "2012-12-18",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "Systems and methods for the identification of available payers for healthcare transactions",
+        "patent_id": "patent/US8335672B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8335672B1%2Fen"
+      },
+      {
+        "publication_number": "US9727919B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-14",
+        "publication_date": "2017-08-08",
+        "assignee_original": "Identity Theft Guard Solutions, Inc.",
+        "title": "Systems and methods for reducing medical claims fraud",
+        "patent_id": "patent/US9727919B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9727919B2%2Fen"
+      },
+      {
+        "publication_number": "US10445508B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-14",
+        "publication_date": "2019-10-15",
+        "assignee_original": "Radar, Llc",
+        "title": "Systems and methods for managing multi-region data incidents",
+        "patent_id": "patent/US10445508B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10445508B2%2Fen"
+      },
+      {
+        "publication_number": "US9781147B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-14",
+        "publication_date": "2017-10-03",
+        "assignee_original": "Radar, Inc.",
+        "title": "Systems and methods for managing data incidents",
+        "patent_id": "patent/US9781147B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9781147B2%2Fen"
+      },
+      {
+        "publication_number": "US10204238B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-14",
+        "publication_date": "2019-02-12",
+        "assignee_original": "Radar, Inc.",
+        "title": "Systems and methods for managing data incidents",
+        "patent_id": "patent/US10204238B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10204238B2%2Fen"
+      },
+      {
+        "publication_number": "US8707445B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-14",
+        "publication_date": "2014-04-22",
+        "assignee_original": "Identity Theft Guard Solutions, Llc",
+        "title": "Systems and methods for managing data incidents",
+        "patent_id": "patent/US8707445B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8707445B2%2Fen"
+      },
+      {
+        "publication_number": "US10331904B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-14",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Radar, Llc",
+        "title": "Systems and methods for managing multifaceted data incidents",
+        "patent_id": "patent/US10331904B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10331904B2%2Fen"
+      },
+      {
+        "publication_number": "US9672209B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-21",
+        "publication_date": "2017-06-06",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Dynamic translation substitution",
+        "patent_id": "patent/US9672209B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9672209B2%2Fen"
+      },
+      {
+        "publication_number": "US20140244286A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-25",
+        "publication_date": "2014-08-28",
+        "assignee_original": "Complete Consent, Llc",
+        "title": "Insurance company, pharmacy benefits managers, pharmacies, state agencies, federal agencies, and quality assurance reporting",
+        "patent_id": "patent/US20140244286A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140244286A1%2Fen"
+      },
+      {
+        "publication_number": "US10319468B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-21",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Leonard Ginsburg",
+        "title": "Medical services tracking system and method",
+        "patent_id": "patent/US10319468B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10319468B2%2Fen"
+      },
+      {
+        "publication_number": "US10573407B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-21",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Leonard Ginsburg",
+        "title": "Medical services tracking server system and method",
+        "patent_id": "patent/US10573407B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10573407B2%2Fen"
+      },
+      {
+        "publication_number": "US10685743B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-21",
+        "publication_date": "2020-06-16",
+        "assignee_original": "Ehr Command Center, Llc",
+        "title": "Data command center visual display system",
+        "patent_id": "patent/US10685743B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10685743B2%2Fen"
+      },
+      {
+        "publication_number": "US10521778B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-16",
+        "publication_date": "2019-12-31",
+        "assignee_original": "Alegeus Technologies, Llc",
+        "title": "Systems and methods for allocating resources via information technology infrastructure",
+        "patent_id": "patent/US10521778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10521778B2%2Fen"
+      },
+      {
+        "publication_number": "US10949889B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-04",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Exelate Media Ltd.",
+        "title": "Methods and apparatus for managing models for classification of online users",
+        "patent_id": "patent/US10949889B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10949889B2%2Fen"
+      },
+      {
+        "publication_number": "US11244310B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-11",
+        "publication_date": "2022-02-08",
+        "assignee_original": "Truveris, Inc.",
+        "title": "Systems for reimbursing and reconciling pharmacy-related transactions",
+        "patent_id": "patent/US11244310B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11244310B2%2Fen"
+      },
+      {
+        "publication_number": "US10698862B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-13",
+        "publication_date": "2020-06-30",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Enhanced snapshot performance, storage efficiency improvement, dynamic snapshot policy in erasure code supported object storage environment",
+        "patent_id": "patent/US10698862B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10698862B2%2Fen"
+      },
+      {
+        "publication_number": "US11636455B2",
+        "primary_language": "en",
+        "priority_date": "2018-07-12",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Inbox Health Corp.",
+        "title": "Intelligent patient billing communication platform for health services",
+        "patent_id": "patent/US11636455B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11636455B2%2Fen"
+      },
+      {
+        "publication_number": "US11568493B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-25",
+        "publication_date": "2023-01-31",
+        "assignee_original": "Jzanus I.T. Services, Llc",
+        "title": "Computing device with improved user interface for collection based on patient services provided by a health care provider",
+        "patent_id": "patent/US11568493B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11568493B2%2Fen"
+      },
+      {
+        "publication_number": "US11645344B2",
+        "primary_language": "en",
+        "priority_date": "2019-08-26",
+        "publication_date": "2023-05-09",
+        "assignee_original": "Experian Health, Inc.",
+        "title": "Entity mapping based on incongruent entity data",
+        "patent_id": "patent/US11645344B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11645344B2%2Fen"
+      },
+      {
+        "publication_number": "WO2021042077A1",
+        "primary_language": "en",
+        "priority_date": "2019-08-29",
+        "publication_date": "2021-03-04",
+        "assignee_original": "Ehr Command Center, Llc",
+        "title": "Data command center visual display system",
+        "patent_id": "patent/WO2021042077A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021042077A1%2Fen"
+      },
+      {
+        "publication_number": "US11741103B1",
+        "primary_language": "en",
+        "priority_date": "2022-03-14",
+        "publication_date": "2023-08-29",
+        "assignee_original": "Optum Services (Ireland) Limited",
+        "title": "Database management systems using query-compliant hashing techniques",
+        "patent_id": "patent/US11741103B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11741103B1%2Fen"
+      },
+      {
+        "publication_number": "US11734281B1",
+        "primary_language": "en",
+        "priority_date": "2022-03-14",
+        "publication_date": "2023-08-22",
+        "assignee_original": "Optum Services (Ireland) Limited",
+        "title": "Database management systems using query-compliant hashing techniques",
+        "patent_id": "patent/US11734281B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11734281B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7739132B2",
+      "primary_language": "en",
+      "publication_date": "2010-06-15",
+      "title": "Correcting and monitoring status of health care claims",
+      "patent_id": "patent/US7739132B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7739132B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030233252A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-18",
+      "title": "System and method for providing a generic health care data repository",
+      "patent_id": "patent/US20030233252A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030233252A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5832447A",
+      "primary_language": "en",
+      "publication_date": "1998-11-03",
+      "title": "Automated system and method for providing real-time verification of health insurance eligibility",
+      "patent_id": "patent/US5832447A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5832447A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7263493B1",
+      "primary_language": "en",
+      "publication_date": "2007-08-28",
+      "title": "Delivering electronic versions of supporting documents associated with an insurance claim",
+      "patent_id": "patent/US7263493B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7263493B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7797172B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-14",
+      "title": "Healthcare financial data and clinical information processing system",
+      "patent_id": "patent/US7797172B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7797172B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030191667A1",
+      "primary_language": "en",
+      "publication_date": "2003-10-09",
+      "title": "System and user interface supporting use of rules for processing healthcare and other claim data",
+      "patent_id": "patent/US20030191667A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191667A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7668738B2",
+      "primary_language": "en",
+      "publication_date": "2010-02-23",
+      "title": "Insurance claim filing system and method",
+      "patent_id": "patent/US7668738B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7668738B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8364498B2",
+      "primary_language": "en",
+      "publication_date": "2013-01-29",
+      "title": "Healthcare claim and remittance processing system and associated method",
+      "patent_id": "patent/US8364498B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8364498B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060129435A1",
+      "primary_language": "en",
+      "publication_date": "2006-06-15",
+      "title": "System and method for providing community health data services",
+      "patent_id": "patent/US20060129435A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060129435A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030069760A1",
+      "primary_language": "en",
+      "publication_date": "2003-04-10",
+      "title": "System and method for processing and pre-adjudicating patient benefit claims",
+      "patent_id": "patent/US20030069760A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030069760A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030191669A1",
+      "primary_language": "en",
+      "publication_date": "2003-10-09",
+      "title": "System for providing consumer access to healthcare related information",
+      "patent_id": "patent/US20030191669A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191669A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020133503A1",
+      "primary_language": "en",
+      "publication_date": "2002-09-19",
+      "title": "Practice management and billing automation system",
+      "patent_id": "patent/US20020133503A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020133503A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10242158B2",
+      "primary_language": "en",
+      "publication_date": "2019-03-26",
+      "title": "Universal charge routing system for medical billing",
+      "patent_id": "patent/US10242158B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10242158B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030144887A1",
+      "primary_language": "en",
+      "publication_date": "2003-07-31",
+      "title": "System and method for electronically creating, filing and approving applications for insurance coverage",
+      "patent_id": "patent/US20030144887A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030144887A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060129434A1",
+      "primary_language": "en",
+      "publication_date": "2006-06-15",
+      "title": "System and method for disseminating healthcare data from a database",
+      "patent_id": "patent/US20060129434A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060129434A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040078228A1",
+      "primary_language": "en",
+      "publication_date": "2004-04-22",
+      "title": "System for monitoring healthcare patient encounter related information",
+      "patent_id": "patent/US20040078228A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078228A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040078247A1",
+      "primary_language": "en",
+      "publication_date": "2004-04-22",
+      "title": "Systems and methods for verifying and editing electronically transmitted claim content",
+      "patent_id": "patent/US20040078247A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078247A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030023580A1",
+      "primary_language": "en",
+      "publication_date": "2003-01-30",
+      "title": "Method and system for assimilating data from ancillary preumbra systems onto an enterprise system",
+      "patent_id": "patent/US20030023580A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030023580A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7464043B1",
+      "primary_language": "en",
+      "publication_date": "2008-12-09",
+      "title": "Computerized method and system for obtaining, storing and accessing medical records",
+      "patent_id": "patent/US7464043B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7464043B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060195340A1",
+      "primary_language": "en",
+      "publication_date": "2006-08-31",
+      "title": "System and method for restoring health data in a database",
+      "patent_id": "patent/US20060195340A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060195340A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030163778A1",
+      "primary_language": "en",
+      "publication_date": "2003-08-28",
+      "title": "System and method for improved validation for claims compliance",
+      "patent_id": "patent/US20030163778A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030163778A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030229516A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-11",
+      "title": "System and method for rapid claims submission and adjudication",
+      "patent_id": "patent/US20030229516A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030229516A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060095303A1",
+      "primary_language": "en",
+      "publication_date": "2006-05-04",
+      "title": "Method and apparatus for a generic mechanism for adjudication of claims in a claims processing system",
+      "patent_id": "patent/US20060095303A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060095303A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2483213A1",
+      "primary_language": "en",
+      "publication_date": "2003-10-30",
+      "title": "A system for providing consumer access to healthcare related information",
+      "patent_id": "patent/CA2483213A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2483213A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2482433A1",
+      "primary_language": "en",
+      "publication_date": "2003-10-23",
+      "title": "A system and user interface supporting use of rules for processing healthcare and other claim data",
+      "patent_id": "patent/CA2482433A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2482433A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-10-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NAVICURE, INC., GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DENNY, JAMES MCCAHILL, JR.;BRIDGE, THOMAS CRAIG;BRADLEY, KENNETH PAUL;AND OTHERS;REEL/FRAME:014623/0443"
+        },
+        {
+          "label": "Effective date",
+          "value": "20031017"
+        },
+        {
+          "label": "Owner name",
+          "value": "NAVICURE, INC.,GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DENNY, JAMES MCCAHILL, JR.;BRIDGE, THOMAS CRAIG;BRADLEY, KENNETH PAUL;AND OTHERS;REEL/FRAME:014623/0443"
+        },
+        {
+          "label": "Effective date",
+          "value": "20031017"
+        }
+      ]
+    },
+    {
+      "date": "2010-05-26",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-13",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-02",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2016-07-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ANTARES CAPITAL LP, AS COLLATERAL AGENT, GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:NAVICURE, INC.;REEL/FRAME:039062/0750"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160701"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-08",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-31",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NAVICURE, INC., GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF SECURITY INTEREST IN PATENTS AT REEL/FRAME NO. 039062/0750;ASSIGNOR:ANTARES CAPITAL LP.;REEL/FRAME:044936/0477"
+        },
+        {
+          "label": "Effective date",
+          "value": "20171101"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ANTARES CAPITAL LP., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "FIRST LIEN GRANT OF SECURITY INTEREST IN PATENTS;ASSIGNOR:NAVICURE, INC.;REEL/FRAME:044696/0814"
+        },
+        {
+          "label": "Effective date",
+          "value": "20171101"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-13",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ANTARES CAPITAL LP., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECOND LIEN GRANT OF SECURITY INTEREST IN PATENTS;ASSIGNOR:NAVICURE, INC.;REEL/FRAME:044429/0171"
+        },
+        {
+          "label": "Effective date",
+          "value": "20171101"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GLAS AMERICAS LLC, NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:NAVICURE, INC.;ZIRMED INC.;CONNANCE, INC.;REEL/FRAME:050786/0572"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191022"
+        },
+        {
+          "label": "Owner name",
+          "value": "JPMORGAN CHASE BANK, N.A., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:NAVICURE, INC.;ZIRMED INC.;CONNANCE, INC.;REEL/FRAME:050786/0417"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191022"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NAVICURE, INC., GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF FIRST LIEN SECURITY INTEREST IN PATENTS;ASSIGNOR:ANTARES CAPITAL LP, AS COLLATERAL AGENT;REEL/FRAME:050807/0633"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191022"
+        },
+        {
+          "label": "Owner name",
+          "value": "NAVICURE, INC., GEORGIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF SECOND LIEN SECURITY INTEREST IN PATENTS;ASSIGNOR:ANTARES CAPITAL LP, AS COLLATERAL AGENT;REEL/FRAME:050807/0892"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191022"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WAYSTAR TECHNOLOGIES, INC., KENTUCKY"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:NAVICURE, INC.;REEL/FRAME:054372/0064"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201016"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-13",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WAYSTAR TECHNOLOGIES, INC., KENTUCKY"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:NAVICURE, INC.;REEL/FRAME:054409/0461"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201016"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-30",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    }
+  ]
+}

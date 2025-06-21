@@ -1,0 +1,3889 @@
+{
+  "search_metadata": {
+    "id": "68514de53d36569dec321b8b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d06182aa4235ae7d/68514de53d36569dec321b8b.json",
+    "created_at": "2025-06-17 11:13:41 UTC",
+    "processed_at": "2025-06-17 11:13:41 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6322504B1/en",
+    "raw_html_file": "https://serpapi.com/searches/d06182aa4235ae7d/68514de53d36569dec321b8b.html",
+    "total_time_taken": 3.17
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6322504B1/en"
+  },
+  "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c9/ab/57/6c0dfb8d17b5bc/US6322504.pdf",
+  "publication_number": "US6322504B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "user",
+    "risk",
+    "disease",
+    "section",
+    "individual"
+  ],
+  "prior_art_date": "2000-03-27",
+  "application_number": "US09/535,689",
+  "inventors": [
+    {
+      "name": "Ronald Kirshner",
+      "link": "https://patents.google.com/?inventor=Ronald+Kirshner",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ronald+Kirshner"
+    }
+  ],
+  "assignees": [
+    "R and T LLC"
+  ],
+  "priority_date": "2000-03-27",
+  "filing_date": "2000-03-27",
+  "publication_date": "2001-11-27",
+  "worldwide_applications": {
+    "2000": [
+      {
+        "filing_date": "2000-03-27",
+        "country_code": "US",
+        "application_number": "US09/535,689",
+        "document_id": "patent/US6322504B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ],
+    "2001": [
+      {
+        "filing_date": "2001-03-26",
+        "country_code": "AU",
+        "application_number": "AU2001247794A",
+        "document_id": "patent/AU2001247794A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2001-03-26",
+        "country_code": "WO",
+        "application_number": "PCT/US2001/009636",
+        "document_id": "patent/WO2001073526A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2001-10-09",
+        "country_code": "US",
+        "application_number": "US09/973,995",
+        "document_id": "patent/US20020082906A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2000-03-27",
+      "title": "Application filed by R and T LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "R and T LLC"
+    },
+    {
+      "date": "2000-03-27",
+      "title": "Priority to US09/535,689",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6322504B1/en"
+    },
+    {
+      "date": "2000-08-11",
+      "title": "Assigned to R AND T, LLC",
+      "type": "reassignment",
+      "assignee_search": "R AND T, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KIRSHNER, RONALD"
+      ]
+    },
+    {
+      "date": "2001-03-26",
+      "title": "Priority to PCT/US2001/009636",
+      "type": "priority",
+      "document_id": "patent/WO2001073526A2/en"
+    },
+    {
+      "date": "2001-03-26",
+      "title": "Priority to AU2001247794A",
+      "type": "priority",
+      "document_id": "patent/AU2001247794A1/en"
+    },
+    {
+      "date": "2001-10-09",
+      "title": "Priority to US09/973,995",
+      "type": "priority",
+      "document_id": "patent/US20020082906A1/en"
+    },
+    {
+      "date": "2001-11-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2001-11-27",
+      "title": "Publication of US6322504B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6322504B1/en"
+    },
+    {
+      "date": "2020-03-27",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6322504.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09535689"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6322504"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6322504B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09535689/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6322504"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/7c/7a/ef/6949ecc4266543/US06322504-20011127-D00000.png",
+    "https://patentimages.storage.googleapis.com/38/cd/20/de31e579867c6a/US06322504-20011127-D00001.png",
+    "https://patentimages.storage.googleapis.com/7d/7b/75/c059a2ce0fed6e/US06322504-20011127-D00002.png",
+    "https://patentimages.storage.googleapis.com/df/77/4c/45417a78e20177/US06322504-20011127-D00003.png",
+    "https://patentimages.storage.googleapis.com/00/f6/06/b3cd2102c5abec/US06322504-20011127-D00004.png",
+    "https://patentimages.storage.googleapis.com/48/26/b5/e3b6f315471865/US06322504-20011127-D00005.png",
+    "https://patentimages.storage.googleapis.com/14/14/1c/f226e1f7466371/US06322504-20011127-D00006.png",
+    "https://patentimages.storage.googleapis.com/80/c0/89/80cd3fb8ca3a8d/US06322504-20011127-D00007.png",
+    "https://patentimages.storage.googleapis.com/2c/61/f5/cd217a0a080e07/US06322504-20011127-D00008.png",
+    "https://patentimages.storage.googleapis.com/43/69/f0/37371f55cf37a4/US06322504-20011127-D00009.png",
+    "https://patentimages.storage.googleapis.com/b7/cd/b4/d6e8343786289d/US06322504-20011127-D00010.png",
+    "https://patentimages.storage.googleapis.com/e6/0a/e3/b68728ff5f9508/US06322504-20011127-D00012.png",
+    "https://patentimages.storage.googleapis.com/e8/c3/ad/dc13f1f60bea5b/US06322504-20011127-D00013.png",
+    "https://patentimages.storage.googleapis.com/cf/68/ff/90a3f5443d3023/US06322504-20011127-D00014.png",
+    "https://patentimages.storage.googleapis.com/34/7a/85/176605a1cef1a5/US06322504-20011127-D00015.png",
+    "https://patentimages.storage.googleapis.com/f6/59/96/35c938fb858194/US06322504-20011127-D00016.png",
+    "https://patentimages.storage.googleapis.com/6f/6b/b0/df34bfaccb8f81/US06322504-20011127-D00017.png",
+    "https://patentimages.storage.googleapis.com/aa/f6/c0/d2f1b75b1fe139/US06322504-20011127-D00018.png",
+    "https://patentimages.storage.googleapis.com/35/f8/8c/d83cbb99f33834/US06322504-20011127-D00019.png",
+    "https://patentimages.storage.googleapis.com/44/51/8b/f407e1b37817fe/US06322504-20011127-D00020.png",
+    "https://patentimages.storage.googleapis.com/89/4a/77/6cb5f38b3e9e1a/US06322504-20011127-D00021.png",
+    "https://patentimages.storage.googleapis.com/d1/e4/7d/918fbe20b4cac3/US06322504-20011127-D00022.png",
+    "https://patentimages.storage.googleapis.com/58/6b/bf/d897aec9a273b0/US06322504-20011127-D00023.png",
+    "https://patentimages.storage.googleapis.com/73/c3/0c/bf2210637cb8f2/US06322504-20011127-D00024.png",
+    "https://patentimages.storage.googleapis.com/d9/89/14/67b92f2ef40699/US06322504-20011127-D00025.png",
+    "https://patentimages.storage.googleapis.com/76/71/be/5273e352ad7349/US06322504-20011127-D00026.png",
+    "https://patentimages.storage.googleapis.com/78/ca/35/ab2eb5973cd73e/US06322504-20011127-D00027.png",
+    "https://patentimages.storage.googleapis.com/f5/fa/e2/505c5006ace034/US06322504-20011127-D00028.png",
+    "https://patentimages.storage.googleapis.com/e2/21/f0/a70527769d8552/US06322504-20011127-D00029.png",
+    "https://patentimages.storage.googleapis.com/c6/f9/d2/988a991022b941/US06322504-20011127-D00030.png",
+    "https://patentimages.storage.googleapis.com/14/21/5a/6b9f46aacdd3f1/US06322504-20011127-D00031.png",
+    "https://patentimages.storage.googleapis.com/30/c9/99/97410d7035e17a/US06322504-20011127-D00032.png",
+    "https://patentimages.storage.googleapis.com/a5/83/f2/57550382a34963/US06322504-20011127-D00033.png",
+    "https://patentimages.storage.googleapis.com/db/4a/ba/f4f2fbf60f109d/US06322504-20011127-D00034.png",
+    "https://patentimages.storage.googleapis.com/21/eb/33/c4681224f23e9a/US06322504-20011127-D00035.png",
+    "https://patentimages.storage.googleapis.com/8b/a4/54/115916864d0c1a/US06322504-20011127-D00036.png",
+    "https://patentimages.storage.googleapis.com/46/99/2b/7a187f0661fbf8/US06322504-20011127-D00037.png",
+    "https://patentimages.storage.googleapis.com/0f/a2/32/cd3d28e1286f7b/US06322504-20011127-D00038.png",
+    "https://patentimages.storage.googleapis.com/7f/da/0b/1b45b3bf70fd6c/US06322504-20011127-D00039.png",
+    "https://patentimages.storage.googleapis.com/8e/f9/82/697bc2bc964ba6/US06322504-20011127-D00040.png",
+    "https://patentimages.storage.googleapis.com/df/0c/3c/3fb8b9d55e5166/US06322504-20011127-D00041.png",
+    "https://patentimages.storage.googleapis.com/a2/d2/34/d39249c606f4d3/US06322504-20011127-D00042.png",
+    "https://patentimages.storage.googleapis.com/07/ad/56/9b8076494744e7/US06322504-20011127-D00043.png",
+    "https://patentimages.storage.googleapis.com/84/db/d3/56da442cdb75ed/US06322504-20011127-D00044.png",
+    "https://patentimages.storage.googleapis.com/ed/82/ff/6ff751278d663e/US06322504-20011127-D00045.png",
+    "https://patentimages.storage.googleapis.com/c0/8d/bd/ba88abacc71e55/US06322504-20011127-D00046.png",
+    "https://patentimages.storage.googleapis.com/49/ea/7b/c792541255951b/US06322504-20011127-D00047.png",
+    "https://patentimages.storage.googleapis.com/18/39/5c/3498ae8888b9dc/US06322504-20011127-D00048.png",
+    "https://patentimages.storage.googleapis.com/a7/27/29/c2e7b22c46e66c/US06322504-20011127-D00049.png",
+    "https://patentimages.storage.googleapis.com/11/d8/20/c079e0904e2cb9/US06322504-20011127-D00050.png",
+    "https://patentimages.storage.googleapis.com/4c/bd/85/29e9cef44bfff7/US06322504-20011127-D00051.png",
+    "https://patentimages.storage.googleapis.com/28/6f/77/196aed76e184c5/US06322504-20011127-D00052.png",
+    "https://patentimages.storage.googleapis.com/61/5c/70/2252148c2d4620/US06322504-20011127-D00053.png",
+    "https://patentimages.storage.googleapis.com/61/ec/5d/4ee928961b01c8/US06322504-20011127-D00054.png",
+    "https://patentimages.storage.googleapis.com/dc/99/24/4b73791a813bf2/US06322504-20011127-D00055.png",
+    "https://patentimages.storage.googleapis.com/88/15/33/f15a859db194e2/US06322504-20011127-D00056.png",
+    "https://patentimages.storage.googleapis.com/61/e8/dc/ec63d30edf9559/US06322504-20011127-D00057.png",
+    "https://patentimages.storage.googleapis.com/68/be/72/41a2debb839c74/US06322504-20011127-D00058.png",
+    "https://patentimages.storage.googleapis.com/38/be/a0/f6c92ddb10d1c4/US06322504-20011127-D00059.png",
+    "https://patentimages.storage.googleapis.com/6d/5b/fe/d506ca78d8e2bb/US06322504-20011127-D00060.png",
+    "https://patentimages.storage.googleapis.com/03/60/99/65baa1442086cd/US06322504-20011127-D00061.png",
+    "https://patentimages.storage.googleapis.com/b2/2d/70/c32cd025fb8f17/US06322504-20011127-D00062.png",
+    "https://patentimages.storage.googleapis.com/69/2c/68/9d2b9c9e32bd53/US06322504-20011127-D00063.png",
+    "https://patentimages.storage.googleapis.com/ef/e9/35/5d7d7dd3f1c90e/US06322504-20011127-D00064.png",
+    "https://patentimages.storage.googleapis.com/d5/8f/a4/3002dd106436ac/US06322504-20011127-D00065.png",
+    "https://patentimages.storage.googleapis.com/e6/4c/bc/7e5b3918984733/US06322504-20011127-D00066.png",
+    "https://patentimages.storage.googleapis.com/70/ee/4d/42c521510fb4b0/US06322504-20011127-D00067.png",
+    "https://patentimages.storage.googleapis.com/d2/ec/da/fbbed4ce65cf69/US06322504-20011127-D00068.png",
+    "https://patentimages.storage.googleapis.com/f7/82/f8/dda9cab0daaf3d/US06322504-20011127-D00069.png",
+    "https://patentimages.storage.googleapis.com/cf/ea/c2/03562875eb1425/US06322504-20011127-D00070.png",
+    "https://patentimages.storage.googleapis.com/dd/90/bd/151dcbd7d39804/US06322504-20011127-D00071.png",
+    "https://patentimages.storage.googleapis.com/b7/eb/23/3a0512dd3de413/US06322504-20011127-D00072.png",
+    "https://patentimages.storage.googleapis.com/15/ed/3d/9826b57ff41fee/US06322504-20011127-D00073.png",
+    "https://patentimages.storage.googleapis.com/61/e7/f4/eac0449b58cebc/US06322504-20011127-D00074.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/0002",
+      "description": "Remote monitoring of patients using telemetry, e.g. transmission of vital signals via a communication network",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/7275",
+      "description": "Determining trends in physiological measurement data; Predicting development of a medical condition based on physiological measurements, e.g. determining a risk factor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/20",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for electronic clinical trials or questionnaires",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H15/00",
+      "description": "ICT specially adapted for medical reports, e.g. generation or transmission thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/60",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to pathologies",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/904",
+      "description": "Telephone telemetry",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/92",
+      "description": "Computer assisted medical diagnostics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An interactive computerized method and system for determining the risk of developing a disease, consequences of the disease, providing ways of modifying the risk, and tracking the progress of an individual as his or her risk factors change or remain the same. The method includes:\ntransmitting questions to the individual pertaining to risk factors for the disease via a processor;\nreceiving responses to the questions from the individual via the processor;\ntransmitting contemporaneous feedback to the responses via the processor;\ndetermining the risk of the individual developing the disease or the associated consequences of having the disease using at least one of the responses and practice guidelines for the disease;\ntransmitting a summary of positive risk factors and risk modification information to the individual via the processor; and\ntracking changes in the responses and the positive risk factors of the individual over time.\nThe system includes a processor executing a program that performs the method.",
+  "description_link": "https://serpapi.com/searches/68514de53d36569dec321b8b/google_patents_details/description.html",
+  "claims": [
+    "1. An interactive computerized method for determining the risk of an individual developing a disease and the consequences of developing the disease, comprising the steps of:\n      transmitting questions to a user pertaining to risk factors for the disease via a processor; \n      receiving responses to the questions from the user via the processor; \n      transmitting substantially contemporaneous feedback to the responses via the processor; \n      if the individual does not have the disease, determining the risk of the individual developing the disease using at least one of the responses and practice guidelines for the disease; \n      if the individual does have the disease, determining associated consequences of the disease using at least one of the responses and the practice guidelines for the disease; \n      transmitting a summary of positive risk factors and risk modification information to the user via the processor; \n      tracking changes in the responses and the positive risk factors for the individual over time.",
+    "2. The method according to claim 1, wherein:\n      the disease includes coronary artery disease.",
+    "3. The method according to claim 1, wherein:\n      the questions include questions about at least one of physical characteristics, lifestyle, and medical history.",
+    "4. The method according to claim 3, wherein:\n      at least one of: \n      the physical characteristics include age, gender, race, height and weight; \n      the lifestyle questions include questions about at least one of smoking habits, drinking habits, vitamin intake, and stress; and \n      the medical history Questions include questions about at least one of blood pressure, diabetes, menopause, ovary removal, hormone replacement, CAD, heart attack, coronary artery bypass surgery, angioplasty, peripheral vascular disease, left ventricular hypertophy, family history, lipid profile, stress tests, and angiograms.",
+    "5. The method according to claim 1, further comprising the step of:\n      determining the risk factors for the disease using the practice guidelines.",
+    "6. The method according to claim 1, wherein:\n      the processor operates in one of a LAN environment, WAN environment, the WWW and the Internet.",
+    "7. The method according to claim 1, wherein:\n      the step of receiving the responses includes storing the responses in memory.",
+    "8. The method according to claim 7, wherein:\n      the memory includes at least one database.",
+    "9. The method according to claim 1, wherein:\n      the contemporaneous feedback includes at least one of general information about at least one risk factor, and whether the risk factor is positive for the individual.",
+    "10. The method according to claim 1, wherein:\n      the practice guidelines include practice guidelines published by at least one of the American College of Cardiology and American Heart Association, U.S. Department of Health and Human Services Agency for Healthcare Policy and Research, and the National Heart Lung and Blood Institute.",
+    "11. The method according to claim 1, wherein:\n      the associated consequences include at least one of invasive intervention and noninvasive intervention.",
+    "12. The method according to claim 11, wherein:\n      at least one of: \n      the invasive intervention includes at least one of surgery and angioplasty; and \n      the noninvasive intervention includes at least one of pharmacological therapy and education.",
+    "13. The method according to claim 1, wherein:\n      the positive risk factors include being a male, being one of a postmenopausal female and a postmenopausal female with ovaries removed, being a male over 40 years of age, being a female over 45 years of age, having a BMI that indicates the user is overweight or obese, being a smoker, having diabetes mellitus, having elevated lipid levels, having known CAD, having known peripheral vascular disease, not exercising, having hypertension, having feelings of stress and anxiety, having left ventricular hypertophy, not taking anti-oxidant vitamins, having high homocysteine levels, not getting the RDA of folate, vitamin B6 or vitamin B12, having a high lipoprotein level, having a low alcohol intake, having a positive family history of coronary disease, and not taking one aspirin per day.",
+    "14. The method according to claim 1, wherein:\n      the risk factor modification information includes information about how to change the positive risk factors to negative risk factors.",
+    "15. The method according to claim 1, wherein:\n      the step of tracking includes advising the user when there has been one of a change and no change in a risk factor."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US09/973,995",
+      "relation_type": "Continuation",
+      "representative_publication": "US20020082906A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2001-10-09",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/535,689",
+      "representative_publication": "US6322504B1",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2000-03-27",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease"
+    },
+    {
+      "application_number": "PCT/US2001/009636",
+      "representative_publication": "WO2001073526A2",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2001-03-26",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease"
+    },
+    {
+      "application_number": "AU2001247794A",
+      "representative_publication": "AU2001247794A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2001-03-26",
+      "title": "Computerized interactive method and system for determining risk of developing a disease and the consequences of developing the disease"
+    },
+    {
+      "application_number": "US09/973,995",
+      "representative_publication": "US20020082906A1",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2001-10-09",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US09/535,689",
+      "representative_publication": "US6322504B1",
+      "primary_language": "en",
+      "priority_date": "2000-03-27",
+      "filing_date": "2000-03-27",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease"
+    }
+  ],
+  "family_id": "24135346",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4733354A",
+        "primary_language": "en",
+        "priority_date": "1984-11-23",
+        "publication_date": "1988-03-22",
+        "assignee_original": "Brian Potter",
+        "title": "Method and apparatus for automated medical diagnosis using decision tree analysis",
+        "patent_id": "patent/US4733354A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4733354A%2Fen"
+      },
+      {
+        "publication_number": "US5255187A",
+        "primary_language": "en",
+        "priority_date": "1990-04-03",
+        "publication_date": "1993-10-19",
+        "assignee_original": "Sorensen Mark C",
+        "title": "Computer aided medical diagnostic method and apparatus",
+        "patent_id": "patent/US5255187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5255187A%2Fen"
+      },
+      {
+        "publication_number": "US5594637A",
+        "primary_language": "en",
+        "priority_date": "1993-05-26",
+        "publication_date": "1997-01-14",
+        "assignee_original": "Base Ten Systems, Inc.",
+        "title": "System and method for assessing medical risk",
+        "patent_id": "patent/US5594637A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5594637A%2Fen"
+      },
+      {
+        "publication_number": "US5724580A",
+        "primary_language": "en",
+        "priority_date": "1995-03-31",
+        "publication_date": "1998-03-03",
+        "assignee_original": "Qmed, Inc.",
+        "title": "System and method of generating prognosis and therapy reports for coronary health management",
+        "patent_id": "patent/US5724580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724580A%2Fen"
+      },
+      {
+        "publication_number": "US5746204A",
+        "primary_language": "en",
+        "priority_date": "1995-12-07",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Disease indicator analysis system",
+        "patent_id": "patent/US5746204A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5746204A%2Fen"
+      },
+      {
+        "publication_number": "US5800347A",
+        "primary_language": "en",
+        "priority_date": "1995-11-03",
+        "publication_date": "1998-09-01",
+        "assignee_original": "The General Hospital Corporation",
+        "title": "ROC method for early detection of disease",
+        "patent_id": "patent/US5800347A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5800347A%2Fen"
+      },
+      {
+        "publication_number": "US5911132A",
+        "primary_language": "en",
+        "priority_date": "1995-04-26",
+        "publication_date": "1999-06-08",
+        "assignee_original": "Lucent Technologies Inc.",
+        "title": "Method using central epidemiological database",
+        "patent_id": "patent/US5911132A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5911132A%2Fen"
+      },
+      {
+        "publication_number": "US5937387A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-04",
+        "publication_date": "1999-08-10",
+        "assignee_original": "Real Age, Inc.",
+        "title": "System and method for developing and selecting a customized wellness plan",
+        "patent_id": "patent/US5937387A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5937387A%2Fen"
+      },
+      {
+        "publication_number": "US5935060A",
+        "primary_language": "en",
+        "priority_date": "1996-07-12",
+        "publication_date": "1999-08-10",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including list based processing",
+        "patent_id": "patent/US5935060A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5935060A%2Fen"
+      },
+      {
+        "publication_number": "US5974124A",
+        "primary_language": "en",
+        "priority_date": "1997-01-21",
+        "publication_date": "1999-10-26",
+        "assignee_original": "Med Graph",
+        "title": "Method and system aiding medical diagnosis and treatment",
+        "patent_id": "patent/US5974124A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5974124A%2Fen"
+      },
+      {
+        "publication_number": "US5976082A",
+        "primary_language": "en",
+        "priority_date": "1996-06-17",
+        "publication_date": "1999-11-02",
+        "assignee_original": "Smithkline Beecham Corporation",
+        "title": "Method for identifying at risk patients diagnosed with congestive heart failure",
+        "patent_id": "patent/US5976082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5976082A%2Fen"
+      },
+      {
+        "publication_number": "US5993386A",
+        "primary_language": "en",
+        "priority_date": "1997-07-15",
+        "publication_date": "1999-11-30",
+        "assignee_original": "Ericsson; Arthur Dale",
+        "title": "Computer assisted method for the diagnosis and treatment of illness",
+        "patent_id": "patent/US5993386A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5993386A%2Fen"
+      },
+      {
+        "publication_number": "US5997476A",
+        "primary_language": "en",
+        "priority_date": "1997-03-28",
+        "publication_date": "1999-12-07",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Networked system for interactive communication and remote monitoring of individuals",
+        "patent_id": "patent/US5997476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5997476A%2Fen"
+      },
+      {
+        "publication_number": "US6022315A",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2000-02-08",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/US6022315A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6022315A%2Fen"
+      },
+      {
+        "publication_number": "US6024699A",
+        "primary_language": "en",
+        "priority_date": "1998-03-13",
+        "publication_date": "2000-02-15",
+        "assignee_original": "Healthware Corporation",
+        "title": "Systems, methods and computer program products for monitoring, diagnosing and treating medical conditions of remotely located patients",
+        "patent_id": "patent/US6024699A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6024699A%2Fen"
+      },
+      {
+        "publication_number": "US6110109A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-26",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Biosignia, Inc.",
+        "title": "System and method for predicting disease onset",
+        "patent_id": "patent/US6110109A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110109A%2Fen"
+      },
+      {
+        "publication_number": "US6139494A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-15",
+        "publication_date": "2000-10-31",
+        "assignee_original": "Health Informatics Tools",
+        "title": "Method and apparatus for an integrated clinical tele-informatics system",
+        "patent_id": "patent/US6139494A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6139494A%2Fen"
+      },
+      {
+        "publication_number": "US6206829B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-12",
+        "publication_date": "2001-03-27",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/US6206829B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6206829B1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Atalay et al., B., \"A WWW-Based HIV Patient Care Expert System,\" Proceedings 12th IEEE Symposium On Computer-Based Medical Systems, Jun. 1999.* English Abstract Provided."
+    },
+    {
+      "title": "Baehring et al, TU, \"Using the World Wide Web-A New Approach to Risk Identification of Diabetes Mellitus,\" Int. J. Med. Inf., vol. 46, No. 1, Aug. 1997.* English Abstract Provided."
+    },
+    {
+      "title": "Baehring et al, TU, \"Using the World Wide Web\u2014A New Approach to Risk Identification of Diabetes Mellitus,\" Int. J. Med. Inf., vol. 46, No. 1, Aug. 1997.* English Abstract Provided."
+    },
+    {
+      "title": "Barker, T.M., and Young, J., \"Design of A Web Interface for Anatomical Images\", Australasian Physical & Engineering Sciences in Medicine, vol. 20, No. 1, Mar. 1997*English Abstract Provided."
+    },
+    {
+      "title": "Biro et al., G., \"Dr. Quiz: A Program of Medical Question-Data Bank with Access to Internet,\" Orv Hetil, vol. 140, No. 33, Aug. 1999.* English Abstract Provided."
+    },
+    {
+      "title": "Boone, J.M., Chavez, A.E., \"Comparison of X-ray Cross Sections for Diagnostic And Therapeutic Medical Physics\", Medical Physics, vol. 23, No. 12, Dec. 1996.* English Abstract Provided."
+    },
+    {
+      "title": "Clinical Practice Guideline No. 10, Unstable Angina: Diagnosis and Management, U.S. Department of Health and Human Services Public Health Service."
+    },
+    {
+      "title": "Costaridou, L., \"Distance Learning In Mammographic Digital Image Processing\", British Journal of Radiology, vol. 71, No. 842, 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Dayton et al., CS, \"Evaluation of an Internet-Based Decision-Support System for Applying the ATS/CDC Guidelines for Tuberculosis Preventive Therapy,\" Med. Decis. Making, vol. 20, No. 1, Jan.-Mar. 2000.* English Abstract Provided."
+    },
+    {
+      "title": "Duvauferrier et al., R., \"The Virtual University in Medicine. Context, Concepts, Specifications, Users' Manual,\" J. Radiol., vol. 79, No. 9, Sep. 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Eagle, Kim A. et al., \"ACC/AHA Guidelines for Coronary Artery Bypass Graft Surgery,\" Journal of the American College of Cardiology, vol. 34, No. 4, Oct. 1999."
+    },
+    {
+      "title": "Foran, D.J., et al., \"A Distributed Health Information Network For Consultative Services In Surgical Pathology\", 1995 IEEE Engineering in Medicine and Biology 17th Annual Conference and 21 Canadian Medical and Biological Engineering Conference, Part vol. 1, 1997.* English Abstract Provided."
+    },
+    {
+      "title": "Fuster et al., Valentin, \"27th Bethesda Conference: Matching the Intensity of Risk Factor Management with the Hazard for Coronary Disease Events,\" Journal of the American College of Cardiology, vol. 27, No. 5, Apr. 1996."
+    },
+    {
+      "title": "Gibbons et al., Raymond J., \"ACC/AHA/ACP-ASIM Guidelines for the Management of Patients with Chronic Stable Angina,\" Journal of the American College of Cardiology, vol. 33, No. 7, Jun. 1999."
+    },
+    {
+      "title": "Grundy et al., Scott M., \"Assessment of Cardiovascular Risk by Use of Multiple-Risk-Factor Assessment Equations,\" Journal of the American Heart Association, vol. 100, No. 13, Sep. 1999."
+    },
+    {
+      "title": "Hayes et al., KA, \"The Interactive Patient: A Multimedia Interactive Educational Tool on the World Wide Web,\" MD Comput., vol. 13, No. 4 Jul.-Aug. 1996.* English Abstract Provided."
+    },
+    {
+      "title": "Horino, M., et al., \"Development of Remote Medical Imaging System\", Shimadzu Review, vol. 53, No. 2, 1996.* English Abstract Provided."
+    },
+    {
+      "title": "Immunomedics Launches a New Interactive Web Site for Patients With Colorectal Cancer and Medical Professionals, 1999.* English Abstract Provided."
+    },
+    {
+      "title": "Ishida et al., H., \"Computer-Assisted Education of Laboratory Medicine Based on Common Disease Database and Electric RCPC System Using Internet Technology,\", Rinsho Byori, vol. 46, No.11, Nov. 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Martinez, R., et al., \"Multimedia Consultation Session Recording And Playback Using Java-based Browser in Global PACs\", Proceedings of the SPIE-The International Society for Optical Engineering, vol. 3339, 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Martinez, R., et al., \"Multimedia Consultation Session Recording And Playback Using Java-based Browser in Global PACs\", Proceedings of the SPIE\u2014The International Society for Optical Engineering, vol. 3339, 1998.* English Abstract Provided."
+    },
+    {
+      "title": "NexData Solutions, Inc. Develops A Clinical Interactive Internet Site For Medical Information Systems, Inc., 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Peltz et al., JE, \"A Comprehensive and Cost-Effective Preparticipation Exam Implemented On the World Wide Web,\" Med. Sci. Sports Exerc., vol. 31, No. 12, Dec. 1999.* English Abstract Provided."
+    },
+    {
+      "title": "Ryan et al., Thomas J., \"ACC/AHA Guidelines for the Management of Patients with Acute Myocardial Infarction,\" Journal of the American College of Cardiology, vol. 34, No. 3, Sep. 1999."
+    },
+    {
+      "title": "Sato et al., H., \"Interactive 3-D Presentation of Medical Images on Network Using VRML,\" Proceedings of the 20th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 1998.* English Abstract Provided."
+    },
+    {
+      "title": "Tong et al., D.A. \"A Client/Server System for Remote Diagnosis of Cardiac Arrhythmias,\" Proc. Annu Symp. Comput. Appl. Med. Care. 1995.* English Abstract Provided."
+    },
+    {
+      "title": "Tong, D.A., et al., \"A Client/Server System For Remote Diagnosis of Cardiac Arrhythmias\", Proceedings of Nineteenth Annual Symposium on Computer Applications in Medical Care, 1995.* English Abstract Provided."
+    },
+    {
+      "title": "Vissers et al., M.C., \"Building a Flexible Protocol Information System with \"Ready for Use' Web-Technology,\" International Journal of medical Informatics, vol. 53, Nos. 2-3, Feb.-Mar. 1999.* English Abstract Provided."
+    },
+    {
+      "title": "Vissers et al., M.C., \"Building a Flexible Protocol Information System with \u2018Ready for Use\u2019 Web-Technology,\" International Journal of medical Informatics, vol. 53, Nos. 2-3, Feb.-Mar. 1999.* English Abstract Provided."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2002021447A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-08",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Eberlein James B",
+        "title": "Pain migration tracking and display method",
+        "patent_id": "patent/WO2002021447A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002021447A1%2Fen"
+      },
+      {
+        "publication_number": "US20020120471A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-30",
+        "publication_date": "2002-08-29",
+        "assignee_original": "Healtheheart, Inc.",
+        "title": "Patient analysis and research system and associated methods",
+        "patent_id": "patent/US20020120471A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020120471A1%2Fen"
+      },
+      {
+        "publication_number": "WO2002067775A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-21",
+        "publication_date": "2002-09-06",
+        "assignee_original": "Delphi Health Systems, Inc.",
+        "title": "Chronic disease outcomes education and communication system",
+        "patent_id": "patent/WO2002067775A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002067775A1%2Fen"
+      },
+      {
+        "publication_number": "US20030004753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-27",
+        "publication_date": "2003-01-02",
+        "assignee_original": "Blackshear William M.",
+        "title": "Management method of persons at risk of complications of arterial occlusive disease",
+        "patent_id": "patent/US20030004753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030004753A1%2Fen"
+      },
+      {
+        "publication_number": "US20030023461A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-14",
+        "publication_date": "2003-01-30",
+        "assignee_original": "Dan Quintanilla",
+        "title": "Internet based therapy management system",
+        "patent_id": "patent/US20030023461A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030023461A1%2Fen"
+      },
+      {
+        "publication_number": "US20030036923A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-18",
+        "publication_date": "2003-02-20",
+        "assignee_original": "Waldon R. Forrest",
+        "title": "Patient compliance and monitoring system",
+        "patent_id": "patent/US20030036923A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030036923A1%2Fen"
+      },
+      {
+        "publication_number": "US20030037063A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-10",
+        "publication_date": "2003-02-20",
+        "assignee_original": "Qlinx",
+        "title": "Method and system for dynamic risk assessment, risk monitoring, and caseload management",
+        "patent_id": "patent/US20030037063A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030037063A1%2Fen"
+      },
+      {
+        "publication_number": "US20030040662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-22",
+        "publication_date": "2003-02-27",
+        "assignee_original": "Philip Keys",
+        "title": "System, method and computer program for monitoring and managing medications",
+        "patent_id": "patent/US20030040662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030040662A1%2Fen"
+      },
+      {
+        "publication_number": "US20030097279A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-16",
+        "publication_date": "2003-05-22",
+        "assignee_original": "Delusignan Roger",
+        "title": "Systems and methods for evaluating patient-specific information and providing patient management recommendations for healthcare providers",
+        "patent_id": "patent/US20030097279A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030097279A1%2Fen"
+      },
+      {
+        "publication_number": "US20030120133A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-02",
+        "publication_date": "2003-06-26",
+        "assignee_original": "Rao R. Bharat",
+        "title": "Patient data mining for lung cancer screening",
+        "patent_id": "patent/US20030120133A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030120133A1%2Fen"
+      },
+      {
+        "publication_number": "WO2003053236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-20",
+        "publication_date": "2003-07-03",
+        "assignee_original": "Salix Medical, Inc.",
+        "title": "Foot temperature and health monitoring system",
+        "patent_id": "patent/WO2003053236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003053236A1%2Fen"
+      },
+      {
+        "publication_number": "US20030163355A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-25",
+        "publication_date": "2003-08-28",
+        "assignee_original": "Ge Medical Systems Information Technologies, Inc.",
+        "title": "System and method for determining the likelihood of the presence of a condition of a patient's heart",
+        "patent_id": "patent/US20030163355A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030163355A1%2Fen"
+      },
+      {
+        "publication_number": "US20030167020A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-31",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Shozo Kawanishi",
+        "title": "Visceral adipose meter with body weighing function",
+        "patent_id": "patent/US20030167020A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030167020A1%2Fen"
+      },
+      {
+        "publication_number": "US20030176796A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-10",
+        "publication_date": "2003-09-18",
+        "assignee_original": "Lin Kin Yuan",
+        "title": "Blood pressure monitor and a method for determining a risk rate for a disease",
+        "patent_id": "patent/US20030176796A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030176796A1%2Fen"
+      },
+      {
+        "publication_number": "US20030216937A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-14",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Jorg Schreiber",
+        "title": "System and method for providing on-line healthcare",
+        "patent_id": "patent/US20030216937A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030216937A1%2Fen"
+      },
+      {
+        "publication_number": "US20040014014A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-22",
+        "publication_date": "2004-01-22",
+        "assignee_original": "Soneticom, Inc.",
+        "title": "System and method for persuading a desired personal behavior",
+        "patent_id": "patent/US20040014014A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040014014A1%2Fen"
+      },
+      {
+        "publication_number": "US20040054261A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-06",
+        "publication_date": "2004-03-18",
+        "assignee_original": "Nihon Kohden Corporation",
+        "title": "Vital sign display method, vital sign display monitor, and system thereof",
+        "patent_id": "patent/US20040054261A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040054261A1%2Fen"
+      },
+      {
+        "publication_number": "US20040102684A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-22",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Shozo Kawanishi",
+        "title": "Visceral fat meter having pace counting function",
+        "patent_id": "patent/US20040102684A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040102684A1%2Fen"
+      },
+      {
+        "publication_number": "US20040128078A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-31",
+        "publication_date": "2004-07-01",
+        "assignee_original": "Haughton John F.",
+        "title": "System, method and article of manufacture for flexibly setting measurements in a scalable tracking system",
+        "patent_id": "patent/US20040128078A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040128078A1%2Fen"
+      },
+      {
+        "publication_number": "US20040148127A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-23",
+        "publication_date": "2004-07-29",
+        "assignee_original": "Kriger Yefim G.",
+        "title": "Hidden overweight preventing system and method",
+        "patent_id": "patent/US20040148127A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040148127A1%2Fen"
+      },
+      {
+        "publication_number": "US20040181457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-13",
+        "publication_date": "2004-09-16",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "User context based distributed self service system for service enhanced resource delivery",
+        "patent_id": "patent/US20040181457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040181457A1%2Fen"
+      },
+      {
+        "publication_number": "US20050010469A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-10",
+        "publication_date": "2005-01-13",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Consulting assessment environment",
+        "patent_id": "patent/US20050010469A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050010469A1%2Fen"
+      },
+      {
+        "publication_number": "US20050015276A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-31",
+        "publication_date": "2005-01-20",
+        "assignee_original": "Dan Sullivan",
+        "title": "Computerized risk management module for medical diagnosis",
+        "patent_id": "patent/US20050015276A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050015276A1%2Fen"
+      },
+      {
+        "publication_number": "US20050038678A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-14",
+        "publication_date": "2005-02-17",
+        "assignee_original": "Edda Technology, Inc.",
+        "title": "Method and system for intelligent qualitative and quantitative analysis for medical diagnosis",
+        "patent_id": "patent/US20050038678A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050038678A1%2Fen"
+      },
+      {
+        "publication_number": "US20050043640A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-21",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Chang Alexander C.",
+        "title": "Remote electrocardiogram for early detection of coronary heart disease",
+        "patent_id": "patent/US20050043640A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050043640A1%2Fen"
+      },
+      {
+        "publication_number": "US20050065184A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-29",
+        "publication_date": "2005-03-24",
+        "assignee_original": "Aaipharma Inc.",
+        "title": "Method of reducing the risk of oxidative stress",
+        "patent_id": "patent/US20050065184A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050065184A1%2Fen"
+      },
+      {
+        "publication_number": "US20050080324A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-08",
+        "publication_date": "2005-04-14",
+        "assignee_original": "Ok-Kyung Cho",
+        "title": "Blood sugar level measuring method and apparatus",
+        "patent_id": "patent/US20050080324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050080324A1%2Fen"
+      },
+      {
+        "publication_number": "US20050095628A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-12",
+        "publication_date": "2005-05-05",
+        "assignee_original": "Krempin David W.",
+        "title": "Program for regulating health conditions",
+        "patent_id": "patent/US20050095628A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050095628A1%2Fen"
+      },
+      {
+        "publication_number": "WO2005043443A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-04",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Felicity Ruth Marshall",
+        "title": "A method and apparatus for processing data",
+        "patent_id": "patent/WO2005043443A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005043443A1%2Fen"
+      },
+      {
+        "publication_number": "US20050184883A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-24",
+        "publication_date": "2005-08-25",
+        "assignee_original": "Graham Kevin M.",
+        "title": "Railroad crossing warning system",
+        "patent_id": "patent/US20050184883A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050184883A1%2Fen"
+      },
+      {
+        "publication_number": "US20050194192A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-12",
+        "publication_date": "2005-09-08",
+        "assignee_original": "Yefim Kriger",
+        "title": "Vehicle with on-board dieters' self-acquiring overweight preventive system and method",
+        "patent_id": "patent/US20050194192A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050194192A1%2Fen"
+      },
+      {
+        "publication_number": "EP1661510A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-30",
+        "publication_date": "2006-05-31",
+        "assignee_original": "LMS Medical Systems, Ltd.",
+        "title": "Method and apparatus for estimating a likehood of shoulder dystocia",
+        "patent_id": "patent/EP1661510A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1661510A1%2Fen"
+      },
+      {
+        "publication_number": "US20060116560A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-30",
+        "publication_date": "2006-06-01",
+        "assignee_original": "Lms Medical Systems Ltd.",
+        "title": "Method and apparatus for estimating a likelihood of shoulder dystocia",
+        "patent_id": "patent/US20060116560A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060116560A1%2Fen"
+      },
+      {
+        "publication_number": "US20060206359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-04",
+        "publication_date": "2006-09-14",
+        "assignee_original": "Galt Associates, Inc.",
+        "title": "Method and system for facilitating clinical decisions",
+        "patent_id": "patent/US20060206359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060206359A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006113987A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-25",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Caduceus Information Systems Inc.",
+        "title": "System for development of individualised treatment regimens",
+        "patent_id": "patent/WO2006113987A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006113987A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006119810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-11",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Roche Diagnostics Gmbh",
+        "title": "Preventive module for avoiding diseases by calculating and displaying risk statuses",
+        "patent_id": "patent/WO2006119810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006119810A1%2Fen"
+      },
+      {
+        "publication_number": "US20060265253A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-18",
+        "publication_date": "2006-11-23",
+        "assignee_original": "Rao R B",
+        "title": "Patient data mining improvements",
+        "patent_id": "patent/US20060265253A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060265253A1%2Fen"
+      },
+      {
+        "publication_number": "US20070021657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-01",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Aventis Pharma Ltda.",
+        "title": "System and method for enhanced medicament-based treatment of disease",
+        "patent_id": "patent/US20070021657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070021657A1%2Fen"
+      },
+      {
+        "publication_number": "US20070060821A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-21",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Regents Of The University Of Minnesota",
+        "title": "Screening for early detection of cardiovascular disease in asymptomatic individuals",
+        "patent_id": "patent/US20070060821A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070060821A1%2Fen"
+      },
+      {
+        "publication_number": "US20070129611A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-06",
+        "publication_date": "2007-06-07",
+        "assignee_original": "University Of North Texas Health Science Center At Fort Worth",
+        "title": "System, Method and Apparatus for Assessing Menopausal or Post-Hysterectomy Symptoms",
+        "patent_id": "patent/US20070129611A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070129611A1%2Fen"
+      },
+      {
+        "publication_number": "US20070156032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-04",
+        "publication_date": "2007-07-05",
+        "assignee_original": "Gordon Linda S",
+        "title": "Electronic disease management system",
+        "patent_id": "patent/US20070156032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070156032A1%2Fen"
+      },
+      {
+        "publication_number": "US20070260631A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-09",
+        "publication_date": "2007-11-08",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Embedded decision support",
+        "patent_id": "patent/US20070260631A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070260631A1%2Fen"
+      },
+      {
+        "publication_number": "US7306562B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-23",
+        "publication_date": "2007-12-11",
+        "assignee_original": "Medical Software, Llc",
+        "title": "Medical risk assessment method and program product",
+        "patent_id": "patent/US7306562B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7306562B1%2Fen"
+      },
+      {
+        "publication_number": "US20080294370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-23",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Kriger Yefim G",
+        "title": "Global overweight and obesity preventing and tracking system and method",
+        "patent_id": "patent/US20080294370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294370A1%2Fen"
+      },
+      {
+        "publication_number": "US20090018863A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-03",
+        "publication_date": "2009-01-15",
+        "assignee_original": "Yoon Paula W",
+        "title": "Personal assessment including familial risk analysis for personalized disease prevention plan",
+        "patent_id": "patent/US20090018863A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090018863A1%2Fen"
+      },
+      {
+        "publication_number": "US20090076851A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-14",
+        "publication_date": "2009-03-19",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "Early detection of disease outbreak using electronic patient data to reduce public health threat from bio-terrorism",
+        "patent_id": "patent/US20090076851A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090076851A1%2Fen"
+      },
+      {
+        "publication_number": "US20090131758A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-12",
+        "publication_date": "2009-05-21",
+        "assignee_original": "Patientslikeme, Inc.",
+        "title": "Self-improving method of using online communities to predict health-related outcomes",
+        "patent_id": "patent/US20090131758A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090131758A1%2Fen"
+      },
+      {
+        "publication_number": "US8029443B2",
+        "primary_language": "en",
+        "priority_date": "2003-07-15",
+        "publication_date": "2011-10-04",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Glucose measuring device integrated into a holster for a personal area network device",
+        "patent_id": "patent/US8029443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8029443B2%2Fen"
+      },
+      {
+        "publication_number": "US8234128B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-30",
+        "publication_date": "2012-07-31",
+        "assignee_original": "Baxter International, Inc.",
+        "title": "System and method for verifying medical device operational parameters",
+        "patent_id": "patent/US8234128B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8234128B2%2Fen"
+      },
+      {
+        "publication_number": "EP2544111A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-06",
+        "publication_date": "2013-01-09",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "System for managing cardiovascular health status",
+        "patent_id": "patent/EP2544111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2544111A1%2Fen"
+      },
+      {
+        "publication_number": "US8460243B2",
+        "primary_language": "en",
+        "priority_date": "2003-06-10",
+        "publication_date": "2013-06-11",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Glucose measuring module and insulin pump combination",
+        "patent_id": "patent/US8460243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8460243B2%2Fen"
+      },
+      {
+        "publication_number": "US8543428B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-10",
+        "publication_date": "2013-09-24",
+        "assignee_original": "Humana Inc.",
+        "title": "Computerized system and method for estimating levels of obesity in an insured population",
+        "patent_id": "patent/US8543428B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8543428B1%2Fen"
+      },
+      {
+        "publication_number": "US8636660B1",
+        "primary_language": "en",
+        "priority_date": "2012-10-09",
+        "publication_date": "2014-01-28",
+        "assignee_original": "Regents Of The University Of Minnesota",
+        "title": "System and method for dynamic multi-stage test administration for detection of cardiovascular disease",
+        "patent_id": "patent/US8636660B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8636660B1%2Fen"
+      },
+      {
+        "publication_number": "US20140038152A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-31",
+        "publication_date": "2014-02-06",
+        "assignee_original": "Sandro Micieli",
+        "title": "Medical visualization method and system",
+        "patent_id": "patent/US20140038152A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140038152A1%2Fen"
+      },
+      {
+        "publication_number": "US8682693B2",
+        "primary_language": "en",
+        "priority_date": "2002-09-09",
+        "publication_date": "2014-03-25",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "Patient data mining for lung cancer screening",
+        "patent_id": "patent/US8682693B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8682693B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8775196B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for notification and escalation of medical data",
+        "patent_id": "patent/US8775196B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8775196B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US10016554B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Dialysis system including wireless patient data",
+        "patent_id": "patent/US10016554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10016554B2%2Fen"
+      },
+      {
+        "publication_number": "US10061899B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Home therapy machine",
+        "patent_id": "patent/US10061899B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10061899B2%2Fen"
+      },
+      {
+        "publication_number": "US10173008B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-29",
+        "publication_date": "2019-01-08",
+        "assignee_original": "Baxter International Inc.",
+        "title": "System and method for communicating with a dialysis machine through a network",
+        "patent_id": "patent/US10173008B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10173008B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019116381A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-14",
+        "publication_date": "2019-06-20",
+        "assignee_original": "Salcit Technologies Private Limited",
+        "title": "Method and system for analyzing risk associated with respiratory sounds",
+        "patent_id": "patent/WO2019116381A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019116381A1%2Fen"
+      },
+      {
+        "publication_number": "US10347374B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-13",
+        "publication_date": "2019-07-09",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Medication preparation system",
+        "patent_id": "patent/US10347374B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10347374B2%2Fen"
+      },
+      {
+        "publication_number": "US10646405B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Work station for medical dose preparation system",
+        "patent_id": "patent/US10646405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10646405B2%2Fen"
+      },
+      {
+        "publication_number": "US10818387B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-05",
+        "publication_date": "2020-10-27",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Dose preparation data analytics",
+        "patent_id": "patent/US10818387B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10818387B2%2Fen"
+      },
+      {
+        "publication_number": "US10943676B2",
+        "primary_language": "en",
+        "priority_date": "2010-06-08",
+        "publication_date": "2021-03-09",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Healthcare information technology system for predicting or preventing readmissions",
+        "patent_id": "patent/US10943676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10943676B2%2Fen"
+      },
+      {
+        "publication_number": "US10963417B2",
+        "primary_language": "en",
+        "priority_date": "2004-06-04",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Systems and methods for managing diabetes care data",
+        "patent_id": "patent/US10963417B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10963417B2%2Fen"
+      },
+      {
+        "publication_number": "US10971257B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-26",
+        "publication_date": "2021-04-06",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Image acquisition for medical dose preparation system",
+        "patent_id": "patent/US10971257B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10971257B2%2Fen"
+      },
+      {
+        "publication_number": "US11107574B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Management of medication preparation with formulary management",
+        "patent_id": "patent/US11107574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11107574B2%2Fen"
+      },
+      {
+        "publication_number": "US11367533B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-30",
+        "publication_date": "2022-06-21",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Managed medical information exchange",
+        "patent_id": "patent/US11367533B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11367533B2%2Fen"
+      },
+      {
+        "publication_number": "US11495334B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system and method having a distributed database",
+        "patent_id": "patent/US11495334B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11495334B2%2Fen"
+      },
+      {
+        "publication_number": "US11516183B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system including information technology infrastructure having secure cluster domain supporting external domain",
+        "patent_id": "patent/US11516183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11516183B2%2Fen"
+      },
+      {
+        "publication_number": "US11534089B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-28",
+        "publication_date": "2022-12-27",
+        "assignee_original": "Abbott Diabetes Care Inc.",
+        "title": "Devices, systems, and methods associated with analyte monitoring devices and devices incorporating the same",
+        "patent_id": "patent/US11534089B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11534089B2%2Fen"
+      },
+      {
+        "publication_number": "US11575673B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-30",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Baxter Corporation Englewood",
+        "title": "Central user management in a distributed healthcare information management system",
+        "patent_id": "patent/US11575673B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11575673B2%2Fen"
+      },
+      {
+        "publication_number": "US11676221B2",
+        "primary_language": "en",
+        "priority_date": "2009-04-30",
+        "publication_date": "2023-06-13",
+        "assignee_original": "Patientslikeme, Inc.",
+        "title": "Systems and methods for encouragement of data submission in online communities",
+        "patent_id": "patent/US11676221B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11676221B2%2Fen"
+      },
+      {
+        "publication_number": "US11894139B1",
+        "primary_language": "en",
+        "priority_date": "2018-12-03",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Patientslikeme Llc",
+        "title": "Disease spectrum classification",
+        "patent_id": "patent/US11894139B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11894139B1%2Fen"
+      },
+      {
+        "publication_number": "US11948112B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2024-04-02",
+        "assignee_original": "Baxter Corporation Engelwood",
+        "title": "Pharmacy workflow management with integrated alerts",
+        "patent_id": "patent/US11948112B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11948112B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP1256316A1",
+        "primary_language": "en",
+        "priority_date": "2001-05-07",
+        "publication_date": "2002-11-13",
+        "assignee_original": "Move2Health B.V.",
+        "title": "Portable device comprising an acceleration sensor and method of generating instructions or advice",
+        "patent_id": "patent/EP1256316A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1256316A1%2Fen"
+      },
+      {
+        "publication_number": "US8738392B2",
+        "primary_language": "en",
+        "priority_date": "2001-10-24",
+        "publication_date": "2014-05-27",
+        "assignee_original": "Inner Reach Corporation",
+        "title": "Health information gathering system",
+        "patent_id": "patent/US8738392B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8738392B2%2Fen"
+      },
+      {
+        "publication_number": "US20050137905A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-17",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Ge Medical Systems Global Technology Company, Llc",
+        "title": "Method and system for producing an updated and reliable health forecast guide",
+        "patent_id": "patent/US20050137905A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137905A1%2Fen"
+      },
+      {
+        "publication_number": "US7373820B1",
+        "primary_language": "en",
+        "priority_date": "2004-11-23",
+        "publication_date": "2008-05-20",
+        "assignee_original": "James Terry L",
+        "title": "Accelerometer for data collection and communication",
+        "patent_id": "patent/US7373820B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7373820B1%2Fen"
+      },
+      {
+        "publication_number": "US20080306762A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-08",
+        "publication_date": "2008-12-11",
+        "assignee_original": "James Terry L",
+        "title": "System and Method for Managing Absenteeism in an Employee Environment",
+        "patent_id": "patent/US20080306762A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080306762A1%2Fen"
+      },
+      {
+        "publication_number": "US20090048493A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-17",
+        "publication_date": "2009-02-19",
+        "assignee_original": "James Terry L",
+        "title": "Health and Entertainment Device for Collecting, Converting, Displaying and Communicating Data",
+        "patent_id": "patent/US20090048493A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090048493A1%2Fen"
+      },
+      {
+        "publication_number": "US7676332B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-27",
+        "publication_date": "2010-03-09",
+        "assignee_original": "Kersh Risk Management, Inc.",
+        "title": "System and method for processing raw activity energy expenditure data",
+        "patent_id": "patent/US7676332B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7676332B2%2Fen"
+      },
+      {
+        "publication_number": "US20090204422A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-12",
+        "publication_date": "2009-08-13",
+        "assignee_original": "James Terry L",
+        "title": "System and Method for Remotely Updating a Health Station",
+        "patent_id": "patent/US20090204422A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090204422A1%2Fen"
+      },
+      {
+        "publication_number": "US20100016742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-19",
+        "publication_date": "2010-01-21",
+        "assignee_original": "James Terry L",
+        "title": "System and Method for Monitoring, Measuring, and Addressing Stress",
+        "patent_id": "patent/US20100016742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100016742A1%2Fen"
+      },
+      {
+        "publication_number": "US20140214440A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-28",
+        "publication_date": "2014-07-31",
+        "assignee_original": "Seniorlink Incorporated",
+        "title": "Risk model for a care management system",
+        "patent_id": "patent/US20140214440A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140214440A1%2Fen"
+      },
+      {
+        "publication_number": "ITTO20130845A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-17",
+        "publication_date": "2015-04-18",
+        "assignee_original": "Antonio Palumbo",
+        "title": "METHOD FOR THE SCREENING OF ELDERLY PATIENTS",
+        "patent_id": "patent/ITTO20130845A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO20130845A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6322504B1",
+      "primary_language": "en",
+      "publication_date": "2001-11-27",
+      "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease",
+      "patent_id": "patent/US6322504B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6322504B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3110183802222256167",
+      "scholar_authors": "Renders et al.",
+      "publication_date": "1996",
+      "title": "Interventions to improve the management of diabetes mellitus in primary care, outpatient and community settings",
+      "patent_id": "scholar/3110183802222256167",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3110183802222256167"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16175764648604436936",
+      "scholar_authors": "Rachas et al.",
+      "publication_date": "2015",
+      "title": "Interactive telemedicine: effects on professional practice and health care outcomes",
+      "patent_id": "scholar/16175764648604436936",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16175764648604436936"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5052886654970871469",
+      "scholar_authors": "Auerbach et al.",
+      "publication_date": "2002",
+      "title": "Relation of diabetic patients' health-related control appraisals and physician\u2013patient interpersonal impacts to patients' metabolic control and satisfaction with treatment",
+      "patent_id": "scholar/5052886654970871469",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5052886654970871469"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7966906449707086800",
+      "scholar_authors": "Palatini et al.",
+      "publication_date": "1999",
+      "title": "High heart rate: a risk factor for cardiovascular death in elderly men",
+      "patent_id": "scholar/7966906449707086800",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7966906449707086800"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14322935008351679289",
+      "scholar_authors": "Mayer-Davis et al.",
+      "publication_date": "1998",
+      "title": "Intensity and amount of physical activity in relation to insulin sensitivity: the Insulin Resistance Atherosclerosis Study",
+      "patent_id": "scholar/14322935008351679289",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14322935008351679289"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6836487240759316794",
+      "scholar_authors": "Ades et al.",
+      "publication_date": "2001",
+      "title": "Transforming exercise-based cardiac rehabilitation programs into secondary prevention centers: a national imperative",
+      "patent_id": "scholar/6836487240759316794",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6836487240759316794"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18001128530914795216",
+      "scholar_authors": "Adem et al.",
+      "publication_date": "2015",
+      "title": "Assessment of knowledge, attitude and practices regarding life style modification among type 2 diabetic mellitus patients attending Adama Hospital Medical College, Oromia Region, Ethiopia",
+      "patent_id": "scholar/18001128530914795216",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18001128530914795216"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12556831213749228463",
+      "scholar_authors": "Blackhall et al.",
+      "publication_date": "1989",
+      "title": "Discussions regarding aggressive care with critically III patients",
+      "patent_id": "scholar/12556831213749228463",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12556831213749228463"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20080004125A",
+      "primary_language": "en",
+      "publication_date": "2008-01-09",
+      "title": "Remote Screening / Health Management System",
+      "patent_id": "patent/KR20080004125A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20080004125A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6460528645270899884",
+      "scholar_authors": "Jolly et al.",
+      "publication_date": "1998",
+      "title": "Follow-up care in general practice of patients with myocardial infarction or angina pectoris: initial results of the SHIP trial. Southampton Heart Integrated Care Project.",
+      "patent_id": "scholar/6460528645270899884",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6460528645270899884"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2004001644A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-31",
+      "title": "Health counsel support system, server, client terminal, and health counsel support program",
+      "patent_id": "patent/WO2004001644A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004001644A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15253579943187436286",
+      "scholar_authors": "Hanson et al.",
+      "publication_date": "1988",
+      "title": "Associations between family members' perceptions of the health care system and the health of youths with insulin-dependent diabetes mellitus",
+      "patent_id": "scholar/15253579943187436286",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15253579943187436286"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110119078A1",
+      "primary_language": "en",
+      "publication_date": "2011-05-19",
+      "title": "System and method for heart failure prediction",
+      "patent_id": "patent/US20110119078A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110119078A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6713518207066289550",
+      "scholar_authors": "Kaplan",
+      "publication_date": "2014",
+      "title": "Implications of quality of life assessment in public policy for adolescent health",
+      "patent_id": "scholar/6713518207066289550",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6713518207066289550"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12937503516943190596",
+      "scholar_authors": "Keen et al.",
+      "publication_date": "1987",
+      "title": "Health beliefs and regimen adherence of the American Indian diabetic",
+      "patent_id": "scholar/12937503516943190596",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12937503516943190596"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16944332291569165398",
+      "scholar_authors": "Brook et al.",
+      "publication_date": "1989",
+      "title": "Cholesterol and coronary heart disease prevention\u2014a transatlantic consensus",
+      "patent_id": "scholar/16944332291569165398",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16944332291569165398"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9694080089208455044",
+      "scholar_authors": "Hughes et al.",
+      "publication_date": "2001",
+      "title": "Primary care parish nursing: Outcomes and implications",
+      "patent_id": "scholar/9694080089208455044",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9694080089208455044"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15071019810316028164",
+      "scholar_authors": "Khoza et al.",
+      "publication_date": "1995",
+      "title": "An investigation of compliance in type II diabetic patients attending clinic at Church of Scotland hospital",
+      "patent_id": "scholar/15071019810316028164",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15071019810316028164"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9385290378647254902",
+      "scholar_authors": "Nelson",
+      "publication_date": "2024",
+      "title": "What\u2019s my heart disease risk, doctor? A practical guide to the 2023 Australian CVD risk guideline",
+      "patent_id": "scholar/9385290378647254902",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9385290378647254902"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1549661895193747227",
+      "scholar_authors": "Yip et al.",
+      "publication_date": "2004",
+      "title": "Cardiovascular disease: application of a composite risk index from the Telehealth System in a district community",
+      "patent_id": "scholar/1549661895193747227",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1549661895193747227"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11927881628344187070",
+      "scholar_authors": "Gachanja",
+      "publication_date": "2021",
+      "title": "Coronary Heart disease prediction in the USA and factors that favor its occurrence",
+      "patent_id": "scholar/11927881628344187070",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11927881628344187070"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11350496701763699285",
+      "scholar_authors": "Marye et al.",
+      "publication_date": "2023",
+      "title": "A Systematic Review of Rural Cardiovascular Disease Clinical Trials",
+      "patent_id": "scholar/11350496701763699285",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11350496701763699285"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16579272702642686783",
+      "scholar_authors": "Goldston et al.",
+      "publication_date": "2003",
+      "title": "Guidelines for reducing risk in heart disease: Implications for nursing practice and research",
+      "patent_id": "scholar/16579272702642686783",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16579272702642686783"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2025030826A",
+      "primary_language": "en",
+      "publication_date": "2025-03-07",
+      "title": "Information processing system, information processing method, and program",
+      "patent_id": "patent/JP2025030826A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2025030826A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2000-08-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "R AND T, LLC, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KIRSHNER, RONALD;REEL/FRAME:011118/0654"
+        },
+        {
+          "label": "Effective date",
+          "value": "20000728"
+        }
+      ]
+    },
+    {
+      "date": "2005-05-06",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-08",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2009-08-09",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-09",
+      "code": "SULP",
+      "title": "Surcharge for late payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "date": "2013-07-05",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2013-11-27",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2013-12-23",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-14",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20131127"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000029078",
+        "name": "coronary artery disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 77
+      },
+      {
+        "id": "208000010125",
+        "name": "myocardial infarction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "206010012601",
+        "name": "diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+        "name": "Aspirin",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)OC1=CC=CC=C1C(O)=O",
+        "inchi_key": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "229960001138",
+        "name": "acetylsalicylic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000000391",
+        "name": "smoking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000002399",
+        "name": "angioplasty",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000001356",
+        "name": "surgical procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229930003231",
+        "name": "vitamin",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000011782",
+        "name": "vitamin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "235000013343",
+        "name": "vitamin",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229940088594",
+        "name": "vitamin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "206010020772",
+        "name": "Hypertension",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000003963",
+        "name": "antioxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003078",
+        "name": "antioxidant effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000006708",
+        "name": "antioxidants",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "210000002216",
+        "name": "heart",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "150000002632",
+        "name": "lipids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "FFFHZYDWPBMWHY-VKHMYHEASA-N",
+        "name": "L-homocysteine",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)[C@@H](N)CCS",
+        "inchi_key": "FFFHZYDWPBMWHY-VKHMYHEASA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "210000004351",
+        "name": "coronary vessel",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "LXNHXLLTXMVWPM-UHFFFAOYSA-N",
+        "name": "pyridoxine",
+        "domain": "Chemical compound",
+        "smiles": "CC1=NC=C(CO)C(CO)=C1O",
+        "inchi_key": "LXNHXLLTXMVWPM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002861",
+        "name": "ventricular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "108090001030",
+        "name": "Lipoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "102000004895",
+        "name": "Lipoproteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000018262",
+        "name": "Peripheral vascular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000001672",
+        "name": "ovary",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229930003779",
+        "name": "Vitamin B12",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "FDJOLVPMNUYSCM-WZHZPDAFSA-L",
+        "name": "cobalt(3+);[(2r,3s,4r,5s)-5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] [(2r)-1-[3-[(1r,2r,3r,4z,7s,9z,12s,13s,14z,17s,18s,19r)-2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2",
+        "domain": "Chemical compound",
+        "smiles": "[Co+3].N#[C-].N([C@@H]([C@]1(C)[N-]\\C([C@H]([C@@]1(CC(N)=O)C)CCC(N)=O)=C(\\C)/C1=N/C([C@H]([C@@]1(CC(N)=O)C)CCC(N)=O)=C\\C1=N\\C([C@H](C1(C)C)CCC(N)=O)=C/1C)[C@@H]2CC(N)=O)=C\\1[C@]2(C)CCC(=O)NC[C@@H](C)OP([O-])(=O)O[C@H]1[C@@H](O)[C@@H](N2C3=CC(C)=C(C)C=C3N=C2)O[C@@H]1CO",
+        "inchi_key": "FDJOLVPMNUYSCM-WZHZPDAFSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940014144",
+        "name": "folate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "OVBPIULPVIDEAO-LBPRGKRZSA-N",
+        "name": "folic acid",
+        "domain": "Chemical compound",
+        "smiles": "C=1N=C2NC(N)=NC(=O)C2=NC=1CNC1=CC=C(C(=O)N[C@@H](CCC(O)=O)C(O)=O)C=C1",
+        "inchi_key": "OVBPIULPVIDEAO-LBPRGKRZSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019152",
+        "name": "folic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011724",
+        "name": "folic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009245",
+        "name": "menopause",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "RADKZDMFGJYCBB-UHFFFAOYSA-N",
+        "name": "pyridoxal hydrochloride",
+        "domain": "Natural products",
+        "smiles": "CC1=NC=C(CO)C(C=O)=C1O",
+        "inchi_key": "RADKZDMFGJYCBB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019163",
+        "name": "vitamin B12",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011715",
+        "name": "vitamin B12",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019158",
+        "name": "vitamin B6",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011726",
+        "name": "vitamin B6",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940011671",
+        "name": "vitamin b6",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000003722",
+        "name": "vitamin derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000019901",
+        "name": "Anxiety disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000036506",
+        "name": "anxiety",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940088597",
+        "name": "hormone",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005556",
+        "name": "hormone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004072",
+        "name": "lung",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011422",
+        "name": "pharmacological therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035622",
+        "name": "drinking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010008479",
+        "name": "Chest Pain",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 90
+      },
+      {
+        "id": "206010002383",
+        "name": "Angina Pectoris",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "name": "cholesterol",
+        "domain": "Chemical compound",
+        "smiles": "C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2",
+        "inchi_key": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "235000012000",
+        "name": "cholesterol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "NOESYZHRGYRDHS-UHFFFAOYSA-N",
+        "name": "insulin",
+        "domain": "Chemical compound",
+        "smiles": "N1C(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CCC(O)=O)NC(=O)C(C(C)C)NC(=O)C(NC(=O)CN)C(C)CC)CSSCC(C(NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC=2C=CC(O)=CC=2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CCC(O)=O)C(=O)NC(CC(N)=O)C(=O)NC(CC=2C=CC(O)=CC=2)C(=O)NC(CSSCC(NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC=2C=CC(O)=CC=2)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(CCC(O)=O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC=2NC=NC=2)NC(=O)C(CO)NC(=O)CNC2=O)C(=O)NCC(=O)NC(CCC(O)=O)C(=O)NC(CCCNC(N)=N)C(=O)NCC(=O)NC(CC=3C=CC=CC=3)C(=O)NC(CC=3C=CC=CC=3)C(=O)NC(CC=3C=CC(O)=CC=3)C(=O)NC(C(C)O)C(=O)N3C(CCC3)C(=O)NC(CCCCN)C(=O)NC(C)C(O)=O)C(=O)NC(CC(N)=O)C(O)=O)=O)NC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C1CSSCC2NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(N)CC=1C=CC=CC=1)C(C)C)CC1=CN=CN1",
+        "inchi_key": "NOESYZHRGYRDHS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "206010002388",
+        "name": "Angina unstable",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "108010010234",
+        "name": "HDL Lipoproteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000007814",
+        "name": "Unstable Angina",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000013334",
+        "name": "alcoholic beverage",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "201000004332",
+        "name": "intermediate coronary syndrome",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000007718",
+        "name": "Stable Angina",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002035",
+        "name": "prolonged effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000032928",
+        "name": "Dyslipidaemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000031226",
+        "name": "Hyperlipidaemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "102000004877",
+        "name": "Insulin",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108090001061",
+        "name": "Insulin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000007177",
+        "name": "Left Ventricular Hypertrophy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000017170",
+        "name": "Lipid metabolism disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000008589",
+        "name": "Obesity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010033307",
+        "name": "Overweight",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000002193",
+        "name": "Pain",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940125396",
+        "name": "insulin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000020824",
+        "name": "obesity",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003449",
+        "name": "preventive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005586",
+        "name": "smoking cessation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "GVJHHUAWPYXKBD-UHFFFAOYSA-N",
+        "name": "(\u00b1)-\u03b1-Tocopherol",
+        "domain": "Chemical compound",
+        "smiles": "OC1=C(C)C(C)=C2OC(CCCC(C)CCCC(C)CCCC(C)C)(C)CCC2=C1C",
+        "inchi_key": "GVJHHUAWPYXKBD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
+        "name": "Ascorbic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC[C@H](O)[C@H]1OC(=O)C(O)=C1O",
+        "inchi_key": "CIWBSHSKHKDKBQ-JLAZNSOCSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "SNIOPGDIGTZGOP-UHFFFAOYSA-N",
+        "name": "Nitroglycerin",
+        "domain": "Chemical compound",
+        "smiles": "[O-][N+](=O)OCC(O[N+]([O-])=O)CO[N+]([O-])=O",
+        "inchi_key": "SNIOPGDIGTZGOP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001015",
+        "name": "abdomen",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003472",
+        "name": "antidiabetic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001367",
+        "name": "artery",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019504",
+        "name": "cigarettes",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000034994",
+        "name": "death",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "231100000517",
+        "name": "death",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002996",
+        "name": "emotional effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011987",
+        "name": "exercise tolerance test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960003711",
+        "name": "glyceryl trinitrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002657",
+        "name": "hormone replacement therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940126904",
+        "name": "hypoglycaemic agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002218",
+        "name": "hypoglycaemic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001349",
+        "name": "mammary artery",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000037081",
+        "name": "physical activity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001562",
+        "name": "sternum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000019553",
+        "name": "vascular disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004580",
+        "name": "weight loss",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "200000000007",
+        "name": "Arterial disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000006029",
+        "name": "Cardiomegaly",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010011224",
+        "name": "Cough",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZZZCUOFIHGPKAK-UHFFFAOYSA-N",
+        "name": "D-erythro-ascorbic acid",
+        "domain": "Natural products",
+        "smiles": "OCC1OC(=O)C(O)=C1O",
+        "inchi_key": "ZZZCUOFIHGPKAK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010015137",
+        "name": "Eructation",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010023302",
+        "name": "HDL Cholesterol",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000001554",
+        "name": "Hemoglobins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010054147",
+        "name": "Hemoglobins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010020400",
+        "name": "Hostility",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010022562",
+        "name": "Intermittent claudication",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010062501",
+        "name": "Non-cardiac chest pain",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930003268",
+        "name": "Vitamin C",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930003427",
+        "name": "Vitamin E",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003187",
+        "name": "abdominal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OENHQHLEOONYIE-UKMVMLAPSA-N",
+        "name": "all-trans beta-carotene",
+        "domain": "Natural products",
+        "smiles": "CC=1CCCC(C)(C)C=1/C=C/C(/C)=C/C=C/C(/C)=C/C=C/C=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C",
+        "inchi_key": "OENHQHLEOONYIE-UKMVMLAPSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940069428",
+        "name": "antacid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003159",
+        "name": "antacid agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000028922",
+        "name": "artery disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003190",
+        "name": "augmentative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013405",
+        "name": "beer",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000027687",
+        "name": "belching",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013734",
+        "name": "beta-carotene",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011648",
+        "name": "beta-carotene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "TUPZEYHYWIEDIH-WAIFQNFQSA-N",
+        "name": "beta-carotene",
+        "domain": "Natural products",
+        "smiles": "CC(=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C)C=CC=C(/C)C=CC2=CCCCC2(C)C",
+        "inchi_key": "TUPZEYHYWIEDIH-WAIFQNFQSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960002747",
+        "name": "betacarotene",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000747",
+        "name": "cardiac effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036996",
+        "name": "cardiovascular health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024980",
+        "name": "claudication",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035487",
+        "name": "diastolic blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005911",
+        "name": "diet",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037213",
+        "name": "diet",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000001434",
+        "name": "dietary modification",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000015872",
+        "name": "dietary supplement",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000002173",
+        "name": "dizziness",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002526",
+        "name": "effect on cardiovascular system",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009207",
+        "name": "exercise therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WIGCFUFOHFEKBI-UHFFFAOYSA-N",
+        "name": "gamma-tocopherol",
+        "domain": "Natural products",
+        "smiles": "CC(C)CCCC(C)CCCC(C)CCCC1CCC2C(C)C(O)C(C)C(C)C2O1",
+        "inchi_key": "WIGCFUFOHFEKBI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003862",
+        "name": "health status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001631",
+        "name": "hypertensive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940124641",
+        "name": "pain reliever",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002559",
+        "name": "palpation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002028",
+        "name": "premature",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002321",
+        "name": "radial artery",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000284",
+        "name": "resting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012502",
+        "name": "risk assessment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000779",
+        "name": "smoke",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000015096",
+        "name": "spirit",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013179",
+        "name": "statistical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009469",
+        "name": "supplementation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035488",
+        "name": "systolic blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003626",
+        "name": "triacylglycerols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003462",
+        "name": "vein",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019154",
+        "name": "vitamin C",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011718",
+        "name": "vitamin C",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019165",
+        "name": "vitamin E",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011709",
+        "name": "vitamin E",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940046009",
+        "name": "vitamin E",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OENHQHLEOONYIE-JLTXGRSLSA-N",
+        "name": "\u03b2-Carotene",
+        "domain": "Chemical compound",
+        "smiles": "CC=1CCCC(C)(C)C=1\\C=C\\C(\\C)=C\\C=C\\C(\\C)=C\\C=C\\C=C(/C)\\C=C\\C=C(/C)\\C=C\\C1=C(C)CCCC1(C)C",
+        "inchi_key": "OENHQHLEOONYIE-JLTXGRSLSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

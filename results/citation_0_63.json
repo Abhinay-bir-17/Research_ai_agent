@@ -1,0 +1,3022 @@
+{
+  "search_metadata": {
+    "id": "68514e3dde1f3395b5706658",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/78df35ef4731e882/68514e3dde1f3395b5706658.json",
+    "created_at": "2025-06-17 11:15:09 UTC",
+    "processed_at": "2025-06-17 11:15:09 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20060173708A1/en",
+    "raw_html_file": "https://serpapi.com/searches/78df35ef4731e882/68514e3dde1f3395b5706658.html",
+    "total_time_taken": 1.28
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20060173708A1/en"
+  },
+  "title": "System and method for providing health care",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b7/50/42/af9430c0245d19/US20060173708A1.pdf",
+  "publication_number": "US20060173708A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "patient",
+    "physician",
+    "information",
+    "medical",
+    "center"
+  ],
+  "prior_art_date": "2005-01-28",
+  "application_number": "US11/046,091",
+  "inventors": [
+    {
+      "name": "David Vining",
+      "link": "https://patents.google.com/?inventor=David+Vining",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+Vining"
+    },
+    {
+      "name": "Bert Vining",
+      "link": "https://patents.google.com/?inventor=Bert+Vining",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bert+Vining"
+    },
+    {
+      "name": "Craig Walker",
+      "link": "https://patents.google.com/?inventor=Craig+Walker",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Craig+Walker"
+    },
+    {
+      "name": "Neil King",
+      "link": "https://patents.google.com/?inventor=Neil+King",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Neil+King"
+    }
+  ],
+  "assignees": [
+    "Circle of Care Inc"
+  ],
+  "priority_date": "2005-01-28",
+  "filing_date": "2005-01-28",
+  "publication_date": "2006-08-03",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-01-28",
+        "country_code": "US",
+        "application_number": "US11/046,091",
+        "document_id": "patent/US20060173708A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-01-28",
+      "title": "Application filed by Circle of Care Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Circle of Care Inc"
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Priority to US11/046,091",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20060173708A1/en"
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Assigned to CIRCLE OF CARE, INC.",
+      "type": "reassignment",
+      "assignee_search": "CIRCLE OF CARE, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KING, NEIL O."
+      ]
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Assigned to CIRCLE OF CARE, INC.",
+      "type": "reassignment",
+      "assignee_search": "CIRCLE OF CARE, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: VINING, DAVID T."
+      ]
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Assigned to CIRCLE OF CARE, INC.",
+      "type": "reassignment",
+      "assignee_search": "CIRCLE OF CARE, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: VINING, BERT R."
+      ]
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Assigned to CIRCLE OF CARE, INC.",
+      "type": "reassignment",
+      "assignee_search": "CIRCLE OF CARE, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WALKER, CRAIG A."
+      ]
+    },
+    {
+      "date": "2006-08-03",
+      "title": "Publication of US20060173708A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20060173708A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20060173708.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11046091"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20060173708"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2006173708A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11046091/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20060173708"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/60/92/75/c8f2a9765e5cec/US20060173708A1-20060803-D00000.png",
+    "https://patentimages.storage.googleapis.com/58/3c/8e/718f42233893d4/US20060173708A1-20060803-D00001.png",
+    "https://patentimages.storage.googleapis.com/4e/b7/86/a3f919972801ae/US20060173708A1-20060803-D00002.png",
+    "https://patentimages.storage.googleapis.com/42/71/c5/8a1452bbb55cac/US20060173708A1-20060803-D00003.png",
+    "https://patentimages.storage.googleapis.com/f8/55/8f/d2b5278fe8c9ff/US20060173708A1-20060803-D00004.png",
+    "https://patentimages.storage.googleapis.com/2a/7c/72/badacbeee65848/US20060173708A1-20060803-D00005.png",
+    "https://patentimages.storage.googleapis.com/31/42/fd/074fd0671ce95c/US20060173708A1-20060803-D00006.png",
+    "https://patentimages.storage.googleapis.com/df/38/50/5a6c774195f6e0/US20060173708A1-20060803-D00007.png",
+    "https://patentimages.storage.googleapis.com/07/da/5b/ac3b8ccfb85b00/US20060173708A1-20060803-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/0002",
+      "description": "Remote monitoring of patients using telemetry, e.g. transmission of vital signals via a communication network",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/411",
+      "description": "Detecting or monitoring allergy or intolerance reactions to an allergenic agent or substance",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/10",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/67",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for remote operation",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method of providing health care by establishing a predetermined patient population grouped by geographic regions where the patient population has access to a traveling healthcare professional that may travel to the patient's location. The healthcare professional evaluates and examines the patient using a plurality of technologies including a microprocessor and memory storage that is coupled to, or interfaced with, audio/video/data transfer and communications systems, medical devices, and other vital measurement devices that the physician located at the physicians' center uses to assess and consult the healthcare professional who is onsite with the remote patient. During the exam the healthcare professional uses audio/video/data communications for interconnecting the healthcare professional with a physician at the physicians' center. The physician at the physicians' center conducts a virtual house call to help maintain the physician-patient relationship, evaluate the collected information, and instruct the healthcare professional during the physician's examination and evaluation. The physician having access to the patient's health records, family medical history, present medications, prior allergic reactions and any adverse drug interactions or contraindications, assesses, and renders a diagnoses and treatment plan back to the healthcare professional. The healthcare professional under the delegation of the physician treats the patient under the physician's instructions. The physician may prescribe medication and transmit the prescription to a pharmacy. The physician updates the patient's health record with the collected information, diagnosis, physician orders, treatment plan, patient input information, and clinical notes. The method also provides for a patient to obtain medical information without the need for a healthcare professional's visit. The method also provides many illustrations that allow for the assessment, treatment, diagnosis, and sharing of medical information and care to be provided to the patient at the patient's location, and to authorized healthcare professionals.",
+  "description_link": "https://serpapi.com/searches/68514e3dde1f3395b5706658/google_patents_details/description.html",
+  "claims": [
+    "1. A method of providing healthcare in the form of a virtual house call, the method comprising the steps of: \nestablishing at least a patient population group;  forming at least a patient population group within at least a predetermined geographical region;  utilizing a medical record system that includes individual information on each patient within at least the patient population group that is used in the plan of care of the individual patient within at least the patient population group;  establishing a physician-patient relationship with each individual patient within the patient population group;  establishing a call center, receiving calls from patients, triaging patient calls based on information provided by the patient, recording patient intake information into a reporting system, inputting patient reported information into a patient's record, routing calls based on the severity and intensity of the patient's situation, arranging and dispatching a healthcare professional to travel to the patient's location, notifying a healthcare advocate, notifying a physician of the impending patient visit;  providing the patient with access to the healthcare advocate, the healthcare advocate communicating with the patient, recording patient input information, coordinating the patient encounter information with the appropriate healthcare professional, aiding the patient as required, monitoring the patient's medical condition, providing following-up care with the patient;  establishing a physicians' center, each physicians' center supporting at least the patient population group, each physicians' center communicating to at least the patient population group, staffing the physicians' center with at least a physician;  providing the patient with access to a traveling healthcare professional that travels to the patient's location within the predetermined geographical region;  the healthcare professional traveling to the patient's location, arriving at the patient's location, communicating with the patient, triaging the patient, evaluating the patient, assessing the patient, collecting patient input information, examining the patient using a plurality of diagnostic equipment, collecting patient vital reading information, collecting information from the diagnostic equipment, transmitting the patient input information, transmitting the patient vital reading information, communicating with the physicians' center, transmitting the patient information to the physicians' center for analysis, evaluating the patient using a device comprised of at least a display unit for viewing multimedia, a microprocessor having a memory storage device coupled to an audio video data communications system, medical devices, and vital measurement instruments;  networking the healthcare professional with the physicians' center, the physicians' center having at least a physician to evaluate the patient input information, patient vital readings, patient diagnostic information, the physician instructing the healthcare professional, directing the examination at least during the healthcare professional's patient exam and evaluation of the patient, the physician at least accessing the patient's records, reviewing the patient's past medical history, evaluating family medical history, learning of patient's past and present medications, investigating if the patient has experienced any past allergic reactions, including if the patient has experienced any past drug interactions, the physician assessing the patient's current medical condition, the physician instructing the patient, the physician diagnosing the patient, the physician consulting the patient, the physician determining the plan of care for the patient, the physician recording the patient episode in the medical record, the physician transmitting treatment information back to the healthcare professional, the healthcare professional treating the patient using the physician's instructions, therein providing the patient with a virtual house call;  prescribing medication if required, checking for drug-to-drug interactions, checking for contraindications, prescribing durable medical equipment if required, transmitting the prescription to a pharmacy if required; and,  accessing the patient's records, revising the patient's records using the patient input information, diagnostic data, associated clinical notes, physician orders if required, and treatment information.",
+    "2. The method of claim 1 wherein a plurality of patient population groups is within a state.",
+    "3. The method of claim 1 wherein the patient population group is within a state.",
+    "4. The method of claim 1 wherein a plurality of patient population groups is within the United States of America.",
+    "5. The method of claim 1 wherein the physicians' center supporting a plurality of patient population groups is within the same state as the plurality of patient population groups.",
+    "6. The method of claim 1 wherein the physicians' center supporting a patient population group is within the same state as the patient population group.",
+    "7. The method of claim 1 wherein the call center notifies the healthcare advocate.",
+    "8. The method of claim 1 where in the physician facilitates routing the patient's plan of care to appropriate healthcare providers.",
+    "9. The method of claim 1 wherein the physicians' center contains a transmitting device in addition to a receiving device.",
+    "10. The method of claim 1 wherein the healthcare professional has a transmitting device in addition to a receiving device.",
+    "11. The method of claim 1 wherein the physicians' center contains a data storage device.",
+    "12. The method of claim 1 wherein the healthcare professional has a data storage device.",
+    "13. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center comprises a computer having at least a display unit for viewing multimedia, a microprocessor having a memory storage device coupled to an audio video and data communications system.",
+    "14. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is wireless.",
+    "15. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a telephone.",
+    "16. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a digital subscriber line.",
+    "17. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a local area network",
+    "18. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a wide area network.",
+    "19. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is an integrated service digital network.",
+    "20. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a broadband cable network.",
+    "21. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a satellite connection",
+    "22. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a wireless network.",
+    "23. The method of claim 1 wherein interconnecting the healthcare professional with the physicians' center is a fiber optic communication.",
+    "24. The method of claim 1 wherein the time from receiving communication from the patient to the healthcare professional examining and evaluating the patient is set to a predetermined time.",
+    "25. The method of claim 1 wherein providing health care is twenty-four hours a day seven days a week fifty-two weeks a year.",
+    "26. The method of claim 1 wherein the health care is emergency care.",
+    "27. The method of claim 1 wherein the health care is urgent care.",
+    "28. The method of claim 1 wherein the health care is routine care.",
+    "29. The method of claim 1 wherein the health care is case management.",
+    "30. The method of claim 1 wherein the health care is preventative care.",
+    "31. The method of claim 1 wherein the health care is wellness care.",
+    "32. The method of claim 1 wherein the health care is hospice care.",
+    "33. The method of claim 1 wherein the health care is non-emergent care.",
+    "34. The method of claim 1 wherein the health care is chronic care.",
+    "35. The method of claim 1 wherein the health care is non-acute care.",
+    "36. The method of claim 1 wherein the healthcare professional is a paramedic.",
+    "37. The method of claim 1 wherein the healthcare professional is a Physician.",
+    "38. The method of claim 1 wherein the healthcare professional is a Registered Nurse.",
+    "39. The method of claim 1 wherein the healthcare professional is an Emergency Medical Technician.",
+    "40. The method of claim 1 where in the healthcare professional is a certified technician.",
+    "41. The method of claim 1 where in the healthcare professional is a trained technician.",
+    "42. The method of claim 1 wherein the diagnostic equipment is an otoscope.",
+    "43. The method of claim 1 wherein the diagnostic equipment is a stethoscope.",
+    "44. The method of claim 1 wherein the diagnostic equipment is an ultrasound.",
+    "45. The method of claim 1 wherein the diagnostic equipment is an electrocardiogram.",
+    "46. The method of claim 1 wherein the diagnostic equipment is a thermometer.",
+    "47. The method of claim 1 wherein the diagnostic equipment is a device that measures blood pressure.",
+    "48. The method of claim 1 wherein the diagnostic equipment is a blood gas analyzer.",
+    "49. The method of claim 1 wherein the diagnostic equipment is a spirometer.",
+    "50. The method of claim 1 wherein the diagnostic equipment is a digital camera.",
+    "51. The method of claim 1 wherein the diagnostic equipment is a digital video camera.",
+    "52. The method of claim 1 wherein the diagnostic equipment is a weight scale.",
+    "53. The method of claim 1 wherein the diagnostic equipment is a device that tests urine.",
+    "54. The method of claim 1 wherein the diagnostic equipment is a device that tests feces.",
+    "55. The method of claim 1 wherein the diagnostic equipment is a device that tests blood.",
+    "56. The method of claim 1 wherein the diagnostic equipment is a device that collects patient vital signs.",
+    "57. The method of claim 1 wherein the diagnostic equipment is a device that measures peak flow.",
+    "58. The method of claim 1 wherein the diagnostic equipment is a portable computer.",
+    "59. The method of claim 1 wherein the diagnostic equipment is a device comprised of at least a microprocessor having a memory storage device.",
+    "60. The method of claim 1 wherein the diagnostic equipment is diagnostic software.",
+    "61. The method of claim 1 wherein the patient's record resides on a central data storage device.",
+    "62. The method of claim 1 wherein the patient's record is an electronic medical record.",
+    "63. The method of claim 1 wherein the collected information is a patient's medical record.",
+    "64. The method of claim 1 wherein the patient's record is an electronic health record.",
+    "65. The method of claim 1 wherein the collected information is a patient's health record.",
+    "66. The method of claim 1 wherein the collected information is patient input information.",
+    "67. The method of claim 1 wherein the patient's location is at a home.",
+    "68. The method of claim 1 wherein the patient's location is at an office.",
+    "69. The method of claim 1 wherein the patient's location is at a hotel.",
+    "70. The method of claim 1 wherein the patient's location is at a disaster area.",
+    "71. The method of claim 1 wherein the patient's location is at a battlefield.",
+    "72. The method of claim 1 wherein the patient's location is a remote location.",
+    "73. The method of claim 1 wherein the healthcare professional travels to a location to obtain and deliver to the patient any medical supplies.",
+    "74. The method of claim 1 wherein the healthcare professional provides to the patient prescribed medications.",
+    "75. A method of providing health care in the form of a telephonic patient visit comprising the steps of: \nestablishing at least a patient population group;  forming at least a patient population group within at least a predetermined geographical region;  utilizing a medical record system that includes individual information on each patient within the patient population using the medical record in the plan of care of the individual patient within the patient population group;  establishing a physician-patient relationship with each individual patient within the patient population group;  establishing a telephonic call center, receiving telephonic calls from patients, triaging patient telephonic calls based on information provided by the patient, recording patient intake information into a reporting system, inputting patient reported information into the patient's record, routing telephonic calls based on the severity and intensity of the patient's situation, facilitating the patient's call to the physician, notifying the healthcare advocate;  providing the patient with access to a healthcare advocate, the healthcare advocate communicating with the patient, recording patient input information, coordinating the patient encounter information with the appropriate healthcare professional, aiding the patient as required, monitoring the patient's medical condition, providing following-up care with the patient;  establishing a physicians' center, each physicians' center supporting at least a patient population group, each physicians' center communicating to at least a patient population group, staffing the physicians' center with at least a physician;  networking a telephonic call with the physicians' center, the physician center having at least a physician to evaluate the patient's input information, the physician at least accessing the patient's record, reviewing the patient's past medical history, evaluating family medical history, learning of the patient's past medication history, learning of the patient's present medications, investigating if the patient has experienced any past allergic reactions, including if the patient has experienced any past drug interactions, the physician assessing the patient's current medical condition, the physician instructing the patient, the physician diagnosing the patient, the physician consulting the patient, the physician determining the plan of care for the patient, the physician recording the patient episode in the medical record, therein providing the patient with a telephonic patient visit;  prescribing medication if required, checking for drug-to-drug interactions, checking for contraindications, prescribing durable medical equipment if required, transmitting the prescription to a pharmacy if required; and,  accessing the patient's records, revising the patient's records using the patient input information, diagnostic data, associated clinical notes, physician orders if required, and treatment information.",
+    "76. The method of claim 75 wherein a plurality of patient population groups is within a state.",
+    "77. The method of claim 75 wherein the patient population group is within a state.",
+    "78. The method of claim 75 wherein the plurality of patient population groups is within the United States of America.",
+    "79. The method of claim 75 wherein the physicians' center supporting a plurality of patient population groups is within the sane state as the plurality of patient population groups.",
+    "80. The method of claim 75 wherein the physicians' center supporting a patient population group is within the same state as the patient population group.",
+    "81. The method of claim 75 wherein the call center notifies the healthcare advocate.",
+    "82. The method of claim 75 where in the physician facilitates routing the patient's plan of care to appropriate healthcare providers.",
+    "83. The method of claim 75 wherein the physicians' center contains a transmitting and a receiving device.",
+    "84. The method of claim 75 wherein the physicians' center contains a data storage device.",
+    "85. The method of claim 75 wherein the patient's record resides on a central data storage device.",
+    "86. The method of claim 75 wherein the patient's record is an electronic medical record.",
+    "87. The method of claim 75 wherein the collected information is a patient's medical record.",
+    "88. The method of claim 75 wherein the patient's record is an electronic health record.",
+    "89. The method of claim 75 wherein the collected information is a patient's health record.",
+    "90. The method of claim 75 wherein the collected information is patient input information.",
+    "91. The method of claim 75 wherein the patient communicates using a communication device.",
+    "92. The method of claim 75 wherein the patient communicates using a telephone.",
+    "93. The method of claim 75 wherein the patient communicates using a telephonic device.",
+    "94. The method of claim 75 wherein the patient communicates using a data communications device.",
+    "95. The method of claim 75 wherein the patient communicates using a voice over Internet protocol communication device.",
+    "96. The method of claim 75 wherein the patient communicates using a cellular communication device.",
+    "97. The method of claim 75 wherein the patient communicates using a satellite communication device.",
+    "98. The method of claim 75 wherein the patient communicates using a satellite phone.",
+    "99. The method of claim 75 wherein the patient communicates using a video communication device.",
+    "100. The method of claim 75 wherein the healthcare professional travels to a location to obtain and deliver to the patient any medical supplies.",
+    "101. A method of providing health care in the form of a facilitated hand off to a medical service provider comprising the steps of: \nestablishing at least a patient population group;  forming a patient population group within at least a predetermined geographical region;  utilizing a medical record system that includes individual information on each patient within the patient population group that is used in the plan of care of the individual patient within the patient population group;  establishing a physician-patient relationship with each individual patient within the patient population group;  establishing a call center, receiving calls from patients, triaging patient calls based on information provided by the patient, recording patient intake information into a reporting system, inputting patient reported information into the patient's record, routing calls based on the severity and intensity of the patient's situation, facilitating emergency medical services to the patient, notifying a healthcare advocate, notifying the physician;  providing the patient with access to the healthcare advocate, the healthcare advocate communicating with the patient, recording patient input information, coordinating the patient encounter information with the appropriate healthcare professional, aiding the patient as required, monitoring the patient's medical condition, providing following-up care with the patient;  establishing a physicians' center, each physicians' center supporting at least a patient population group, each physicians' center communicating to at least a patient population group, staffing the physicians' center with at least a physician;  the physician' center facilitating emergency medical services to the patient, contacting at least the full service medical facility to facilitate access to the patient's information, communicating the patient's collected and evaluated medical information to at least a full service facility, contacting a medical specialist regarding the patient's medical condition, communicating with the medical specialist regarding the patient's medical condition;  providing the patient with access to a traveling healthcare professional that travels to the patient's location within at least the predetermined geographical region;  the healthcare professional traveling to the patient's location, arriving at the patient's location, and communicating with the patient, triaging the patient, evaluating the patient, assessing the patient, collecting patient input information, examining the patient using a plurality of diagnostic equipment, collecting patient vital reading information, collecting information from the diagnostic equipment, facilitating emergency medical services to the patient, communicating with the physicians' center;  accessing the patient's records, revising the patient's records using the patient input information, diagnostic data, associated clinical notes, physician orders if required, treatment information, obtaining emergency medical service patient episode information, and obtaining the full service medical facility patient episode information,  recording the emergency medical service patient episode information into the patient's record;  recording the full service medical facility patient episode information into the patient's record; and,  recording the medical specialist patient episode information into the patient's record.",
+    "102. The method of claim 101 wherein the plurality of patient population groups is within a state.",
+    "103. The method of claim 101 wherein the patient population group is within a state.",
+    "104. The method of claim 101 wherein the plurality of patient population groups is within the United States of America.",
+    "105. The method of claim 101 wherein the physicians' center supporting a plurality of patient population groups is within the same state as the plurality of patient population groups.",
+    "106. The method of claim 101 wherein the physicians' center supporting a patient population group is within the same state as the patient population group.",
+    "107. The method of claim 101 wherein the patient's record resides on a central data storage device.",
+    "108. The method of claim 101 wherein the patient's record is an electronic medical record.",
+    "109. The method of claim 101 wherein the collected information is a patient's medical record.",
+    "110. The method of claim 101 wherein the patient's record is an electronic health record.",
+    "111. The method of claim 101 wherein the collected information is a patient's health record.",
+    "112. The method of claim 101 wherein the collected information is patient input information.",
+    "113. A method of providing health care through the interaction of a healthcare advocate, the method comprising the steps of: \nestablishing at least a patient population group;  forming at least a patient population group within at least a predetermined geographical region;  utilizing a medical record system that includes individual information on each patient within the patient population group using the medical record in the plan of care of the individual patient within the patient population group;  establishing a physician-patient relationship with each individual patient within at least the patient population group;  establishing a call center, receiving calls from patients, triaging patient calls based on information provided by the patient, recording patient intake information into a reporting system, routing calls based on the severity and intensity of the patient's situation, facilitating the patient's call to the healthcare advocate; and,  the healthcare advocate facilitating, coordinating, monitoring, and aiding in follow-up services to the patient as necessitated by the patient's needs, communicating with the patient, providing personal assistance telephonically to the patient, the healthcare advocate accessing the patient's records, revising the patient's records using the patient input information along with associated clinical notes, documenting any information provided by the patient, executing physician orders if required, including relevant treatment information.",
+    "114. A method for archiving patient-encounter data into an electronic health record comprising the steps of: \nestablishing a telecommunications connection with a healthcare professional;  receiving patient encounter data collected by the healthcare professional using a plurality of technologies having at least a microprocessor including a memory storage device, coupled to audio, video, and data communications systems, medical devices, and examination equipment used in the assessment of the patient;  transferring the collected patient encounter data to a central data storage device; and,  accessing archived patient encounter data from the central data storage device over a telecommunications network system.",
+    "115. The method of claim 114 wherein the telecommunications network system is the Internet.",
+    "116. The method of claim 114 wherein the electronic health record is an electronic medical record.",
+    "117. The method of claim 114 wherein the central data storage device is a server having a microprocessor, database, including a memory storage that is in communication with, a LAN, WAN, virtual private network, communications system, Internet network connection, telecommunications network connection.",
+    "118. A method of transferring electronic health record information having patient-encounter data comprising the method of: \nusing a device comprised of at least a microprocessor having a memory storage device, coupled to a data communications systems, including medical devices, vital measurement instruments, telecommunications network connection;  communicating with a server having a microprocessor, database, including a memory storage that is in communication with, a LAN, WAN, virtual private network, communications system, Internet network connection, telecommunications network connection;  transferring patient-encounter data resulting from a virtual house call;  transferring patient-encounter data resulting from a telephonic patient visit;  transferring patient-encounter data resulting from a facilitated handoff to emergency medical services;  transferring the electronic health record to an out-of-network physician, physician practice, hospital, clinic, health service organization using a common, standard data set in the data communication;  transferring the electronic health record to an out-of-network physician, physician practice, hospital, clinic, or health service organization using electronic facsimile; and,  transferring the electronic health record to a health service organization including an out-of-network physician, physician practice, hospital, clinic, using digital transmission.",
+    "119. The method of claim 118 wherein the common, standard data set for data transmission is one of several American National Standards Institute ANSI accredited Standards Developing Organizations operating in the healthcare arena for a particular healthcare domain such as pharmacy, medical devices, imaging or insurance (claims processing) transactions.",
+    "120. A method of using a call center to provide disease state management comprising the steps of: \nforming at least a patient population group within at least a predetermined geographical region;  using a telecommunications network, using a telephonic device, using a telecommunications device for making phone calls, using a telecommunications device for receiving phone calls;  contacting a plurality of patient population groups, contacting a population group, questioning patients with predetermined questions, measuring the quality of life of the plurality of patient population groups, measuring the quality of life of the patient population group;  contacting a plurality of patients with clinical algorithms that measure their health status of the patients;  contacting a plurality of patients for drug compliance;  contacting a plurality of patients for treatment compliance;  recording the collected information into a database application;  storing the collected information on a server having at least a microprocessor including a memory storage device;  contacting plurality of patients to acquiring information on their body weight;  contacting plurality of patients to collect patient vital sign date;  contacting a plurality of patients to collect patient input information;  analyzing the collected information; and,  using a plurality of automated telecommunications technology, including auto dialing technologies, interactive voice response systems, technology having a microprocessor including a memory storage device that automatically dials patients for the call center.",
+    "121. A method of using a call center to provide organizational services comprising the steps of: \nestablishing at least a patient population group;  forming at least a patient population group within at least a predetermined geographical region;  using a telecommunications network, using of a telephone in communication with a telecommunications device for making then receiving phone calls, contacting people, receiving input information;  recording the collected information into a database application, storing the collected information on a server having at least a microprocessor including a memory storage device, contacting a patient with a questionnaire, analyzing the collected information, normalizing the collected information; and,  using a plurality of automated telecommunications technologies, including, an auto dialing technologies, interactive voice response systems, having a microprocessor including a memory storage device that automatically dials predetermined or random population of people for the call center."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/046,091",
+      "representative_publication": "US20060173708A1",
+      "primary_language": "en",
+      "priority_date": "2005-01-28",
+      "filing_date": "2005-01-28",
+      "title": "System and method for providing health care"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US11/046,091",
+      "representative_publication": "US20060173708A1",
+      "primary_language": "en",
+      "priority_date": "2005-01-28",
+      "filing_date": "2005-01-28",
+      "title": "System and method for providing health care"
+    }
+  ],
+  "family_id": "36757763",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5441047A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-03-25",
+        "publication_date": "1995-08-15",
+        "assignee_original": "David; Daniel",
+        "title": "Ambulatory patient health monitoring techniques utilizing interactive visual communication",
+        "patent_id": "patent/US5441047A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5441047A%2Fen"
+      },
+      {
+        "publication_number": "US5851186A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-27",
+        "publication_date": "1998-12-22",
+        "assignee_original": "Atl Ultrasound, Inc.",
+        "title": "Ultrasonic diagnostic imaging system with universal access to diagnostic information and images",
+        "patent_id": "patent/US5851186A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5851186A%2Fen"
+      },
+      {
+        "publication_number": "US5987519A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-20",
+        "publication_date": "1999-11-16",
+        "assignee_original": "Georgia Tech Research Corporation",
+        "title": "Telemedicine system using voice video and data encapsulation and de-encapsulation for communicating medical information between central monitoring stations and remote patient monitoring stations",
+        "patent_id": "patent/US5987519A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5987519A%2Fen"
+      },
+      {
+        "publication_number": "US6409660B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-19",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Ortivus Ab",
+        "title": "Portable telemedicine device",
+        "patent_id": "patent/US6409660B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6409660B1%2Fen"
+      },
+      {
+        "publication_number": "US20030069751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-29",
+        "publication_date": "2003-04-10",
+        "assignee_original": "Eric Lichtenstein",
+        "title": "At-home health data management method and apparatus",
+        "patent_id": "patent/US20030069751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030069751A1%2Fen"
+      },
+      {
+        "publication_number": "US20030120513A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-15",
+        "publication_date": "2003-06-26",
+        "assignee_original": "Samaquial Michael Rey",
+        "title": "Method of facilitating access to remote health-related services, practitioners, and information",
+        "patent_id": "patent/US20030120513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030120513A1%2Fen"
+      },
+      {
+        "publication_number": "US6638218B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-14",
+        "publication_date": "2003-10-28",
+        "assignee_original": "American Doctors On-Line, Inc.",
+        "title": "System and method for delivering medical examination, diagnosis, and treatment over a network",
+        "patent_id": "patent/US6638218B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6638218B2%2Fen"
+      },
+      {
+        "publication_number": "US20040059603A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-15",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Brown Jacob Theodore",
+        "title": "System and method for virtual health services",
+        "patent_id": "patent/US20040059603A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040059603A1%2Fen"
+      },
+      {
+        "publication_number": "US6795554B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-05",
+        "publication_date": "2004-09-21",
+        "assignee_original": "Inner Vision Imaging, Llc",
+        "title": "Method of transmitting medical information over a network",
+        "patent_id": "patent/US6795554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6795554B2%2Fen"
+      },
+      {
+        "publication_number": "US6820057B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-29",
+        "publication_date": "2004-11-16",
+        "assignee_original": "Ventracor Limited",
+        "title": "Telemedicine system",
+        "patent_id": "patent/US6820057B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6820057B1%2Fen"
+      },
+      {
+        "publication_number": "US20050060198A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-06",
+        "publication_date": "2005-03-17",
+        "assignee_original": "Bayne Cary Gresham",
+        "title": "Method for clinician house calls utilizing portable computing and communications equipment",
+        "patent_id": "patent/US20050060198A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050060198A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20050038326A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-30",
+        "publication_date": "2005-02-17",
+        "assignee_original": "Michael Mathur",
+        "title": "System, device, and method for remote monitoring and servicing",
+        "patent_id": "patent/US20050038326A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050038326A1%2Fen"
+      },
+      {
+        "publication_number": "US20070198295A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-22",
+        "publication_date": "2007-08-23",
+        "assignee_original": "Duckert David W",
+        "title": "Method and system for routing information to an appropriate care provider",
+        "patent_id": "patent/US20070198295A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070198295A1%2Fen"
+      },
+      {
+        "publication_number": "US20070219812A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-09-20",
+        "assignee_original": "Moore Barrett H",
+        "title": "Subscription-based multi-person emergency shelter method",
+        "patent_id": "patent/US20070219812A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070219812A1%2Fen"
+      },
+      {
+        "publication_number": "US20070219426A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-09-20",
+        "assignee_original": "Moore Barrett H",
+        "title": "Subscription-Based Private Civil Security Resource Customization Method",
+        "patent_id": "patent/US20070219426A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070219426A1%2Fen"
+      },
+      {
+        "publication_number": "US20070219810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-09-20",
+        "assignee_original": "Moore Barrett H",
+        "title": "Personal profile-based private civil security subscription method",
+        "patent_id": "patent/US20070219810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070219810A1%2Fen"
+      },
+      {
+        "publication_number": "US20070223658A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-09-27",
+        "assignee_original": "Moore Barrett H",
+        "title": "Method and Apparatus to Facilitate Deployment of One or More Private Civil Security Resources",
+        "patent_id": "patent/US20070223658A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070223658A1%2Fen"
+      },
+      {
+        "publication_number": "US20070225993A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-09-27",
+        "assignee_original": "Moore Barrett H",
+        "title": "Method for Civilly-Catastrophic Event-Based Transport Service and Vehicles Therefor",
+        "patent_id": "patent/US20070225993A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070225993A1%2Fen"
+      },
+      {
+        "publication_number": "US20070239480A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-30",
+        "publication_date": "2007-10-11",
+        "assignee_original": "Moore Barrett H",
+        "title": "Subscription-based catastrophe-triggered medical services facilitation method",
+        "patent_id": "patent/US20070239480A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070239480A1%2Fen"
+      },
+      {
+        "publication_number": "US20070276681A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2007-11-29",
+        "assignee_original": "Moore Barrett H",
+        "title": "Method Of Providing Bearer Certificates For Private Civil Security Benefits",
+        "patent_id": "patent/US20070276681A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070276681A1%2Fen"
+      },
+      {
+        "publication_number": "US20080071571A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-10",
+        "publication_date": "2008-03-20",
+        "assignee_original": "Synamed Llc",
+        "title": "Methods and systems for using practice management data",
+        "patent_id": "patent/US20080071571A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080071571A1%2Fen"
+      },
+      {
+        "publication_number": "EP1903525A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-13",
+        "publication_date": "2008-03-26",
+        "assignee_original": "Koninklijke KPN N.V.",
+        "title": "Remote monitoring and care",
+        "patent_id": "patent/EP1903525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1903525A1%2Fen"
+      },
+      {
+        "publication_number": "US20080077026A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-07",
+        "publication_date": "2008-03-27",
+        "assignee_original": "Triage Wireless, Inc.",
+        "title": "Hand-held vital signs monitor",
+        "patent_id": "patent/US20080077026A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080077026A1%2Fen"
+      },
+      {
+        "publication_number": "US20080144800A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-13",
+        "publication_date": "2008-06-19",
+        "assignee_original": "Robert Donnelly",
+        "title": "Interactive Application Call Center Method and System",
+        "patent_id": "patent/US20080144800A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080144800A1%2Fen"
+      },
+      {
+        "publication_number": "US20080146277A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-27",
+        "publication_date": "2008-06-19",
+        "assignee_original": "Anglin Richard L",
+        "title": "Personal healthcare assistant",
+        "patent_id": "patent/US20080146277A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080146277A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008054916A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-15",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Barrett H Moore",
+        "title": "Privately provisioned survival supplies delivery method",
+        "patent_id": "patent/WO2008054916A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008054916A3%2Fen"
+      },
+      {
+        "publication_number": "US20080195426A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-17",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Moore Barrett H",
+        "title": "Subscription-Based Mobile Shelter Method",
+        "patent_id": "patent/US20080195426A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080195426A1%2Fen"
+      },
+      {
+        "publication_number": "US20080208048A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-27",
+        "publication_date": "2008-08-28",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Ultrasonic diagnosis support system, ultrasonic imaging apparatus, and ultrasonic diagnosis support method",
+        "patent_id": "patent/US20080208048A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080208048A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008082746A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-20",
+        "publication_date": "2008-09-18",
+        "assignee_original": "Barrett H Moore",
+        "title": "Subscription-based private civil security facilitation method",
+        "patent_id": "patent/WO2008082746A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008082746A3%2Fen"
+      },
+      {
+        "publication_number": "US20080262873A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-18",
+        "publication_date": "2008-10-23",
+        "assignee_original": "Janus Health, Inc.",
+        "title": "Patient management system and method",
+        "patent_id": "patent/US20080262873A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080262873A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008088589A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-21",
+        "publication_date": "2008-11-13",
+        "assignee_original": "Barrett H Moore",
+        "title": "Subscription-based private civil security facilitation method",
+        "patent_id": "patent/WO2008088589A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008088589A3%2Fen"
+      },
+      {
+        "publication_number": "WO2008082744A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-17",
+        "publication_date": "2008-11-20",
+        "assignee_original": "Barrett H Moore",
+        "title": "Subscription-based private civil security facilitation method",
+        "patent_id": "patent/WO2008082744A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008082744A3%2Fen"
+      },
+      {
+        "publication_number": "US20090012813A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-06",
+        "publication_date": "2009-01-08",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "Systems and methods for managing medical information",
+        "patent_id": "patent/US20090012813A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090012813A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009039124A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-18",
+        "publication_date": "2009-03-26",
+        "assignee_original": "Stacy Venne Consulting Inc.",
+        "title": "Method and system for providing remote healthcare",
+        "patent_id": "patent/WO2009039124A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009039124A1%2Fen"
+      },
+      {
+        "publication_number": "US20090112625A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-25",
+        "publication_date": "2009-04-30",
+        "assignee_original": "Doherty Holly S",
+        "title": "Systems and Methods for Obtaining and Preserving Health Care Information",
+        "patent_id": "patent/US20090112625A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090112625A1%2Fen"
+      },
+      {
+        "publication_number": "US20090125326A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-13",
+        "publication_date": "2009-05-14",
+        "assignee_original": "Wasson David S",
+        "title": "Method and apparatus for indirect medical consultation",
+        "patent_id": "patent/US20090125326A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090125326A1%2Fen"
+      },
+      {
+        "publication_number": "US20090259492A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-09",
+        "publication_date": "2009-10-15",
+        "assignee_original": "Strategic Medical, Llc",
+        "title": "Remote Consultation System and Method",
+        "patent_id": "patent/US20090259492A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090259492A1%2Fen"
+      },
+      {
+        "publication_number": "US20090306983A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-09",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Microsoft Corporation",
+        "title": "User access and update of personal health records in a computerized health data store via voice inputs",
+        "patent_id": "patent/US20090306983A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090306983A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008141283A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-11",
+        "publication_date": "2009-12-30",
+        "assignee_original": "Michael Mathur",
+        "title": "System, device, and method for remote monitoring and servicing",
+        "patent_id": "patent/WO2008141283A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008141283A3%2Fen"
+      },
+      {
+        "publication_number": "US20110029592A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-28",
+        "publication_date": "2011-02-03",
+        "assignee_original": "Galen Heathcare Solutions Inc.",
+        "title": "Computerized method of organizing and distributing electronic healthcare record data",
+        "patent_id": "patent/US20110029592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110029592A1%2Fen"
+      },
+      {
+        "publication_number": "US20110106557A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-30",
+        "publication_date": "2011-05-05",
+        "assignee_original": "iHAS INC",
+        "title": "Novel one integrated system for real-time virtual face-to-face encounters",
+        "patent_id": "patent/US20110106557A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110106557A1%2Fen"
+      },
+      {
+        "publication_number": "US20110218814A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-05",
+        "publication_date": "2011-09-08",
+        "assignee_original": "Applied Health Services, Inc.",
+        "title": "Method and system for assessing a patient's condition",
+        "patent_id": "patent/US20110218814A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110218814A1%2Fen"
+      },
+      {
+        "publication_number": "US20120191464A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-21",
+        "publication_date": "2012-07-26",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Telerobotic System with a Dual Application Screen Presentation",
+        "patent_id": "patent/US20120191464A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120191464A1%2Fen"
+      },
+      {
+        "publication_number": "US20130018905A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-25",
+        "publication_date": "2013-01-17",
+        "assignee_original": "Normamed S.A.",
+        "title": "Method and recording machine for recording health-related information",
+        "patent_id": "patent/US20130018905A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130018905A1%2Fen"
+      },
+      {
+        "publication_number": "US20130035581A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-05",
+        "publication_date": "2013-02-07",
+        "assignee_original": "General Electric Company",
+        "title": "Augmented reality enhanced triage systems and methods for emergency medical services",
+        "patent_id": "patent/US20130035581A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130035581A1%2Fen"
+      },
+      {
+        "publication_number": "US20130096937A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-04",
+        "publication_date": "2013-04-18",
+        "assignee_original": "Edward Robert Campbell",
+        "title": "Medical providers knowledge base and interaction website",
+        "patent_id": "patent/US20130096937A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130096937A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013077977A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-23",
+        "publication_date": "2013-05-30",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/WO2013077977A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013077977A1%2Fen"
+      },
+      {
+        "publication_number": "US20130218917A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-17",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Therasa Bell",
+        "title": "Data capturing and structuring method and system",
+        "patent_id": "patent/US20130218917A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130218917A1%2Fen"
+      },
+      {
+        "publication_number": "US20140052775A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-14",
+        "publication_date": "2014-02-20",
+        "assignee_original": "Kt Corporation",
+        "title": "Forwarding information to designated user terminal",
+        "patent_id": "patent/US20140052775A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140052775A1%2Fen"
+      },
+      {
+        "publication_number": "US8682486B2",
+        "primary_language": "en",
+        "priority_date": "2002-07-25",
+        "publication_date": "2014-03-25",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Medical tele-robotic system with a master remote station with an arbitrator",
+        "patent_id": "patent/US8682486B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8682486B2%2Fen"
+      },
+      {
+        "publication_number": "US20140136220A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-01",
+        "publication_date": "2014-05-15",
+        "assignee_original": "Alan Rapoport",
+        "title": "Interactive Patient and Physician Systems and Their Methods of Use",
+        "patent_id": "patent/US20140136220A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140136220A1%2Fen"
+      },
+      {
+        "publication_number": "US8836751B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-08",
+        "publication_date": "2014-09-16",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Tele-presence system with a user interface that displays different communication links",
+        "patent_id": "patent/US8836751B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8836751B2%2Fen"
+      },
+      {
+        "publication_number": "US8849679B2",
+        "primary_language": "en",
+        "priority_date": "2006-06-15",
+        "publication_date": "2014-09-30",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Remote controlled robot system that provides medical images",
+        "patent_id": "patent/US8849679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8849679B2%2Fen"
+      },
+      {
+        "publication_number": "US8849680B2",
+        "primary_language": "en",
+        "priority_date": "2009-01-29",
+        "publication_date": "2014-09-30",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Documentation through a remote presence robot",
+        "patent_id": "patent/US8849680B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8849680B2%2Fen"
+      },
+      {
+        "publication_number": "US8870791B2",
+        "primary_language": "en",
+        "priority_date": "2006-03-23",
+        "publication_date": "2014-10-28",
+        "assignee_original": "Michael E. Sabatino",
+        "title": "Apparatus for acquiring, processing and transmitting physiological sounds",
+        "patent_id": "patent/US8870791B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8870791B2%2Fen"
+      },
+      {
+        "publication_number": "US8897920B2",
+        "primary_language": "en",
+        "priority_date": "2009-04-17",
+        "publication_date": "2014-11-25",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Tele-presence robot system with software modularity, projector and laser pointer",
+        "patent_id": "patent/US8897920B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8897920B2%2Fen"
+      },
+      {
+        "publication_number": "US8902278B2",
+        "primary_language": "en",
+        "priority_date": "2012-04-11",
+        "publication_date": "2014-12-02",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Systems and methods for visualizing and managing telepresence devices in healthcare networks",
+        "patent_id": "patent/US8902278B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8902278B2%2Fen"
+      },
+      {
+        "publication_number": "US8965579B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-28",
+        "publication_date": "2015-02-24",
+        "assignee_original": "Intouch Technologies",
+        "title": "Interfacing with a mobile telepresence robot",
+        "patent_id": "patent/US8965579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8965579B2%2Fen"
+      },
+      {
+        "publication_number": "US8983174B2",
+        "primary_language": "en",
+        "priority_date": "2004-07-13",
+        "publication_date": "2015-03-17",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Mobile robot with a head-based movement mapping scheme",
+        "patent_id": "patent/US8983174B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8983174B2%2Fen"
+      },
+      {
+        "publication_number": "US8996165B2",
+        "primary_language": "en",
+        "priority_date": "2008-10-21",
+        "publication_date": "2015-03-31",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Telepresence robot with a camera boom",
+        "patent_id": "patent/US8996165B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8996165B2%2Fen"
+      },
+      {
+        "publication_number": "US9089972B2",
+        "primary_language": "en",
+        "priority_date": "2010-03-04",
+        "publication_date": "2015-07-28",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Remote presence system including a cart that supports a robot face and an overhead camera",
+        "patent_id": "patent/US9089972B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9089972B2%2Fen"
+      },
+      {
+        "publication_number": "US9098611B2",
+        "primary_language": "en",
+        "priority_date": "2012-11-26",
+        "publication_date": "2015-08-04",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Enhanced video interaction for a user interface of a telepresence network",
+        "patent_id": "patent/US9098611B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9098611B2%2Fen"
+      },
+      {
+        "publication_number": "US9138891B2",
+        "primary_language": "en",
+        "priority_date": "2008-11-25",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Server connectivity control for tele-presence robot",
+        "patent_id": "patent/US9138891B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9138891B2%2Fen"
+      },
+      {
+        "publication_number": "US9160783B2",
+        "primary_language": "en",
+        "priority_date": "2007-05-09",
+        "publication_date": "2015-10-13",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Robot system that operates through a network firewall",
+        "patent_id": "patent/US9160783B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9160783B2%2Fen"
+      },
+      {
+        "publication_number": "US9174342B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-22",
+        "publication_date": "2015-11-03",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Social behavior rules for a medical telepresence robot",
+        "patent_id": "patent/US9174342B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9174342B2%2Fen"
+      },
+      {
+        "publication_number": "US9193065B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-10",
+        "publication_date": "2015-11-24",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Docking system for a tele-presence robot",
+        "patent_id": "patent/US9193065B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9193065B2%2Fen"
+      },
+      {
+        "publication_number": "US9198728B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-30",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Multi-camera mobile teleconferencing platform",
+        "patent_id": "patent/US9198728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9198728B2%2Fen"
+      },
+      {
+        "publication_number": "US9251313B2",
+        "primary_language": "en",
+        "priority_date": "2012-04-11",
+        "publication_date": "2016-02-02",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Systems and methods for visualizing and managing telepresence devices in healthcare networks",
+        "patent_id": "patent/US9251313B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9251313B2%2Fen"
+      },
+      {
+        "publication_number": "US9264664B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-03",
+        "publication_date": "2016-02-16",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Systems and methods for dynamic bandwidth allocation",
+        "patent_id": "patent/US9264664B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9264664B2%2Fen"
+      },
+      {
+        "publication_number": "US9296107B2",
+        "primary_language": "en",
+        "priority_date": "2003-12-09",
+        "publication_date": "2016-03-29",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Protocol for a remotely controlled videoconferencing robot",
+        "patent_id": "patent/US9296107B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9296107B2%2Fen"
+      },
+      {
+        "publication_number": "US9323250B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-28",
+        "publication_date": "2016-04-26",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Time-dependent navigation of telepresence robots",
+        "patent_id": "patent/US9323250B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9323250B2%2Fen"
+      },
+      {
+        "publication_number": "US9361021B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-22",
+        "publication_date": "2016-06-07",
+        "assignee_original": "Irobot Corporation",
+        "title": "Graphical user interfaces including touchpad driving interfaces for telemedicine devices",
+        "patent_id": "patent/US9361021B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9361021B2%2Fen"
+      },
+      {
+        "publication_number": "US9381654B2",
+        "primary_language": "en",
+        "priority_date": "2008-11-25",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Server connectivity control for tele-presence robot",
+        "patent_id": "patent/US9381654B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9381654B2%2Fen"
+      },
+      {
+        "publication_number": "US9429934B2",
+        "primary_language": "en",
+        "priority_date": "2008-09-18",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Mobile videoconferencing robot system with network adaptive driving",
+        "patent_id": "patent/US9429934B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9429934B2%2Fen"
+      },
+      {
+        "publication_number": "US9430805B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-14",
+        "publication_date": "2016-08-30",
+        "assignee_original": "American Doctors Online, Inc.",
+        "title": "System and method for delivering medical examination, treatment and assistance over a network",
+        "patent_id": "patent/US9430805B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9430805B2%2Fen"
+      },
+      {
+        "publication_number": "US9438564B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-18",
+        "publication_date": "2016-09-06",
+        "assignee_original": "Google Inc.",
+        "title": "Managing pooled VPN proxy servers by a central server",
+        "patent_id": "patent/US9438564B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9438564B1%2Fen"
+      },
+      {
+        "publication_number": "US20160261826A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-02",
+        "publication_date": "2016-09-08",
+        "assignee_original": "Ricoh Company, Ltd.",
+        "title": "Terminal, system, display method, and recording medium storing a display program",
+        "patent_id": "patent/US20160261826A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160261826A1%2Fen"
+      },
+      {
+        "publication_number": "US9459772B2",
+        "primary_language": "en",
+        "priority_date": "2011-04-10",
+        "publication_date": "2016-10-04",
+        "assignee_original": "Perwaiz Nihal",
+        "title": "Systems and methods for providing remote communications and visitations",
+        "patent_id": "patent/US9459772B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9459772B2%2Fen"
+      },
+      {
+        "publication_number": "US9491567B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-05",
+        "publication_date": "2016-11-08",
+        "assignee_original": "Kt Corporation",
+        "title": "Providing M2M data to unregistered terminal",
+        "patent_id": "patent/US9491567B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9491567B2%2Fen"
+      },
+      {
+        "publication_number": "US9602765B2",
+        "primary_language": "en",
+        "priority_date": "2009-08-26",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Portable remote presence robot",
+        "patent_id": "patent/US9602765B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9602765B2%2Fen"
+      },
+      {
+        "publication_number": "US9616576B2",
+        "primary_language": "en",
+        "priority_date": "2008-04-17",
+        "publication_date": "2017-04-11",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Mobile tele-presence system with a microphone system",
+        "patent_id": "patent/US9616576B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9616576B2%2Fen"
+      },
+      {
+        "publication_number": "US20170213015A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-20",
+        "publication_date": "2017-07-27",
+        "assignee_original": "AKIN J. Jodi",
+        "title": "Clinical trial/patient follow-up platform",
+        "patent_id": "patent/US20170213015A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170213015A1%2Fen"
+      },
+      {
+        "publication_number": "US9842192B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-11",
+        "publication_date": "2017-12-12",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Tele-presence robot system with multi-cast features",
+        "patent_id": "patent/US9842192B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9842192B2%2Fen"
+      },
+      {
+        "publication_number": "US9907730B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2018-03-06",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US9907730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9907730B2%2Fen"
+      },
+      {
+        "publication_number": "US9974612B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-19",
+        "publication_date": "2018-05-22",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Enhanced diagnostics for a telepresence robot",
+        "patent_id": "patent/US9974612B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9974612B2%2Fen"
+      },
+      {
+        "publication_number": "US20190122178A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-25",
+        "publication_date": "2019-04-25",
+        "assignee_original": "Telefonaktiebolaget Lm Ericsson (Publ)",
+        "title": "Method and apparatus for automating physical equipment replacement and maintenance",
+        "patent_id": "patent/US20190122178A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190122178A1%2Fen"
+      },
+      {
+        "publication_number": "US10291712B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-26",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Kt Corporation",
+        "title": "Sharing control right of M2M device",
+        "patent_id": "patent/US10291712B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10291712B2%2Fen"
+      },
+      {
+        "publication_number": "US10320903B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-16",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Vii Network, Inc.",
+        "title": "Web and mobile-based platform that unites workflow management and asynchronous video collaboration for healthcare",
+        "patent_id": "patent/US10320903B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10320903B2%2Fen"
+      },
+      {
+        "publication_number": "US10343283B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-24",
+        "publication_date": "2019-07-09",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Telepresence robot system that can be accessed by a cellular phone",
+        "patent_id": "patent/US10343283B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10343283B2%2Fen"
+      },
+      {
+        "publication_number": "CN110047589A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-09",
+        "publication_date": "2019-07-23",
+        "assignee_original": "\u83b2\u751f\u533b\u7597\u79d1\u6280(\u4e0a\u6d77)\u6709\u9650\u516c\u53f8",
+        "title": "A kind of monitoring method of visual remote therapeutic treatment and Clinical Follow-up",
+        "patent_id": "patent/CN110047589A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110047589A%2Fen"
+      },
+      {
+        "publication_number": "US10468133B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-21",
+        "publication_date": "2019-11-05",
+        "assignee_original": "SmileDirectClub LLC",
+        "title": "Arrangements for intraoral scanning",
+        "patent_id": "patent/US10468133B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10468133B2%2Fen"
+      },
+      {
+        "publication_number": "US10471588B2",
+        "primary_language": "en",
+        "priority_date": "2008-04-14",
+        "publication_date": "2019-11-12",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Robotic based health care system",
+        "patent_id": "patent/US10471588B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10471588B2%2Fen"
+      },
+      {
+        "publication_number": "US10742811B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-16",
+        "publication_date": "2020-08-11",
+        "assignee_original": "Dharmendra Sushilkumar GHAI",
+        "title": "Smart communications and analytics learning engine",
+        "patent_id": "patent/US10742811B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10742811B2%2Fen"
+      },
+      {
+        "publication_number": "US10769739B2",
+        "primary_language": "en",
+        "priority_date": "2011-04-25",
+        "publication_date": "2020-09-08",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Systems and methods for management of information among medical providers and facilities",
+        "patent_id": "patent/US10769739B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10769739B2%2Fen"
+      },
+      {
+        "publication_number": "US10808882B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-26",
+        "publication_date": "2020-10-20",
+        "assignee_original": "Intouch Technologies, Inc.",
+        "title": "Tele-robotic system with a robot face placed on a chair",
+        "patent_id": "patent/US10808882B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10808882B2%2Fen"
+      },
+      {
+        "publication_number": "US10875182B2",
+        "primary_language": "en",
+        "priority_date": "2008-03-20",
+        "publication_date": "2020-12-29",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Remote presence system mounted to operating room hardware",
+        "patent_id": "patent/US10875182B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10875182B2%2Fen"
+      },
+      {
+        "publication_number": "US20210243412A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-10",
+        "publication_date": "2021-08-05",
+        "assignee_original": "Nuance Communications, Inc.",
+        "title": "Automated Clinical Documentation System and Method",
+        "patent_id": "patent/US20210243412A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210243412A1%2Fen"
+      },
+      {
+        "publication_number": "US11154981B2",
+        "primary_language": "en",
+        "priority_date": "2010-02-04",
+        "publication_date": "2021-10-26",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Robot user interface for telepresence robot system",
+        "patent_id": "patent/US11154981B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11154981B2%2Fen"
+      },
+      {
+        "publication_number": "US11246687B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-21",
+        "publication_date": "2022-02-15",
+        "assignee_original": "Sdc U.S. Smilepay Spv",
+        "title": "Dental impression retake kit and methods therefor",
+        "patent_id": "patent/US11246687B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11246687B2%2Fen"
+      },
+      {
+        "publication_number": "US11253409B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-21",
+        "publication_date": "2022-02-22",
+        "assignee_original": "Sdc U.S. Smilepay Spv",
+        "title": "Systems and methods for mobile dentition scanning",
+        "patent_id": "patent/US11253409B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11253409B2%2Fen"
+      },
+      {
+        "publication_number": "US11337778B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-21",
+        "publication_date": "2022-05-24",
+        "assignee_original": "Sdc U.S. Smilepay Spv",
+        "title": "Distributed system for fabricating dental aligners",
+        "patent_id": "patent/US11337778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11337778B2%2Fen"
+      },
+      {
+        "publication_number": "US11382718B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-21",
+        "publication_date": "2022-07-12",
+        "assignee_original": "Sdc U.S. Smilepay Spv",
+        "title": "Arrangements for remote orthodontic treatment",
+        "patent_id": "patent/US11382718B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11382718B2%2Fen"
+      },
+      {
+        "publication_number": "US11389064B2",
+        "primary_language": "en",
+        "priority_date": "2018-04-27",
+        "publication_date": "2022-07-19",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Telehealth cart that supports a removable tablet with seamless audio/video switching",
+        "patent_id": "patent/US11389064B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11389064B2%2Fen"
+      },
+      {
+        "publication_number": "US11399153B2",
+        "primary_language": "en",
+        "priority_date": "2009-08-26",
+        "publication_date": "2022-07-26",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Portable telepresence apparatus",
+        "patent_id": "patent/US11399153B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11399153B2%2Fen"
+      },
+      {
+        "publication_number": "US11636944B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-25",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Connectivity infrastructure for a telehealth platform",
+        "patent_id": "patent/US11636944B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11636944B2%2Fen"
+      },
+      {
+        "publication_number": "US11742094B2",
+        "primary_language": "en",
+        "priority_date": "2017-07-25",
+        "publication_date": "2023-08-29",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Modular telehealth cart with thermal imaging and touch screen user interface",
+        "patent_id": "patent/US11742094B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11742094B2%2Fen"
+      },
+      {
+        "publication_number": "US11804311B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-29",
+        "publication_date": "2023-10-31",
+        "assignee_original": "Commure, Inc.",
+        "title": "Use and coordination of healthcare information within life-long care team",
+        "patent_id": "patent/US11804311B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11804311B1%2Fen"
+      },
+      {
+        "publication_number": "US11862302B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-24",
+        "publication_date": "2024-01-02",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Automated transcription and documentation of tele-health encounters",
+        "patent_id": "patent/US11862302B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11862302B2%2Fen"
+      },
+      {
+        "publication_number": "US11985075B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-04",
+        "publication_date": "2024-05-14",
+        "assignee_original": "C/Hca, Inc.",
+        "title": "Data stream processing for dynamic resource scheduling",
+        "patent_id": "patent/US11985075B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11985075B1%2Fen"
+      },
+      {
+        "publication_number": "US12124861B1",
+        "primary_language": "en",
+        "priority_date": "2018-08-20",
+        "publication_date": "2024-10-22",
+        "assignee_original": "C/Hca, Inc.",
+        "title": "Disparate data aggregation for user interface customization",
+        "patent_id": "patent/US12124861B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12124861B1%2Fen"
+      },
+      {
+        "publication_number": "US12224059B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-16",
+        "publication_date": "2025-02-11",
+        "assignee_original": "Teladoc Health, Inc.",
+        "title": "Systems and methods for network-based counseling",
+        "patent_id": "patent/US12224059B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12224059B2%2Fen"
+      },
+      {
+        "publication_number": "US12272448B1",
+        "primary_language": "en",
+        "priority_date": "2020-02-18",
+        "publication_date": "2025-04-08",
+        "assignee_original": "C/Hca, Inc.",
+        "title": "Predictive resource management",
+        "patent_id": "patent/US12272448B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12272448B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20060173708A1",
+      "primary_language": "en",
+      "publication_date": "2006-08-03",
+      "title": "System and method for providing health care",
+      "patent_id": "patent/US20060173708A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060173708A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11596305B2",
+      "primary_language": "en",
+      "publication_date": "2023-03-07",
+      "title": "Computer-assisted patient navigation and information systems and methods",
+      "patent_id": "patent/US11596305B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11596305B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11633102B2",
+      "primary_language": "en",
+      "publication_date": "2023-04-25",
+      "title": "Apparatus and method for providing improved health care",
+      "patent_id": "patent/US11633102B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11633102B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10354051B2",
+      "primary_language": "en",
+      "publication_date": "2019-07-16",
+      "title": "Computer assisted patient navigation and information systems and methods",
+      "patent_id": "patent/US10354051B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10354051B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7412396B1",
+      "primary_language": "en",
+      "publication_date": "2008-08-12",
+      "title": "Virtual clinic for medical practice",
+      "patent_id": "patent/US7412396B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7412396B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6850889B1",
+      "primary_language": "en",
+      "publication_date": "2005-02-01",
+      "title": "System and method for conducting a physician-patient consultation",
+      "patent_id": "patent/US6850889B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6850889B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "718388455222117633",
+      "scholar_authors": "Kravitz et al.",
+      "publication_date": "1994",
+      "title": "Internal medicine patients\u2019 expectations for care during office visits",
+      "patent_id": "scholar/718388455222117633",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F718388455222117633"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8589177B2",
+      "primary_language": "en",
+      "publication_date": "2013-11-19",
+      "title": "Virtual clinic for medical practice",
+      "patent_id": "patent/US8589177B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8589177B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1139910063143742513",
+      "scholar_authors": "Taylor",
+      "publication_date": "2005",
+      "title": "Evaluating telemedicine systems and services",
+      "patent_id": "scholar/1139910063143742513",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1139910063143742513"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7011629B2",
+      "primary_language": "en",
+      "publication_date": "2006-03-14",
+      "title": "System and method for delivering medical examination, treatment and assistance over a network",
+      "patent_id": "patent/US7011629B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7011629B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2329547T3",
+      "primary_language": "en",
+      "publication_date": "2009-11-27",
+      "title": "MANAGEMENT NETWORK OF HEALTH LINKS AND DISEASES TO PROVIDE BETTER PATIENT ASSISTANCE.",
+      "patent_id": "patent/ES2329547T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2329547T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130035955A1",
+      "primary_language": "en",
+      "publication_date": "2013-02-07",
+      "title": "Method and System to deliver state of the art concierge medical services to healh care consumers via a control center and a network of mobile medical platforms",
+      "patent_id": "patent/US20130035955A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130035955A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170011194A1",
+      "primary_language": "en",
+      "publication_date": "2017-01-12",
+      "title": "Connection Of Disparate Medical Personnel Networks And Associated Messaging In A Telemedicine System",
+      "patent_id": "patent/US20170011194A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170011194A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080306763A1",
+      "primary_language": "en",
+      "publication_date": "2008-12-11",
+      "title": "System and Method for Modifying Risk Factors by a Healthcare Individual at a Remote Location",
+      "patent_id": "patent/US20080306763A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080306763A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2439669A1",
+      "primary_language": "en",
+      "publication_date": "2012-04-11",
+      "title": "Computer-implemented system and method for facilitating patient advocacy through online healthcare provisioning",
+      "patent_id": "patent/EP2439669A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2439669A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060047188A1",
+      "primary_language": "en",
+      "publication_date": "2006-03-02",
+      "title": "Method and system for triage of emergency patients",
+      "patent_id": "patent/US20060047188A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060047188A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100063845A1",
+      "primary_language": "en",
+      "publication_date": "2010-03-11",
+      "title": "Systems and Methods for Allowing Patient Access to a Patient Electronic Health Records",
+      "patent_id": "patent/US20100063845A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063845A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17991456349408050679",
+      "scholar_authors": "Alanazi et al.",
+      "publication_date": "2015",
+      "title": "Identify the best alternatives to help the diffusion of teleconsultation by using the Hierarchical Decision Model (HDM)",
+      "patent_id": "scholar/17991456349408050679",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17991456349408050679"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7451484578723184870",
+      "scholar_authors": "Rangasamy et al.",
+      "publication_date": "2011",
+      "title": "Role of telemedicine in health care system: a review",
+      "patent_id": "scholar/7451484578723184870",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7451484578723184870"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060074722A1",
+      "primary_language": "en",
+      "publication_date": "2006-04-06",
+      "title": "Computerized method and system for providing medical service and related measurement apparatus",
+      "patent_id": "patent/US20060074722A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060074722A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080312967A1",
+      "primary_language": "en",
+      "publication_date": "2008-12-18",
+      "title": "Comprehensive method and system for intake screening and medical records management",
+      "patent_id": "patent/US20080312967A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080312967A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210202086A1",
+      "primary_language": "en",
+      "publication_date": "2021-07-01",
+      "title": "System, method, and apparatus for collecting and analyzing physiologic, medical, and psychometric data in support of clinical decision making",
+      "patent_id": "patent/US20210202086A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210202086A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070180026A1",
+      "primary_language": "en",
+      "publication_date": "2007-08-02",
+      "title": "System and method for conducting a physician-patient consultation",
+      "patent_id": "patent/US20070180026A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070180026A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9877427165133831406",
+      "scholar_authors": "Ussrey",
+      "publication_date": "2021",
+      "title": "The Providers\u2019 Outlook on Telehealth Online Visits",
+      "patent_id": "scholar/9877427165133831406",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9877427165133831406"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10553170467825558504",
+      "scholar_authors": "Nwadibia et al.",
+      "publication_date": "2024",
+      "title": "Transforming the Paper Health Record System (PHRS) of the Hospital Information Systems (HIS) to Electronic Health Record System (EHRS): A Review",
+      "patent_id": "scholar/10553170467825558504",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10553170467825558504"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2005-01-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CIRCLE OF CARE, INC., MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:VINING, BERT R.;REEL/FRAME:016236/0414"
+        },
+        {
+          "label": "Effective date",
+          "value": "20050128"
+        },
+        {
+          "label": "Owner name",
+          "value": "CIRCLE OF CARE, INC., MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WALKER, CRAIG A.;REEL/FRAME:016468/0890"
+        },
+        {
+          "label": "Effective date",
+          "value": "20050125"
+        },
+        {
+          "label": "Owner name",
+          "value": "CIRCLE OF CARE, INC., MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KING, NEIL O.;REEL/FRAME:016468/0912"
+        },
+        {
+          "label": "Effective date",
+          "value": "20050124"
+        },
+        {
+          "label": "Owner name",
+          "value": "CIRCLE OF CARE, INC., MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:VINING, DAVID T.;REEL/FRAME:016468/0915"
+        },
+        {
+          "label": "Effective date",
+          "value": "20050128"
+        }
+      ]
+    },
+    {
+      "date": "2010-02-16",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 173
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 157
+      },
+      {
+        "id": "230000006854",
+        "name": "communication",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 78
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 78
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000005055",
+        "name": "memory storage",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "206010013710",
+        "name": "Drug interaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "206010020751",
+        "name": "Hypersensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000003862",
+        "name": "health status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000003384",
+        "name": "imaging method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002604",
+        "name": "ultrasonography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000010267",
+        "name": "cellular communication",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001684",
+        "name": "chronic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000037396",
+        "name": "body weight",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000003608",
+        "name": "fece",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000002700",
+        "name": "urine",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000012384",
+        "name": "transportation and delivery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000002555",
+        "name": "auscultation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000013497",
+        "name": "data interchange",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001965",
+        "name": "increasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013329",
+        "name": "compounding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001667",
+        "name": "episodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007407",
+        "name": "health benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000036760",
+        "name": "body temperature",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000014674",
+        "name": "injury",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012806",
+        "name": "monitoring device",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001360",
+        "name": "synchronised effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000000115",
+        "name": "thoracic cavity",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008733",
+        "name": "trauma",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000001015",
+        "name": "abdomen",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002776",
+        "name": "aggregation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004220",
+        "name": "aggregation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003542",
+        "name": "behavioural effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007175",
+        "name": "bidirectional communication",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000033228",
+        "name": "biological regulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004159",
+        "name": "blood analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009534",
+        "name": "blood test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000747",
+        "name": "cardiac effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007418",
+        "name": "data mining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002059",
+        "name": "diagnostic imaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003203",
+        "name": "everyday effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002955",
+        "name": "isolation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004072",
+        "name": "lung",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003340",
+        "name": "mental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037361",
+        "name": "pathway",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004962",
+        "name": "physiological condition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013439",
+        "name": "planning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000955",
+        "name": "prescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005180",
+        "name": "public health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002685",
+        "name": "pulmonary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002601",
+        "name": "radiography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009877",
+        "name": "rendering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000241",
+        "name": "respiratory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000630",
+        "name": "rising effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004611",
+        "name": "spectroscopical analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006641",
+        "name": "stabilisation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011105",
+        "name": "stabilization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007619",
+        "name": "statistical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001356",
+        "name": "surgical procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004083",
+        "name": "survival effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009897",
+        "name": "systematic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

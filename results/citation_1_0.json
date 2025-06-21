@@ -1,0 +1,1249 @@
+{
+  "search_metadata": {
+    "id": "68514f87f0114adb3da32b56",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/457b7417e8b92aa4/68514f87f0114adb3da32b56.json",
+    "created_at": "2025-06-17 11:20:39 UTC",
+    "processed_at": "2025-06-17 11:20:39 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5589818A/en",
+    "raw_html_file": "https://serpapi.com/searches/457b7417e8b92aa4/68514f87f0114adb3da32b56.html",
+    "total_time_taken": 1.51
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5589818A/en"
+  },
+  "title": "Personal response system with remotely adjustable microphone sensitivity",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/3e/32/b6/f8dfb8a7ac1fe7/US5589818.pdf",
+  "publication_number": "US5589818A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "microphone",
+    "response center",
+    "help",
+    "sensitivity",
+    "audio signals"
+  ],
+  "prior_art_date": "1993-08-27",
+  "application_number": "US08/113,274",
+  "inventors": [
+    {
+      "name": "Andrew Queen",
+      "link": "https://patents.google.com/?inventor=Andrew+Queen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andrew+Queen"
+    }
+  ],
+  "assignees": [
+    "Koninklijke Philips NV"
+  ],
+  "priority_date": "1993-08-27",
+  "filing_date": "1993-08-27",
+  "publication_date": "1996-12-31",
+  "worldwide_applications": {
+    "1993": [
+      {
+        "filing_date": "1993-08-27",
+        "country_code": "US",
+        "application_number": "US08/113,274",
+        "document_id": "patent/US5589818A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1993-08-27",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1993-08-27",
+      "title": "Priority to US08/113,274",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5589818A/en"
+    },
+    {
+      "date": "1993-08-27",
+      "title": "Assigned to Health Watch, Inc.",
+      "type": "reassignment",
+      "assignee_search": "Health Watch, Inc.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: QUEEN, ANDREW"
+      ]
+    },
+    {
+      "date": "1996-12-31",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1996-12-31",
+      "title": "Publication of US5589818A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5589818A/en"
+    },
+    {
+      "date": "2008-04-03",
+      "title": "Assigned to KONINKLIJKE PHILIPS ELECTRONICS, N.V.",
+      "type": "reassignment",
+      "assignee_search": "KONINKLIJKE PHILIPS ELECTRONICS, N.V.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Health Watch, Inc."
+      ]
+    },
+    {
+      "date": "2013-12-31",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5589818.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08113274"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5589818"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5589818A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08113274/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5589818"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/83/f1/8f/1efd12f8fa4631/US5589818-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/03/2b/06/da993f97427aba/US5589818-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/e1/b5/42/514d008c6de668/US5589818-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/62/4c/9f/e5f4d583b7f2ba/US5589818-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/4b/2a/a8/d04ff0e7e720cd/US5589818-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/41/c6/12/d8c32d727c0c9b/US5589818-drawings-page-7.png"
+  ],
+  "classifications": [
+    {
+      "code": "G08B25/016",
+      "description": "Personal emergency signalling and security systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H04M11/04",
+      "description": "Telephonic communication systems specially adapted for combination with other electrical systems with alarm systems, e.g. fire, police or burglar alarm systems",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A personal response system which provides speakerphone mode and emergency audio mode by controlling microphone sensitivity when audio signals fall below an acceptable level. Adjustable microphone sensitivity which can be controlled by the response center and/or by the help console itself. Emergency audio mode allows low level voices from outside the room the help console is in to be heard by allowing the response center to control the gradual raising or lowering the microphone sensitivity to vary the listening range of the microphone. A simultaneous increase in speaker volume allows response center personnel to converse with a disabled individual who cannot come to the help console. A second microphone and speaker in the personal transmitter permits two-way voice communication even when the individual is disabled outside of the dwelling and the help console is no longer effective.",
+  "description_link": "https://serpapi.com/searches/68514f87f0114adb3da32b56/google_patents_details/description.html",
+  "claims": [
+    "1. A personal response system with emergency audio mode, comprising:a response center for monitoring a plurality of help consoles for emergency status conditions, the response center further having means to transmit microphone sensitivity commands; at least one help console for use in a user's premises, further comprising:a microphone sensitivity control; a communications control to communicate with the response center, the communications control capable of receiving microphone sensitivity commands from the response center which define gradual changes in microphone sensitivity and further having means to control the microphone sensitivity control; the microphone sensitivity control is controlled by the communications control and has an output for adjusting microphone sensitivity levels; a microphone means to input and transmit audio signals from the help console to the response center, the sensitivity of the microphone means controlled by the microphone sensitivity control such that a single microphone in the microphone means can have its sensitivity adjusted to extend from the immediate area of the microphone to several rooms within the user's premises; and a speaker to output audio signals received from the response center;  whereby the response center can gradually adjust the microphone sensitivity of the help console such that the physical listening range of a single microphone in the help console can be gradually increased from the immediate area of the help console to several rooms within the user's premises.",
+    "2. A personal response system with emergency audio mode, comprising: a response center for monitoring a plurality of help consoles for emergency status conditions, the response center further having means to transmit microphone sensitivity commands;at least one help console for use in a user's premises, further comprising:a microphone sensitivity control; a communications control to communicate with the response center, the communications control capable of receiving microphone sensitivity commands from the response center which define gradual changes in microphone sensitivity and further having means to control the microphone sensitivity control; the microphone sensitivity control is controlled by the communications control and has an output for adjusting microphone sensitivity levels; a microphone means to input and transmit audio signals from the help console to the response center, the sensitivity of the microphone means controlled by the microphone sensitivity control; and a speaker to output audio signals received from the response center; and a volume adjusting means for adjusting the volume of the speaker under control of the microphone sensitivity commands to enable output of stronger audio signals;  whereby the response center can gradually adjust the microphone sensitivity of the help console such that the physical listening range of the help console can be gradually increased.",
+    "3. A system, as in claim 2, further comprising:a portable personal transmitter, further comprising:means to remotely initiate communication from the help console to the response center either inside or outside of the user's premises; and a personal transmitter microphone to input audio signals to the help console; and  means in the help console to receive audio signals from the portable personal transmitter and transmit the received audio signals to the response center.",
+    "4. A system, as in claim 3, wherein the portable personal transmitter further comprises a personal transmitter speaker to output audio signals from the portable personal transmitter.",
+    "5. A system, as in claim 2, further comprising:a portable personal transmitter, further comprising:means to receive audio signals transmitted from the help console; and a personal transmitter speaker to output audio signals received from the help console; and  means in the help console to receive audio signals from the response center and transmit the received audio signals to the portable personal transmitter.",
+    "6. A personal response system with emergency audio mode, comprising:a response center for monitoring a plurality of help consoles for emergency status conditions, the response center further having means to transmit microphone sensitivity commands; at least one help console for use in a user's premises, further comprising:a microphone sensitivity control;  a communications control to communicate with the response center, the communications control capable of receiving microphone sensitivity commands from the response center which define gradual changes in microphone sensitivity and further having means to control the microphone sensitivity control;the microphone sensitivity control is controlled by the communications control and has an output for adjusting microphone sensitivity levels; a microphone means to input and transmit audio signals from the help console to the response center, the sensitivity of the microphone controlled by the microphone sensitivity control; and a speaker to output audio signals received from the response center, the speaker's volume is controlled by the microphone sensitivity control such that as the microphone sensitivity increases, the speaker's volume increases; and  whereby the response center can simultaneously control the sensitivity of the microphone and the speaker volume such that the physical area around the help console can be gradually extended by the response center.",
+    "7. A system, as in claim 6, further comprising:a portable personal transmitter, further comprising:means to remotely initiate communication from the help console to the response center either inside or outside of the user's premises; and a personal transmitter microphone to input audio signals to the help console; and  means in the help console to receive audio signals from the portable personal transmitter and transmit the received audio signals to the response center.",
+    "8. A system, as in claim 7, wherein the portable personal transmitter further comprises a personal transmitter speaker to output audio signals from the portable personal transmitter.",
+    "9. A system, as in claim 6, further comprising:a portable personal transmitter, further comprising:means to receive audio signals transmitted from the help console either inside or outside of the user's premises; and a personal transmitter speaker to output audio signals received from the help console; and  means in the help console to receive audio signals from the response center and transmit the received audio signals to the portable personal transmitter.",
+    "10. A personal response system with emergency audio mode, comprising:a response center for monitoring a plurality of help consoles for emergency status conditions, the response center further having means to transmit microphone sensitivity commands; at least one help console for use in a user's premises, further comprising:a microphone sensitivity control;  a communications control to communicate with the response center, the communications control capable of receiving microphone sensitivity commands from the response center which define gradual changes in personal transmitter microphone sensitivity and further having means to control the personal transmitter microphone sensitivity control;the personal transmitter microphone sensitivity control is controlled by the communications control and has an output for adjusting personal transmitter microphone sensitivity levels such that a single microphone in the personal transmitter microphone can have its sensitivity adjusted to extend from the immediate area of the personal transmitter microphone to several rooms within the user's premises; means to communicate with the portable personal transmitter,  a portable personal transmitter, further comprising:means to remotely initiate communication from the help console to the response center; and a personal transmitter microphone to input audio signals to the help console, the sensitivity of the microphone controlled by the microphone sensitivity control; and  means in the help console to receive audio signals from the portable personal transmitter and transmit the received audio signals to the response center; whereby the response center can gradually adjust the personal transmitter microphone sensitivity of the portable personal transmitter from the immediate area of the help console to several rooms within the user's premises.",
+    "11. A personal response system with emergency audio mode, comprising:a response center for monitoring a plurality of help consoles for emergency status conditions, the response center further having means to transmit microphone sensitivity commands; at least one help console for use in a user's premises, further comprising:a help console microphone means to input and transmit audio signals from the help console to the response center; a microphone sensitivity control; a communications control to communicate with the response center, the communications control capable of receiving microphone sensitivity commands from the response center which define gradual changes in personal transmitter microphone sensitivity and further having means to control the personal transmitter microphone sensitivity control; the personal transmitter microphone sensitivity control is controlled by the communications control and has an output for adjusting personal transmitter microphone sensitivity levels;  a portable personal transmitter, further comprising:means to remotely initiate communication from the help console to the response center; and a personal transmitter microphone to input audio signals to the help console, the sensitivity of the microphone controlled by the microphone sensitivity control; and  means in the help console to receive audio signals from the portable personal transmitter and transmit the received audio signals to the response center; whereby the response center can gradually adjust the microphone sensitivity of the portable personal transmitter.",
+    "12. A personal response system help console with emergency audio mode, comprising:a help console; means to communicate with a response center; means to initiate communications with the response center by the help console; a microphone means to input and transmit audio signals from the help console to the response center; a speaker to output audio signals received from the response center; and means to automatically select a sensitivity level for the microphone means to enable input of weaker audio signals from locations remote from the microphone means; and means to receive microphone sensitivity commands from the response center to override the sensitivity level of the microphone selected by the help console; whereby audio input from an extended physical area at the help console can be monitored by controlling the microphone sensitivity of the help console microphone.",
+    "13. A system, as in claim 12, further comprising:means to receive microphone sensitivity commands from the response center; and a volume adjusting means for adjusting the volume of the help console speaker under control of the response center microphone sensitivity commands; whereby the speaker volume is gradually increased as microphone sensitivity is gradually increased.",
+    "14. A system, as in claim 13, further comprising:a personal transmitter, further comprising:means to remotely initiate communication from the help console to the response center; and a personal transmitter microphone to input audio signals to the help console either inside or outside of the user's premises, the sensitivity of the personal transmitter microphone controlled by the microphone sensitivity control; and  means in the help console to receive audio signals from the personal transmitter and transmit the received audio signals to the response center.",
+    "15. A system, as in claim 14, wherein the personal transmitter further comprises a personal transmitter speaker to output audio signals from the personal transmitter, the microphone sensitivity control simultaneously controls the sensitivity of the microphone and the speaker volume such that the effective range of the personal transmitter can be gradually varied under control of the response center.",
+    "16. A system, as in claim 13, further comprising:a personal transmitter, further comprising:means to receive audio signals transmitted from the help console; and a personal transmitter speaker to output audio signals received from the help console; and  means in the help console to receive audio signals from the response center and transmit the received audio signals to the personal transmitter."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/113,274",
+      "representative_publication": "US5589818A",
+      "primary_language": "en",
+      "priority_date": "1993-08-27",
+      "filing_date": "1993-08-27",
+      "title": "Personal response system with remotely adjustable microphone sensitivity"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/113,274",
+      "representative_publication": "US5589818A",
+      "primary_language": "en",
+      "priority_date": "1993-08-27",
+      "filing_date": "1993-08-27",
+      "title": "Personal response system with remotely adjustable microphone sensitivity"
+    }
+  ],
+  "family_id": "22348525",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "FR2606190A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-11-04",
+        "publication_date": "1988-05-06",
+        "assignee_original": "Baudoin Michel",
+        "title": "System for transmitting alarm signals intended to provide protection of people",
+        "patent_id": "patent/FR2606190A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2606190A1%2Fen"
+      },
+      {
+        "publication_number": "GB2206017A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-06-09",
+        "publication_date": "1988-12-21",
+        "assignee_original": "Tunstall Telecom Ltd",
+        "title": "Emergency call system",
+        "patent_id": "patent/GB2206017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2206017A%2Fen"
+      },
+      {
+        "publication_number": "US4918717A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-08-23",
+        "publication_date": "1990-04-17",
+        "assignee_original": "Knight Protective Industries",
+        "title": "Alarm system having bidirectional communication with secured area",
+        "patent_id": "patent/US4918717A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4918717A%2Fen"
+      },
+      {
+        "publication_number": "US5237602A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-10-01",
+        "publication_date": "1993-08-17",
+        "assignee_original": "Lazik George L",
+        "title": "Remotely-activated telephone system for communication with the disabled",
+        "patent_id": "patent/US5237602A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5237602A%2Fen"
+      },
+      {
+        "publication_number": "US5243657A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-07-31",
+        "publication_date": "1993-09-07",
+        "assignee_original": "Brian Cotton",
+        "title": "Automatic microphone sensitivity control circuit",
+        "patent_id": "patent/US5243657A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5243657A%2Fen"
+      },
+      {
+        "publication_number": "US5333173A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-15",
+        "publication_date": "1994-07-26",
+        "assignee_original": "Bell Atlantic Network Services, Inc.",
+        "title": "Personal checkup service and equipment",
+        "patent_id": "patent/US5333173A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5333173A%2Fen"
+      },
+      {
+        "publication_number": "US5333171A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-06-28",
+        "publication_date": "1994-07-26",
+        "assignee_original": "Lifeline Systems, Inc.",
+        "title": "Adaptive speakerphone system",
+        "patent_id": "patent/US5333171A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5333171A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Ericsson Review ( 2, 1981, vol. 58). Pp. 96 100 Copyright LM Ericsson.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Ericsson Review (#2, 1981, vol. 58). Pp. 96-100 Copyright LM Ericsson."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US5742233A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-21",
+        "publication_date": "1998-04-21",
+        "assignee_original": "Hoffman Resources, Llc",
+        "title": "Personal security and tracking system",
+        "patent_id": "patent/US5742233A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5742233A%2Fen"
+      },
+      {
+        "publication_number": "US6262665B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-05",
+        "publication_date": "2001-07-17",
+        "assignee_original": "Nader Nessem Eskander",
+        "title": "Four\u2014states warning switch",
+        "patent_id": "patent/US6262665B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6262665B1%2Fen"
+      },
+      {
+        "publication_number": "US6307920B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-03-21",
+        "publication_date": "2001-10-23",
+        "assignee_original": "Foresight Technologies, Inc.",
+        "title": "Microprocessor controlled dispatcher activated response identification system with telephone and radio frequency interface",
+        "patent_id": "patent/US6307920B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6307920B1%2Fen"
+      },
+      {
+        "publication_number": "US6504926B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-15",
+        "publication_date": "2003-01-07",
+        "assignee_original": "Mediaring.Com Ltd.",
+        "title": "User control system for internet phone quality",
+        "patent_id": "patent/US6504926B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6504926B1%2Fen"
+      },
+      {
+        "publication_number": "US6510380B1",
+        "primary_language": "en",
+        "priority_date": "1999-03-31",
+        "publication_date": "2003-01-21",
+        "assignee_original": "C2 Global Technologies, Inc.",
+        "title": "Security and tracking system",
+        "patent_id": "patent/US6510380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6510380B1%2Fen"
+      },
+      {
+        "publication_number": "US20030067390A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-04",
+        "publication_date": "2003-04-10",
+        "assignee_original": "Karen Fitzgerald",
+        "title": "Vibrating monitor system",
+        "patent_id": "patent/US20030067390A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030067390A1%2Fen"
+      },
+      {
+        "publication_number": "US6567502B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-19",
+        "publication_date": "2003-05-20",
+        "assignee_original": "Bellsouth Intellectual Property Corporation",
+        "title": "Multimedia emergency services",
+        "patent_id": "patent/US6567502B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6567502B2%2Fen"
+      },
+      {
+        "publication_number": "US6606556B2",
+        "primary_language": "en",
+        "priority_date": "1999-03-31",
+        "publication_date": "2003-08-12",
+        "assignee_original": "C2 Global Technologies, Inc.",
+        "title": "Security and tracking system",
+        "patent_id": "patent/US6606556B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6606556B2%2Fen"
+      },
+      {
+        "publication_number": "EP1313302A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-16",
+        "publication_date": "2004-02-25",
+        "assignee_original": "Tenovis GmbH &amp; Co. KG",
+        "title": "Communication terminal and method for operating such a terminal",
+        "patent_id": "patent/EP1313302A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1313302A3%2Fen"
+      },
+      {
+        "publication_number": "US20040088345A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-02",
+        "publication_date": "2004-05-06",
+        "assignee_original": "Zellner Samuel N.",
+        "title": "Method of facilitating access to IP-based emergency services",
+        "patent_id": "patent/US20040088345A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040088345A1%2Fen"
+      },
+      {
+        "publication_number": "US6765991B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-23",
+        "publication_date": "2004-07-20",
+        "assignee_original": "Michael Hanuschak",
+        "title": "Emergency telecommunication device",
+        "patent_id": "patent/US6765991B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6765991B1%2Fen"
+      },
+      {
+        "publication_number": "US6766145B2",
+        "primary_language": "en",
+        "priority_date": "2001-10-26",
+        "publication_date": "2004-07-20",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Prenatal-to-infant monitoring device",
+        "patent_id": "patent/US6766145B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6766145B2%2Fen"
+      },
+      {
+        "publication_number": "US6807564B1",
+        "primary_language": "en",
+        "priority_date": "2000-06-02",
+        "publication_date": "2004-10-19",
+        "assignee_original": "Bellsouth Intellectual Property Corporation",
+        "title": "Panic button IP device",
+        "patent_id": "patent/US6807564B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6807564B1%2Fen"
+      },
+      {
+        "publication_number": "US6873837B1",
+        "primary_language": "en",
+        "priority_date": "1999-02-03",
+        "publication_date": "2005-03-29",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Emergency reporting system and terminal apparatus therein",
+        "patent_id": "patent/US6873837B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6873837B1%2Fen"
+      },
+      {
+        "publication_number": "US6889135B2",
+        "primary_language": "en",
+        "priority_date": "1999-03-31",
+        "publication_date": "2005-05-03",
+        "assignee_original": "C2 Global Technologies, Inc.",
+        "title": "Security and tracking system",
+        "patent_id": "patent/US6889135B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6889135B2%2Fen"
+      },
+      {
+        "publication_number": "EP1536660A2",
+        "primary_language": "en",
+        "priority_date": "2003-11-27",
+        "publication_date": "2005-06-01",
+        "assignee_original": "Motorola, Inc.",
+        "title": "Communication system, communication units, and method of ambience listening thereto",
+        "patent_id": "patent/EP1536660A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1536660A2%2Fen"
+      },
+      {
+        "publication_number": "US20050136912A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-31",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Curatolo Benedict S.",
+        "title": "Security and tracking system",
+        "patent_id": "patent/US20050136912A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050136912A1%2Fen"
+      },
+      {
+        "publication_number": "EP1727105A2",
+        "primary_language": "en",
+        "priority_date": "2005-05-27",
+        "publication_date": "2006-11-29",
+        "assignee_original": "Tunstall Group Plc",
+        "title": "Social alarm unit with speech communication",
+        "patent_id": "patent/EP1727105A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1727105A2%2Fen"
+      },
+      {
+        "publication_number": "WO2007024187A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-26",
+        "publication_date": "2007-03-01",
+        "assignee_original": "Athena Nordic Ab",
+        "title": "A safety system, a safety terminal and an alarm system",
+        "patent_id": "patent/WO2007024187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007024187A1%2Fen"
+      },
+      {
+        "publication_number": "US20070085663A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2007-04-19",
+        "assignee_original": "August Clifford J",
+        "title": "Data exchange systems and methods employing RF data transmission",
+        "patent_id": "patent/US20070085663A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070085663A1%2Fen"
+      },
+      {
+        "publication_number": "US7238156B1",
+        "primary_language": "en",
+        "priority_date": "2003-07-31",
+        "publication_date": "2007-07-03",
+        "assignee_original": "At&T Intellectual Property, Inc.",
+        "title": "Systems, methods, and devices for health monitoring",
+        "patent_id": "patent/US7238156B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7238156B1%2Fen"
+      },
+      {
+        "publication_number": "US20070165834A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-03",
+        "publication_date": "2007-07-19",
+        "assignee_original": "Brian Redman",
+        "title": "System and method for adjusting hands-free phone",
+        "patent_id": "patent/US20070165834A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070165834A1%2Fen"
+      },
+      {
+        "publication_number": "EP1889236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-06",
+        "publication_date": "2008-02-20",
+        "assignee_original": "Savox Communications Oy AB (LTD)",
+        "title": "Alarm system and alarm device",
+        "patent_id": "patent/EP1889236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1889236A1%2Fen"
+      },
+      {
+        "publication_number": "GB2455975A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-07-01",
+        "assignee_original": "Tunstall Group Ltd",
+        "title": "Social Alarm System with inductive loop amplifier to reduce level of a non priority audio signal received in a hearing aid in response to the alarm condition",
+        "patent_id": "patent/GB2455975A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2455975A%2Fen"
+      },
+      {
+        "publication_number": "EP1779534A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-01",
+        "publication_date": "2010-03-03",
+        "assignee_original": "Motorola Inc",
+        "title": "A method and a system for operating an ambiance listening mode in a wireless communication system",
+        "patent_id": "patent/EP1779534A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1779534A4%2Fen"
+      },
+      {
+        "publication_number": "US20110081005A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-19",
+        "publication_date": "2011-04-07",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Speakerphone and extension speakerphone for use in personal emergency response system",
+        "patent_id": "patent/US20110081005A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110081005A1%2Fen"
+      },
+      {
+        "publication_number": "US20120038460A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-23",
+        "publication_date": "2012-02-16",
+        "assignee_original": "Panasonic Corporation",
+        "title": "Sound receiving apparatus, sound receiving method, sound receiving system, and wireless microphone",
+        "patent_id": "patent/US20120038460A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120038460A1%2Fen"
+      },
+      {
+        "publication_number": "US20120052833A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-31",
+        "publication_date": "2012-03-01",
+        "assignee_original": "pomdevices, LLC",
+        "title": "Mobile panic button for health monitoring system",
+        "patent_id": "patent/US20120052833A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120052833A1%2Fen"
+      },
+      {
+        "publication_number": "US8798688B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-20",
+        "publication_date": "2014-08-05",
+        "assignee_original": "Clifford August",
+        "title": "Systems and methods for transmitting data using near field communications",
+        "patent_id": "patent/US8798688B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8798688B2%2Fen"
+      },
+      {
+        "publication_number": "US8917161B2",
+        "primary_language": "en",
+        "priority_date": "2011-10-21",
+        "publication_date": "2014-12-23",
+        "assignee_original": "Clifford J. August",
+        "title": "Systems and methods for transmitting data using near field communications",
+        "patent_id": "patent/US8917161B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8917161B2%2Fen"
+      },
+      {
+        "publication_number": "US20190065970A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-30",
+        "publication_date": "2019-02-28",
+        "assignee_original": "P Tech, Llc",
+        "title": "Artificial intelligence and/or virtual reality for activity optimization/personalization",
+        "patent_id": "patent/US20190065970A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190065970A1%2Fen"
+      },
+      {
+        "publication_number": "US10275208B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-31",
+        "publication_date": "2019-04-30",
+        "assignee_original": "Callahan Cellular L.L.C.",
+        "title": "Apparatus and methods of delivering music and information",
+        "patent_id": "patent/US10275208B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10275208B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5589818A",
+      "primary_language": "en",
+      "publication_date": "1996-12-31",
+      "title": "Personal response system with remotely adjustable microphone sensitivity",
+      "patent_id": "patent/US5589818A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5589818A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5929761A",
+      "primary_language": "en",
+      "publication_date": "1999-07-27",
+      "title": "Personal alarm system",
+      "patent_id": "patent/US5929761A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5929761A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100842776B1",
+      "primary_language": "en",
+      "publication_date": "2008-07-01",
+      "title": "Personal alarm system",
+      "patent_id": "patent/KR100842776B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100842776B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5568535A",
+      "primary_language": "en",
+      "publication_date": "1996-10-22",
+      "title": "Alarm system for enclosed area",
+      "patent_id": "patent/US5568535A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5568535A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2061508C",
+      "primary_language": "en",
+      "publication_date": "2000-11-07",
+      "title": "Smoke detector with automatic dialing",
+      "patent_id": "patent/CA2061508C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2061508C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4410883A",
+      "primary_language": "en",
+      "publication_date": "1983-10-18",
+      "title": "Multiple annunciation system",
+      "patent_id": "patent/US4410883A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4410883A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPWO2003088174A1",
+      "primary_language": "en",
+      "publication_date": "2005-08-25",
+      "title": "Monitoring system",
+      "patent_id": "patent/JPWO2003088174A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPWO2003088174A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5870453A",
+      "primary_language": "en",
+      "publication_date": "1999-02-09",
+      "title": "Automatic control system for a remotely controllable sound producing device",
+      "patent_id": "patent/US5870453A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5870453A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5576689A",
+      "primary_language": "en",
+      "publication_date": "1996-11-19",
+      "title": "Self testing personal response system with programmable timer values",
+      "patent_id": "patent/US5576689A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5576689A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008040863A",
+      "primary_language": "en",
+      "publication_date": "2008-02-21",
+      "title": "Remote control type sensor light system",
+      "patent_id": "patent/JP2008040863A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008040863A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1997048220A2",
+      "primary_language": "en",
+      "publication_date": "1997-12-18",
+      "title": "Programmed telephone security system",
+      "patent_id": "patent/WO1997048220A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997048220A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1727105B1",
+      "primary_language": "en",
+      "publication_date": "2008-09-10",
+      "title": "Social alarm unit with speech communication",
+      "patent_id": "patent/EP1727105B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1727105B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4631365A",
+      "primary_language": "en",
+      "publication_date": "1986-12-23",
+      "title": "Intercom system",
+      "patent_id": "patent/US4631365A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4631365A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1992014225A1",
+      "primary_language": "en",
+      "publication_date": "1992-08-20",
+      "title": "Remote setting of alarm systems",
+      "patent_id": "patent/WO1992014225A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1992014225A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4615741B2",
+      "primary_language": "en",
+      "publication_date": "2011-01-19",
+      "title": "Disaster prevention monitoring equipment",
+      "patent_id": "patent/JP4615741B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4615741B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001189814A",
+      "primary_language": "en",
+      "publication_date": "2001-07-10",
+      "title": "Home security system",
+      "patent_id": "patent/JP2001189814A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001189814A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100395692B1",
+      "primary_language": "en",
+      "publication_date": "2003-08-25",
+      "title": "An emergency call system using the home manager",
+      "patent_id": "patent/KR100395692B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100395692B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080048839A1",
+      "primary_language": "en",
+      "publication_date": "2008-02-28",
+      "title": "Voice Alarm System",
+      "patent_id": "patent/US20080048839A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080048839A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3935706B2",
+      "primary_language": "en",
+      "publication_date": "2007-06-27",
+      "title": "Apartment housing communication system for the elderly",
+      "patent_id": "patent/JP3935706B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3935706B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2572663B2",
+      "primary_language": "en",
+      "publication_date": "1997-01-16",
+      "title": "Emergency radio reporting system",
+      "patent_id": "patent/JP2572663B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2572663B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5092801B2",
+      "primary_language": "en",
+      "publication_date": "2012-12-05",
+      "title": "Remote control device for water heater",
+      "patent_id": "patent/JP5092801B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5092801B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7351072B2",
+      "primary_language": "en",
+      "publication_date": "2023-09-27",
+      "title": "power line communication equipment",
+      "patent_id": "patent/JP7351072B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7351072B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6678935B1",
+      "primary_language": "en",
+      "publication_date": "2020-04-15",
+      "title": "Power line communication device",
+      "patent_id": "patent/JP6678935B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6678935B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004186988A",
+      "primary_language": "en",
+      "publication_date": "2004-07-02",
+      "title": "Monitor equipment",
+      "patent_id": "patent/JP2004186988A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004186988A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20110002966A",
+      "primary_language": "en",
+      "publication_date": "2011-01-11",
+      "title": "Heating controller with emergency response function",
+      "patent_id": "patent/KR20110002966A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20110002966A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1993-08-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "HEALTH WATCH, INC., FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:QUEEN, ANDREW;REEL/FRAME:006678/0888"
+        },
+        {
+          "label": "Effective date",
+          "value": "19930827"
+        }
+      ]
+    },
+    {
+      "date": "2000-07-25",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2000-11-02",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2000-11-02",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2004-03-22",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2008-04-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "KONINKLIJKE PHILIPS ELECTRONICS, N.V., NETHERLANDS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HEALTH WATCH, INC.;REEL/FRAME:020741/0847"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080109"
+        }
+      ]
+    },
+    {
+      "date": "2008-07-07",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2008-12-31",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2009-01-26",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2009-02-17",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20081231"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 109
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 93
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "230000005236",
+        "name": "sound signal",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 42
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003213",
+        "name": "activating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009118",
+        "name": "appropriate response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003203",
+        "name": "everyday effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

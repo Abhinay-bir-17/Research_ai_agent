@@ -1,0 +1,4044 @@
+{
+  "search_metadata": {
+    "id": "68514e6e3ee4c2e829e3c00b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bd89f97113a2d4b1/68514e6e3ee4c2e829e3c00b.json",
+    "created_at": "2025-06-17 11:15:58 UTC",
+    "processed_at": "2025-06-17 11:15:58 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080033761A1/en",
+    "raw_html_file": "https://serpapi.com/searches/bd89f97113a2d4b1/68514e6e3ee4c2e829e3c00b.html",
+    "total_time_taken": 3.37
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080033761A1/en"
+  },
+  "title": "System and method for a seamless user interface for an integrated electronic health care information system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0c/0b/b0/c458a6205bc064/US20080033761A1.pdf",
+  "publication_number": "US20080033761A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "user",
+    "activity",
+    "patient",
+    "information",
+    "activities"
+  ],
+  "prior_art_date": "2000-12-22",
+  "application_number": "US11/839,251",
+  "inventors": [
+    {
+      "name": "Tony Brummel",
+      "link": "https://patents.google.com/?inventor=Tony+Brummel",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tony+Brummel"
+    },
+    {
+      "name": "Carl Dvorak",
+      "link": "https://patents.google.com/?inventor=Carl+Dvorak",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Carl+Dvorak"
+    },
+    {
+      "name": "Khiang Seow",
+      "link": "https://patents.google.com/?inventor=Khiang+Seow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Khiang+Seow"
+    },
+    {
+      "name": "Daniel Bormann",
+      "link": "https://patents.google.com/?inventor=Daniel+Bormann",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Daniel+Bormann"
+    },
+    {
+      "name": "Steve Larsen",
+      "link": "https://patents.google.com/?inventor=Steve+Larsen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Steve+Larsen"
+    },
+    {
+      "name": "Andrew Ma",
+      "link": "https://patents.google.com/?inventor=Andrew+Ma",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andrew+Ma"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2000-12-22",
+  "filing_date": "2007-08-15",
+  "publication_date": "2008-02-07",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-12-05",
+        "country_code": "US",
+        "application_number": "US10/007,620",
+        "document_id": "patent/US7275220B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2007": [
+      {
+        "filing_date": "2007-08-15",
+        "country_code": "US",
+        "application_number": "US11/839,251",
+        "document_id": "patent/US7703042B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2007-08-15",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2007-08-15",
+      "title": "Priority to US11/839,251",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7703042B2/en"
+    },
+    {
+      "date": "2008-02-07",
+      "title": "Publication of US20080033761A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080033761A1/en"
+    },
+    {
+      "date": "2010-04-20",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-04-20",
+      "title": "Publication of US7703042B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7703042B2/en"
+    },
+    {
+      "date": "2021-12-05",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080033761.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11839251"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080033761"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008033761A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11839251/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080033761"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/4b/c1/76/44cf3cfce5aefd/US20080033761A1-20080207-D00000.png",
+    "https://patentimages.storage.googleapis.com/ba/2c/46/a2e8d20ec60c68/US20080033761A1-20080207-D00001.png",
+    "https://patentimages.storage.googleapis.com/42/61/69/f6448701bdd052/US20080033761A1-20080207-D00002.png",
+    "https://patentimages.storage.googleapis.com/78/42/a6/8149e817c4161f/US20080033761A1-20080207-D00003.png",
+    "https://patentimages.storage.googleapis.com/99/83/60/acf18be93cdcc3/US20080033761A1-20080207-D00004.png",
+    "https://patentimages.storage.googleapis.com/85/76/9c/9746dbcacadc42/US20080033761A1-20080207-D00005.png",
+    "https://patentimages.storage.googleapis.com/80/b4/b2/3ff3cb275c832a/US20080033761A1-20080207-D00006.png",
+    "https://patentimages.storage.googleapis.com/8d/79/e3/d5760e40dd4463/US20080033761A1-20080207-D00007.png",
+    "https://patentimages.storage.googleapis.com/3c/63/7c/e177a7419729b2/US20080033761A1-20080207-D00008.png",
+    "https://patentimages.storage.googleapis.com/16/3c/4a/50eb41f3e92276/US20080033761A1-20080207-D00009.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/67",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for remote operation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/00",
+      "description": "ICT specially adapted for the handling or processing of medical references",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q40/08",
+      "description": "Insurance",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/63",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for local operation",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S707/99931",
+      "description": "Database or file accessing",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An interface for a medical record database allows multiple different applications to be opened accessing the records of a common and/or different patients. For those applications accessing the records of a common patient, a visual indication is provided indicating whether or not records of the same patient are being accessed to prevent the user from mistakenly comparing the records of different patients.",
+  "description_link": "https://serpapi.com/searches/68514e6e3ee4c2e829e3c00b/google_patents_details/description.html",
+  "claims": [
+    "1. An electronic healthcare system, comprising: \na graphical user-interface;  at least one electronic computer communicating with the graphical user interface to provide:  (a) at least one electronic healthcare database including medical records;  (b) a set of different software applications usable in any order by a single user on the electronic computer, the different software applications allowing a user to access records of the electronic healthcare database for different patients;  (c) a provider program running on the at least one electronic computer to: \n(i) receive input from a user through the graphical user-interface identifying multiple software applications to be initialized and opened; \n(ii) provide a graphical indication of those initialized and opened software applications accessing records of a common patient.",
+    "2. The electronic system of claim 1 wherein the provider program further provides multiple different graphical indications each associated with applications accessing different common patients.",
+    "3. The electronic healthcare system of claim 2 wherein the graphical indication is a graphical workspace grouping [DJD1] graphical user interfaces for the initialized and opened software applications.",
+    "4. The electronic system of claim 3 wherein the provider program requires a user to switch between a first and second workspace in order to switch between a first and second initialized and opened software application accessing different common patients; whereby confusion between records of different patients is reduced.",
+    "5. The electronic healthcare system of claim 3 wherein the provider program further accepts input from a user to switch between workspaces.",
+    "6. The electronic system of claim 5 wherein the user input is from a mouse, a predetermined key, or a stylus.",
+    "7. The electronic healthcare system of claim 3 wherein the provider program further accepts input from a user to switch between software applications within a workspace.",
+    "8. The electronic system of claim 7 wherein the user input is from a mouse, a predetermined key, or a stylus.",
+    "9. The electronic system of claim 2 wherein each workspace allows only a different subset of software applications to be opened and initialized.",
+    "10. The electronic system of claim 9 wherein the software applications are collected from software applications selected from the group consisting of: order entry, charts and graphs, chart review, results review, registration, flowsheets, patient alerts, snapshot, visit navigator, patient history, patient demographics, and an enterprise added activity.",
+    "11. The electronic system of claim 1 wherein data entered through a first software applications may cause an automatic opening and initialization of a second software application accessing records of a same patient as accessed by the first software application."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US10/007,620",
+      "relation_type": "Continuation",
+      "representative_publication": "US7275220B2",
+      "primary_language": "en",
+      "priority_date": "2000-12-22",
+      "filing_date": "2001-12-05",
+      "title": "System and method for a seamless user interface for an integrated electronic health care information system"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/839,251",
+      "representative_publication": "US7703042B2",
+      "primary_language": "en",
+      "priority_date": "2000-12-22",
+      "filing_date": "2007-08-15",
+      "title": "System and method for a seamless user interface for an integrated electronic health care information system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US25797000P",
+      "priority_date": "2000-12-22",
+      "filing_date": "2000-12-22"
+    },
+    {
+      "application_number": "US10/007,620",
+      "representative_publication": "US7275220B2",
+      "primary_language": "en",
+      "priority_date": "2000-12-22",
+      "filing_date": "2001-12-05",
+      "title": "System and method for a seamless user interface for an integrated electronic health care information system"
+    },
+    {
+      "application_number": "US11/839,251",
+      "representative_publication": "US7703042B2",
+      "primary_language": "en",
+      "priority_date": "2000-12-22",
+      "filing_date": "2007-08-15",
+      "title": "System and method for a seamless user interface for an integrated electronic health care information system"
+    }
+  ],
+  "family_id": "26677205",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6004276A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-03",
+        "publication_date": "1999-12-21",
+        "assignee_original": "Quinton Instrument Company",
+        "title": "Open architecture cardiology information system",
+        "patent_id": "patent/US6004276A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6004276A%2Fen"
+      },
+      {
+        "publication_number": "US20020022973A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-24",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Jianguo Sun",
+        "title": "Medical information management system and patient interface appliance",
+        "patent_id": "patent/US20020022973A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020022973A1%2Fen"
+      },
+      {
+        "publication_number": "US20020023067A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-12",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Harry T. Garland",
+        "title": "Integrating a primary record viewing system with a different secondary record viewing system",
+        "patent_id": "patent/US20020023067A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020023067A1%2Fen"
+      },
+      {
+        "publication_number": "US20020054053A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-28",
+        "publication_date": "2002-05-09",
+        "assignee_original": "Farrukh Salahudin Naimi",
+        "title": "Medical information system having desktop home key feature",
+        "patent_id": "patent/US20020054053A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020054053A1%2Fen"
+      },
+      {
+        "publication_number": "US6401138B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-28",
+        "publication_date": "2002-06-04",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Interface for patient context sharing and application switching",
+        "patent_id": "patent/US6401138B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6401138B1%2Fen"
+      },
+      {
+        "publication_number": "US20020107875A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-11",
+        "publication_date": "2002-08-08",
+        "assignee_original": "Robert Seliger",
+        "title": "Context management with audit capability",
+        "patent_id": "patent/US20020107875A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020107875A1%2Fen"
+      },
+      {
+        "publication_number": "US6912549B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-05",
+        "publication_date": "2005-06-28",
+        "assignee_original": "Siemens Medical Solutions Health Services Corporation",
+        "title": "System for processing and consolidating records",
+        "patent_id": "patent/US6912549B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6912549B2%2Fen"
+      },
+      {
+        "publication_number": "US6971067B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-23",
+        "publication_date": "2005-11-29",
+        "assignee_original": "Sentillion, Inc.",
+        "title": "Application launchpad",
+        "patent_id": "patent/US6971067B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6971067B1%2Fen"
+      },
+      {
+        "publication_number": "US7424679B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-29",
+        "publication_date": "2008-09-09",
+        "assignee_original": "General Electric Company",
+        "title": "Patient data information system",
+        "patent_id": "patent/US7424679B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7424679B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US49610A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1865-08-29",
+        "title": "Improvement in rotary engines",
+        "patent_id": "patent/US49610A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS49610A%2Fen"
+      },
+      {
+        "publication_number": "US16056A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1856-11-11",
+        "title": "Candle-mold machine",
+        "patent_id": "patent/US16056A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS16056A%2Fen"
+      },
+      {
+        "publication_number": "US16853A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1857-03-17",
+        "title": "Machine fob",
+        "patent_id": "patent/US16853A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS16853A%2Fen"
+      },
+      {
+        "publication_number": "US7287A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1850-04-16",
+        "title": "Improvement in electro-magnetic engines",
+        "patent_id": "patent/US7287A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7287A%2Fen"
+      },
+      {
+        "publication_number": "US1375A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1839-10-18",
+        "title": "Smut-machine",
+        "patent_id": "patent/US1375A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1375A%2Fen"
+      },
+      {
+        "publication_number": "US1387A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1839-10-31",
+        "title": "Elliptical spring for carriages",
+        "patent_id": "patent/US1387A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1387A%2Fen"
+      },
+      {
+        "publication_number": "US56433A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1866-07-17",
+        "title": "Improvement in quartz-mills",
+        "patent_id": "patent/US56433A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS56433A%2Fen"
+      },
+      {
+        "publication_number": "US2535A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1842-04-01",
+        "title": "edday",
+        "patent_id": "patent/US2535A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2535A%2Fen"
+      },
+      {
+        "publication_number": "US51888A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1866-01-02",
+        "title": "Island",
+        "patent_id": "patent/US51888A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS51888A%2Fen"
+      },
+      {
+        "publication_number": "US2473A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1842-02-28",
+        "title": "Enoch robinson",
+        "patent_id": "patent/US2473A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2473A%2Fen"
+      },
+      {
+        "publication_number": "US4667295A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-12-21",
+        "publication_date": "1987-05-19",
+        "assignee_original": "Preston Jr Kendall",
+        "title": "Logical transform image processor",
+        "patent_id": "patent/US4667295A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4667295A%2Fen"
+      },
+      {
+        "publication_number": "US4591974A",
+        "primary_language": "en",
+        "priority_date": "1984-01-31",
+        "publication_date": "1986-05-27",
+        "assignee_original": "Technology Venture Management, Inc.",
+        "title": "Information recording and retrieval system",
+        "patent_id": "patent/US4591974A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4591974A%2Fen"
+      },
+      {
+        "publication_number": "US4667292A",
+        "primary_language": "en",
+        "priority_date": "1984-02-16",
+        "publication_date": "1987-05-19",
+        "assignee_original": "Iameter Incorporated",
+        "title": "Medical reimbursement computer system",
+        "patent_id": "patent/US4667292A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4667292A%2Fen"
+      },
+      {
+        "publication_number": "US4962475A",
+        "primary_language": "en",
+        "priority_date": "1984-12-26",
+        "publication_date": "1990-10-09",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method for generating a document utilizing a plurality of windows associated with different data objects",
+        "patent_id": "patent/US4962475A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4962475A%2Fen"
+      },
+      {
+        "publication_number": "US5088981A",
+        "primary_language": "en",
+        "priority_date": "1985-01-18",
+        "publication_date": "1992-02-18",
+        "assignee_original": "Howson David C",
+        "title": "Safety enhanced device and method for effecting application of a therapeutic agent",
+        "patent_id": "patent/US5088981A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5088981A%2Fen"
+      },
+      {
+        "publication_number": "US5101476A",
+        "primary_language": "en",
+        "priority_date": "1985-08-30",
+        "publication_date": "1992-03-31",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Patient care communication system",
+        "patent_id": "patent/US5101476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5101476A%2Fen"
+      },
+      {
+        "publication_number": "US4893270A",
+        "primary_language": "en",
+        "priority_date": "1986-05-12",
+        "publication_date": "1990-01-09",
+        "assignee_original": "American Telephone And Telegraph Company, At&T Bell Laboratories",
+        "title": "Medical information system",
+        "patent_id": "patent/US4893270A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4893270A%2Fen"
+      },
+      {
+        "publication_number": "US4839806A",
+        "primary_language": "en",
+        "priority_date": "1986-09-30",
+        "publication_date": "1989-06-13",
+        "assignee_original": "Goldfischer Jerome D",
+        "title": "Computerized dispensing of medication",
+        "patent_id": "patent/US4839806A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4839806A%2Fen"
+      },
+      {
+        "publication_number": "US5072412A",
+        "primary_language": "en",
+        "priority_date": "1987-03-25",
+        "publication_date": "1991-12-10",
+        "assignee_original": "Xerox Corporation",
+        "title": "User interface with multiple workspaces for sharing display system objects",
+        "patent_id": "patent/US5072412A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5072412A%2Fen"
+      },
+      {
+        "publication_number": "US5394521A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-09",
+        "publication_date": "1995-02-28",
+        "assignee_original": "Xerox Corporation",
+        "title": "User interface with multiple workspaces for sharing display system objects",
+        "patent_id": "patent/US5394521A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5394521A%2Fen"
+      },
+      {
+        "publication_number": "US5115501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-11-04",
+        "publication_date": "1992-05-19",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Procedure for automatically customizing the user interface of application programs",
+        "patent_id": "patent/US5115501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5115501A%2Fen"
+      },
+      {
+        "publication_number": "US5077666A",
+        "primary_language": "en",
+        "priority_date": "1988-11-07",
+        "publication_date": "1991-12-31",
+        "assignee_original": "Emtek Health Care Systems, Inc.",
+        "title": "Medical information system with automatic updating of task list in response to charting interventions on task list window into an associated form",
+        "patent_id": "patent/US5077666A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5077666A%2Fen"
+      },
+      {
+        "publication_number": "US5072383A",
+        "primary_language": "en",
+        "priority_date": "1988-11-19",
+        "publication_date": "1991-12-10",
+        "assignee_original": "Emtek Health Care Systems, Inc.",
+        "title": "Medical information system with automatic updating of task list in response to entering orders and charting interventions on associated forms",
+        "patent_id": "patent/US5072383A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5072383A%2Fen"
+      },
+      {
+        "publication_number": "US5072838A",
+        "primary_language": "en",
+        "priority_date": "1989-04-26",
+        "publication_date": "1991-12-17",
+        "assignee_original": "Engineered Data Products, Inc.",
+        "title": "Tape cartridge storage system",
+        "patent_id": "patent/US5072838A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5072838A%2Fen"
+      },
+      {
+        "publication_number": "US5557515A",
+        "primary_language": "en",
+        "priority_date": "1989-08-11",
+        "publication_date": "1996-09-17",
+        "assignee_original": "Hartford Fire Insurance Company, Inc.",
+        "title": "Computerized system and method for work management",
+        "patent_id": "patent/US5557515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5557515A%2Fen"
+      },
+      {
+        "publication_number": "ES2133145T3",
+        "primary_language": "en",
+        "priority_date": "1989-09-01",
+        "publication_date": "1999-09-01",
+        "assignee_original": "Amdahl Corp",
+        "title": "PROGRAMMABLE COMPUTER WITH AUTOMATIC TRANSLATION BETWEEN THE SOURCE CODE AND THE OBJECT CODE WITH VERSION CONTROL.",
+        "patent_id": "patent/ES2133145T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2133145T3%2Fen"
+      },
+      {
+        "publication_number": "US5325478A",
+        "primary_language": "en",
+        "priority_date": "1989-09-15",
+        "publication_date": "1994-06-28",
+        "assignee_original": "Emtek Health Care Systems, Inc.",
+        "title": "Method for displaying information from an information based computer system",
+        "patent_id": "patent/US5325478A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5325478A%2Fen"
+      },
+      {
+        "publication_number": "US5253362A",
+        "primary_language": "en",
+        "priority_date": "1990-01-29",
+        "publication_date": "1993-10-12",
+        "assignee_original": "Emtek Health Care Systems, Inc.",
+        "title": "Method for storing, retrieving, and indicating a plurality of annotations in a data cell",
+        "patent_id": "patent/US5253362A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5253362A%2Fen"
+      },
+      {
+        "publication_number": "US5535321A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-14",
+        "publication_date": "1996-07-09",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and apparatus for variable complexity user interface in a data processing system",
+        "patent_id": "patent/US5535321A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5535321A%2Fen"
+      },
+      {
+        "publication_number": "US5301105A",
+        "primary_language": "en",
+        "priority_date": "1991-04-08",
+        "publication_date": "1994-04-05",
+        "assignee_original": "Desmond D. Cummings",
+        "title": "All care health management system",
+        "patent_id": "patent/US5301105A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5301105A%2Fen"
+      },
+      {
+        "publication_number": "FR2693810B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-06-03",
+        "publication_date": "1997-01-10",
+        "assignee_original": "Apple Computer",
+        "title": "USER INTERFACE SYSTEMS WITH DIRECT ACCESS TO A SECONDARY DISPLAY AREA.",
+        "patent_id": "patent/FR2693810B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2693810B1%2Fen"
+      },
+      {
+        "publication_number": "US6289322B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-03",
+        "publication_date": "2001-09-11",
+        "assignee_original": "Checkfree Corporation",
+        "title": "Electronic bill processing",
+        "patent_id": "patent/US6289322B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6289322B1%2Fen"
+      },
+      {
+        "publication_number": "US5283856A",
+        "primary_language": "en",
+        "priority_date": "1991-10-04",
+        "publication_date": "1994-02-01",
+        "assignee_original": "Beyond, Inc.",
+        "title": "Event-driven rule-based messaging system",
+        "patent_id": "patent/US5283856A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5283856A%2Fen"
+      },
+      {
+        "publication_number": "JP3382978B2",
+        "primary_language": "en",
+        "priority_date": "1991-10-16",
+        "publication_date": "2003-03-04",
+        "assignee_original": "\u6771\u829d\u533b\u7528\u30b7\u30b9\u30c6\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u682a\u5f0f\u4f1a\u793e",
+        "title": "Medical data storage system and control method thereof",
+        "patent_id": "patent/JP3382978B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3382978B2%2Fen"
+      },
+      {
+        "publication_number": "US5519606A",
+        "primary_language": "en",
+        "priority_date": "1992-01-21",
+        "publication_date": "1996-05-21",
+        "assignee_original": "Starfish Software, Inc.",
+        "title": "System and methods for appointment reconciliation",
+        "patent_id": "patent/US5519606A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5519606A%2Fen"
+      },
+      {
+        "publication_number": "US5428778A",
+        "primary_language": "en",
+        "priority_date": "1992-02-13",
+        "publication_date": "1995-06-27",
+        "assignee_original": "Office Express Pty. Ltd.",
+        "title": "Selective dissemination of information",
+        "patent_id": "patent/US5428778A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5428778A%2Fen"
+      },
+      {
+        "publication_number": "US5760704A",
+        "primary_language": "en",
+        "priority_date": "1992-04-03",
+        "publication_date": "1998-06-02",
+        "assignee_original": "Expeditor Systems",
+        "title": "Patient tracking system for hospital emergency facility",
+        "patent_id": "patent/US5760704A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5760704A%2Fen"
+      },
+      {
+        "publication_number": "US5319543A",
+        "primary_language": "en",
+        "priority_date": "1992-06-19",
+        "publication_date": "1994-06-07",
+        "assignee_original": "First Data Health Services Corporation",
+        "title": "Workflow server for medical records imaging and tracking system",
+        "patent_id": "patent/US5319543A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5319543A%2Fen"
+      },
+      {
+        "publication_number": "US6283761B1",
+        "primary_language": "en",
+        "priority_date": "1992-09-08",
+        "publication_date": "2001-09-04",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US6283761B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6283761B1%2Fen"
+      },
+      {
+        "publication_number": "US5353401A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-06",
+        "publication_date": "1994-10-04",
+        "assignee_original": "Ricoh Company, Ltd.",
+        "title": "Automatic interface layout generator for database systems",
+        "patent_id": "patent/US5353401A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5353401A%2Fen"
+      },
+      {
+        "publication_number": "US5997476A",
+        "primary_language": "en",
+        "priority_date": "1997-03-28",
+        "publication_date": "1999-12-07",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Networked system for interactive communication and remote monitoring of individuals",
+        "patent_id": "patent/US5997476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5997476A%2Fen"
+      },
+      {
+        "publication_number": "US5361202A",
+        "primary_language": "en",
+        "priority_date": "1993-06-18",
+        "publication_date": "1994-11-01",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Computer display system and method for facilitating access to patient data records in a medical information system",
+        "patent_id": "patent/US5361202A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5361202A%2Fen"
+      },
+      {
+        "publication_number": "WO1995000914A1",
+        "primary_language": "en",
+        "priority_date": "1993-06-28",
+        "publication_date": "1995-01-05",
+        "assignee_original": "Scott & White Memorial Hospital And Scott, Sherwood And Brindley Foundation",
+        "title": "Electronic medical record using text database",
+        "patent_id": "patent/WO1995000914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1995000914A1%2Fen"
+      },
+      {
+        "publication_number": "US5748907A",
+        "primary_language": "en",
+        "priority_date": "1993-10-25",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Crane; Harold E.",
+        "title": "Medical facility and business: automatic interactive dynamic real-time management",
+        "patent_id": "patent/US5748907A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5748907A%2Fen"
+      },
+      {
+        "publication_number": "US5833599A",
+        "primary_language": "en",
+        "priority_date": "1993-12-13",
+        "publication_date": "1998-11-10",
+        "assignee_original": "Multum Information Services",
+        "title": "Providing patient-specific drug information",
+        "patent_id": "patent/US5833599A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5833599A%2Fen"
+      },
+      {
+        "publication_number": "US5471382A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-01-10",
+        "publication_date": "1995-11-28",
+        "assignee_original": "Informed Access Systems, Inc.",
+        "title": "Medical network management system and process",
+        "patent_id": "patent/US5471382A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5471382A%2Fen"
+      },
+      {
+        "publication_number": "US5867688A",
+        "primary_language": "en",
+        "priority_date": "1994-02-14",
+        "publication_date": "1999-02-02",
+        "assignee_original": "Reliable Transaction Processing, Inc.",
+        "title": "Data acquisition and retrieval system with wireless handheld user interface",
+        "patent_id": "patent/US5867688A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5867688A%2Fen"
+      },
+      {
+        "publication_number": "CA2184368A1",
+        "primary_language": "en",
+        "priority_date": "1994-02-28",
+        "publication_date": "1995-08-31",
+        "assignee_original": "Michael S. Peters",
+        "title": "Method and apparatus for processing discrete billing events",
+        "patent_id": "patent/CA2184368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2184368A1%2Fen"
+      },
+      {
+        "publication_number": "US5668993A",
+        "primary_language": "en",
+        "priority_date": "1994-02-28",
+        "publication_date": "1997-09-16",
+        "assignee_original": "Teleflex Information Systems, Inc.",
+        "title": "Multithreaded batch processing system",
+        "patent_id": "patent/US5668993A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5668993A%2Fen"
+      },
+      {
+        "publication_number": "US5999916A",
+        "primary_language": "en",
+        "priority_date": "1994-02-28",
+        "publication_date": "1999-12-07",
+        "assignee_original": "Teleflex Information Systems, Inc.",
+        "title": "No-reset option in a batch billing system",
+        "patent_id": "patent/US5999916A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5999916A%2Fen"
+      },
+      {
+        "publication_number": "US5546580A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-04-15",
+        "publication_date": "1996-08-13",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method and apparatus for coordinating concurrent updates to a medical information database",
+        "patent_id": "patent/US5546580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5546580A%2Fen"
+      },
+      {
+        "publication_number": "US5574828A",
+        "primary_language": "en",
+        "priority_date": "1994-04-28",
+        "publication_date": "1996-11-12",
+        "assignee_original": "Tmrc",
+        "title": "Expert system for generating guideline-based information tools",
+        "patent_id": "patent/US5574828A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5574828A%2Fen"
+      },
+      {
+        "publication_number": "CA2125300C",
+        "primary_language": "en",
+        "priority_date": "1994-05-11",
+        "publication_date": "1999-10-12",
+        "assignee_original": "Douglas J. Ballantyne",
+        "title": "Method and apparatus for the electronic distribution of medical information and patient services",
+        "patent_id": "patent/CA2125300C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2125300C%2Fen"
+      },
+      {
+        "publication_number": "US5845253A",
+        "primary_language": "en",
+        "priority_date": "1994-08-24",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Rensimer Enterprises, Ltd.",
+        "title": "System and method for recording patient-history data about on-going physician care procedures",
+        "patent_id": "patent/US5845253A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5845253A%2Fen"
+      },
+      {
+        "publication_number": "US5727065A",
+        "primary_language": "en",
+        "priority_date": "1994-11-14",
+        "publication_date": "1998-03-10",
+        "assignee_original": "Hughes Electronics",
+        "title": "Deferred billing, broadcast, electronic document distribution system and method",
+        "patent_id": "patent/US5727065A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5727065A%2Fen"
+      },
+      {
+        "publication_number": "US5603026A",
+        "primary_language": "en",
+        "priority_date": "1994-12-07",
+        "publication_date": "1997-02-11",
+        "assignee_original": "Xerox Corporation",
+        "title": "Application-specific conflict resolution for weakly consistent replicated databases",
+        "patent_id": "patent/US5603026A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5603026A%2Fen"
+      },
+      {
+        "publication_number": "US5666492A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-01-17",
+        "publication_date": "1997-09-09",
+        "assignee_original": "Glaxo Wellcome Inc.",
+        "title": "Flexible computer based pharmaceutical care cognitive services management system and method",
+        "patent_id": "patent/US5666492A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666492A%2Fen"
+      },
+      {
+        "publication_number": "US5758095A",
+        "primary_language": "en",
+        "priority_date": "1995-02-24",
+        "publication_date": "1998-05-26",
+        "assignee_original": "Albaum; David",
+        "title": "Interactive medication ordering system",
+        "patent_id": "patent/US5758095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5758095A%2Fen"
+      },
+      {
+        "publication_number": "WO1996027163A1",
+        "primary_language": "en",
+        "priority_date": "1995-02-28",
+        "publication_date": "1996-09-06",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "Clinical critical care path system and method of using same",
+        "patent_id": "patent/WO1996027163A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996027163A1%2Fen"
+      },
+      {
+        "publication_number": "US5946659A",
+        "primary_language": "en",
+        "priority_date": "1995-02-28",
+        "publication_date": "1999-08-31",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "System and method for notification and access of patient care information being simultaneously entered",
+        "patent_id": "patent/US5946659A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5946659A%2Fen"
+      },
+      {
+        "publication_number": "US5692125A",
+        "primary_language": "en",
+        "priority_date": "1995-05-09",
+        "publication_date": "1997-11-25",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "System and method for scheduling linked events with fixed and dynamic conditions",
+        "patent_id": "patent/US5692125A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5692125A%2Fen"
+      },
+      {
+        "publication_number": "US5781442A",
+        "primary_language": "en",
+        "priority_date": "1995-05-15",
+        "publication_date": "1998-07-14",
+        "assignee_original": "Alaris Medical Systems, Inc.",
+        "title": "System and method for collecting data and managing patient care",
+        "patent_id": "patent/US5781442A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5781442A%2Fen"
+      },
+      {
+        "publication_number": "US6182047B1",
+        "primary_language": "en",
+        "priority_date": "1995-06-02",
+        "publication_date": "2001-01-30",
+        "assignee_original": "Software For Surgeons",
+        "title": "Medical information log system",
+        "patent_id": "patent/US6182047B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6182047B1%2Fen"
+      },
+      {
+        "publication_number": "US5751958A",
+        "primary_language": "en",
+        "priority_date": "1995-06-30",
+        "publication_date": "1998-05-12",
+        "assignee_original": "Peoplesoft, Inc.",
+        "title": "Allowing inconsistency in a distributed client-server application",
+        "patent_id": "patent/US5751958A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5751958A%2Fen"
+      },
+      {
+        "publication_number": "US5899998A",
+        "primary_language": "en",
+        "priority_date": "1995-08-31",
+        "publication_date": "1999-05-04",
+        "assignee_original": "Medcard Systems, Inc.",
+        "title": "Method and system for maintaining and updating computerized medical records",
+        "patent_id": "patent/US5899998A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5899998A%2Fen"
+      },
+      {
+        "publication_number": "US5997446A",
+        "primary_language": "en",
+        "priority_date": "1995-09-12",
+        "publication_date": "1999-12-07",
+        "assignee_original": "Stearns; Kenneth W.",
+        "title": "Exercise device",
+        "patent_id": "patent/US5997446A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5997446A%2Fen"
+      },
+      {
+        "publication_number": "US5850221A",
+        "primary_language": "en",
+        "priority_date": "1995-10-20",
+        "publication_date": "1998-12-15",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Apparatus and method for a graphic user interface in a medical protocol system",
+        "patent_id": "patent/US5850221A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5850221A%2Fen"
+      },
+      {
+        "publication_number": "US6037940A",
+        "primary_language": "en",
+        "priority_date": "1995-10-20",
+        "publication_date": "2000-03-14",
+        "assignee_original": "Araxsys, Inc.",
+        "title": "Graphical user interface in a medical protocol system having time delay rules and a publisher's view",
+        "patent_id": "patent/US6037940A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6037940A%2Fen"
+      },
+      {
+        "publication_number": "US5838313A",
+        "primary_language": "en",
+        "priority_date": "1995-11-20",
+        "publication_date": "1998-11-17",
+        "assignee_original": "Siemens Corporate Research, Inc.",
+        "title": "Multimedia-based reporting system with recording and playback of dynamic annotation",
+        "patent_id": "patent/US5838313A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5838313A%2Fen"
+      },
+      {
+        "publication_number": "US6063026A",
+        "primary_language": "en",
+        "priority_date": "1995-12-07",
+        "publication_date": "2000-05-16",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Medical diagnostic analysis system",
+        "patent_id": "patent/US6063026A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6063026A%2Fen"
+      },
+      {
+        "publication_number": "US5848393A",
+        "primary_language": "en",
+        "priority_date": "1995-12-15",
+        "publication_date": "1998-12-08",
+        "assignee_original": "Ncr Corporation",
+        "title": "\"What if . . . \" function for simulating operations within a task workflow management system",
+        "patent_id": "patent/US5848393A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5848393A%2Fen"
+      },
+      {
+        "publication_number": "US5983210A",
+        "primary_language": "en",
+        "priority_date": "1995-12-27",
+        "publication_date": "1999-11-09",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Data processing system, system-build system, and system-build method",
+        "patent_id": "patent/US5983210A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5983210A%2Fen"
+      },
+      {
+        "publication_number": "US6289368B1",
+        "primary_language": "en",
+        "priority_date": "1995-12-27",
+        "publication_date": "2001-09-11",
+        "assignee_original": "First Data Corporation",
+        "title": "Method and apparatus for indicating the status of one or more computer processes",
+        "patent_id": "patent/US6289368B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6289368B1%2Fen"
+      },
+      {
+        "publication_number": "US5740800A",
+        "primary_language": "en",
+        "priority_date": "1996-03-01",
+        "publication_date": "1998-04-21",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method and apparatus for clinical pathway order selection in a medical information system",
+        "patent_id": "patent/US5740800A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5740800A%2Fen"
+      },
+      {
+        "publication_number": "US5974389A",
+        "primary_language": "en",
+        "priority_date": "1996-03-01",
+        "publication_date": "1999-10-26",
+        "assignee_original": "Clark; Melanie Ann",
+        "title": "Medical record management system and process with improved workflow features",
+        "patent_id": "patent/US5974389A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5974389A%2Fen"
+      },
+      {
+        "publication_number": "GB9606194D0",
+        "primary_language": "en",
+        "priority_date": "1996-03-23",
+        "publication_date": "1996-05-29",
+        "assignee_original": "Int Computers Ltd",
+        "title": "Appointment booking and scheduling system",
+        "patent_id": "patent/GB9606194D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9606194D0%2Fen"
+      },
+      {
+        "publication_number": "US5842976A",
+        "primary_language": "en",
+        "priority_date": "1996-05-16",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Pyxis Corporation",
+        "title": "Dispensing, storage, control and inventory system with medication and treatment chart record",
+        "patent_id": "patent/US5842976A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5842976A%2Fen"
+      },
+      {
+        "publication_number": "GB2315577A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-20",
+        "publication_date": "1998-02-04",
+        "assignee_original": "Ibm",
+        "title": "Grouping of operations in a computer system",
+        "patent_id": "patent/GB2315577A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2315577A%2Fen"
+      },
+      {
+        "publication_number": "US5823948A",
+        "primary_language": "en",
+        "priority_date": "1996-07-08",
+        "publication_date": "1998-10-20",
+        "assignee_original": "Rlis, Inc.",
+        "title": "Medical records, documentation, tracking and order entry system",
+        "patent_id": "patent/US5823948A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5823948A%2Fen"
+      },
+      {
+        "publication_number": "US6820093B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-30",
+        "publication_date": "2004-11-16",
+        "assignee_original": "Hyperphrase Technologies, Llc",
+        "title": "Method for verifying record code prior to an action based on the code",
+        "patent_id": "patent/US6820093B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6820093B2%2Fen"
+      },
+      {
+        "publication_number": "US5772585A",
+        "primary_language": "en",
+        "priority_date": "1996-08-30",
+        "publication_date": "1998-06-30",
+        "assignee_original": "Emc, Inc",
+        "title": "System and method for managing patient medical records",
+        "patent_id": "patent/US5772585A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5772585A%2Fen"
+      },
+      {
+        "publication_number": "US5924074A",
+        "primary_language": "en",
+        "priority_date": "1996-09-27",
+        "publication_date": "1999-07-13",
+        "assignee_original": "Azron Incorporated",
+        "title": "Electronic medical records system",
+        "patent_id": "patent/US5924074A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5924074A%2Fen"
+      },
+      {
+        "publication_number": "US6345260B1",
+        "primary_language": "en",
+        "priority_date": "1997-03-17",
+        "publication_date": "2002-02-05",
+        "assignee_original": "Allcare Health Management System, Inc.",
+        "title": "Scheduling interface system and method for medical professionals",
+        "patent_id": "patent/US6345260B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6345260B1%2Fen"
+      },
+      {
+        "publication_number": "US5874958A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-31",
+        "publication_date": "1999-02-23",
+        "assignee_original": "Sun Microsystems, Inc.",
+        "title": "Method and apparatus for accessing information and items across workspaces",
+        "patent_id": "patent/US5874958A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5874958A%2Fen"
+      },
+      {
+        "publication_number": "US6498840B2",
+        "primary_language": "en",
+        "priority_date": "1997-04-25",
+        "publication_date": "2002-12-24",
+        "assignee_original": "Ameritech Corporation",
+        "title": "Method and system for generating a billing record",
+        "patent_id": "patent/US6498840B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6498840B2%2Fen"
+      },
+      {
+        "publication_number": "US6082776A",
+        "primary_language": "en",
+        "priority_date": "1997-05-07",
+        "publication_date": "2000-07-04",
+        "assignee_original": "Feinberg; Lawrence E.",
+        "title": "Storing personal medical information",
+        "patent_id": "patent/US6082776A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6082776A%2Fen"
+      },
+      {
+        "publication_number": "US5915240A",
+        "primary_language": "en",
+        "priority_date": "1997-06-12",
+        "publication_date": "1999-06-22",
+        "assignee_original": "Karpf; Ronald S.",
+        "title": "Computer system and method for accessing medical information over a network",
+        "patent_id": "patent/US5915240A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5915240A%2Fen"
+      },
+      {
+        "publication_number": "US6067523A",
+        "primary_language": "en",
+        "priority_date": "1997-07-03",
+        "publication_date": "2000-05-23",
+        "assignee_original": "The Psychological Corporation",
+        "title": "System and method for reporting behavioral health care data",
+        "patent_id": "patent/US6067523A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6067523A%2Fen"
+      },
+      {
+        "publication_number": "US6029138A",
+        "primary_language": "en",
+        "priority_date": "1997-08-15",
+        "publication_date": "2000-02-22",
+        "assignee_original": "Brigham And Women's Hospital",
+        "title": "Computer system for decision support in the selection of diagnostic and therapeutic tests and interventions for patients",
+        "patent_id": "patent/US6029138A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6029138A%2Fen"
+      },
+      {
+        "publication_number": "US6021404A",
+        "primary_language": "en",
+        "priority_date": "1997-08-18",
+        "publication_date": "2000-02-01",
+        "assignee_original": "Moukheibir; Nabil W.",
+        "title": "Universal computer assisted diagnosis",
+        "patent_id": "patent/US6021404A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6021404A%2Fen"
+      },
+      {
+        "publication_number": "US6139494A",
+        "primary_language": "en",
+        "priority_date": "1997-10-15",
+        "publication_date": "2000-10-31",
+        "assignee_original": "Health Informatics Tools",
+        "title": "Method and apparatus for an integrated clinical tele-informatics system",
+        "patent_id": "patent/US6139494A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6139494A%2Fen"
+      },
+      {
+        "publication_number": "US6915265B1",
+        "primary_language": "en",
+        "priority_date": "1997-10-29",
+        "publication_date": "2005-07-05",
+        "assignee_original": "Janice Johnson",
+        "title": "Method and system for consolidating and distributing information",
+        "patent_id": "patent/US6915265B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6915265B1%2Fen"
+      },
+      {
+        "publication_number": "US6016477A",
+        "primary_language": "en",
+        "priority_date": "1997-12-18",
+        "publication_date": "2000-01-18",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and apparatus for identifying applicable business rules",
+        "patent_id": "patent/US6016477A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6016477A%2Fen"
+      },
+      {
+        "publication_number": "US6047259A",
+        "primary_language": "en",
+        "priority_date": "1997-12-30",
+        "publication_date": "2000-04-04",
+        "assignee_original": "Medical Management International, Inc.",
+        "title": "Interactive method and system for managing physical exams, diagnosis and treatment protocols in a health care practice",
+        "patent_id": "patent/US6047259A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6047259A%2Fen"
+      },
+      {
+        "publication_number": "US5960406A",
+        "primary_language": "en",
+        "priority_date": "1998-01-22",
+        "publication_date": "1999-09-28",
+        "assignee_original": "Ecal, Corp.",
+        "title": "Scheduling system for use between users on the web",
+        "patent_id": "patent/US5960406A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5960406A%2Fen"
+      },
+      {
+        "publication_number": "WO1999041682A2",
+        "primary_language": "en",
+        "priority_date": "1998-02-17",
+        "publication_date": "1999-08-19",
+        "assignee_original": "Southern Research Institute",
+        "title": "Patient data acquisition unit and data support system",
+        "patent_id": "patent/WO1999041682A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999041682A2%2Fen"
+      },
+      {
+        "publication_number": "CA2239015C",
+        "primary_language": "en",
+        "priority_date": "1998-02-24",
+        "publication_date": "2005-12-20",
+        "assignee_original": "Luc Bessette",
+        "title": "Method and apparatus for the management of data files",
+        "patent_id": "patent/CA2239015C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2239015C%2Fen"
+      },
+      {
+        "publication_number": "CA2233794C",
+        "primary_language": "en",
+        "priority_date": "1998-02-24",
+        "publication_date": "2001-02-06",
+        "assignee_original": "Luc Bessette",
+        "title": "Method and apparatus for the management of medical files",
+        "patent_id": "patent/CA2233794C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2233794C%2Fen"
+      },
+      {
+        "publication_number": "US6014631A",
+        "primary_language": "en",
+        "priority_date": "1998-04-02",
+        "publication_date": "2000-01-11",
+        "assignee_original": "Merck-Medco Managed Care, Llc",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6014631A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6014631A%2Fen"
+      },
+      {
+        "publication_number": "IL138620A0",
+        "primary_language": "en",
+        "priority_date": "1998-04-03",
+        "publication_date": "2001-10-31",
+        "assignee_original": "Triangle Pharmaceuticals Inc",
+        "title": "Systems, methods and computer program products for guiding the selection of therapeutic treatment regimens",
+        "patent_id": "patent/IL138620A0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL138620A0%2Fen"
+      },
+      {
+        "publication_number": "US6820235B1",
+        "primary_language": "en",
+        "priority_date": "1998-06-05",
+        "publication_date": "2004-11-16",
+        "assignee_original": "Phase Forward Inc.",
+        "title": "Clinical trial data management system and method",
+        "patent_id": "patent/US6820235B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6820235B1%2Fen"
+      },
+      {
+        "publication_number": "US6275150B1",
+        "primary_language": "en",
+        "priority_date": "1998-07-14",
+        "publication_date": "2001-08-14",
+        "assignee_original": "Bayer Corporation",
+        "title": "User interface for a biomedical analyzer system",
+        "patent_id": "patent/US6275150B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6275150B1%2Fen"
+      },
+      {
+        "publication_number": "US20010016853A1",
+        "primary_language": "en",
+        "priority_date": "1998-08-12",
+        "publication_date": "2001-08-23",
+        "assignee_original": "Kucala Gregory R.",
+        "title": "Method and apparatus for synchronizing information on two different computer systems",
+        "patent_id": "patent/US20010016853A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010016853A1%2Fen"
+      },
+      {
+        "publication_number": "US6304905B1",
+        "primary_language": "en",
+        "priority_date": "1998-09-16",
+        "publication_date": "2001-10-16",
+        "assignee_original": "Cisco Technology, Inc.",
+        "title": "Detecting an active network node using an invalid protocol option",
+        "patent_id": "patent/US6304905B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6304905B1%2Fen"
+      },
+      {
+        "publication_number": "WO2000028460A2",
+        "primary_language": "en",
+        "priority_date": "1998-11-09",
+        "publication_date": "2000-05-18",
+        "assignee_original": "Lifestream Technologies, Inc.",
+        "title": "Diagnostic device for health monitoring and network-based health assessment system and medical record maintenance system",
+        "patent_id": "patent/WO2000028460A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000028460A2%2Fen"
+      },
+      {
+        "publication_number": "US20020002473A1",
+        "primary_language": "en",
+        "priority_date": "1998-11-10",
+        "publication_date": "2002-01-03",
+        "assignee_original": "Cerner Multum, Inc.",
+        "title": "Providing patient-specific drug information",
+        "patent_id": "patent/US20020002473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020002473A1%2Fen"
+      },
+      {
+        "publication_number": "AU1608300A",
+        "primary_language": "en",
+        "priority_date": "1998-11-13",
+        "publication_date": "2000-06-05",
+        "assignee_original": "George Edward Kriese Jr.",
+        "title": "System and method of storing medical records and providing information based upon a user's medical records",
+        "patent_id": "patent/AU1608300A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU1608300A%2Fen"
+      },
+      {
+        "publication_number": "US6522875B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-17",
+        "publication_date": "2003-02-18",
+        "assignee_original": "Eric Morgan Dowling",
+        "title": "Geographical web browser, methods, apparatus and systems",
+        "patent_id": "patent/US6522875B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6522875B1%2Fen"
+      },
+      {
+        "publication_number": "WO2000065522A2",
+        "primary_language": "en",
+        "priority_date": "1999-04-28",
+        "publication_date": "2000-11-02",
+        "assignee_original": "San Diego State University Foundation",
+        "title": "Electronic medical record registry including data replication",
+        "patent_id": "patent/WO2000065522A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000065522A2%2Fen"
+      },
+      {
+        "publication_number": "US6415275B1",
+        "primary_language": "en",
+        "priority_date": "1999-08-05",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Unisys Corp.",
+        "title": "Method and system for processing rules using an extensible object-oriented model resident within a repository",
+        "patent_id": "patent/US6415275B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6415275B1%2Fen"
+      },
+      {
+        "publication_number": "US20020173721A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-20",
+        "publication_date": "2002-11-21",
+        "assignee_original": "Novasonics, Inc.",
+        "title": "User interface for handheld imaging devices",
+        "patent_id": "patent/US20020173721A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020173721A1%2Fen"
+      },
+      {
+        "publication_number": "US20020007284A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-01",
+        "publication_date": "2002-01-17",
+        "assignee_original": "Schurenberg Kurt B.",
+        "title": "System and method for implementing a global master patient index",
+        "patent_id": "patent/US20020007284A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020007284A1%2Fen"
+      },
+      {
+        "publication_number": "US20020007287A1",
+        "primary_language": "en",
+        "priority_date": "1999-12-16",
+        "publication_date": "2002-01-17",
+        "assignee_original": "Dietmar Straube",
+        "title": "System and method for electronic archiving and retrieval of medical documents",
+        "patent_id": "patent/US20020007287A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020007287A1%2Fen"
+      },
+      {
+        "publication_number": "US6757898B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-18",
+        "publication_date": "2004-06-29",
+        "assignee_original": "Mckesson Information Solutions, Inc.",
+        "title": "Electronic provider\u2014patient interface system",
+        "patent_id": "patent/US6757898B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6757898B1%2Fen"
+      },
+      {
+        "publication_number": "US7676384B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-18",
+        "publication_date": "2010-03-09",
+        "assignee_original": "Medigenesis, Inc.",
+        "title": "System and method for the automated presentation of system data to, and interaction with, a computer maintained database",
+        "patent_id": "patent/US7676384B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7676384B2%2Fen"
+      },
+      {
+        "publication_number": "DE20003469U1",
+        "primary_language": "en",
+        "priority_date": "2000-02-23",
+        "publication_date": "2000-08-17",
+        "assignee_original": "Medical Communications Soft- und Hardware GmbH, 76131 Karlsruhe",
+        "title": "Hand-held computer",
+        "patent_id": "patent/DE20003469U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE20003469U1%2Fen"
+      },
+      {
+        "publication_number": "US20020188478A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-24",
+        "publication_date": "2002-12-12",
+        "assignee_original": "Joe Breeland",
+        "title": "Health-care systems and methods",
+        "patent_id": "patent/US20020188478A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020188478A1%2Fen"
+      },
+      {
+        "publication_number": "US7174318B2",
+        "primary_language": "en",
+        "priority_date": "2000-03-28",
+        "publication_date": "2007-02-06",
+        "assignee_original": "Richard Adelson",
+        "title": "Method and system for an online-like account processing and management",
+        "patent_id": "patent/US7174318B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7174318B2%2Fen"
+      },
+      {
+        "publication_number": "WO2002029664A1",
+        "primary_language": "en",
+        "priority_date": "2000-04-25",
+        "publication_date": "2002-04-11",
+        "assignee_original": "Park Yong Nam",
+        "title": "A method of internet-based medical record database configuration and system thereof by mutual certification between patient and doctor",
+        "patent_id": "patent/WO2002029664A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002029664A1%2Fen"
+      },
+      {
+        "publication_number": "US7457765B2",
+        "primary_language": "en",
+        "priority_date": "2000-06-02",
+        "publication_date": "2008-11-25",
+        "assignee_original": "Drason Consulting Services, Llc",
+        "title": "Method and system for scheduling employees in a patient care environment",
+        "patent_id": "patent/US7457765B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7457765B2%2Fen"
+      },
+      {
+        "publication_number": "WO2002005061A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-06",
+        "publication_date": "2002-01-17",
+        "assignee_original": "David Paul Felsher",
+        "title": "Information record infrastructure, system and method",
+        "patent_id": "patent/WO2002005061A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002005061A2%2Fen"
+      },
+      {
+        "publication_number": "US7251610B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-20",
+        "publication_date": "2007-07-31",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "Clinical documentation system for use by multiple caregivers",
+        "patent_id": "patent/US7251610B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7251610B2%2Fen"
+      },
+      {
+        "publication_number": "US7039878B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-17",
+        "publication_date": "2006-05-02",
+        "assignee_original": "Draeger Medical Systems, Inc.",
+        "title": "Apparatus for processing and displaying patient medical information",
+        "patent_id": "patent/US7039878B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7039878B2%2Fen"
+      },
+      {
+        "publication_number": "US7038588B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-04",
+        "publication_date": "2006-05-02",
+        "assignee_original": "Draeger Medical Infant Care, Inc.",
+        "title": "Apparatus and method for patient point-of-care data management",
+        "patent_id": "patent/US7038588B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7038588B2%2Fen"
+      },
+      {
+        "publication_number": "US7577573B2",
+        "primary_language": "en",
+        "priority_date": "2001-12-12",
+        "publication_date": "2009-08-18",
+        "assignee_original": "General Electric Company",
+        "title": "Medical support system",
+        "patent_id": "patent/US7577573B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7577573B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20070050359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-30",
+        "publication_date": "2007-03-01",
+        "assignee_original": "Mckesson Information Solutions, Llc",
+        "title": "Method to indicate context synchronization of applications on a computer desktop",
+        "patent_id": "patent/US20070050359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070050359A1%2Fen"
+      },
+      {
+        "publication_number": "US20090217189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-24",
+        "publication_date": "2009-08-27",
+        "assignee_original": "Neil Martin",
+        "title": "Drill Down Clinical Information Dashboard",
+        "patent_id": "patent/US20090217189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090217189A1%2Fen"
+      },
+      {
+        "publication_number": "US20090216562A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-22",
+        "publication_date": "2009-08-27",
+        "assignee_original": "Faulkner Judith R",
+        "title": "Method and apparatus for accommodating diverse healthcare record centers",
+        "patent_id": "patent/US20090216562A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090216562A1%2Fen"
+      },
+      {
+        "publication_number": "US20090228303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-22",
+        "publication_date": "2009-09-10",
+        "assignee_original": "Faulkner Judith R",
+        "title": "Electronic health record system utilizing disparate record sources",
+        "patent_id": "patent/US20090228303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090228303A1%2Fen"
+      },
+      {
+        "publication_number": "US20140132520A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-15",
+        "publication_date": "2014-05-15",
+        "assignee_original": "Giga-Byte Technology Co., Ltd.",
+        "title": "Keyboard",
+        "patent_id": "patent/US20140132520A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140132520A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20150206151A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-28",
+        "publication_date": "2015-07-23",
+        "assignee_original": "Sca Hygiene Products Ab",
+        "title": "Method and mobile applications using cross-sharing database for monitoring use of hygiene products",
+        "patent_id": "patent/US20150206151A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150206151A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015130457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-25",
+        "publication_date": "2015-09-03",
+        "assignee_original": "Omada Health, Inc.",
+        "title": "Systems and methods for displaying metrics associated with a health improvement program",
+        "patent_id": "patent/WO2015130457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015130457A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9679247B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-19",
+        "publication_date": "2017-06-13",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Graph matching",
+        "patent_id": "patent/US9679247B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9679247B2%2Fen"
+      },
+      {
+        "publication_number": "US20180350019A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-29",
+        "publication_date": "2018-12-06",
+        "assignee_original": "Medaxion, Inc.",
+        "title": "Managing provider roles in medical care",
+        "patent_id": "patent/US20180350019A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180350019A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7051071B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-16",
+        "publication_date": "2006-05-23",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Workflow integration system for enterprise wide electronic collaboration",
+        "patent_id": "patent/US7051071B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7051071B2%2Fen"
+      },
+      {
+        "publication_number": "WO2002025528A1",
+        "primary_language": "en",
+        "priority_date": "2000-09-21",
+        "publication_date": "2002-03-28",
+        "assignee_original": "Theradoc.Com, Inc.",
+        "title": "Systems and methods for manipulating medical data via a decision support system",
+        "patent_id": "patent/WO2002025528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002025528A1%2Fen"
+      },
+      {
+        "publication_number": "US7447643B1",
+        "primary_language": "en",
+        "priority_date": "2000-09-21",
+        "publication_date": "2008-11-04",
+        "assignee_original": "Theradoc.Com, Inc.",
+        "title": "Systems and methods for communicating between a decision-support system and one or more mobile information devices",
+        "patent_id": "patent/US7447643B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7447643B1%2Fen"
+      },
+      {
+        "publication_number": "US20030061090A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-13",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Siemens Medical Solution Health Services Corporation",
+        "title": "Method, apparatus, system and user interface for scheduling tasks",
+        "patent_id": "patent/US20030061090A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030061090A1%2Fen"
+      },
+      {
+        "publication_number": "US7552222B2",
+        "primary_language": "en",
+        "priority_date": "2001-10-18",
+        "publication_date": "2009-06-23",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Single system user identity",
+        "patent_id": "patent/US7552222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7552222B2%2Fen"
+      },
+      {
+        "publication_number": "US7152204B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-18",
+        "publication_date": "2006-12-19",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method utilizing an interface component to query a document",
+        "patent_id": "patent/US7152204B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7152204B2%2Fen"
+      },
+      {
+        "publication_number": "US20030149598A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-28",
+        "publication_date": "2003-08-07",
+        "assignee_original": "Santoso Nugroho Iwan",
+        "title": "Intelligent assignment, scheduling and notification scheme for task management",
+        "patent_id": "patent/US20030149598A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030149598A1%2Fen"
+      },
+      {
+        "publication_number": "US7516447B2",
+        "primary_language": "en",
+        "priority_date": "2002-02-22",
+        "publication_date": "2009-04-07",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Methods and apparatus for building, customizing and using software abstractions of external entities",
+        "patent_id": "patent/US7516447B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7516447B2%2Fen"
+      },
+      {
+        "publication_number": "US7983759B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-18",
+        "publication_date": "2011-07-19",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Advanced patient management for reporting multiple health-related parameters",
+        "patent_id": "patent/US7983759B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7983759B2%2Fen"
+      },
+      {
+        "publication_number": "US7468032B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-18",
+        "publication_date": "2008-12-23",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Advanced patient management for identifying, displaying and assisting with correlating health-related data",
+        "patent_id": "patent/US7468032B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7468032B2%2Fen"
+      },
+      {
+        "publication_number": "US7043305B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-06",
+        "publication_date": "2006-05-09",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Method and apparatus for establishing context among events and optimizing implanted medical device performance",
+        "patent_id": "patent/US7043305B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7043305B2%2Fen"
+      },
+      {
+        "publication_number": "US8043213B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-18",
+        "publication_date": "2011-10-25",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Advanced patient management for triaging health-related data using color codes",
+        "patent_id": "patent/US8043213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8043213B2%2Fen"
+      },
+      {
+        "publication_number": "US20040122294A1",
+        "primary_language": "en",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "John Hatlestad",
+        "title": "Advanced patient management with environmental data",
+        "patent_id": "patent/US20040122294A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122294A1%2Fen"
+      },
+      {
+        "publication_number": "US7568149B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-29",
+        "publication_date": "2009-07-28",
+        "assignee_original": "At&T Labs, Inc.",
+        "title": "Method and system for controlling the operation of hyperlinks",
+        "patent_id": "patent/US7568149B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7568149B2%2Fen"
+      },
+      {
+        "publication_number": "US7526519B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-01",
+        "publication_date": "2009-04-28",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "High availability application view deployment",
+        "patent_id": "patent/US7526519B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7526519B2%2Fen"
+      },
+      {
+        "publication_number": "US7155438B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-01",
+        "publication_date": "2006-12-26",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "High availability for event forwarding",
+        "patent_id": "patent/US7155438B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7155438B2%2Fen"
+      },
+      {
+        "publication_number": "US7519976B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-01",
+        "publication_date": "2009-04-14",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Collaborative business plug-in framework",
+        "patent_id": "patent/US7519976B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7519976B2%2Fen"
+      },
+      {
+        "publication_number": "US7257645B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-01",
+        "publication_date": "2007-08-14",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for storing large messages",
+        "patent_id": "patent/US7257645B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7257645B2%2Fen"
+      },
+      {
+        "publication_number": "US8135772B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-01",
+        "publication_date": "2012-03-13",
+        "assignee_original": "Oracle International Corporation",
+        "title": "Single servlets for B2B message routing",
+        "patent_id": "patent/US8135772B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8135772B2%2Fen"
+      },
+      {
+        "publication_number": "US7484224B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-02",
+        "publication_date": "2009-01-27",
+        "assignee_original": "Bae Systems, Inc.",
+        "title": "Adapter deployment without recycle",
+        "patent_id": "patent/US7484224B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7484224B2%2Fen"
+      },
+      {
+        "publication_number": "US7627631B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-02",
+        "publication_date": "2009-12-01",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for collaborative business plug-ins",
+        "patent_id": "patent/US7627631B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7627631B2%2Fen"
+      },
+      {
+        "publication_number": "US7222148B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-02",
+        "publication_date": "2007-05-22",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for providing highly available processing of asynchronous service requests",
+        "patent_id": "patent/US7222148B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7222148B2%2Fen"
+      },
+      {
+        "publication_number": "US7165249B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-02",
+        "publication_date": "2007-01-16",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for modular component deployment",
+        "patent_id": "patent/US7165249B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7165249B2%2Fen"
+      },
+      {
+        "publication_number": "US7676538B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-02",
+        "publication_date": "2010-03-09",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for application view transactions",
+        "patent_id": "patent/US7676538B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7676538B2%2Fen"
+      },
+      {
+        "publication_number": "US7493628B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-02",
+        "publication_date": "2009-02-17",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Shared common connection factory",
+        "patent_id": "patent/US7493628B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7493628B2%2Fen"
+      },
+      {
+        "publication_number": "US7350184B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-02",
+        "publication_date": "2008-03-25",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for enterprise application interactions",
+        "patent_id": "patent/US7350184B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7350184B2%2Fen"
+      },
+      {
+        "publication_number": "US8069418B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-31",
+        "publication_date": "2011-11-29",
+        "assignee_original": "Draeger Medical Systems, Inc",
+        "title": "Medical information system and user interface supporting treatment administration",
+        "patent_id": "patent/US8069418B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8069418B2%2Fen"
+      },
+      {
+        "publication_number": "US7921020B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-13",
+        "publication_date": "2011-04-05",
+        "assignee_original": "Omnicare Inc.",
+        "title": "Method for generating medical intelligence from patient-specific data",
+        "patent_id": "patent/US7921020B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7921020B2%2Fen"
+      },
+      {
+        "publication_number": "US7230529B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-07",
+        "publication_date": "2007-06-12",
+        "assignee_original": "Theradoc, Inc.",
+        "title": "System, method, and computer program for interfacing an expert system to a clinical information system",
+        "patent_id": "patent/US7230529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7230529B2%2Fen"
+      },
+      {
+        "publication_number": "US20050022164A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-25",
+        "publication_date": "2005-01-27",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods utilizing a workflow definition language",
+        "patent_id": "patent/US20050022164A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050022164A1%2Fen"
+      },
+      {
+        "publication_number": "US7752599B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-25",
+        "publication_date": "2010-07-06",
+        "assignee_original": "Bea Systems Inc.",
+        "title": "Systems and methods extending an existing programming language with constructs",
+        "patent_id": "patent/US7752599B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7752599B2%2Fen"
+      },
+      {
+        "publication_number": "US7584474B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-25",
+        "publication_date": "2009-09-01",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for transaction chaining",
+        "patent_id": "patent/US7584474B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7584474B2%2Fen"
+      },
+      {
+        "publication_number": "US7293038B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-25",
+        "publication_date": "2007-11-06",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for client-side filtering of subscribed messages",
+        "patent_id": "patent/US7293038B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7293038B2%2Fen"
+      },
+      {
+        "publication_number": "US7774697B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-25",
+        "publication_date": "2010-08-10",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for structuring distributed applications",
+        "patent_id": "patent/US7774697B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7774697B2%2Fen"
+      },
+      {
+        "publication_number": "US20040230955A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System for multi-language debugging",
+        "patent_id": "patent/US20040230955A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040230955A1%2Fen"
+      },
+      {
+        "publication_number": "US7539985B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2009-05-26",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for dynamic component versioning",
+        "patent_id": "patent/US7539985B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7539985B2%2Fen"
+      },
+      {
+        "publication_number": "US20050108682A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2005-05-19",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems for type-independent source code editing",
+        "patent_id": "patent/US20050108682A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050108682A1%2Fen"
+      },
+      {
+        "publication_number": "US8032860B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2011-10-04",
+        "assignee_original": "Oracle International Corporation",
+        "title": "Methods for type-independent source code editing",
+        "patent_id": "patent/US8032860B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8032860B2%2Fen"
+      },
+      {
+        "publication_number": "US7299454B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2007-11-20",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Method for multi-language debugging",
+        "patent_id": "patent/US7299454B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7299454B2%2Fen"
+      },
+      {
+        "publication_number": "US7650276B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2010-01-19",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for dynamic data binding in distributed applications",
+        "patent_id": "patent/US7650276B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7650276B2%2Fen"
+      },
+      {
+        "publication_number": "US7707564B2",
+        "primary_language": "en",
+        "priority_date": "2003-02-26",
+        "publication_date": "2010-04-27",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for creating network-based software services using source code annotations",
+        "patent_id": "patent/US7707564B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7707564B2%2Fen"
+      },
+      {
+        "publication_number": "US7076772B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-26",
+        "publication_date": "2006-07-11",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for multi-language extensible compiler framework",
+        "patent_id": "patent/US7076772B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7076772B2%2Fen"
+      },
+      {
+        "publication_number": "US7636722B2",
+        "primary_language": "en",
+        "priority_date": "2003-02-28",
+        "publication_date": "2009-12-22",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "System and method for describing application extensions in XML",
+        "patent_id": "patent/US7636722B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7636722B2%2Fen"
+      },
+      {
+        "publication_number": "US7444620B2",
+        "primary_language": "en",
+        "priority_date": "2003-02-28",
+        "publication_date": "2008-10-28",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for a common runtime container framework",
+        "patent_id": "patent/US7444620B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7444620B2%2Fen"
+      },
+      {
+        "publication_number": "US20050044173A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-28",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Olander Daryl B.",
+        "title": "System and method for implementing business processes in a portal",
+        "patent_id": "patent/US20050044173A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050044173A1%2Fen"
+      },
+      {
+        "publication_number": "US20040226030A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-28",
+        "publication_date": "2004-11-11",
+        "assignee_original": "Kyle Marvin",
+        "title": "Systems and methods for an extensible software proxy",
+        "patent_id": "patent/US20040226030A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040226030A1%2Fen"
+      },
+      {
+        "publication_number": "US7650592B2",
+        "primary_language": "en",
+        "priority_date": "2003-03-01",
+        "publication_date": "2010-01-19",
+        "assignee_original": "Bea Systems, Inc.",
+        "title": "Systems and methods for multi-view debugging environment",
+        "patent_id": "patent/US7650592B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7650592B2%2Fen"
+      },
+      {
+        "publication_number": "US20040230456A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-14",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Lozier Luke R.",
+        "title": "System for identifying candidates for ICD implantation",
+        "patent_id": "patent/US20040230456A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040230456A1%2Fen"
+      },
+      {
+        "publication_number": "US20050108050A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2005-05-19",
+        "assignee_original": "Claus Knapheide",
+        "title": "Medical information user interface and task management system",
+        "patent_id": "patent/US20050108050A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050108050A1%2Fen"
+      },
+      {
+        "publication_number": "US8458215B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-24",
+        "publication_date": "2013-06-04",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Dynamic functional module availability",
+        "patent_id": "patent/US8458215B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8458215B2%2Fen"
+      },
+      {
+        "publication_number": "US20050288966A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-24",
+        "publication_date": "2005-12-29",
+        "assignee_original": "Robert Young",
+        "title": "System and method for collecting diagnosis and prescription drug information",
+        "patent_id": "patent/US20050288966A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050288966A1%2Fen"
+      },
+      {
+        "publication_number": "US20060112153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-22",
+        "publication_date": "2006-05-25",
+        "assignee_original": "Bowen David S L",
+        "title": "Export queue for an enterprise software system",
+        "patent_id": "patent/US20060112153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060112153A1%2Fen"
+      },
+      {
+        "publication_number": "AU2006243902A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-11",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Imetrikus, Inc.",
+        "title": "Interactive user interface for accessing health and financial data",
+        "patent_id": "patent/AU2006243902A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2006243902A1%2Fen"
+      },
+      {
+        "publication_number": "US8636676B2",
+        "primary_language": "en",
+        "priority_date": "2005-06-07",
+        "publication_date": "2014-01-28",
+        "assignee_original": "Perigen, Inc",
+        "title": "Method and apparatus for providing information related to labor progress for an obstetrics patient",
+        "patent_id": "patent/US8636676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8636676B2%2Fen"
+      },
+      {
+        "publication_number": "US20090099871A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-09",
+        "publication_date": "2009-04-16",
+        "assignee_original": "Gopal Gadodia",
+        "title": "Workflow Oriented Multiscreen Healthcare Information Management System",
+        "patent_id": "patent/US20090099871A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090099871A1%2Fen"
+      },
+      {
+        "publication_number": "US20070118402A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-02",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Deneen John E",
+        "title": "System and Method for Consumer/Patient Flushot Reservation",
+        "patent_id": "patent/US20070118402A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118402A1%2Fen"
+      },
+      {
+        "publication_number": "US10016249B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-08",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Gearbox Llc",
+        "title": "Accessing predictive data",
+        "patent_id": "patent/US10016249B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10016249B2%2Fen"
+      },
+      {
+        "publication_number": "US20070055547A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-08",
+        "publication_date": "2007-03-08",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Data techniques related to tissue coding",
+        "patent_id": "patent/US20070055547A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070055547A1%2Fen"
+      },
+      {
+        "publication_number": "US20070093967A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-08",
+        "publication_date": "2007-04-26",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Accessing data related to tissue coding",
+        "patent_id": "patent/US20070093967A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070093967A1%2Fen"
+      },
+      {
+        "publication_number": "US20070123472A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-08",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Filtering predictive data",
+        "patent_id": "patent/US20070123472A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070123472A1%2Fen"
+      },
+      {
+        "publication_number": "US10460080B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-08",
+        "publication_date": "2019-10-29",
+        "assignee_original": "Gearbox, Llc",
+        "title": "Accessing predictive data",
+        "patent_id": "patent/US10460080B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10460080B2%2Fen"
+      },
+      {
+        "publication_number": "US7743007B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-08",
+        "publication_date": "2010-06-22",
+        "assignee_original": "Invention Science Fund I",
+        "title": "System for graphical illustration of a first possible outcome of a use of a treatment parameter with respect to body portions based on a first dataset associated with a first predictive basis and for modifying a graphical illustration to illustrate a second possible outcome of a use of a treatment parameter based on a second dataset associated with a second predictive basis",
+        "patent_id": "patent/US7743007B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7743007B2%2Fen"
+      },
+      {
+        "publication_number": "US7894993B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-08",
+        "publication_date": "2011-02-22",
+        "assignee_original": "The Invention Science Fund I, Llc",
+        "title": "Data accessing techniques related to tissue coding",
+        "patent_id": "patent/US7894993B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7894993B2%2Fen"
+      },
+      {
+        "publication_number": "US20070165049A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-14",
+        "publication_date": "2007-07-19",
+        "assignee_original": "General Electric Company",
+        "title": "Configurable system and method for results review",
+        "patent_id": "patent/US20070165049A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070165049A1%2Fen"
+      },
+      {
+        "publication_number": "US20070136090A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-12",
+        "publication_date": "2007-06-14",
+        "assignee_original": "General Electric Company",
+        "title": "System and method for macro-enhanced clinical workflow",
+        "patent_id": "patent/US20070136090A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070136090A1%2Fen"
+      },
+      {
+        "publication_number": "US20070143141A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-16",
+        "publication_date": "2007-06-21",
+        "assignee_original": "Siemens Medical Solutions Health Services Corporation",
+        "title": "Integrated Clinical and Medication Reconciliation System",
+        "patent_id": "patent/US20070143141A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070143141A1%2Fen"
+      },
+      {
+        "publication_number": "US8200501B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-26",
+        "publication_date": "2012-06-12",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Methods, systems and computer program products for synthesizing medical procedure information in healthcare databases",
+        "patent_id": "patent/US8200501B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8200501B2%2Fen"
+      },
+      {
+        "publication_number": "US20070192132A1",
+        "primary_language": "en",
+        "priority_date": "2006-02-10",
+        "publication_date": "2007-08-16",
+        "assignee_original": "Debra Thesman",
+        "title": "System and method of prioritizing and administering healthcare to patients having multiple integral diagnoses",
+        "patent_id": "patent/US20070192132A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070192132A1%2Fen"
+      },
+      {
+        "publication_number": "US20080021854A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-24",
+        "publication_date": "2008-01-24",
+        "assignee_original": "Searete Llc, A Limited Liability Corporation Of The State Of Delaware",
+        "title": "Search techniques related to tissue coding",
+        "patent_id": "patent/US20080021854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080021854A1%2Fen"
+      },
+      {
+        "publication_number": "US10134490B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-01",
+        "publication_date": "2018-11-20",
+        "assignee_original": "Perigen, Inc.",
+        "title": "Method and system for monitoring labour progression for an obstetrics patient",
+        "patent_id": "patent/US10134490B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10134490B2%2Fen"
+      },
+      {
+        "publication_number": "US9805164B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-01",
+        "publication_date": "2017-10-31",
+        "assignee_original": "Perigen, Inc.",
+        "title": "Method and apparatus for providing contraction information during labour",
+        "patent_id": "patent/US9805164B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9805164B2%2Fen"
+      },
+      {
+        "publication_number": "US7865386B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-03",
+        "publication_date": "2011-01-04",
+        "assignee_original": "Sarkar Shyamal K",
+        "title": "Appointment scheduling system",
+        "patent_id": "patent/US7865386B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7865386B2%2Fen"
+      },
+      {
+        "publication_number": "US7730078B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-28",
+        "publication_date": "2010-06-01",
+        "assignee_original": "Honeywell Hommed Llc",
+        "title": "Role based internet access and individualized role based systems to view biometric information",
+        "patent_id": "patent/US7730078B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7730078B2%2Fen"
+      },
+      {
+        "publication_number": "US8265948B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2012-09-11",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Proactive and interactive clinical decision support",
+        "patent_id": "patent/US8265948B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8265948B2%2Fen"
+      },
+      {
+        "publication_number": "US8160895B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2012-04-17",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "User interface for clinical decision support",
+        "patent_id": "patent/US8160895B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8160895B2%2Fen"
+      },
+      {
+        "publication_number": "US20090150183A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2009-06-11",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Linking to clinical decision support",
+        "patent_id": "patent/US20090150183A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090150183A1%2Fen"
+      },
+      {
+        "publication_number": "US20080082358A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Clinical Decision Support Triggered From Another Clinical Decision Support",
+        "patent_id": "patent/US20080082358A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082358A1%2Fen"
+      },
+      {
+        "publication_number": "US20080154634A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-20",
+        "publication_date": "2008-06-26",
+        "assignee_original": "University Of Massachusetts Medical School",
+        "title": "Lien/levy inquiry system",
+        "patent_id": "patent/US20080154634A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154634A1%2Fen"
+      },
+      {
+        "publication_number": "US20080312954A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-15",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Validus Medical Systems, Inc.",
+        "title": "System and Method for Generating and Promulgating Physician Order Entries",
+        "patent_id": "patent/US20080312954A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080312954A1%2Fen"
+      },
+      {
+        "publication_number": "US8150175B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-20",
+        "publication_date": "2012-04-03",
+        "assignee_original": "General Electric Company",
+        "title": "Systems and methods for image handling and presentation",
+        "patent_id": "patent/US8150175B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8150175B2%2Fen"
+      },
+      {
+        "publication_number": "US7958485B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-21",
+        "publication_date": "2011-06-07",
+        "assignee_original": "General Electric Company",
+        "title": "Methods and systems for managing content dependency deployment",
+        "patent_id": "patent/US7958485B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7958485B2%2Fen"
+      },
+      {
+        "publication_number": "US8355928B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-05",
+        "publication_date": "2013-01-15",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "Medical user interface and workflow management system",
+        "patent_id": "patent/US8355928B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8355928B2%2Fen"
+      },
+      {
+        "publication_number": "CA2707312C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-10",
+        "publication_date": "2016-06-07",
+        "assignee_original": "Lms Medical Systems Ltd.",
+        "title": "Method and apparatus for providing contraction information during labour",
+        "patent_id": "patent/CA2707312C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2707312C%2Fen"
+      },
+      {
+        "publication_number": "US20090240158A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-11",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Lms Medical Systems Ltd",
+        "title": "User-interface for displaying fetal condition information during labor and apparatus implementing same",
+        "patent_id": "patent/US20090240158A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090240158A1%2Fen"
+      },
+      {
+        "publication_number": "US8645424B2",
+        "primary_language": "en",
+        "priority_date": "2007-12-19",
+        "publication_date": "2014-02-04",
+        "assignee_original": "Sam Stanley Miller",
+        "title": "System for electronically recording and sharing medical information",
+        "patent_id": "patent/US8645424B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8645424B2%2Fen"
+      },
+      {
+        "publication_number": "US20090164236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Smarter scheduling for medical facilities and physicians",
+        "patent_id": "patent/US20090164236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090164236A1%2Fen"
+      },
+      {
+        "publication_number": "US8598995B2",
+        "primary_language": "en",
+        "priority_date": "2008-02-22",
+        "publication_date": "2013-12-03",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Distributed healthcare communication system",
+        "patent_id": "patent/US8598995B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8598995B2%2Fen"
+      },
+      {
+        "publication_number": "US12251243B2",
+        "primary_language": "en",
+        "priority_date": "2008-02-22",
+        "publication_date": "2025-03-18",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Distributed healthcare communication system",
+        "patent_id": "patent/US12251243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12251243B2%2Fen"
+      },
+      {
+        "publication_number": "US8024273B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-27",
+        "publication_date": "2011-09-20",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Establishing patient consent on behalf of a third party",
+        "patent_id": "patent/US8024273B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8024273B2%2Fen"
+      },
+      {
+        "publication_number": "US8725536B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-27",
+        "publication_date": "2014-05-13",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Establishing a patient-provider consent relationship for data sharing",
+        "patent_id": "patent/US8725536B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8725536B2%2Fen"
+      },
+      {
+        "publication_number": "CA2729763C",
+        "primary_language": "en",
+        "priority_date": "2008-07-01",
+        "publication_date": "2020-09-29",
+        "assignee_original": "Mylene W.M. Yao",
+        "title": "Methods and systems for assessment of clinical infertility",
+        "patent_id": "patent/CA2729763C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2729763C%2Fen"
+      },
+      {
+        "publication_number": "US10089443B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-15",
+        "publication_date": "2018-10-02",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Home medical device systems and methods for therapy prescription and tracking, servicing and inventory",
+        "patent_id": "patent/US10089443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10089443B2%2Fen"
+      },
+      {
+        "publication_number": "US8057679B2",
+        "primary_language": "en",
+        "priority_date": "2008-07-09",
+        "publication_date": "2011-11-15",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Dialysis system having trending and alert generation",
+        "patent_id": "patent/US8057679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8057679B2%2Fen"
+      },
+      {
+        "publication_number": "US8583455B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-19",
+        "publication_date": "2013-11-12",
+        "assignee_original": "Roche Diagnostics Operations, Inc.",
+        "title": "Patient diabetes data interchange with electronic medical records",
+        "patent_id": "patent/US8583455B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8583455B2%2Fen"
+      },
+      {
+        "publication_number": "US20100082682A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-24",
+        "publication_date": "2010-04-01",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Web contents archive system and method",
+        "patent_id": "patent/US20100082682A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100082682A1%2Fen"
+      },
+      {
+        "publication_number": "US8626526B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-06",
+        "publication_date": "2014-01-07",
+        "assignee_original": "Sap Ag",
+        "title": "System and method for a healthcare communication framework",
+        "patent_id": "patent/US8626526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8626526B2%2Fen"
+      },
+      {
+        "publication_number": "ES2927105T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-20",
+        "publication_date": "2022-11-02",
+        "assignee_original": "Epitome Pharmaceuticals Ltd",
+        "title": "Methods and systems to improve pharmaceutical intervention in coagulation control",
+        "patent_id": "patent/ES2927105T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2927105T3%2Fen"
+      },
+      {
+        "publication_number": "US8935280B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-06",
+        "publication_date": "2015-01-13",
+        "assignee_original": "Codonics, Inc.",
+        "title": "Medical image importer and method",
+        "patent_id": "patent/US8935280B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8935280B2%2Fen"
+      },
+      {
+        "publication_number": "US8875055B1",
+        "primary_language": "en",
+        "priority_date": "2008-11-28",
+        "publication_date": "2014-10-28",
+        "assignee_original": "Google Inc.",
+        "title": "Interface for creating and viewing medical decision support rules",
+        "patent_id": "patent/US8875055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8875055B1%2Fen"
+      },
+      {
+        "publication_number": "US20100169119A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-31",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Hussain Anwar A",
+        "title": "Systems and Methods for Delivering Continuous Quality Improvement to Complex Non-Manufacturing Industry",
+        "patent_id": "patent/US20100169119A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169119A1%2Fen"
+      },
+      {
+        "publication_number": "JP5253190B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-09",
+        "publication_date": "2013-07-31",
+        "assignee_original": "\u30ad\u30e4\u30ce\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Workflow management server, workflow management system, workflow management method, and workflow management program",
+        "patent_id": "patent/JP5253190B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5253190B2%2Fen"
+      },
+      {
+        "publication_number": "US8712800B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-22",
+        "publication_date": "2014-04-29",
+        "assignee_original": "James Noland",
+        "title": "System of providing an internet web site that assists medical professionals draft a letter of medical necessity or other documentation for transmission to a third party payer on behalf of a patient and method of use",
+        "patent_id": "patent/US8712800B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8712800B2%2Fen"
+      },
+      {
+        "publication_number": "US20100305961A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-29",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Broder Michael S",
+        "title": "Tools, system and method for visual interpretation of vast medical data",
+        "patent_id": "patent/US20100305961A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100305961A1%2Fen"
+      },
+      {
+        "publication_number": "US20110029592A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-28",
+        "publication_date": "2011-02-03",
+        "assignee_original": "Galen Heathcare Solutions Inc.",
+        "title": "Computerized method of organizing and distributing electronic healthcare record data",
+        "patent_id": "patent/US20110029592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110029592A1%2Fen"
+      },
+      {
+        "publication_number": "US8762181B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-31",
+        "publication_date": "2014-06-24",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "Systems and methods for evaluating healthcare claim transactions for medicare eligibility",
+        "patent_id": "patent/US8762181B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8762181B1%2Fen"
+      },
+      {
+        "publication_number": "US11244745B2",
+        "primary_language": "en",
+        "priority_date": "2010-01-22",
+        "publication_date": "2022-02-08",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "Computer-implemented method, system, and apparatus for electronic patient care",
+        "patent_id": "patent/US11244745B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11244745B2%2Fen"
+      },
+      {
+        "publication_number": "US11210611B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-21",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System, method, and apparatus for electronic patient care",
+        "patent_id": "patent/US11210611B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11210611B2%2Fen"
+      },
+      {
+        "publication_number": "US10242159B2",
+        "primary_language": "en",
+        "priority_date": "2010-01-22",
+        "publication_date": "2019-03-26",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System and apparatus for electronic patient care",
+        "patent_id": "patent/US10242159B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10242159B2%2Fen"
+      },
+      {
+        "publication_number": "US10453157B2",
+        "primary_language": "en",
+        "priority_date": "2010-01-22",
+        "publication_date": "2019-10-22",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System, method, and apparatus for electronic patient care",
+        "patent_id": "patent/US10453157B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10453157B2%2Fen"
+      },
+      {
+        "publication_number": "US11881307B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-24",
+        "publication_date": "2024-01-23",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System, method, and apparatus for electronic patient care",
+        "patent_id": "patent/US11881307B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11881307B2%2Fen"
+      },
+      {
+        "publication_number": "US11164672B2",
+        "primary_language": "en",
+        "priority_date": "2010-01-22",
+        "publication_date": "2021-11-02",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System and apparatus for electronic patient care",
+        "patent_id": "patent/US11164672B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11164672B2%2Fen"
+      },
+      {
+        "publication_number": "US20110313789A1",
+        "primary_language": "en",
+        "priority_date": "2010-01-22",
+        "publication_date": "2011-12-22",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "Electronic patient monitoring system",
+        "patent_id": "patent/US20110313789A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110313789A1%2Fen"
+      },
+      {
+        "publication_number": "US10911515B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-24",
+        "publication_date": "2021-02-02",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System, method, and apparatus for electronic patient care",
+        "patent_id": "patent/US10911515B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10911515B2%2Fen"
+      },
+      {
+        "publication_number": "US8977574B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-27",
+        "publication_date": "2015-03-10",
+        "assignee_original": "The Invention Science Fund I, Llc",
+        "title": "System for providing graphical illustration of possible outcomes and side effects of the use of treatment parameters with respect to at least one body portion based on datasets associated with predictive bases",
+        "patent_id": "patent/US8977574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8977574B2%2Fen"
+      },
+      {
+        "publication_number": "US8335672B1",
+        "primary_language": "en",
+        "priority_date": "2010-03-26",
+        "publication_date": "2012-12-18",
+        "assignee_original": "Mckesson Financial Holdings Limited",
+        "title": "Systems and methods for the identification of available payers for healthcare transactions",
+        "patent_id": "patent/US8335672B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8335672B1%2Fen"
+      },
+      {
+        "publication_number": "WO2011163017A2",
+        "primary_language": "en",
+        "priority_date": "2010-06-20",
+        "publication_date": "2011-12-29",
+        "assignee_original": "Univfy, Inc.",
+        "title": "Method of delivering decision support systems (dss) and electronic health records (ehr) for reproductive care, pre-conceptive care, fertility treatments, and other health conditions",
+        "patent_id": "patent/WO2011163017A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011163017A2%2Fen"
+      },
+      {
+        "publication_number": "CA2802747A1",
+        "primary_language": "en",
+        "priority_date": "2010-07-13",
+        "publication_date": "2012-01-19",
+        "assignee_original": "Univfy Inc.",
+        "title": "Method of assessing risk of multiple births in infertility treatments",
+        "patent_id": "patent/CA2802747A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2802747A1%2Fen"
+      },
+      {
+        "publication_number": "US20120215560A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-21",
+        "publication_date": "2012-08-23",
+        "assignee_original": "dbMotion Ltd.",
+        "title": "System and methods for facilitating computerized interactions with emrs",
+        "patent_id": "patent/US20120215560A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120215560A1%2Fen"
+      },
+      {
+        "publication_number": "US8589186B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-01",
+        "publication_date": "2013-11-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "Systems and methods for determining pharmaceutical consultation compliance",
+        "patent_id": "patent/US8589186B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8589186B1%2Fen"
+      },
+      {
+        "publication_number": "US20120150563A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-09",
+        "publication_date": "2012-06-14",
+        "assignee_original": "Sean Carroll",
+        "title": "Prescription Verification System",
+        "patent_id": "patent/US20120150563A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120150563A1%2Fen"
+      },
+      {
+        "publication_number": "EP2596449A1",
+        "primary_language": "en",
+        "priority_date": "2011-03-10",
+        "publication_date": "2013-05-29",
+        "assignee_original": "Teva Pharmaceutical Industries Ltd.",
+        "title": "A method, system and program for improved health care",
+        "patent_id": "patent/EP2596449A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2596449A1%2Fen"
+      },
+      {
+        "publication_number": "US20120310667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-03",
+        "publication_date": "2012-12-06",
+        "assignee_original": "Roy Altman",
+        "title": "Dynamic clinical pathways",
+        "patent_id": "patent/US20120310667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120310667A1%2Fen"
+      },
+      {
+        "publication_number": "US20120329015A1",
+        "primary_language": "en",
+        "priority_date": "2011-06-24",
+        "publication_date": "2012-12-27",
+        "assignee_original": "Debra Thesman",
+        "title": "Hierarchical condition categories program",
+        "patent_id": "patent/US20120329015A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120329015A1%2Fen"
+      },
+      {
+        "publication_number": "US10726088B1",
+        "primary_language": "en",
+        "priority_date": "2011-08-12",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Allscripts Software, Llc",
+        "title": "Computing system for presenting supplemental content in context",
+        "patent_id": "patent/US10726088B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10726088B1%2Fen"
+      },
+      {
+        "publication_number": "US9934361B2",
+        "primary_language": "en",
+        "priority_date": "2011-09-30",
+        "publication_date": "2018-04-03",
+        "assignee_original": "Univfy Inc.",
+        "title": "Method for generating healthcare-related validated prediction models from multiple sources",
+        "patent_id": "patent/US9934361B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9934361B2%2Fen"
+      },
+      {
+        "publication_number": "US20140214443A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-03",
+        "publication_date": "2014-07-31",
+        "assignee_original": "Sean Patrick Duffy",
+        "title": "Systems and Methods for Displaying Metrics Associated With a Health Improvement Program",
+        "patent_id": "patent/US20140214443A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140214443A1%2Fen"
+      },
+      {
+        "publication_number": "US20170344726A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-03",
+        "publication_date": "2017-11-30",
+        "assignee_original": "Omada Health, Inc.",
+        "title": "Method and system for supporting a health regimen",
+        "patent_id": "patent/US20170344726A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170344726A1%2Fen"
+      },
+      {
+        "publication_number": "US12196364B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-21",
+        "publication_date": "2025-01-14",
+        "assignee_original": "DEKA Research Products Limited Partnership",
+        "title": "System, method, and apparatus for clamping",
+        "patent_id": "patent/US12196364B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12196364B2%2Fen"
+      },
+      {
+        "publication_number": "US10563681B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-21",
+        "publication_date": "2020-02-18",
+        "assignee_original": "Deka Products Limited Partnership",
+        "title": "System, method, and apparatus for clamping",
+        "patent_id": "patent/US10563681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10563681B2%2Fen"
+      },
+      {
+        "publication_number": "US10930375B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-30",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Facilitating modifying reference laboratories",
+        "patent_id": "patent/US10930375B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10930375B2%2Fen"
+      },
+      {
+        "publication_number": "US10496939B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-30",
+        "publication_date": "2019-12-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Leveraging centralized mapping between organizations",
+        "patent_id": "patent/US10496939B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10496939B2%2Fen"
+      },
+      {
+        "publication_number": "US10970677B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-30",
+        "publication_date": "2021-04-06",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Managing updates from reference laboratories",
+        "patent_id": "patent/US10970677B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10970677B2%2Fen"
+      },
+      {
+        "publication_number": "US9314159B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-24",
+        "publication_date": "2016-04-19",
+        "assignee_original": "Physio-Control, Inc.",
+        "title": "Patient monitoring device with remote alert",
+        "patent_id": "patent/US9314159B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9314159B2%2Fen"
+      },
+      {
+        "publication_number": "US10600516B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-12",
+        "publication_date": "2020-03-24",
+        "assignee_original": "Advanced Healthcare Systems, Inc.",
+        "title": "Healthcare administration method for complex case and disease management",
+        "patent_id": "patent/US10600516B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10600516B2%2Fen"
+      },
+      {
+        "publication_number": "US10424032B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-12",
+        "publication_date": "2019-09-24",
+        "assignee_original": "Quality Standards, Llc",
+        "title": "Methods for administering preventative healthcare to a patient population",
+        "patent_id": "patent/US10424032B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10424032B2%2Fen"
+      },
+      {
+        "publication_number": "US20140164003A1",
+        "primary_language": "en",
+        "priority_date": "2012-12-12",
+        "publication_date": "2014-06-12",
+        "assignee_original": "Debra Thesman",
+        "title": "Methods for optimizing managed healthcare administration and achieving objective quality standards",
+        "patent_id": "patent/US20140164003A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140164003A1%2Fen"
+      },
+      {
+        "publication_number": "US11120896B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2021-09-14",
+        "assignee_original": "Philips Image Guided Therapy Corporation",
+        "title": "Multi-modality anonymizing system and method",
+        "patent_id": "patent/US11120896B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11120896B2%2Fen"
+      },
+      {
+        "publication_number": "US10453561B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2019-10-22",
+        "assignee_original": "Volcano Corporation",
+        "title": "Multi-modality case explorer system and method",
+        "patent_id": "patent/US10453561B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10453561B2%2Fen"
+      },
+      {
+        "publication_number": "US20140188513A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2014-07-03",
+        "assignee_original": "Volcano Corporation",
+        "title": "Multi-Modality Selective Archiving System and Method",
+        "patent_id": "patent/US20140188513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140188513A1%2Fen"
+      },
+      {
+        "publication_number": "US20150100327A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-04",
+        "publication_date": "2015-04-09",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Maintaining context between applications utilizing a prioritized patient list",
+        "patent_id": "patent/US20150100327A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150100327A1%2Fen"
+      },
+      {
+        "publication_number": "US10546329B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-27",
+        "publication_date": "2020-01-28",
+        "assignee_original": "CorVel Corporation",
+        "title": "Systems and methods for evaluating medical billing",
+        "patent_id": "patent/US10546329B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10546329B2%2Fen"
+      },
+      {
+        "publication_number": "US20150193595A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-08",
+        "publication_date": "2015-07-09",
+        "assignee_original": "IlnfoBionic, Inc.",
+        "title": "Systems and methods for reporting patient health parameters",
+        "patent_id": "patent/US20150193595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150193595A1%2Fen"
+      },
+      {
+        "publication_number": "US20150254403A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-09",
+        "publication_date": "2015-09-10",
+        "assignee_original": "Lucy LaPerna",
+        "title": "Electronic Medical Record Interface",
+        "patent_id": "patent/US20150254403A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150254403A1%2Fen"
+      },
+      {
+        "publication_number": "US10510439B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-09",
+        "publication_date": "2019-12-17",
+        "assignee_original": "Upmc",
+        "title": "System and method for processing healthcare information",
+        "patent_id": "patent/US10510439B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10510439B2%2Fen"
+      },
+      {
+        "publication_number": "US11495334B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system and method having a distributed database",
+        "patent_id": "patent/US11495334B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11495334B2%2Fen"
+      },
+      {
+        "publication_number": "EP3223181B1",
+        "primary_language": "en",
+        "priority_date": "2016-03-24",
+        "publication_date": "2019-12-18",
+        "assignee_original": "Sofradim Production",
+        "title": "System and method of generating a model and simulating an effect on a surgical repair site",
+        "patent_id": "patent/EP3223181B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3223181B1%2Fen"
+      },
+      {
+        "publication_number": "US20180121617A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-28",
+        "publication_date": "2018-05-03",
+        "assignee_original": "Pinscriptive, Inc.",
+        "title": "Treatment Decision Interface Device and Graphical User Interface (GUI)",
+        "patent_id": "patent/US20180121617A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180121617A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018114346A1",
+        "primary_language": "en",
+        "priority_date": "2016-12-21",
+        "publication_date": "2018-06-28",
+        "assignee_original": "Gambro Lundia Ab",
+        "title": "Medical device system including information technology infrastructure having secure cluster domain supporting external domain",
+        "patent_id": "patent/WO2018114346A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018114346A1%2Fen"
+      },
+      {
+        "publication_number": "US20180314798A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-29",
+        "publication_date": "2018-11-01",
+        "assignee_original": "Caleb Santiago Hernandez",
+        "title": "Directing medical patients to an appropriate level of care and to appropriate healthcare resources",
+        "patent_id": "patent/US20180314798A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180314798A1%2Fen"
+      },
+      {
+        "publication_number": "US11123014B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-21",
+        "publication_date": "2021-09-21",
+        "assignee_original": "Stryker Corporation",
+        "title": "Systems and methods for ambient energy powered physiological parameter monitoring",
+        "patent_id": "patent/US11123014B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11123014B2%2Fen"
+      },
+      {
+        "publication_number": "US12230380B2",
+        "primary_language": "en",
+        "priority_date": "2021-09-22",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Unitedhealth Group Incorporated",
+        "title": "Machine learning techniques for prospective event-based classification",
+        "patent_id": "patent/US12230380B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12230380B2%2Fen"
+      },
+      {
+        "publication_number": "US20230281327A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-03",
+        "publication_date": "2023-09-07",
+        "assignee_original": "Soojo, Inc.",
+        "title": "Utilizing a switchboard management system to efficiently and accurately manage sensitive digital data across multiple computer applications, systems, and data repositories",
+        "patent_id": "patent/US20230281327A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230281327A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7703042B2",
+      "primary_language": "en",
+      "publication_date": "2010-04-20",
+      "title": "System and method for a seamless user interface for an integrated electronic health care information system",
+      "patent_id": "patent/US7703042B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7703042B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6047259A",
+      "primary_language": "en",
+      "publication_date": "2000-04-04",
+      "title": "Interactive method and system for managing physical exams, diagnosis and treatment protocols in a health care practice",
+      "patent_id": "patent/US6047259A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6047259A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7020618B1",
+      "primary_language": "en",
+      "publication_date": "2006-03-28",
+      "title": "Method and system for customer service process management",
+      "patent_id": "patent/US7020618B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7020618B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7705727B2",
+      "primary_language": "en",
+      "publication_date": "2010-04-27",
+      "title": "System, method, and computer program for interfacing an expert system to a clinical information system",
+      "patent_id": "patent/US7705727B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7705727B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6983423B2",
+      "primary_language": "en",
+      "publication_date": "2006-01-03",
+      "title": "Electronic system for collecting and communicating clinical order information in an acute care setting",
+      "patent_id": "patent/US6983423B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6983423B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7490047B2",
+      "primary_language": "en",
+      "publication_date": "2009-02-10",
+      "title": "Apparatus and method for constructing formularies",
+      "patent_id": "patent/US7490047B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7490047B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7286997B2",
+      "primary_language": "en",
+      "publication_date": "2007-10-23",
+      "title": "Internet-based, customizable clinical information system",
+      "patent_id": "patent/US7286997B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7286997B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050222873A1",
+      "primary_language": "en",
+      "publication_date": "2005-10-06",
+      "title": "Systems, methods and user interfaces for management and configuration of medical patient monitoring",
+      "patent_id": "patent/US20050222873A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050222873A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7072840B1",
+      "primary_language": "en",
+      "publication_date": "2006-07-04",
+      "title": "Prescription management system",
+      "patent_id": "patent/US7072840B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7072840B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040243435A1",
+      "primary_language": "en",
+      "publication_date": "2004-12-02",
+      "title": "Medical information management system",
+      "patent_id": "patent/US20040243435A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040243435A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030036927A1",
+      "primary_language": "en",
+      "publication_date": "2003-02-20",
+      "title": "Healthcare information search system and user interface",
+      "patent_id": "patent/US20030036927A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030036927A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090125332A1",
+      "primary_language": "en",
+      "publication_date": "2009-05-14",
+      "title": "Automated execution of health care protocols in an integrated communications infrastructure",
+      "patent_id": "patent/US20090125332A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090125332A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020042725A1",
+      "primary_language": "en",
+      "publication_date": "2002-04-11",
+      "title": "Computerized prescription system for gathering and presenting information relating to pharmaceuticals",
+      "patent_id": "patent/US20020042725A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020042725A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020042726A1",
+      "primary_language": "en",
+      "publication_date": "2002-04-11",
+      "title": "Prescription management system",
+      "patent_id": "patent/US20020042726A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020042726A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1999042942A1",
+      "primary_language": "en",
+      "publication_date": "1999-08-26",
+      "title": "Component based object-relational database infrastructure and user interface",
+      "patent_id": "patent/WO1999042942A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999042942A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10755806B2",
+      "primary_language": "en",
+      "publication_date": "2020-08-25",
+      "title": "Graphical presentation of medical data",
+      "patent_id": "patent/US10755806B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10755806B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006529041A",
+      "primary_language": "en",
+      "publication_date": "2006-12-28",
+      "title": "Service order system and user interface for use in healthcare and other fields",
+      "patent_id": "patent/JP2006529041A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006529041A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040078229A1",
+      "primary_language": "en",
+      "publication_date": "2004-04-22",
+      "title": "System and method of managing electronic medical records",
+      "patent_id": "patent/US20040078229A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040078229A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20010025246A1",
+      "primary_language": "en",
+      "publication_date": "2001-09-27",
+      "title": "System and method for providing medication management",
+      "patent_id": "patent/US20010025246A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010025246A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10445470B2",
+      "primary_language": "en",
+      "publication_date": "2019-10-15",
+      "title": "System and method for creating and displaying optional order sets in healthcare environment",
+      "patent_id": "patent/US10445470B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10445470B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080114613A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-15",
+      "title": "Integrated Electronic Healthcare Management System",
+      "patent_id": "patent/US20080114613A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080114613A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5351043877292616482",
+      "scholar_authors": "Fontaine et al.",
+      "publication_date": "2000",
+      "title": "A work-sampling tool to measure the effect of electronic medical record implementation on health care workers",
+      "patent_id": "scholar/5351043877292616482",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5351043877292616482"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130290012A1",
+      "primary_language": "en",
+      "publication_date": "2013-10-31",
+      "title": "Method and system for delivering patient specific content",
+      "patent_id": "patent/US20130290012A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130290012A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2002052483A2",
+      "primary_language": "en",
+      "publication_date": "2002-07-04",
+      "title": "System and method for integration of health care records, and for a seamless user interface, for an integrated electronic health care information system",
+      "patent_id": "patent/WO2002052483A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002052483A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190304580A1",
+      "primary_language": "en",
+      "publication_date": "2019-10-03",
+      "title": "Technologies for facilitating the generation and distribution of a drug formulary",
+      "patent_id": "patent/US20190304580A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190304580A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2010-03-31",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-10-18",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-20",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-12",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 235
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000002730",
+        "name": "additional effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000010354",
+        "name": "integration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001960",
+        "name": "triggered effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003339",
+        "name": "best practice",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005352",
+        "name": "clarification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009533",
+        "name": "lab test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001356",
+        "name": "surgical procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

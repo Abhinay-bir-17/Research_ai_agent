@@ -1,0 +1,3137 @@
+{
+  "search_metadata": {
+    "id": "68514dd1f9aa737f8f54cd47",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2c76ee75a0d5de04/68514dd1f9aa737f8f54cd47.json",
+    "created_at": "2025-06-17 11:13:21 UTC",
+    "processed_at": "2025-06-17 11:13:21 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6059724A/en",
+    "raw_html_file": "https://serpapi.com/searches/2c76ee75a0d5de04/68514dd1f9aa737f8f54cd47.html",
+    "total_time_taken": 2.11
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6059724A/en"
+  },
+  "title": "System for predicting future health",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/49/92/b8/aa7262609c1fe8/US6059724.pdf",
+  "publication_number": "US6059724A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "specified",
+    "individual",
+    "biomarkers",
+    "time period",
+    "biomarker"
+  ],
+  "prior_art_date": "1997-02-14",
+  "application_number": "US08/800,314",
+  "inventors": [
+    {
+      "name": "T. Colin Campell",
+      "link": "https://patents.google.com/?inventor=T.+Colin+Campell",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=T.+Colin+Campell"
+    },
+    {
+      "name": "Ronald W. Helms",
+      "link": "https://patents.google.com/?inventor=Ronald+W.+Helms",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ronald+W.+Helms"
+    },
+    {
+      "name": "Lisa Tomasko",
+      "link": "https://patents.google.com/?inventor=Lisa+Tomasko",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lisa+Tomasko"
+    }
+  ],
+  "assignees": [
+    "Biosignal Inc",
+    "Biosignia Inc"
+  ],
+  "priority_date": "1997-02-14",
+  "filing_date": "1997-02-14",
+  "publication_date": "2000-05-09",
+  "worldwide_applications": {
+    "1997": [
+      {
+        "filing_date": "1997-02-14",
+        "country_code": "US",
+        "application_number": "US08/800,314",
+        "document_id": "patent/US6059724A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "1998": [
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "CA",
+        "application_number": "CA002280042A",
+        "document_id": "patent/CA2280042A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "JP",
+        "application_number": "JP53584498A",
+        "document_id": "patent/JP2001511680A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "WO",
+        "application_number": "PCT/US1998/002433",
+        "document_id": "patent/WO1998035609A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "KR",
+        "application_number": "KR1019997007383A",
+        "document_id": "patent/KR20000071096A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "EP",
+        "application_number": "EP98906235A",
+        "document_id": "patent/EP0973435A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "AU",
+        "application_number": "AU61514/98A",
+        "document_id": "patent/AU6151498A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "CN",
+        "application_number": "CN98804057A",
+        "document_id": "patent/CN1268033A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1998-02-10",
+        "country_code": "BR",
+        "application_number": "BR9807366-4A",
+        "document_id": "patent/BR9807366A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997-02-14",
+      "title": "Application filed by Biosignal Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Biosignal Inc"
+    },
+    {
+      "date": "1997-02-14",
+      "title": "Assigned to BIOMAR INTERNATIONAL, INC.",
+      "type": "reassignment",
+      "assignee_search": "BIOMAR INTERNATIONAL, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CAMBELL, T. COLIN, HELMS, RONALD W., TOMASKO, LISA"
+      ]
+    },
+    {
+      "date": "1997-02-14",
+      "title": "Priority to US08/800,314",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6059724A/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to KR1019997007383A",
+      "type": "priority",
+      "document_id": "patent/KR20000071096A/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to BR9807366-4A",
+      "type": "priority",
+      "document_id": "patent/BR9807366A/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to PCT/US1998/002433",
+      "type": "priority",
+      "document_id": "patent/WO1998035609A1/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to EP98906235A",
+      "type": "priority",
+      "document_id": "patent/EP0973435A4/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to AU61514/98A",
+      "type": "priority",
+      "document_id": "patent/AU6151498A/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to CA002280042A",
+      "type": "priority",
+      "document_id": "patent/CA2280042A1/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to JP53584498A",
+      "type": "priority",
+      "document_id": "patent/JP2001511680A/en"
+    },
+    {
+      "date": "1998-02-10",
+      "title": "Priority to CN98804057A",
+      "type": "priority",
+      "document_id": "patent/CN1268033A/en"
+    },
+    {
+      "date": "2000-03-03",
+      "title": "Assigned to BIOSIGNIA, INC.",
+      "type": "reassignment",
+      "assignee_search": "BIOSIGNIA, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BIOMAR INTERNATIONAL, INC."
+      ]
+    },
+    {
+      "date": "2000-05-09",
+      "title": "Publication of US6059724A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6059724A/en"
+    },
+    {
+      "date": "2000-05-09",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2004-06-09",
+      "title": "Assigned to FLEET NATIONAL BANK, AS AGENT",
+      "type": "reassignment",
+      "assignee_search": "FLEET NATIONAL BANK, AS AGENT",
+      "description": [
+        "PATENT AND TRADEMARKS SECURITY AGREEMENT",
+        "Assignors: BBNT SOLUTIONS LLC"
+      ]
+    },
+    {
+      "date": "2009-10-27",
+      "title": "Assigned to BBN TECHNOLOGIES CORP. (AS SUCCESSOR BY MERGER TO BBNT SOLUTIONS LLC)",
+      "type": "reassignment",
+      "assignee_search": "BBN TECHNOLOGIES CORP. (AS SUCCESSOR BY MERGER TO BBNT SOLUTIONS LLC)",
+      "description": [
+        "RELEASE OF SECURITY INTEREST",
+        "Assignors: BANK OF AMERICA, N.A. (SUCCESSOR BY MERGER TO FLEET NATIONAL BANK)"
+      ]
+    },
+    {
+      "date": "2017-02-14",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6059724.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08800314"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6059724"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6059724A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08800314/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6059724"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/88/9c/81/da5fc735d8bb54/US6059724-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/3f/91/54/0f18fb4ed04c58/US6059724-drawings-page-4.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/7264",
+      "description": "Classification of physiological signals or data, e.g. using neural networks, statistical classifiers, expert systems or fuzzy systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/50",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for simulation or modelling of medical disorders",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/00",
+      "description": "Measuring for diagnostic purposes; Identification of persons",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/7267",
+      "description": "Classification of physiological signals or data, e.g. using neural networks, statistical classifiers, expert systems or fuzzy systems involving training the classification device",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/923",
+      "description": "Computer assisted medical diagnostics by comparison of patient data to other data",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A computer-based system is disclosed for predicting future health of individuals comprising: (a) a computer comprising a processor containing a database of longitudinally-acquired biomarker values from individual members of a test population, subpopulation D of aid members being identified as having acquired a specified biological condition within a specified time period or age interval and a subpopulation +E,ovs D+EE  being identified as not having acquired the specified biological condition within the specified time period or age interval; and (b) a computer program that includes steps for: (1) selecting from said biomarkers a subset of biomarkers for discriminating between members belonging to the subpopulations D and +E,ovs D+EE , wherein the subset of biomarkers is selected based on distributions of the biomarker values of the individual members of the test population; and (2) using the distributions of the selected biomarkers to develop a statistical procedure that is capable of being used for: (i) classifying members of the test population as belonging within a subpopulation PD having a prescribed high probability of acquiring the specified biological condition within the specified time period or age interval or as belonging within a subpopulation +E,ovs PD+EE  having a prescribed low probability of acquiring the specified biological condition within the specified time period or age interval; or (ii) estimating quantitatively, for each member of the test population, the probability of acquiring the specified biological condition within the specified time period or age interval.",
+  "description_link": "https://serpapi.com/searches/68514dd1f9aa737f8f54cd47/google_patents_details/description.html",
+  "claims": [
+    "1. A computer-based system for predicting future health of individuals comprising:(a) a computer comprising a processor containing a database of longitudinally-acquired biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired a specified biological condition within a specified time period or age interval and a subpopulation D being identified as not having acquired the specified biological condition within the specified time period or age interval; and (b) a computer program that includes steps for:(1) selecting from said biomarkers a subset of biomarkers for discriminating between members belonging to the subpopulations D and D, wherein the subset of biomarkers is selected based on distributions of the biomarker values of the individual members of the test population; and (2) using the distributions of the selected biomarkers to develop a statistical procedure that is capable of being used for:(i) classifying members of the test population as belonging within a subpopulation PD having a prescribed high probability of acquiring the specified biological condition within the specified time period or age interval or as belonging within a subpopulation PD having a prescribed low probability of acquiring the specified biological condition within the specified time period or age interval; or (ii) estimating quantitatively, for a member of the test population, the probability of acquiring the specified biological condition within the specified time period or age internal;   wherein changes in said longitudinally-acquired biomarker values are used to develop said statistical procedure.",
+    "2. The computer-based system of claim 1 wherein the statistical procedure comprises a discriminant function utilizing estimated mean vectors and estimated covariance matrices of the distributions of biomarker values within the subpopulations D and D.",
+    "3. The computer-based system of claim 2 wherein estimates of parameters of the distributions of the selected biomarkers are obtained by fitting a general linear mixed model to the biomarker data from the test population.",
+    "4. The computer-based system of claim 2 wherein:(a) the estimated mean vectors are modeled as vector-valued functions of expected-value parameters or values of covariates; or (b) the estimated covariance matrices are modeled as matrix-valued functions of covariance parameters or values of covariates.",
+    "5. The computer-based system of claim 4 wherein estimates of parameters of the distributions of the selected biomarkers are obtained by fitting a general linear mixed model to the biomarker data from the test population.",
+    "6. The computer-based system of claim 4 wherein an estimated mean vector or probability incorporates an estimate of the realized value of a random subject effect vector for a member being classified or of a member for whom a probability is estimated.",
+    "7. The computer-based system of claim 6 wherein estimates of parameters of the distributions of the selected biomarkers are obtained by fitting a general linear mixed model to the biomarker data from the test population.",
+    "8. A method of predicting an individual's health comprising:collecting a plurality of biomarker values from an individual, wherein at least one of said biomarker values is obtained by physically measuring the biomarker value; and applying a statistical procedure to said plurality of biomarker values so as:(i) to classify said individual as having a prescribed high probability of acquiring a specified biological condition within a specified time period or age interval or as having a prescribed low probability of acquiring the specified biological condition within the specified time period or age interval; or (ii) to estimate quantitatively for said individual the probability of acquiring the specified biological condition within the specified time period or age interval;  wherein said statistical procedure is based on:(1) collecting a database of longitudinally-acquired biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired the specified biological condition within the specified time period or age interval and a subpopulation D being identified as not having acquired the specified biological condition within the specified time period or age interval; (2) selecting from said biomarkers a subset of biomarkers for discriminating between members belonging to the subpopulations D and D, wherein the subset of biomarker is selected based on distributions of the biomarker values of the individual members of the test population; and (3) using the distributions of the selected biomarkers to develop said statistical procedure;  wherein changes in said longitudinally-acquired biomarkers values are used to develop said statistical procedure.",
+    "9. The method according to claim 8 wherein at least one of said biomarker values is obtained from a biological sample.",
+    "10. The method according to claim 9 wherein said biological sample is a serum or urine sample.",
+    "11. A computer-based system for predicting an individual's future health comprising:(a) a computer comprising a processor containing a plurality of biomarker values from an individual; and (b) a computer program that includes steps for applying a statistical procedure to said plurality of biomarker values so as:(i) to classify said individual as having a prescribed high probability of acquiring a specified biological condition within a specified time period or age interval or as having a prescribed low probability of acquiring the specified biological condition within the specified time period or age interval; or (ii) to estimate quantitatively for said individual the probability of acquiring the specified biological condition within the specified time period or age interval;  wherein said statistical procedure is based on:(1) collecting a database of longitudinally-acquired biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired the specified biological condition within the specified time period or age interval and a subpopulation D being identified as not having acquired the specified biological condition within the specified time period or age interval; (2) selecting from said biomarkers a subset of biomarkers for discriminating between members belonging to the subpopulations D and D, wherein the subset of biomarkers is selected based on distributions of the biomarker values of the individual members of the test population; and (3) using the distributions of the selected biomarkers to develop said statistical procedure;  wherein changes in said longitudinally-acquired biomarker values are used to develop said statistical procedure.",
+    "12. The computer-based system of claim 11 wherein the plurality of biomarker values from said individual includes longitudinally-acquired biomarker values.",
+    "13. The computer-based system of claim 11 wherein the specified biological condition is death due to a specified underlying cause of death within the specified time period or age interval.",
+    "14. The computer-based system of claim 11 wherein the specified biological condition is a specified morbidity within the specified time period or age interval.",
+    "15. The computer-based system of claim 11 wherein the specified time period is a period of at least two years.",
+    "16. The computer-based system of claim 11 wherein the specified time period is a period of at least three years.",
+    "17. A method for assessing an individual's future risk of death from specified underlying causes of death comprising:collecting a plurality of biomarker values from an individual, wherein at least one of said biomarker values is obtained by physically measuring the biomarker value; and applying a statistical procedure to said plurality of biomarker values so as to determine whether said individual is classified as having a prescribed high probability of dying, within a specified time period or age interval, from any one of the underlying causes of death that account in the aggregate for at least 60% of all deaths in a test population over the specified time period or age interval.",
+    "18. A method for assessing an individual's evidence of good health comprising:collecting a plurality of biomarker values from an individual, wherein at least one of said biomarker values is obtained by physically measuring the biomarker value; and applying a statistical procedure to said plurality of biomarker values so as to determine whether said individual is classified as having a prescribed high probability of not dying, within a specified time period or age interval, from any one of the underlying causes of death that account in the aggregate for at least 60% of all deaths in a test population over the specified time period or age interval.",
+    "19. A computer-based system for assessing an individual's future risk of death from a specified underlying cause of death comprising:(a) a computer comprising a processor containing a plurality of biomarker values from an individual; and (b) a computer program that includes steps for applying a statistical procedure to said plurality of biomarker values so as to determine whether said individual is classified as having a prescribed high probability of dying, within a specified time period or age interval, from any one of the underlying causes of death that account in the aggregate for at least 60% of all deaths in a test population over the specified time period or age interval.",
+    "20. A computer-based system for assessing an individual's evidence of good health comprising:(a) a computer comprising a processor containing a plurality of biomarker values from an individual; and (b) a computer program that includes steps for applying a statistical procedure to said plurality of biomarker values so as to determine whether said individual is classified as having a prescribed high probability of not dying, within a specified time period or age interval, from any one of the underlying causes of death that account in the aggregate for at least 60% of all deaths in a test population over the specified time period or age interval.",
+    "21. An apparatus for assessing an individual's risk of future health problems comprising:(a) a stooge device for storing a plurality of biomarker values from an individual; and (b) a processor coupled to the storage device and programmed:1) to receive from the storage device said plurality of biomarker values; and 2) to apply a statistical procedure to said plurality of biomarker values so as:(i) to classify said individual as belonging within a subpopulation PD having a prescribed high probability of acquiring a specified biological condition within a specified time period or age interval or as belonging within a subpopulation PD having a prescribed low probability of acquiring the specified biological condition within the specified time period or age interval; or (ii) to estimate quantitatively the probability for said individual acquiring the specified biological condition within the specified time period or age interval;   wherein said statistical procedure is based on:(1) collecting a database of longitudinally-acquired biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired the specified biological condition within the specified time period or age interval and a subpopulation D being identified as not having acquired the specified biological condition within the specified time period or age interval; (2) selecting from said biomarkers a subset of biomarkers for discriminating between members belonging to the subpopulations D and D, wherein the subset of biomarkers is selected based on distributions of the biomarker values of the individual members of the test population; and (3) using the distributions of the selected biomarkers to develop said statistical procedure;  wherein changes in said longitudinally-acquired biomarker values are used to develop said statistical procedure.",
+    "22. A method of predicting an individual's health comprising:collecting a plurality of biomarker values from an individual, wherein at least one of said biomarker values is obtained by physically measuring the biomarker value; and applying a multivariate statistical procedure to said plurality of biomarker values so as to provide a statistically-based quantitative probability of said individual acquiring a specified morbidity or suffering a mortality with a specified underlying cause of death within a specified time period or age interval, wherein said multivariate statistical procedure is based on comparing said individual's plurality of biomarker values with a longitudinally-acquired database, wherein said database includes biomarker values from individual members of a test population, a subpopulation D of said members being identified as having acquired the specified morbidity or suffering the mortality with the specified underlying cause of death within the specified time period or age interval and a subpopulation D being identified as not having acquired the specified morbidity or suffering the mortality with the specified underlying cause of death within the specified time period or age interval; wherein changes in the longitudinally-acquired biomarker values to develop said statistical procedure.",
+    "23. The method according to claim 22 wherein said method includes the step of selecting a subset of biomarkers having discriminatory power for discriminating between said members identified as having acquired the specified biological condition within the specified time period or age interval and said members identified as not having acquired the specified biological condition within the specified time period or age interval.",
+    "24. The method according to claim 23 wherein the biomarkers in said subset provide a statistically significant contribution to the discriminatory power of said subset of biomarkers when used in combination with the other biomarkers in said subset.",
+    "25. The method according to claim 24 wherein said statistically significant contribution to the discriminatory power is established based on selecting the biomarkers in said subset by evaluating distributions of said longitudinally-acquired biomarker values.",
+    "26. The method according to claim 24 wherein said statistically significant contribution to the discriminatory power is established based on evaluating ratios or longitudinally-observed changes in the ratios of an individual's biomarker values.",
+    "27. The method according to claim 26 wherein the evaluation step comprises assessing whether longitudinal trends in said longitudinally-acquired biomarkers values are statistically correlated with acquisition of the specified biological condition.",
+    "28. The method according to claim 22 wherein said database comprises longitudinally-acquired biomarker values and at least one of said longitudinally-acquired biomarker values is obtained by physically measuring the biomarker value.",
+    "29. A computer-based system for predicting the future health of individuals comprising:(a) a computer comprising a processor containing:(i) a plurality of biomarker values from an individual; and (ii) a longitudinally-acquired database, wherein said database includes biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired a specified morbidity or suffering a mortality with a specified underlying cause of death within a specified time period or age interval and a subpopulation D being identified as not having acquired the specified morbidity or suffering a mortality with the specified underlying cause of death within the specified time period or age interval; and  (b) a computer program that includes steps for applying a multivariate statistical procedure to compare said individual's plurality of biomarker values with said longitudinally-acquired database so as to provide a statistically-based quantitative probability for said individual acquiring the specified morbidity or suffering a mortality with the specified underlying cause of death within the specified time period or age interval; wherein changes in the longitudinally-acquired biomarker values are used to develop said statistical procedure.",
+    "30. An apparatus for assessing an individuals's an risk off future health problems comprising:(a) a storage device for storing a plurality of biomarker values from an individual; and (b) a processor coupled to said storage device, said processor being programmed to receive from said storage device said plurality of biomarker values and apply a multivariate statistical procedure comparing said plurality of biomarker values with a longitudinally-acquired database, wherein said database includes biomarker values from individual members of a test population, subpopulation D of said members being identified as having acquired a specified morbidity or suffering a mortality with a specified underlying cause of death within a specified time period or age interval, and a subpopulation D being identified as not having acquired the specified morbidity or suffering a mortality with the specified underlying cause of death within the specified time period or age interval, so as to provide a statistically-based quantitative probability for said individual acquiring the specified morbidity or suffering a mortality with the specified underlying cause of death within the specified time period or age interval; wherein changes in the longitudinally-acquired biomarker values are used to develop said statistical procedure."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/800,314",
+      "representative_publication": "US6059724A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1997-02-14",
+      "title": "System for predicting future health"
+    },
+    {
+      "application_number": "CA002280042A",
+      "representative_publication": "CA2280042A1",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "CN98804057A",
+      "representative_publication": "CN1268033A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "PCT/US1998/002433",
+      "representative_publication": "WO1998035609A1",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "EP98906235A",
+      "representative_publication": "EP0973435A4",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "AU61514/98A",
+      "representative_publication": "AU6151498A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "KR1019997007383A",
+      "representative_publication": "KR20000071096A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "JP53584498A",
+      "representative_publication": "JP2001511680A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "A system for predicting future health"
+    },
+    {
+      "application_number": "BR9807366-4A",
+      "representative_publication": "BR9807366A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1998-02-10",
+      "title": "System to predict future health"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/800,314",
+      "representative_publication": "US6059724A",
+      "primary_language": "en",
+      "priority_date": "1997-02-14",
+      "filing_date": "1997-02-14",
+      "title": "System for predicting future health"
+    }
+  ],
+  "family_id": "25178074",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4733354A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-23",
+        "publication_date": "1988-03-22",
+        "assignee_original": "Brian Potter",
+        "title": "Method and apparatus for automated medical diagnosis using decision tree analysis",
+        "patent_id": "patent/US4733354A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4733354A%2Fen"
+      },
+      {
+        "publication_number": "US4975840A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-17",
+        "publication_date": "1990-12-04",
+        "assignee_original": "Lincoln National Risk Management, Inc.",
+        "title": "Method and apparatus for evaluating a potentially insurable risk",
+        "patent_id": "patent/US4975840A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4975840A%2Fen"
+      },
+      {
+        "publication_number": "US5083571A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-04-18",
+        "publication_date": "1992-01-28",
+        "assignee_original": "New York University",
+        "title": "Use of brain electrophysiological quantitative data to classify and subtype an individual into diagnostic categories by discriminant and cluster analysis",
+        "patent_id": "patent/US5083571A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5083571A%2Fen"
+      },
+      {
+        "publication_number": "US5130936A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-09-14",
+        "publication_date": "1992-07-14",
+        "assignee_original": "Arinc Research Corporation",
+        "title": "Method and apparatus for diagnostic testing including a neural network for determining testing sufficiency",
+        "patent_id": "patent/US5130936A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5130936A%2Fen"
+      },
+      {
+        "publication_number": "WO1993012255A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-12",
+        "publication_date": "1993-06-24",
+        "assignee_original": "Horus Therapeutics, Inc.",
+        "title": "Method for diagnosis osteopenia and determining its severity",
+        "patent_id": "patent/WO1993012255A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1993012255A1%2Fen"
+      },
+      {
+        "publication_number": "US5224035A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-05-07",
+        "publication_date": "1993-06-29",
+        "assignee_original": "Teijin Limited",
+        "title": "Method and apparatus for judging deformation of vertebral body",
+        "patent_id": "patent/US5224035A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5224035A%2Fen"
+      },
+      {
+        "publication_number": "US5265244A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-02-14",
+        "publication_date": "1993-11-23",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and system for facilitating processing of statistical inquires on stored data accessible through a data access structure",
+        "patent_id": "patent/US5265244A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5265244A%2Fen"
+      },
+      {
+        "publication_number": "US5343390A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-02-28",
+        "publication_date": "1994-08-30",
+        "assignee_original": "Arch Development Corporation",
+        "title": "Method and system for automated selection of regions of interest and detection of septal lines in digital chest radiographs",
+        "patent_id": "patent/US5343390A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5343390A%2Fen"
+      },
+      {
+        "publication_number": "US5359700A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-04-29",
+        "publication_date": "1994-10-25",
+        "assignee_original": "Intel Corporation",
+        "title": "Neural network incorporating difference neurons",
+        "patent_id": "patent/US5359700A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5359700A%2Fen"
+      },
+      {
+        "publication_number": "WO1996012187A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-13",
+        "publication_date": "1996-04-25",
+        "assignee_original": "Horus Therapeutics, Inc.",
+        "title": "Computer assisted methods for diagnosing diseases",
+        "patent_id": "patent/WO1996012187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996012187A1%2Fen"
+      },
+      {
+        "publication_number": "US5687716A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-15",
+        "publication_date": "1997-11-18",
+        "assignee_original": "Kaufmann; Peter",
+        "title": "Selective differentiating diagnostic process based on broad data bases",
+        "patent_id": "patent/US5687716A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5687716A%2Fen"
+      },
+      {
+        "publication_number": "US5692501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-20",
+        "publication_date": "1997-12-02",
+        "assignee_original": "Minturn; Paul",
+        "title": "Scientific wellness personal/clinical/laboratory assessments, profile and health risk managment system with insurability rankings on cross-correlated 10-point optical health/fitness/wellness scales",
+        "patent_id": "patent/US5692501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5692501A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5018067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-01-12",
+        "publication_date": "1991-05-21",
+        "assignee_original": "Iameter Incorporated",
+        "title": "Apparatus and method for improved estimation of health resource consumption through use of diagnostic and/or procedure grouping and severity of illness indicators",
+        "patent_id": "patent/US5018067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5018067A%2Fen"
+      },
+      {
+        "publication_number": "JP3703858B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-30",
+        "publication_date": "2005-10-05",
+        "assignee_original": "\u30b7\u30b9\u30e1\u30c3\u30af\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Attribution discrimination device",
+        "patent_id": "patent/JP3703858B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3703858B2%2Fen"
+      },
+      {
+        "publication_number": "US5629501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-23",
+        "publication_date": "1997-05-13",
+        "assignee_original": "Fenton; Robert",
+        "title": "Composite speaker system having a directional adjustable transducer",
+        "patent_id": "patent/US5629501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5629501A%2Fen"
+      },
+      {
+        "publication_number": "NZ314144A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-02",
+        "publication_date": "1999-04-29",
+        "assignee_original": "Smithkline Beecham Corp",
+        "title": "Computerised identification of at risk patients diagnosed with depression",
+        "patent_id": "patent/NZ314144A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ314144A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "C.H.D. Fall et al., Relation of infant feeding to adult serum cholesterol concentration and death from ischaemic heart disease, Brit. Med. Journ., 304: 801 801, 1992.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "C.H.D. Fall et al., Relation of infant feeding to adult serum cholesterol concentration and death from ischaemic heart disease, Brit. Med. Journ., 304: 801-801, 1992."
+    },
+    {
+      "title": "D.J.P. Barker, Fetal origins of coronary heart disease, Brit. Med. Journ., 311: 171 174, 1995.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "D.J.P. Barker, Fetal origins of coronary heart disease, Brit. Med. Journ., 311: 171-174, 1995."
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Correlation Analysis (vol. 2, pp. 193 204).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Correlation Analysis (vol. 2, pp. 193-204)."
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Discriminant Analysis (vol. 2, pp. 389 397).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Discriminant Analysis (vol. 2, pp. 389-397)."
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Logistic Regression Analysis (vol. 5, pp. 128 133).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Logistic Regression Analysis (vol. 5, pp. 128-133)."
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Mixed Model Analysis (vol. 3, pp. 137 141, article Fixed , Random , and Mixed Effect Models ).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Encyclopedia of Statistical Sciences, edited by Samuel Kotz, Normal L. Johnson, and Campbell B. Read, published by John Wiley & Sons, 1985, Mixed Model Analysis (vol. 3, pp. 137-141, article \"Fixed-, Random-, and Mixed-Effect Models\")."
+    },
+    {
+      "title": "Faris, R.A. and Campbell, T.C., Permanently altered chemical carcinogen metabolism as related to the neonatal environment, Science 211: 719 721, 1981.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Faris, R.A. and Campbell, T.C., Permanently altered chemical carcinogen metabolism as related to the neonatal environment, Science 211: 719-721, 1981."
+    },
+    {
+      "title": "G. Reibnegger et al., \"Neural Networks as a Tool for Utilizing Laboratory Information: Comparison with Linear Discriminant Analysis and with Classification and Regression Trees\", Proceedings of the National Academy of Sciences, vol. 88, Dec., 1991, pp. 114126-11430."
+    },
+    {
+      "title": "G. Reibnegger et al., Neural Networks as a Tool for Utilizing Laboratory Information: Comparison with Linear Discriminant Analysis and with Classification and Regression Trees , Proceedings of the National Academy of Sciences, vol. 88, Dec., 1991, pp. 114126 11430.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Grady, J. J. and Helms, R. W. (1995), \"Model Selection Techniques for the Covariance Matrix for Incomplete Longitudinal Data.\" Statistics in Medicine, 14, 1397-1416."
+    },
+    {
+      "title": "Grady, J. J. and Helms, R. W. (1995), Model Selection Techniques for the Covariance Matrix for Incomplete Longitudinal Data. Statistics in Medicine, 14, 1397 1416.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "J.W. Furlong et al., \"Neural Network Analysis of Serial Cardiac Enzyme Data: A Clinical Application of Artificial Machine Intelligence\", Amer. J. Clinical Pathology, Vol. 96, No. 1, Jul., 1991, pp. 134-141."
+    },
+    {
+      "title": "J.W. Furlong et al., Neural Network Analysis of Serial Cardiac Enzyme Data: A Clinical Application of Artificial Machine Intelligence , Amer. J. Clinical Pathology, Vol. 96, No. 1, Jul., 1991, pp. 134 141.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "K. M. Anderson, P.W.F. Wilson, P.M. Odell and W.B. Kannel, \"An Updated Coronary Risk Profile\", AHA Medical/Scientific Statment 356, vol. 83, No. 1, Jan., 1991."
+    },
+    {
+      "title": "K. M. Anderson, P.W.F. Wilson, P.M. Odell and W.B. Kannel, An Updated Coronary Risk Profile , AHA Medical/Scientific Statment 356, vol. 83, No. 1, Jan., 1991.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "M.L. Astion et al., \"Application of Neural Networks to the Interpretation of Laboratory Data in Cancer Diagnosis\", Clinical Chemistry, vol. 38, No. 1, 1992, pp. 34-38."
+    },
+    {
+      "title": "M.L. Astion et al., Application of Neural Networks to the Interpretation of Laboratory Data in Cancer Diagnosis , Clinical Chemistry, vol. 38, No. 1, 1992, pp. 34 38.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "P. Wilding et al., \"Application of Backpropagation Neural Networks to Diagnosis of Breast and Ovarian Cancer\", Cancer Letters, vol. 77, 1994, pp. 145-153."
+    },
+    {
+      "title": "P. Wilding et al., Application of Backpropagation Neural Networks to Diagnosis of Breast and Ovarian Cancer , Cancer Letters, vol. 77, 1994, pp. 145 153.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Rodriguez et al., \"A Computer Program for Application of Epidemiological Analysis,\" Eur. J. Epidemiol. 1993, 9 (11) 1-4."
+    },
+    {
+      "title": "Rodriguez et al., A Computer Program for Application of Epidemiological Analysis, Eur. J. Epidemiol. 1993, 9 (11) 1 4.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Tangen, Catherine M., and Helms, Ronald W., (1996), A case study of the analysis of multivariate longitudinal data using mixed (random effects) models, (Abstract) presented at the 1996 Spring Meeting of the International Biometric Society, Eastern North American Region, Richmond, Virginia, Mar., 1996.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "W.B. Kannel, E.D. Eaker, Psychosocial and other features of coronory heart disease: insights from the Framingham Study, Am. Heart Journ. 112: 1066 1073, 1986.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "W.B. Kannel, E.D. Eaker, Psychosocial and other features of coronory heart disease: insights from the Framingham Study, Am. Heart Journ. 112: 1066-1073, 1986."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2001066007A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-03",
+        "publication_date": "2001-09-13",
+        "assignee_original": "Joerg Hohnloser",
+        "title": "Medical risk assessment system and method",
+        "patent_id": "patent/WO2001066007A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001066007A1%2Fen"
+      },
+      {
+        "publication_number": "US6317752B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-09",
+        "publication_date": "2001-11-13",
+        "assignee_original": "Unica Technologies, Inc.",
+        "title": "Version testing in database mining",
+        "patent_id": "patent/US6317752B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6317752B1%2Fen"
+      },
+      {
+        "publication_number": "WO2001095214A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-02",
+        "publication_date": "2001-12-13",
+        "assignee_original": "Quality Metric",
+        "title": "Method and system for health assessment and monitoring",
+        "patent_id": "patent/WO2001095214A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001095214A1%2Fen"
+      },
+      {
+        "publication_number": "WO2002015154A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-11",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Sadka Dewey G",
+        "title": "Color preference self-help system",
+        "patent_id": "patent/WO2002015154A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002015154A1%2Fen"
+      },
+      {
+        "publication_number": "WO2002025405A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-19",
+        "publication_date": "2002-08-01",
+        "assignee_original": "Univ California",
+        "title": "Methods for classifying high-dimensional biological data",
+        "patent_id": "patent/WO2002025405A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002025405A3%2Fen"
+      },
+      {
+        "publication_number": "US6470298B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-04",
+        "publication_date": "2002-10-22",
+        "assignee_original": "The Bristol Observatory, Ltd",
+        "title": "Apparatus and method for probabilistic population size and overlap determination",
+        "patent_id": "patent/US6470298B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6470298B1%2Fen"
+      },
+      {
+        "publication_number": "US20030032871A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-18",
+        "publication_date": "2003-02-13",
+        "assignee_original": "New England Medical Center Hospitals, Inc.",
+        "title": "Adjustable coefficients to customize predictive instruments",
+        "patent_id": "patent/US20030032871A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030032871A1%2Fen"
+      },
+      {
+        "publication_number": "US20030033526A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-21",
+        "publication_date": "2003-02-13",
+        "assignee_original": "Jennifer French",
+        "title": "System and method for authentication of network users",
+        "patent_id": "patent/US20030033526A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030033526A1%2Fen"
+      },
+      {
+        "publication_number": "US20030048932A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-31",
+        "publication_date": "2003-03-13",
+        "assignee_original": "Siemens Medical Solutions Health Services Corporation.",
+        "title": "System for processing image representative data",
+        "patent_id": "patent/US20030048932A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030048932A1%2Fen"
+      },
+      {
+        "publication_number": "US20030065241A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-27",
+        "publication_date": "2003-04-03",
+        "assignee_original": "Joerg Hohnloser",
+        "title": "Medical risk assessment system and method",
+        "patent_id": "patent/US20030065241A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030065241A1%2Fen"
+      },
+      {
+        "publication_number": "US6547729B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-02",
+        "publication_date": "2003-04-15",
+        "assignee_original": "Fred E. Abbo",
+        "title": "Method and system for measuring the aging of a subject",
+        "patent_id": "patent/US6547729B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6547729B1%2Fen"
+      },
+      {
+        "publication_number": "DE10145265A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-13",
+        "publication_date": "2003-04-24",
+        "assignee_original": "Medical Netcare Gmbh",
+        "title": "Medical data evaluation method for patients with at least one chronic illness allows statistical data and techniques to be used in conjunction with individual patient data to improve diagnosis and treatment",
+        "patent_id": "patent/DE10145265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10145265A1%2Fen"
+      },
+      {
+        "publication_number": "US20030078739A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-05",
+        "publication_date": "2003-04-24",
+        "assignee_original": "Surromed, Inc.",
+        "title": "Feature list extraction from data sets such as spectra",
+        "patent_id": "patent/US20030078739A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030078739A1%2Fen"
+      },
+      {
+        "publication_number": "US20030101076A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-02",
+        "publication_date": "2003-05-29",
+        "assignee_original": "Zaleski John R.",
+        "title": "System for supporting clinical decision making through the modeling of acquired patient medical information",
+        "patent_id": "patent/US20030101076A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030101076A1%2Fen"
+      },
+      {
+        "publication_number": "US20030101028A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-04",
+        "publication_date": "2003-05-29",
+        "assignee_original": "Bristol Observatory, Ltd",
+        "title": "Apparatus and method for probabilistic population size and overlap determination, remote processing of private data and probabilistic population size and overlap determination for three or more data sets",
+        "patent_id": "patent/US20030101028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030101028A1%2Fen"
+      },
+      {
+        "publication_number": "US20030101075A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-29",
+        "publication_date": "2003-05-29",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Health management support method, system and healthy life expectancy prediction data generation method and system",
+        "patent_id": "patent/US20030101075A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030101075A1%2Fen"
+      },
+      {
+        "publication_number": "WO2002041234A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-06",
+        "publication_date": "2003-06-05",
+        "assignee_original": "Illumigen Biosciences Inc",
+        "title": "System and method for selectively classifying a population",
+        "patent_id": "patent/WO2002041234A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002041234A3%2Fen"
+      },
+      {
+        "publication_number": "US20030114763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-13",
+        "publication_date": "2003-06-19",
+        "assignee_original": "Reddy Shankara B.",
+        "title": "Fusion of computerized medical data",
+        "patent_id": "patent/US20030114763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030114763A1%2Fen"
+      },
+      {
+        "publication_number": "US20030177038A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-14",
+        "publication_date": "2003-09-18",
+        "assignee_original": "Rao R. Bharat",
+        "title": "Early detection of disease outbreak using electronic patient data to reduce public health threat from bio-terrorism",
+        "patent_id": "patent/US20030177038A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030177038A1%2Fen"
+      },
+      {
+        "publication_number": "US20030180748A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-13",
+        "publication_date": "2003-09-25",
+        "assignee_original": "Andreas Braun",
+        "title": "Methods for generating databases and databases for identifying polymorphic genetic markers",
+        "patent_id": "patent/US20030180748A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030180748A1%2Fen"
+      },
+      {
+        "publication_number": "US20030191666A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-09",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Kline Jeffrey A.",
+        "title": "System and method for evaluating pretest probabilities of life-threatening diseases",
+        "patent_id": "patent/US20030191666A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191666A1%2Fen"
+      },
+      {
+        "publication_number": "US20030191671A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-06",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Ulrich Dennis A.",
+        "title": "System and method for implementing medical risk algorithms at the point of care",
+        "patent_id": "patent/US20030191671A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191671A1%2Fen"
+      },
+      {
+        "publication_number": "US20030195772A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-08",
+        "publication_date": "2003-10-16",
+        "assignee_original": "The Haelan Corporation",
+        "title": "Healthcare management system and method of predicting high utilizers of healthcare services",
+        "patent_id": "patent/US20030195772A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030195772A1%2Fen"
+      },
+      {
+        "publication_number": "US6640132B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-17",
+        "publication_date": "2003-10-28",
+        "assignee_original": "Hypermed, Inc.",
+        "title": "Forensic hyperspectral apparatus and method",
+        "patent_id": "patent/US6640132B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6640132B1%2Fen"
+      },
+      {
+        "publication_number": "US20030207297A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-13",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Hubert Koster",
+        "title": "Methods for generating databases and databases for identifying polymorphic genetic markers",
+        "patent_id": "patent/US20030207297A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030207297A1%2Fen"
+      },
+      {
+        "publication_number": "US20030233250A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-19",
+        "publication_date": "2003-12-18",
+        "assignee_original": "David Joffe",
+        "title": "Systems and methods for managing biological data and providing data interpretation tools",
+        "patent_id": "patent/US20030233250A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030233250A1%2Fen"
+      },
+      {
+        "publication_number": "US20040059199A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-04",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Thomas Pamela Sue",
+        "title": "Wound assessment and monitoring apparatus and method",
+        "patent_id": "patent/US20040059199A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040059199A1%2Fen"
+      },
+      {
+        "publication_number": "US20040102685A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-16",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Cardiocom",
+        "title": "Apparatus and method for monitoring and communicating wellness parameters of ambulatory patients",
+        "patent_id": "patent/US20040102685A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040102685A1%2Fen"
+      },
+      {
+        "publication_number": "US20040102904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-20",
+        "publication_date": "2004-05-27",
+        "assignee_original": "Roger Bennison",
+        "title": "Clinical laboratory quality control randomizer",
+        "patent_id": "patent/US20040102904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040102904A1%2Fen"
+      },
+      {
+        "publication_number": "US20040116821A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-22",
+        "publication_date": "2004-06-17",
+        "assignee_original": "Bioalert Systems, Inc.",
+        "title": "Early warning system and methods for detection of a bioterrorism event",
+        "patent_id": "patent/US20040116821A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040116821A1%2Fen"
+      },
+      {
+        "publication_number": "WO2004052188A1",
+        "primary_language": "en",
+        "priority_date": "2002-12-12",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Olympus Corporation",
+        "title": "Information processing device",
+        "patent_id": "patent/WO2004052188A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004052188A1%2Fen"
+      },
+      {
+        "publication_number": "US20040121359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-29",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Kurt Berlin",
+        "title": "Fluorescence polarisation",
+        "patent_id": "patent/US20040121359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040121359A1%2Fen"
+      },
+      {
+        "publication_number": "US20040161143A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-21",
+        "publication_date": "2004-08-19",
+        "assignee_original": "Dietz Louis J.",
+        "title": "System for microvolume laser scanning cytometry",
+        "patent_id": "patent/US20040161143A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040161143A1%2Fen"
+      },
+      {
+        "publication_number": "US20040161763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-29",
+        "publication_date": "2004-08-19",
+        "assignee_original": "Kurt Berlin",
+        "title": "Fluroscence polarisation",
+        "patent_id": "patent/US20040161763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040161763A1%2Fen"
+      },
+      {
+        "publication_number": "WO2004104856A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-26",
+        "publication_date": "2004-12-02",
+        "assignee_original": "Commonwealth Scientific And Industrial Research Organisation",
+        "title": "A method for identifying a subset of components of a system",
+        "patent_id": "patent/WO2004104856A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004104856A1%2Fen"
+      },
+      {
+        "publication_number": "US20040249672A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-10",
+        "publication_date": "2004-12-09",
+        "assignee_original": "Siegfried Bocionek",
+        "title": "Preventive care health maintenance information system",
+        "patent_id": "patent/US20040249672A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040249672A1%2Fen"
+      },
+      {
+        "publication_number": "US20050009053A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-04-25",
+        "publication_date": "2005-01-13",
+        "assignee_original": "Sebastian Boecker",
+        "title": "Fragmentation-based methods and systems for de novo sequencing",
+        "patent_id": "patent/US20050009053A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050009053A1%2Fen"
+      },
+      {
+        "publication_number": "US6863534B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-11",
+        "publication_date": "2005-03-08",
+        "assignee_original": "Energia, Inc.",
+        "title": "Color preference self-help system",
+        "patent_id": "patent/US6863534B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6863534B1%2Fen"
+      },
+      {
+        "publication_number": "US20050065184A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-29",
+        "publication_date": "2005-03-24",
+        "assignee_original": "Aaipharma Inc.",
+        "title": "Method of reducing the risk of oxidative stress",
+        "patent_id": "patent/US20050065184A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050065184A1%2Fen"
+      },
+      {
+        "publication_number": "US20050089904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-05",
+        "publication_date": "2005-04-28",
+        "assignee_original": "Martin Beaulieu",
+        "title": "Allele-specific sequence variation analysis",
+        "patent_id": "patent/US20050089904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050089904A1%2Fen"
+      },
+      {
+        "publication_number": "US6893265B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-11",
+        "publication_date": "2005-05-17",
+        "assignee_original": "Energia, Inc.",
+        "title": "Color preference self-help system with improved color preference rankings and scoring",
+        "patent_id": "patent/US6893265B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6893265B2%2Fen"
+      },
+      {
+        "publication_number": "US20050108753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-18",
+        "publication_date": "2005-05-19",
+        "assignee_original": "Olivier Saidi",
+        "title": "Support vector regression for censored data",
+        "patent_id": "patent/US20050108753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050108753A1%2Fen"
+      },
+      {
+        "publication_number": "US20050112590A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-27",
+        "publication_date": "2005-05-26",
+        "assignee_original": "Boom Dirk V.D.",
+        "title": "Fragmentation-based methods and systems for sequence variation detection and discovery",
+        "patent_id": "patent/US20050112590A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050112590A1%2Fen"
+      },
+      {
+        "publication_number": "US20050131663A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-17",
+        "publication_date": "2005-06-16",
+        "assignee_original": "Entelos, Inc.",
+        "title": "Simulating patient-specific outcomes",
+        "patent_id": "patent/US20050131663A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050131663A1%2Fen"
+      },
+      {
+        "publication_number": "US20050159978A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-21",
+        "publication_date": "2005-07-21",
+        "assignee_original": "Anuthep Benja-Athon",
+        "title": "Method of modulating health-care expenses",
+        "patent_id": "patent/US20050159978A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050159978A1%2Fen"
+      },
+      {
+        "publication_number": "US20050182305A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-17",
+        "publication_date": "2005-08-18",
+        "assignee_original": "Loretta Ann Hendrich",
+        "title": "Method and system for assessing fall risk",
+        "patent_id": "patent/US20050182305A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050182305A1%2Fen"
+      },
+      {
+        "publication_number": "US20050197982A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2005-09-08",
+        "assignee_original": "Olivier Saidi",
+        "title": "Methods and systems for predicting occurrence of an event",
+        "patent_id": "patent/US20050197982A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050197982A1%2Fen"
+      },
+      {
+        "publication_number": "US20050209789A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-24",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Hastings Curtis A",
+        "title": "Peak selection in multidimensional data",
+        "patent_id": "patent/US20050209789A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050209789A1%2Fen"
+      },
+      {
+        "publication_number": "US20050207645A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-12",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Olympus Corporation",
+        "title": "Information processor",
+        "patent_id": "patent/US20050207645A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050207645A1%2Fen"
+      },
+      {
+        "publication_number": "US20050222897A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-01",
+        "publication_date": "2005-10-06",
+        "assignee_original": "Johann Walter",
+        "title": "Method and system for improving at least one of a business process, product and service",
+        "patent_id": "patent/US20050222897A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050222897A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234354A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-15",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Rowlandson G I",
+        "title": "System and method for assessing a patient's risk of sudden cardiac death",
+        "patent_id": "patent/US20050234354A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234354A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234356A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-15",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Rowlandson G I",
+        "title": "System and method for correlating implant and non-implant data",
+        "patent_id": "patent/US20050234356A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234356A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234355A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-15",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Rowlandson G I",
+        "title": "System and method for sudden cardiac death prediction",
+        "patent_id": "patent/US20050234355A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234355A1%2Fen"
+      },
+      {
+        "publication_number": "US20050240447A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-27",
+        "publication_date": "2005-10-27",
+        "assignee_original": "Kil David H",
+        "title": "System and method for automated extraction and display of past health care use to aid in predicting future health status",
+        "patent_id": "patent/US20050240447A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050240447A1%2Fen"
+      },
+      {
+        "publication_number": "US20050262031A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-21",
+        "publication_date": "2005-11-24",
+        "assignee_original": "Olivier Saidi",
+        "title": "Systems and methods for treating, diagnosing and predicting the occurrence of a medical condition",
+        "patent_id": "patent/US20050262031A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050262031A1%2Fen"
+      },
+      {
+        "publication_number": "US20050272070A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-26",
+        "publication_date": "2005-12-08",
+        "assignee_original": "Sequenom, Inc.",
+        "title": "Base specific cleavage of methylation-specific amplification products in combination with mass analysis",
+        "patent_id": "patent/US20050272070A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050272070A1%2Fen"
+      },
+      {
+        "publication_number": "US20050283347A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-09",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Apparatus and method for processing information concerning biological condition, system, program and recording medium for managing information concerning biological condition",
+        "patent_id": "patent/US20050283347A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050283347A1%2Fen"
+      },
+      {
+        "publication_number": "US20050280817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-02",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Uwe Horchner",
+        "title": "Polychromic laser scanning system and method of use",
+        "patent_id": "patent/US20050280817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050280817A1%2Fen"
+      },
+      {
+        "publication_number": "US20060064248A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-11",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Olivier Saidi",
+        "title": "Systems and methods for automated diagnosis and grading of tissue images",
+        "patent_id": "patent/US20060064248A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060064248A1%2Fen"
+      },
+      {
+        "publication_number": "US20060073501A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-10",
+        "publication_date": "2006-04-06",
+        "assignee_original": "Van Den Boom Dirk J",
+        "title": "Methods for long-range sequence analysis of nucleic acids",
+        "patent_id": "patent/US20060073501A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060073501A1%2Fen"
+      },
+      {
+        "publication_number": "US7043288B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-04",
+        "publication_date": "2006-05-09",
+        "assignee_original": "Inlight Solutions, Inc.",
+        "title": "Apparatus and method for spectroscopic analysis of tissue to detect diabetes in an individual",
+        "patent_id": "patent/US7043288B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7043288B2%2Fen"
+      },
+      {
+        "publication_number": "US20060097154A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-27",
+        "publication_date": "2006-05-11",
+        "assignee_original": "Curtis Hastings",
+        "title": "Median filter for liquid chromatography-mass spectrometry data",
+        "patent_id": "patent/US20060097154A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060097154A1%2Fen"
+      },
+      {
+        "publication_number": "US20060131222A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-09",
+        "publication_date": "2006-06-22",
+        "assignee_original": "Ppd Biomarker Discovery Sciences, Llc",
+        "title": "Methods for time-alignment of liquid chromatography-mass spectrometry data",
+        "patent_id": "patent/US20060131222A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060131222A1%2Fen"
+      },
+      {
+        "publication_number": "US20060155580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-18",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Tatsurou Kawamura",
+        "title": "Vital data vtilization system, method, program and recording medium",
+        "patent_id": "patent/US20060155580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060155580A1%2Fen"
+      },
+      {
+        "publication_number": "US20060224416A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-29",
+        "publication_date": "2006-10-05",
+        "assignee_original": "Group Health Plan, Inc., D/B/A Healthpartners",
+        "title": "Method and computer program product for predicting and minimizing future behavioral health-related hospital admissions",
+        "patent_id": "patent/US20060224416A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060224416A1%2Fen"
+      },
+      {
+        "publication_number": "US20060248031A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-04",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Kates Ronald E",
+        "title": "Method for training a learning-capable system",
+        "patent_id": "patent/US20060248031A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060248031A1%2Fen"
+      },
+      {
+        "publication_number": "US20060259246A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-28",
+        "publication_date": "2006-11-16",
+        "assignee_original": "Ppd Biomarker Discovery Sciences, Llc",
+        "title": "Methods for efficiently mining broad data sets for biological markers",
+        "patent_id": "patent/US20060259246A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060259246A1%2Fen"
+      },
+      {
+        "publication_number": "US7162294B2",
+        "primary_language": "en",
+        "priority_date": "2004-04-15",
+        "publication_date": "2007-01-09",
+        "assignee_original": "Ge Medical Systems Information Technologies, Inc.",
+        "title": "System and method for correlating sleep apnea and sudden cardiac death",
+        "patent_id": "patent/US7162294B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7162294B2%2Fen"
+      },
+      {
+        "publication_number": "US20070026365A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-04",
+        "publication_date": "2007-02-01",
+        "assignee_original": "Entelos, Inc.",
+        "title": "Defining virtual patient populations",
+        "patent_id": "patent/US20070026365A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070026365A1%2Fen"
+      },
+      {
+        "publication_number": "US20070055118A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-11",
+        "publication_date": "2007-03-08",
+        "assignee_original": "Shingo Kawasaki",
+        "title": "Optical measurement apparatus for living body",
+        "patent_id": "patent/US20070055118A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070055118A1%2Fen"
+      },
+      {
+        "publication_number": "US20070073590A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-22",
+        "publication_date": "2007-03-29",
+        "assignee_original": "Cosentino Louis C",
+        "title": "Remote monitor for physiological parameters and durable medical supplies",
+        "patent_id": "patent/US20070073590A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070073590A1%2Fen"
+      },
+      {
+        "publication_number": "US20070141570A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-07",
+        "publication_date": "2007-06-21",
+        "assignee_original": "Sequenom, Inc.",
+        "title": "Association of polymorphic kinase anchor proteins with cardiac phenotypes and related methods",
+        "patent_id": "patent/US20070141570A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070141570A1%2Fen"
+      },
+      {
+        "publication_number": "US7259845B2",
+        "primary_language": "en",
+        "priority_date": "1999-04-23",
+        "publication_date": "2007-08-21",
+        "assignee_original": "Ppd Biomarker Discovery Sciences Llc",
+        "title": "Disposable optical cuvette cartridge with low fluorescence material",
+        "patent_id": "patent/US7259845B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7259845B2%2Fen"
+      },
+      {
+        "publication_number": "US20070241912A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-05",
+        "publication_date": "2007-10-18",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Apparatus and method for calculating life expectancy in mobile communication terminal",
+        "patent_id": "patent/US20070241912A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070241912A1%2Fen"
+      },
+      {
+        "publication_number": "US20080009686A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-16",
+        "publication_date": "2008-01-10",
+        "assignee_original": "Hendrich Loretta A",
+        "title": "Method and system for assessing fall risk",
+        "patent_id": "patent/US20080009686A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080009686A1%2Fen"
+      },
+      {
+        "publication_number": "US20080009684A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-31",
+        "publication_date": "2008-01-10",
+        "assignee_original": "University Of Rochester",
+        "title": "Identifying risk of a medical event",
+        "patent_id": "patent/US20080009684A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080009684A1%2Fen"
+      },
+      {
+        "publication_number": "US20080045811A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-13",
+        "publication_date": "2008-02-21",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Disease management system and method including significant symptom filtering",
+        "patent_id": "patent/US20080045811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080045811A1%2Fen"
+      },
+      {
+        "publication_number": "US20080051770A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-22",
+        "publication_date": "2008-02-28",
+        "assignee_original": "Synergetics, Inc.",
+        "title": "Multiple Target Laser Probe",
+        "patent_id": "patent/US20080051770A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080051770A1%2Fen"
+      },
+      {
+        "publication_number": "US20080086272A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-09",
+        "publication_date": "2008-04-10",
+        "assignee_original": "Universite De Liege Quai Van Beneden, 25",
+        "title": "Identification and use of biomarkers for the diagnosis and the prognosis of inflammatory diseases",
+        "patent_id": "patent/US20080086272A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080086272A1%2Fen"
+      },
+      {
+        "publication_number": "US20080088629A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-11",
+        "publication_date": "2008-04-17",
+        "assignee_original": "Gunther Lorenz",
+        "title": "Preventive module for avoiding diseases",
+        "patent_id": "patent/US20080088629A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080088629A1%2Fen"
+      },
+      {
+        "publication_number": "US20080147368A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-16",
+        "publication_date": "2008-06-19",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Biological state-evaluating apparatus, biological state-evaluating method, biological state-evaluating system, biological state-evaluating program, evaluation function-generating apparatus, evaluation function-generating method, evaluation function-generating  program and recording medium",
+        "patent_id": "patent/US20080147368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080147368A1%2Fen"
+      },
+      {
+        "publication_number": "US20080162182A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-27",
+        "publication_date": "2008-07-03",
+        "assignee_original": "Cardiac Pacemakers, Inc",
+        "title": "Between-patient comparisons for risk stratification of future heart failure decompensation",
+        "patent_id": "patent/US20080162182A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080162182A1%2Fen"
+      },
+      {
+        "publication_number": "US20080161700A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-27",
+        "publication_date": "2008-07-03",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Inter-relation between within-patient decompensation detection algorithm and between-patient stratifier to manage hf patients in a more efficient manner",
+        "patent_id": "patent/US20080161700A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080161700A1%2Fen"
+      },
+      {
+        "publication_number": "US7432342B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-03",
+        "publication_date": "2008-10-07",
+        "assignee_original": "Sequenom, Inc.",
+        "title": "Kinase anchor protein muteins, peptides thereof and related documents",
+        "patent_id": "patent/US7432342B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7432342B2%2Fen"
+      },
+      {
+        "publication_number": "US20090018870A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-01",
+        "publication_date": "2009-01-15",
+        "assignee_original": "Joseph Thomas Weishaar",
+        "title": "Method for Preventing Chronic Disease",
+        "patent_id": "patent/US20090018870A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090018870A1%2Fen"
+      },
+      {
+        "publication_number": "US7483554B2",
+        "primary_language": "en",
+        "priority_date": "2003-11-17",
+        "publication_date": "2009-01-27",
+        "assignee_original": "Aureon Laboratories, Inc.",
+        "title": "Pathological tissue mapping",
+        "patent_id": "patent/US7483554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7483554B2%2Fen"
+      },
+      {
+        "publication_number": "US7608394B2",
+        "primary_language": "en",
+        "priority_date": "2004-03-26",
+        "publication_date": "2009-10-27",
+        "assignee_original": "Sequenom, Inc.",
+        "title": "Methods and compositions for phenotype identification based on nucleic acid methylation",
+        "patent_id": "patent/US7608394B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7608394B2%2Fen"
+      },
+      {
+        "publication_number": "US7629889B2",
+        "primary_language": "en",
+        "priority_date": "2006-12-27",
+        "publication_date": "2009-12-08",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Within-patient algorithm to predict heart failure decompensation",
+        "patent_id": "patent/US7629889B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7629889B2%2Fen"
+      },
+      {
+        "publication_number": "US20100009401A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2010-01-14",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating colorectal cancer, colorectal cancer-evaluating apparatus, colorectal cancer-evaluating method, colorectal cancer-evaluating system, colorectal cancer-evaluating program and recording medium",
+        "patent_id": "patent/US20100009401A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100009401A1%2Fen"
+      },
+      {
+        "publication_number": "US20100009402A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2010-01-14",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating breast cancer, breast cancer-evaluating apparatus, breast cancer-evaluating method, breast cancer-evaluating system, breast cancer-evaluating program and recording medium",
+        "patent_id": "patent/US20100009402A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100009402A1%2Fen"
+      },
+      {
+        "publication_number": "US20100017144A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-04",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Lung cancer evaluating apparatus, method, system, and program and recording medium therefor",
+        "patent_id": "patent/US20100017144A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100017144A1%2Fen"
+      },
+      {
+        "publication_number": "US20100017145A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating cancer state, cancer-evaluating apparatus, cancer-evaluating method, cancer-evaluating system, cancer-evaluating program and recording medium",
+        "patent_id": "patent/US20100017145A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100017145A1%2Fen"
+      },
+      {
+        "publication_number": "US20100081941A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-22",
+        "publication_date": "2010-04-01",
+        "assignee_original": "Endothelix, Inc.",
+        "title": "Cardiovascular health station methods and apparatus",
+        "patent_id": "patent/US20100081941A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100081941A1%2Fen"
+      },
+      {
+        "publication_number": "US20100099958A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Fresenius Medical Care Holdings Inc.",
+        "title": "Method of identifying when a patient undergoing hemodialysis is at increased risk of death",
+        "patent_id": "patent/US20100099958A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100099958A1%2Fen"
+      },
+      {
+        "publication_number": "US20100222653A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-13",
+        "publication_date": "2010-09-02",
+        "assignee_original": "Siejko Krzysztof Z",
+        "title": "Physiological event detection systems and methods",
+        "patent_id": "patent/US20100222653A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100222653A1%2Fen"
+      },
+      {
+        "publication_number": "US20100256610A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-25",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Basil Rigas",
+        "title": "Apparatus and method of detection and localized treatment of abnormal conditions",
+        "patent_id": "patent/US20100256610A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100256610A1%2Fen"
+      },
+      {
+        "publication_number": "US20100291614A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-18",
+        "publication_date": "2010-11-18",
+        "assignee_original": "Wolfgang Nitz",
+        "title": "In vitro method for determining the risk of and diagnosis of an arterial vascular disorder",
+        "patent_id": "patent/US20100291614A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100291614A1%2Fen"
+      },
+      {
+        "publication_number": "US20110035156A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-06",
+        "publication_date": "2011-02-10",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating gastric cancer, gastric cancer-evaluating apparatus, gastric cancer-evaluating method, gastric cancer-evaluating system, gastric cancer-evaluating program and recording medium",
+        "patent_id": "patent/US20110035156A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110035156A1%2Fen"
+      },
+      {
+        "publication_number": "US20110054289A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-01",
+        "publication_date": "2011-03-03",
+        "assignee_original": "Adidas AG, World of Sports",
+        "title": "Physiologic Database And System For Population Modeling And Method of Population Modeling",
+        "patent_id": "patent/US20110054289A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110054289A1%2Fen"
+      },
+      {
+        "publication_number": "US20110071363A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-22",
+        "publication_date": "2011-03-24",
+        "assignee_original": "Healthways, Inc.",
+        "title": "System and method for using predictive models to determine levels of healthcare interventions",
+        "patent_id": "patent/US20110071363A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110071363A1%2Fen"
+      },
+      {
+        "publication_number": "US20110091924A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-04",
+        "publication_date": "2011-04-21",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating cancer type",
+        "patent_id": "patent/US20110091924A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110091924A1%2Fen"
+      },
+      {
+        "publication_number": "US20110137136A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-16",
+        "publication_date": "2011-06-09",
+        "assignee_original": "Fresenius Medical Care Holdings, Inc.",
+        "title": "Method of identifying when a patient undergoing hemodialysis is at increased risk of death",
+        "patent_id": "patent/US20110137136A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110137136A1%2Fen"
+      },
+      {
+        "publication_number": "US20110138889A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-20",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating prostatic disease",
+        "patent_id": "patent/US20110138889A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110138889A1%2Fen"
+      },
+      {
+        "publication_number": "US20110143444A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-20",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Ajinomoto Co., Inc.",
+        "title": "Method of evaluating female genital cancer",
+        "patent_id": "patent/US20110143444A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110143444A1%2Fen"
+      },
+      {
+        "publication_number": "US20110144914A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-09",
+        "publication_date": "2011-06-16",
+        "assignee_original": "Doug Harrington",
+        "title": "Biomarker assay for diagnosis and classification of cardiovascular disease",
+        "patent_id": "patent/US20110144914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110144914A1%2Fen"
+      },
+      {
+        "publication_number": "US20110208533A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-02",
+        "publication_date": "2011-08-25",
+        "assignee_original": "Bjorner Jakob B",
+        "title": "Method, system and medium for assessing the impact of various ailments on health related quality of life",
+        "patent_id": "patent/US20110208533A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110208533A1%2Fen"
+      },
+      {
+        "publication_number": "US20110289096A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-14",
+        "publication_date": "2011-11-24",
+        "assignee_original": "Patentratings, Llc",
+        "title": "Method and system for rating patents and other intangible assets",
+        "patent_id": "patent/US20110289096A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110289096A1%2Fen"
+      },
+      {
+        "publication_number": "US8131473B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-20",
+        "publication_date": "2012-03-06",
+        "assignee_original": "Metabolon, Inc.",
+        "title": "Data analysis methods for locating entities of interest within large, multivariable datasets",
+        "patent_id": "patent/US8131473B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8131473B1%2Fen"
+      },
+      {
+        "publication_number": "US8244654B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-22",
+        "publication_date": "2012-08-14",
+        "assignee_original": "Healthways, Inc.",
+        "title": "End of life predictive model",
+        "patent_id": "patent/US8244654B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8244654B1%2Fen"
+      },
+      {
+        "publication_number": "JP2013178238A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-31",
+        "publication_date": "2013-09-09",
+        "assignee_original": "Ajinomoto Co Inc",
+        "title": "Evaluation method of cardiovascular event, cardiovascular event evaluation device, cardiovascular event evaluation method, cardiovascular event evaluation program, cardiovascular event evaluation system, and information communication terminal device",
+        "patent_id": "patent/JP2013178238A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013178238A%2Fen"
+      },
+      {
+        "publication_number": "WO2013164823A1",
+        "primary_language": "en",
+        "priority_date": "2012-05-03",
+        "publication_date": "2013-11-07",
+        "assignee_original": "Medial Research Ltd.",
+        "title": "Methods and systems of evaluating a risk of a gastrointestinal cancer",
+        "patent_id": "patent/WO2013164823A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013164823A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "WO2014203258A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-19",
+        "publication_date": "2014-12-24",
+        "assignee_original": "Medial Research Ltd.",
+        "title": "Managing medical examinations in a population",
+        "patent_id": "patent/WO2014203258A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014203258A1%2Fen"
+      },
+      {
+        "publication_number": "US20150087929A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-20",
+        "publication_date": "2015-03-26",
+        "assignee_original": "Tuyymi Technologies LLC",
+        "title": "Method and System for Population Level Determination of Maximal Aerobic Capacity",
+        "patent_id": "patent/US20150087929A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150087929A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015068157A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-07",
+        "publication_date": "2015-05-14",
+        "assignee_original": "Medial Research Ltd.",
+        "title": "Methods and systems of evaluating a risk of lung cancer",
+        "patent_id": "patent/WO2015068157A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015068157A1%2Fen"
+      },
+      {
+        "publication_number": "US9037578B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-03",
+        "publication_date": "2015-05-19",
+        "assignee_original": "Wellclub, Llc",
+        "title": "Content suggestion engine",
+        "patent_id": "patent/US9037578B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9037578B2%2Fen"
+      },
+      {
+        "publication_number": "US20150205695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-18",
+        "publication_date": "2015-07-23",
+        "assignee_original": "Beyondcore, Inc.",
+        "title": "Identifying Contributors That Explain Differences Between a Data Set and a Subset of the Data Set",
+        "patent_id": "patent/US20150205695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150205695A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20160203287A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-20",
+        "publication_date": "2016-07-14",
+        "assignee_original": "Ohio State Innovation Foundation",
+        "title": "Methods for predicting prognosis",
+        "patent_id": "patent/US20160203287A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160203287A1%2Fen"
+      },
+      {
+        "publication_number": "US9395234B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-05",
+        "publication_date": "2016-07-19",
+        "assignee_original": "Cardiocom, Llc",
+        "title": "Stabilizing base for scale",
+        "patent_id": "patent/US9395234B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9395234B2%2Fen"
+      },
+      {
+        "publication_number": "US9454644B2",
+        "primary_language": "en",
+        "priority_date": "1999-04-16",
+        "publication_date": "2016-09-27",
+        "assignee_original": "Cardiocom",
+        "title": "Downloadable datasets for a patient monitoring system",
+        "patent_id": "patent/US9454644B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9454644B2%2Fen"
+      },
+      {
+        "publication_number": "US20170199189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-28",
+        "publication_date": "2017-07-13",
+        "assignee_original": "Relevance Health",
+        "title": "System for assessing global wellness",
+        "patent_id": "patent/US20170199189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170199189A1%2Fen"
+      },
+      {
+        "publication_number": "US9734290B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-16",
+        "publication_date": "2017-08-15",
+        "assignee_original": "Neela SRINIVAS",
+        "title": "System and method for evidence based differential analysis and incentives based healthcare policy",
+        "patent_id": "patent/US9734290B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9734290B2%2Fen"
+      },
+      {
+        "publication_number": "US20170293722A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-11",
+        "publication_date": "2017-10-12",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Insurance Evaluation Engine",
+        "patent_id": "patent/US20170293722A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170293722A1%2Fen"
+      },
+      {
+        "publication_number": "US9918646B2",
+        "primary_language": "en",
+        "priority_date": "2014-09-02",
+        "publication_date": "2018-03-20",
+        "assignee_original": "Apple Inc.",
+        "title": "Sensor fusion approach to energy expenditure estimation",
+        "patent_id": "patent/US9918646B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9918646B2%2Fen"
+      },
+      {
+        "publication_number": "US9940405B2",
+        "primary_language": "en",
+        "priority_date": "2011-04-05",
+        "publication_date": "2018-04-10",
+        "assignee_original": "Beyondcore Holdings, Llc",
+        "title": "Automatically optimizing business process platforms",
+        "patent_id": "patent/US9940405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9940405B2%2Fen"
+      },
+      {
+        "publication_number": "US9968266B2",
+        "primary_language": "en",
+        "priority_date": "2006-12-27",
+        "publication_date": "2018-05-15",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Risk stratification based heart failure detection algorithm",
+        "patent_id": "patent/US9968266B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9968266B2%2Fen"
+      },
+      {
+        "publication_number": "US20180166170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-12",
+        "publication_date": "2018-06-14",
+        "assignee_original": "Konstantinos Theofilatos",
+        "title": "Generalized computational framework and system for integrative prediction of biomarkers",
+        "patent_id": "patent/US20180166170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180166170A1%2Fen"
+      },
+      {
+        "publication_number": "US10095778B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-27",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Patentratings, Llc",
+        "title": "Method and system for probabilistically quantifying and visualizing relevance between two or more citationally or contextually related data objects",
+        "patent_id": "patent/US10095778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10095778B2%2Fen"
+      },
+      {
+        "publication_number": "US10203321B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-02",
+        "publication_date": "2019-02-12",
+        "assignee_original": "Fresenius Medical Care Holdings, Inc.",
+        "title": "Method of identifying when a patient undergoing hemodialysis is at increased risk of death",
+        "patent_id": "patent/US10203321B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10203321B2%2Fen"
+      },
+      {
+        "publication_number": "US10244948B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-06",
+        "publication_date": "2019-04-02",
+        "assignee_original": "Apple Inc.",
+        "title": "Statistical heart rate monitoring for estimating calorie expenditure",
+        "patent_id": "patent/US10244948B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10244948B2%2Fen"
+      },
+      {
+        "publication_number": "US10512406B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-01",
+        "publication_date": "2019-12-24",
+        "assignee_original": "Apple Inc.",
+        "title": "Systems and methods for determining an intensity level of an exercise using photoplethysmogram (PPG)",
+        "patent_id": "patent/US10512406B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10512406B2%2Fen"
+      },
+      {
+        "publication_number": "US10620232B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-22",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Apple Inc.",
+        "title": "Detecting controllers in vehicles using wearable devices",
+        "patent_id": "patent/US10620232B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10620232B2%2Fen"
+      },
+      {
+        "publication_number": "US10617912B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-31",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Apple Inc.",
+        "title": "Systems and methods of swimming calorimetry",
+        "patent_id": "patent/US10617912B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10617912B2%2Fen"
+      },
+      {
+        "publication_number": "US10682087B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-03",
+        "publication_date": "2020-06-16",
+        "assignee_original": "Olfaxis, Llc",
+        "title": "Apparatus, method, and system for testing human olfactory systems",
+        "patent_id": "patent/US10682087B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10682087B2%2Fen"
+      },
+      {
+        "publication_number": "US10687752B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-29",
+        "publication_date": "2020-06-23",
+        "assignee_original": "Apple Inc.",
+        "title": "Detecting unmeasurable loads using heart rate and work rate",
+        "patent_id": "patent/US10687752B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10687752B2%2Fen"
+      },
+      {
+        "publication_number": "US10687707B2",
+        "primary_language": "en",
+        "priority_date": "2016-06-07",
+        "publication_date": "2020-06-23",
+        "assignee_original": "Apple Inc.",
+        "title": "Detecting activity by a wheelchair user",
+        "patent_id": "patent/US10687707B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10687707B2%2Fen"
+      },
+      {
+        "publication_number": "US10699594B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-16",
+        "publication_date": "2020-06-30",
+        "assignee_original": "Apple Inc.",
+        "title": "Calculating an estimate of wind resistance experienced by a cyclist",
+        "patent_id": "patent/US10699594B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10699594B2%2Fen"
+      },
+      {
+        "publication_number": "US10694994B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-22",
+        "publication_date": "2020-06-30",
+        "assignee_original": "Apple Inc.",
+        "title": "Techniques for jointly calibrating load and aerobic capacity",
+        "patent_id": "patent/US10694994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10694994B2%2Fen"
+      },
+      {
+        "publication_number": "US10709933B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-17",
+        "publication_date": "2020-07-14",
+        "assignee_original": "Apple Inc.",
+        "title": "Pose and heart rate energy expenditure for yoga",
+        "patent_id": "patent/US10709933B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10709933B2%2Fen"
+      },
+      {
+        "publication_number": "US20200258639A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-12",
+        "publication_date": "2020-08-13",
+        "assignee_original": "Fresenius Medical Care Deutschland Gmbh",
+        "title": "Medical device and computer-implemented method of predicting risk, occurrence or progression of adverse health conditions in test subjects in subpopulations arbitrarily selected from a total population",
+        "patent_id": "patent/US20200258639A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200258639A1%2Fen"
+      },
+      {
+        "publication_number": "US10796232B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-04",
+        "publication_date": "2020-10-06",
+        "assignee_original": "Salesforce.Com, Inc.",
+        "title": "Explaining differences between predicted outcomes and actual outcomes of a process",
+        "patent_id": "patent/US10796232B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10796232B2%2Fen"
+      },
+      {
+        "publication_number": "US10802687B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-04",
+        "publication_date": "2020-10-13",
+        "assignee_original": "Salesforce.Com, Inc.",
+        "title": "Displaying differences between different data sets of a process",
+        "patent_id": "patent/US10802687B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10802687B2%2Fen"
+      },
+      {
+        "publication_number": "US10810641B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-14",
+        "publication_date": "2020-10-20",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Managing an exchange that fulfills natural language travel requests",
+        "patent_id": "patent/US10810641B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10810641B2%2Fen"
+      },
+      {
+        "publication_number": "US10893813B2",
+        "primary_language": "en",
+        "priority_date": "2006-05-08",
+        "publication_date": "2021-01-19",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Heart failure management",
+        "patent_id": "patent/US10893813B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10893813B2%2Fen"
+      },
+      {
+        "publication_number": "US10980467B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-03",
+        "publication_date": "2021-04-20",
+        "assignee_original": "Olfaxis, Llc",
+        "title": "Apparatus, method, and system for testing human olfactory systems",
+        "patent_id": "patent/US10980467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10980467B2%2Fen"
+      },
+      {
+        "publication_number": "US11049047B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2021-06-29",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Multiattribute travel booking platform",
+        "patent_id": "patent/US11049047B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11049047B2%2Fen"
+      },
+      {
+        "publication_number": "US11051720B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-01",
+        "publication_date": "2021-07-06",
+        "assignee_original": "Apple Inc.",
+        "title": "Fitness tracking for constrained-arm usage",
+        "patent_id": "patent/US11051720B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11051720B2%2Fen"
+      },
+      {
+        "publication_number": "US11103749B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-31",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Apple Inc.",
+        "title": "Systems and methods of swimming analysis",
+        "patent_id": "patent/US11103749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11103749B2%2Fen"
+      },
+      {
+        "publication_number": "US11138681B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-01",
+        "publication_date": "2021-10-05",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Inference model for traveler classification",
+        "patent_id": "patent/US11138681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11138681B2%2Fen"
+      },
+      {
+        "publication_number": "US11222088B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-14",
+        "publication_date": "2022-01-11",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Determining feasible itinerary solutions",
+        "patent_id": "patent/US11222088B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11222088B2%2Fen"
+      },
+      {
+        "publication_number": "US11262203B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-18",
+        "publication_date": "2022-03-01",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Scoring system for travel planning",
+        "patent_id": "patent/US11262203B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11262203B2%2Fen"
+      },
+      {
+        "publication_number": "US11615891B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-29",
+        "publication_date": "2023-03-28",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Heart failure event rate assessment",
+        "patent_id": "patent/US11615891B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11615891B2%2Fen"
+      },
+      {
+        "publication_number": "US11763212B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-14",
+        "publication_date": "2023-09-19",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Artificially intelligent computing engine for travel itinerary resolutions",
+        "patent_id": "patent/US11763212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11763212B2%2Fen"
+      },
+      {
+        "publication_number": "US11783006B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2023-10-10",
+        "assignee_original": "Cigna Intellectual Property, Inc.",
+        "title": "Computerized methods and systems for machine-learned multi-output multi-step forecasting of time-series data",
+        "patent_id": "patent/US11783006B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11783006B1%2Fen"
+      },
+      {
+        "publication_number": "US11896368B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-31",
+        "publication_date": "2024-02-13",
+        "assignee_original": "Apple Inc.",
+        "title": "Systems and methods for determining swimming metrics",
+        "patent_id": "patent/US11896368B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11896368B2%2Fen"
+      },
+      {
+        "publication_number": "US11937904B2",
+        "primary_language": "en",
+        "priority_date": "2019-09-09",
+        "publication_date": "2024-03-26",
+        "assignee_original": "Apple Inc.",
+        "title": "Detecting the end of cardio machine activities on a wearable device",
+        "patent_id": "patent/US11937904B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11937904B2%2Fen"
+      },
+      {
+        "publication_number": "US11941552B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-25",
+        "publication_date": "2024-03-26",
+        "assignee_original": "Amgine Technologies (Us), Inc.",
+        "title": "Travel booking platform with multiattribute portfolio evaluation",
+        "patent_id": "patent/US11941552B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11941552B2%2Fen"
+      },
+      {
+        "publication_number": "US11986310B2",
+        "primary_language": "en",
+        "priority_date": "2017-09-29",
+        "publication_date": "2024-05-21",
+        "assignee_original": "Olfaxis, Llc",
+        "title": "Olfactory test systems and methods",
+        "patent_id": "patent/US11986310B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11986310B2%2Fen"
+      },
+      {
+        "publication_number": "US12001928B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2024-06-04",
+        "assignee_original": "Cigna Intellectual Property, Inc.",
+        "title": "Systems and methods for artificial-intelligence-assisted prediction generation",
+        "patent_id": "patent/US12001928B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12001928B1%2Fen"
+      },
+      {
+        "publication_number": "US12109453B2",
+        "primary_language": "en",
+        "priority_date": "2019-09-27",
+        "publication_date": "2024-10-08",
+        "assignee_original": "Apple Inc.",
+        "title": "Detecting outdoor walking workouts on a wearable device",
+        "patent_id": "patent/US12109453B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12109453B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5830655A",
+        "primary_language": "en",
+        "priority_date": "1995-05-22",
+        "publication_date": "1998-11-03",
+        "assignee_original": "Sri International",
+        "title": "Oligonucleotide sizing using cleavable primers",
+        "patent_id": "patent/US5830655A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5830655A%2Fen"
+      },
+      {
+        "publication_number": "DE69738206T2",
+        "primary_language": "en",
+        "priority_date": "1996-11-06",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Sequenom, Inc., San Diego",
+        "title": "DNA diagnostics by mass spectrometry",
+        "patent_id": "patent/DE69738206T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69738206T2%2Fen"
+      },
+      {
+        "publication_number": "DE69735445T2",
+        "primary_language": "en",
+        "priority_date": "1996-12-10",
+        "publication_date": "2006-08-10",
+        "assignee_original": "Sequenom, Inc., San Diego",
+        "title": "NON-VOLATILE, NON-VOLATILE MOLECULES FOR MASS MARKING",
+        "patent_id": "patent/DE69735445T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69735445T2%2Fen"
+      },
+      {
+        "publication_number": "US6110109A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-26",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Biosignia, Inc.",
+        "title": "System and method for predicting disease onset",
+        "patent_id": "patent/US6110109A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110109A%2Fen"
+      },
+      {
+        "publication_number": "WO2001020533A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-15",
+        "publication_date": "2001-03-22",
+        "assignee_original": "Luminex Corporation",
+        "title": "Creation of a database of biochemical data and methods of use",
+        "patent_id": "patent/WO2001020533A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001020533A2%2Fen"
+      },
+      {
+        "publication_number": "JP2003519829A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-13",
+        "publication_date": "2003-06-24",
+        "assignee_original": "\u30b7\u30fc\u30af\u30a8\u30ce\u30e0\u30fb\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30fc\u30c6\u30c4\u30c9",
+        "title": "Methods for creating a database and a database for identifying polymorphic genetic markers",
+        "patent_id": "patent/JP2003519829A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003519829A%2Fen"
+      },
+      {
+        "publication_number": "US7246069B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-15",
+        "publication_date": "2007-07-17",
+        "assignee_original": "Ue Systems, Inc.",
+        "title": "Method and apparatus for online health monitoring",
+        "patent_id": "patent/US7246069B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7246069B1%2Fen"
+      },
+      {
+        "publication_number": "GB2363874B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-06",
+        "publication_date": "2004-08-04",
+        "assignee_original": "Dennis Sunga Fernandez",
+        "title": "Bioinformatic transaction scheme",
+        "patent_id": "patent/GB2363874B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2363874B%2Fen"
+      },
+      {
+        "publication_number": "US6383136B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-06",
+        "publication_date": "2002-05-07",
+        "assignee_original": "Charlyn Jordan",
+        "title": "Health analysis and forecast of abnormal conditions",
+        "patent_id": "patent/US6383136B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6383136B1%2Fen"
+      },
+      {
+        "publication_number": "EP1272657A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-12",
+        "publication_date": "2003-01-08",
+        "assignee_original": "The Johns Hopkins University",
+        "title": "Method and system for microorganism identification by mass spectrometry-based proteome database searching",
+        "patent_id": "patent/EP1272657A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1272657A2%2Fen"
+      },
+      {
+        "publication_number": "US6958214B2",
+        "primary_language": "en",
+        "priority_date": "2000-07-10",
+        "publication_date": "2005-10-25",
+        "assignee_original": "Sequenom, Inc.",
+        "title": "Polymorphic kinase anchor proteins and nucleic acids encoding the same",
+        "patent_id": "patent/US6958214B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6958214B2%2Fen"
+      },
+      {
+        "publication_number": "JP3563394B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-26",
+        "publication_date": "2004-09-08",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u65e5\u7acb\u88fd\u4f5c\u6240",
+        "title": "Screen display system",
+        "patent_id": "patent/JP3563394B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3563394B2%2Fen"
+      },
+      {
+        "publication_number": "US9740817B1",
+        "primary_language": "en",
+        "priority_date": "2002-10-18",
+        "publication_date": "2017-08-22",
+        "assignee_original": "Dennis Sunga Fernandez",
+        "title": "Apparatus for biological sensing and alerting of pharmaco-genomic mutation",
+        "patent_id": "patent/US9740817B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9740817B1%2Fen"
+      },
+      {
+        "publication_number": "US8346482B2",
+        "primary_language": "en",
+        "priority_date": "2003-08-22",
+        "publication_date": "2013-01-01",
+        "assignee_original": "Fernandez Dennis S",
+        "title": "Integrated biosensor and simulation system for diagnosis and therapy",
+        "patent_id": "patent/US8346482B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8346482B2%2Fen"
+      },
+      {
+        "publication_number": "KR101018665B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-18",
+        "publication_date": "2011-03-04",
+        "assignee_original": "\uc7ac\ub2e8\ubc95\uc778\uc11c\uc6b8\ub300\ud559\uad50\uc0b0\ud559\ud611\ub825\uc7ac\ub2e8",
+        "title": "Prostate cancer diagnostic method and device",
+        "patent_id": "patent/KR101018665B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101018665B1%2Fen"
+      },
+      {
+        "publication_number": "JP5219700B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-01",
+        "publication_date": "2013-06-26",
+        "assignee_original": "\u30aa\u30e0\u30ed\u30f3\u30d8\u30eb\u30b9\u30b1\u30a2\u682a\u5f0f\u4f1a\u793e",
+        "title": "Biometric index management device",
+        "patent_id": "patent/JP5219700B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5219700B2%2Fen"
+      },
+      {
+        "publication_number": "US10018631B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-17",
+        "publication_date": "2018-07-10",
+        "assignee_original": "Cernostics, Inc.",
+        "title": "Systems and compositions for diagnosing Barrett's esophagus and methods of using the same",
+        "patent_id": "patent/US10018631B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10018631B2%2Fen"
+      },
+      {
+        "publication_number": "US20140242612A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-14",
+        "publication_date": "2014-08-28",
+        "assignee_original": "Shuqi Wang",
+        "title": "System and method for integration of mobile device imaging with microchip elisa",
+        "patent_id": "patent/US20140242612A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140242612A1%2Fen"
+      },
+      {
+        "publication_number": "SG11201402898SA",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-14",
+        "publication_date": "2014-07-30",
+        "assignee_original": "Nestec Sa",
+        "title": "Methods for predicting age-or developmental stage-appropriate foods for children",
+        "patent_id": "patent/SG11201402898SA/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSG11201402898SA%2Fen"
+      },
+      {
+        "publication_number": "US20160135706A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-14",
+        "publication_date": "2016-05-19",
+        "assignee_original": "Zoll Medical Corporation",
+        "title": "Medical Premonitory Event Estimation",
+        "patent_id": "patent/US20160135706A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160135706A1%2Fen"
+      },
+      {
+        "publication_number": "CN105224786B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-30",
+        "publication_date": "2018-04-17",
+        "assignee_original": "\u5b8b\u6d9b",
+        "title": "A kind of method and smart machine for adjusting physical sign parameters",
+        "patent_id": "patent/CN105224786B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105224786B%2Fen"
+      },
+      {
+        "publication_number": "WO2017091658A1",
+        "primary_language": "en",
+        "priority_date": "2015-11-25",
+        "publication_date": "2017-06-01",
+        "assignee_original": "Cernostics, Inc.",
+        "title": "Methods of predicting progression of barrett's esophagus",
+        "patent_id": "patent/WO2017091658A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017091658A1%2Fen"
+      },
+      {
+        "publication_number": "JP6247722B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-29",
+        "publication_date": "2017-12-13",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u6d77\u30e1\u30ac\u30cd\u30b3\u30f3\u30bf\u30af\u30c8",
+        "title": "Diopter value prediction system, diopter value prediction method and program",
+        "patent_id": "patent/JP6247722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6247722B1%2Fen"
+      },
+      {
+        "publication_number": "CN107246761A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-12",
+        "publication_date": "2017-10-13",
+        "assignee_original": "\u4e0a\u6d77\u7406\u5de5\u5927\u5b66",
+        "title": "Mechanical superfreeze equipment and application process",
+        "patent_id": "patent/CN107246761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107246761A%2Fen"
+      },
+      {
+        "publication_number": "KR102106428B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-19",
+        "publication_date": "2020-05-06",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc140\ubc14\uc2a4\uc5d0\uc774\uc544\uc774",
+        "title": "Method for predicting health age",
+        "patent_id": "patent/KR102106428B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102106428B1%2Fen"
+      },
+      {
+        "publication_number": "CN112203582B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-01",
+        "publication_date": "2024-04-16",
+        "assignee_original": "\u6df1\u5733\u5e02\u957f\u6851\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Pulse propagation time determination method and system",
+        "patent_id": "patent/CN112203582B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112203582B%2Fen"
+      },
+      {
+        "publication_number": "JP7215682B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-09",
+        "publication_date": "2023-01-31",
+        "assignee_original": "\uff41\uff49\uff57\uff45\uff4c\uff4c\u682a\u5f0f\u4f1a\u793e",
+        "title": "Information processing system and program",
+        "patent_id": "patent/JP7215682B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7215682B2%2Fen"
+      },
+      {
+        "publication_number": "CN118467949B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-07-12",
+        "publication_date": "2024-09-03",
+        "assignee_original": "\u4e2d\u56fd\u94c1\u8def\u8bbe\u8ba1\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "Pretreatment method and system for online diagnosis data of electrified railway power supply equipment",
+        "patent_id": "patent/CN118467949B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118467949B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6059724A",
+      "primary_language": "en",
+      "publication_date": "2000-05-09",
+      "title": "System for predicting future health",
+      "patent_id": "patent/US6059724A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6059724A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9612817872817168401",
+      "scholar_authors": "Berglund et al.",
+      "publication_date": "1993",
+      "title": "Design and feasibility",
+      "patent_id": "scholar/9612817872817168401",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9612817872817168401"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000097936A",
+      "primary_language": "en",
+      "publication_date": "2000-04-07",
+      "title": "A reflex algorithm for early and inexpensive diagnosis of myocardial infarction, suitable for an automated diagnostics platform",
+      "patent_id": "patent/JP2000097936A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000097936A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2596816A1",
+      "primary_language": "en",
+      "publication_date": "2006-08-10",
+      "title": "Method for defining virtual patient populations",
+      "patent_id": "patent/CA2596816A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2596816A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17029235254362795290",
+      "scholar_authors": "Prakash et al.",
+      "publication_date": "2021",
+      "title": "4x-expert systems for early prediction of osteoporosis using multi-model algorithms",
+      "patent_id": "scholar/17029235254362795290",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17029235254362795290"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3152322B1",
+      "primary_language": "en",
+      "publication_date": "2019-09-11",
+      "title": "Estimating risk of death using the clearance volume of red blood cells as biomarker",
+      "patent_id": "patent/EP3152322B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3152322B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115116615A",
+      "primary_language": "en",
+      "publication_date": "2022-09-27",
+      "title": "Method and system for analyzing and predicting risk of non-alcoholic fatty liver disease",
+      "patent_id": "patent/CN115116615A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115116615A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10641040423258421988",
+      "scholar_authors": "Yashin et al.",
+      "publication_date": "2012",
+      "title": "Patterns of aging-related changes on the way to 100: an approach to studying aging, mortality, and longevity from longitudinal data",
+      "patent_id": "scholar/10641040423258421988",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10641040423258421988"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250037877A1",
+      "primary_language": "en",
+      "publication_date": "2025-01-30",
+      "title": "Predicting onset and progression of neurodegenerative diseases using blood test data and machine learning models",
+      "patent_id": "patent/US20250037877A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250037877A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240021013A1",
+      "primary_language": "en",
+      "publication_date": "2024-01-18",
+      "title": "Automated estimation of blood alcohol concentration",
+      "patent_id": "patent/US20240021013A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240021013A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "496661736986097584",
+      "scholar_authors": "Almahshi et al.",
+      "publication_date": "2022",
+      "title": "Hypothyroidism prediction and detection using machine learning",
+      "patent_id": "scholar/496661736986097584",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F496661736986097584"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16912418778603449257",
+      "scholar_authors": "Park et al.",
+      "publication_date": "2021",
+      "title": "Application of machine learning to identify clinically meaningful risk group for osteoporosis in individuals under the recommended age for dual-energy X-ray absorptiometry",
+      "patent_id": "scholar/16912418778603449257",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16912418778603449257"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15116256041104015183",
+      "scholar_authors": "Miller et al.",
+      "publication_date": "2022",
+      "title": "Machine learning to predict abnormal myocardial perfusion from pre-test features",
+      "patent_id": "scholar/15116256041104015183",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15116256041104015183"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2270230964679187807",
+      "scholar_authors": "Reicher et al.",
+      "publication_date": "2024",
+      "title": "Phenome-wide associations of human aging uncover sex-specific dynamics",
+      "patent_id": "scholar/2270230964679187807",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2270230964679187807"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2787993666276046235",
+      "scholar_authors": "Ueno et al.",
+      "publication_date": "2003",
+      "title": "Biomarkers of aging in women and the rate of longitudinal changes",
+      "patent_id": "scholar/2787993666276046235",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2787993666276046235"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2733077C1",
+      "primary_language": "en",
+      "publication_date": "2020-09-29",
+      "title": "Diagnostic technique for acute coronary syndrome",
+      "patent_id": "patent/RU2733077C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2733077C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119314665A",
+      "primary_language": "en",
+      "publication_date": "2025-01-14",
+      "title": "A method for children&#39;s nutrition recommendation based on big data",
+      "patent_id": "patent/CN119314665A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119314665A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8024673712916494611",
+      "scholar_authors": "Gunderson et al.",
+      "publication_date": "2006",
+      "title": "Twins of mistaken zygosity (TOMZ): evidence for genetic contributions to dietary patterns and physiologic traits",
+      "patent_id": "scholar/8024673712916494611",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8024673712916494611"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9146983776211524499",
+      "scholar_authors": "Radha",
+      "publication_date": "2014",
+      "title": "Hybrid prediction model for the risk of cardiovascular disease in type-2 diabetic patients",
+      "patent_id": "scholar/9146983776211524499",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9146983776211524499"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9413134388290305302",
+      "scholar_authors": "Bersimis et al.",
+      "publication_date": "2019",
+      "title": "Use of health-related indices and classification methods in medical data",
+      "patent_id": "scholar/9413134388290305302",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9413134388290305302"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0852013B1",
+      "primary_language": "en",
+      "publication_date": "2003-08-06",
+      "title": "Method for determining alcohol consumption rates",
+      "patent_id": "patent/EP0852013B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0852013B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2849326699107845441",
+      "scholar_authors": "Chen et al.",
+      "publication_date": "2024",
+      "title": "Risk Prediction of Diabetes Progression Using Big Data Mining with Multifarious Physical Examination Indicators",
+      "patent_id": "scholar/2849326699107845441",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2849326699107845441"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6090174855228559193",
+      "scholar_authors": "Vanclay et al.",
+      "publication_date": "1991",
+      "title": "A community screening test for high alcohol consumption using biochemical and haematological measures",
+      "patent_id": "scholar/6090174855228559193",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6090174855228559193"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10322405892611288831",
+      "scholar_authors": "Balamurugan et al.",
+      "publication_date": "2021",
+      "title": "Statistical and machine learning approaches for clinical decision on drug usage in diabetes with reference to competence and safeness",
+      "patent_id": "scholar/10322405892611288831",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10322405892611288831"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6681509044470552641",
+      "scholar_authors": "Ensrud",
+      "publication_date": "2021",
+      "title": "Epidemiologic methods in studies of osteoporosis",
+      "patent_id": "scholar/6681509044470552641",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6681509044470552641"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1997-02-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BIOMAR INTERNATIONAL, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CAMBELL, T. COLIN;HELMS, RONALD W.;TOMASKO, LISA;REEL/FRAME:008475/0144"
+        },
+        {
+          "label": "Effective date",
+          "value": "19970214"
+        }
+      ]
+    },
+    {
+      "date": "2000-03-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BIOSIGNIA, INC., NORTH CAROLINA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:BIOMAR INTERNATIONAL, INC.;REEL/FRAME:010599/0994"
+        },
+        {
+          "label": "Effective date",
+          "value": "19990129"
+        }
+      ]
+    },
+    {
+      "date": "2000-05-01",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2003-11-05",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2004-06-09",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FLEET NATIONAL BANK, AS AGENT, MASSACHUSETTS"
+        },
+        {
+          "label": "Free format text",
+          "value": "PATENT AND TRADEMARKS SECURITY AGREEMENT;ASSIGNOR:BBNT SOLUTIONS LLC;REEL/FRAME:014709/0549"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040326"
+        }
+      ]
+    },
+    {
+      "date": "2005-07-19",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2007-10-10",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2009-10-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BBN TECHNOLOGIES CORP. (AS SUCCESSOR BY MERGER TO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF SECURITY INTEREST;ASSIGNOR:BANK OF AMERICA, N.A. (SUCCESSOR BY MERGER TO FLEET NATIONAL BANK);REEL/FRAME:023427/0436"
+        },
+        {
+          "label": "Effective date",
+          "value": "20091026"
+        }
+      ]
+    },
+    {
+      "date": "2011-06-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ]
+}

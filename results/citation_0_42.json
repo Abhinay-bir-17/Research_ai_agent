@@ -1,0 +1,1911 @@
+{
+  "search_metadata": {
+    "id": "68514e03d868dd1b26a8b396",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1050aed9808383f4/68514e03d868dd1b26a8b396.json",
+    "created_at": "2025-06-17 11:14:11 UTC",
+    "processed_at": "2025-06-17 11:14:11 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20030065241A1/en",
+    "raw_html_file": "https://serpapi.com/searches/1050aed9808383f4/68514e03d868dd1b26a8b396.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20030065241A1/en"
+  },
+  "title": "Medical risk assessment system and method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/6a/39/63/fa79cabf89d2f7/US20030065241A1.pdf",
+  "publication_number": "US20030065241A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "risk",
+    "individual",
+    "data",
+    "response",
+    "specified"
+  ],
+  "prior_art_date": "2001-03-02",
+  "application_number": "US10/220,204",
+  "inventors": [
+    {
+      "name": "Joerg Hohnloser",
+      "link": "https://patents.google.com/?inventor=Joerg+Hohnloser",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joerg+Hohnloser"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2002-08-27",
+  "filing_date": "2001-03-02",
+  "publication_date": "2003-04-03",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-03-02",
+        "country_code": "US",
+        "application_number": "US10/220,204",
+        "document_id": "patent/US20030065241A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-03-02",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2001-03-02",
+      "title": "Priority to US10/220,204",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20030065241A1/en"
+    },
+    {
+      "date": "2003-04-03",
+      "title": "Publication of US20030065241A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20030065241A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20030065241.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10220204"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20030065241"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2003065241A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10220204/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20030065241"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/5c/0c/0d/b2f09607968b91/US20030065241A1-20030403-D00000.png",
+    "https://patentimages.storage.googleapis.com/89/28/17/c5565c726f11bb/US20030065241A1-20030403-D00001.png",
+    "https://patentimages.storage.googleapis.com/27/c1/76/3a871370a7e09d/US20030065241A1-20030403-D00002.png",
+    "https://patentimages.storage.googleapis.com/38/33/e8/6f64ff922fa18b/US20030065241A1-20030403-D00003.png",
+    "https://patentimages.storage.googleapis.com/31/35/22/993b4f74751288/US20030065241A1-20030403-D00004.png",
+    "https://patentimages.storage.googleapis.com/fc/f8/27/165b5d7cb0fc91/US20030065241A1-20030403-D00005.png",
+    "https://patentimages.storage.googleapis.com/c0/50/12/c6a3a0dfd423fa/US20030065241A1-20030403-D00006.png",
+    "https://patentimages.storage.googleapis.com/aa/d4/b2/12c78f9943394d/US20030065241A1-20030403-D00007.png",
+    "https://patentimages.storage.googleapis.com/68/b5/ab/223db550d1d6de/US20030065241A1-20030403-D00008.png",
+    "https://patentimages.storage.googleapis.com/f1/56/db/581d9b87cf55f2/US20030065241A1-20030403-D00009.png",
+    "https://patentimages.storage.googleapis.com/9b/d3/8a/7523e4dc2d9fa3/US20030065241A1-20030403-D00010.png",
+    "https://patentimages.storage.googleapis.com/26/d8/57/cc2f27df0bace2/US20030065241A1-20030403-D00011.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H10/20",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for electronic clinical trials or questionnaires",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/60",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to pathologies",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method of assessing risk for an individual to experience a specific outcome within a disease entity within a specified time frame is provided. Peer-reviewed scientific publications are analyzed to identify pertinent risk factors (212) for developing disease processes and their possible complications. Information that characterizes an individual (218) in relation to the identified risk factors is then received, preferably responsive to question (224) regarding any demographic values of an individual under test and questions regarding medical chracterisitics of the individual under test. An estimate of risk of the individual acquiring the outcome within a specified time frame is performed based on the identified plurality of risk factors (212). Assessment of medical risk and condition may include analyzing peer-reviewed scientific publications to identify populations affected by a medical outcome and for each population respective risk factors that affect risk of acquiring the medical outcome within a specified time-frame, associating an individual with one of the identified population, identifying information that characterizes the individual (218) in relation to the respective risk factors other associated population, and estimating risk of the individual having the medical outcome within the specified the time frame responsive to the identified information. Promotion of business on a site of a computer network is provided by supplying an on-line questionnaire (224) regarding characteristics of individual (218) under test, receiving information regarding characteristics of the individual under test, and responsive to the received information, providing an assessment of the individual under test having a medical outcome within a specified time frame.",
+  "description_link": "https://serpapi.com/searches/68514e03d868dd1b26a8b396/google_patents_details/description.html",
+  "claims": [
+    "1. A method generating a database, the method comprising: \nsearching peer-reviewed scientific literature to identify a class of studies that include data regarding risk factors for experiencing an outcome specific to a disease entity for members of a demographic group;  extracting said data from the studies in a form that accounts for any interdependencies among the risk factors; and  storing the extracted data indexed by the demographic group.",
+    "2. The method of claim 1, wherein the acts of searching, extracting, and storing are repeated for at least one additional demographic group.",
+    "3. The method of claim 1, wherein the peer-reviewed scientific literature is searched in accordance with Cochrane criteria.",
+    "4. The method of claim 1, further comprising the act of removing each study having a reliability beneath a specified threshold from the literature.",
+    "5. The method of claim 1, wherein the extracted data comprises a plurality of risk factors that affect the risk for members of the demographic group.",
+    "6. The method of claim 1, wherein the extracted data comprises a plurality of risk factor effects that correspond to a plurality of risk factors that affect the risk for members of the demographic group.",
+    "7. The method of claim 1, wherein the extracted data comprises a plurality prevalence rates that correspond to a plurality of risk factors that affect the risk for members of the demographic group.",
+    "8. The method of claim 1, wherein the extracted data comprises a plurality of risk factor effects, each risk factor effect having a corresponding risk factor that affects the risk for members of the demographic group.",
+    "9. The method of claim 1, wherein the extracted data indicates how a risk factor affects the risk for members of the demographic group.",
+    "10. The method of claim 1, wherein the extracted data indicates how a plurality of risk factors affect the risk for members of the demographic group.",
+    "11. The method of claim 1, wherein the extracted data comprises a risk factor and a prevalence rate, and wherein the risk for a member of the demographic group is a function of a difference between the prevalence rate and an extent that the member exhibits the risk factor.",
+    "12. The method of claim 1, wherein: \nthe extracted data comprises a risk factor, a risk factor effect, and a prevalence rate, and  the risk for a member of the demographic group is a function the risk factor effect, the prevalence rate, and an extent that the member exhibits the risk factor.",
+    "13. The method of claim 12, wherein the risk for said member of the demographic group is a function of an average incidence of the outcome among members of the demographic group.",
+    "14. The method of claim 8, wherein at least one risk factor effect is adjusted in value to reflect interdependency of a corresponding risk factor with at least one other risk factor.",
+    "15. The method of claim 1, wherein the extracted data comprises a plurality of risk factors for experiencing the outcome, and for each risk factor, risk data that indicates an effect on the risk for an arbitrary member of the demographic group, the effect being a function of an extent by which said member exhibits the risk factor.",
+    "16. The method of claim 1, wherein at least one study in the class analyzes only one risk factor for the demographic group.",
+    "17. A method of assessing a risk that an individual will experience an outcome specific to a disease entity within a specified period of time, said method using a database of epidemiological data extracted from peer-reviewed scientific literature, the method comprising: \nidentifying a demographic profile that specifies a demographic group to which the individual belongs;  determining a baseline risk that the individual will experience the outcome over the specified period of time in response to the demographic profile;  searching the database to identify a best matching study in said literature for the demographic group;  retrieving from the database any epidemiological data for said demographic group that was extracted from the best matching study;  identifying an epidemiological profile that provides values for any individual specific variables included in the identified epidemiological data; and  adjusting the baseline risk in response to the values and epidemiological data to generate the assessed risk.",
+    "18. A method of assessing a risk that an individual will experience an outcome specific to a disease entity within a specified period of time, the method comprising: \nidentifying a demographic profile that specifies a demographic group to which the individual belongs;  determining a baseline risk that the individual will experience an outcome specific to a disease entity over a specified period of time in response to the demographic profile;  searching a database of risk factors extracted from peer-reviewed scientific literature to identify a plurality of risk factors for that demographic group and outcome, the risk factors extracted from a best matching study in said literature for that demographic group;  identifying an epidemiological profile that provides values for the identified risk factors for the individual; and  adjusting the baseline risk in response to the values to generate the assessed risk.",
+    "19. The method of claim 18, wherein the act of searching also identifies a plurality of risk factor effects for that demographic group and outcome in the best matching study, and wherein the act of adjusting is responsive to the identified risk factor effects.",
+    "20. The method of claim 18, wherein the baseline risk is adjusted in response to an extent that a risk factor is exhibited by the individual.",
+    "21. The method of claim 18, wherein the baseline risk is adjusted in response to an extent that a risk factor is exhibited by the individual relative to an extent that the risk factor is generally exhibited by members of the demographic group.",
+    "22. The method of claim 18, wherein the individual is screened for anticipated benefit of a specified diagnostic test in response to the assessed level of risk.",
+    "23. The method of claim 18, further comprising: \nspecifying a threshold level of risk of experiencing the specified outcome; and  comparing the assessed risk to the threshold level of risk to determine whether to perform the specified diagnostic test on the individual.",
+    "24. The method of claim 23, wherein the threshold level of risk is specified in response to an anticipated net benefit of performing a specified diagnostic test on individuals whose risk of experiencing the specified condition is at least equal to the threshold level of risk.",
+    "25. The method of claim 18, wherein the assessed level of risk is used to screen the individual for likely benefit of a specified therapy.",
+    "26. The method of claim 25, further comprising: \nspecifying a threshold level of risk of experiencing the specified outcome; and  comparing the assessed risk to a threshold level of risk to determine whether to perform the specified therapy on the individual.",
+    "27. The method of claim 26, wherein the threshold level of risk is specified in response to an anticipated net benefit of performing a specified therapy on individuals whose risk of experiencing the specified condition is at least equal to the threshold level of risk.",
+    "28. The method of claim 18, wherein a diagnostic test is recommended to the individual in response to the assessed risk.",
+    "29. The method of claim 18, wherein a therapy is recommended to the individual in response to the level of assessed risk.",
+    "30. The method of claim 18, further comprising: \nsearching a database of therapeutic data in response to the demographic profile to identify a therapy for the individual;  receiving a medical history of the individual; and  recommending a course of therapy for the individual in response to the identified therapy and medical history.",
+    "31. The method of claim 30, wherein the medical history is analyzed to determine whether there are contra-indications to the identified therapy, and the identified therapy is recommended for the individual in response to a lack of such contra-indications.",
+    "32. The method of claim 30, wherein the medical history is analyzed to determine whether there are contra-indications to the identified therapy, at least one contra-indication is determined, and the identified therapy is recommended for the individual in response to the level of risk specific to the determined contra-indication.",
+    "33. The method of claim 18, wherein a first questionnaire is supplied that asks for the individual's demographic group, and wherein a response by the user to the first questionnaire serves as the demographic profile.",
+    "34. The method of claim 33, wherein a second questionnaire that includes a plurality of questions for values of the identified plurality of risk factors for the individual is supplied, and wherein a response by the user to the second questionnaire serves as the epidemiological profile.",
+    "35. The method of claim 34, wherein the content of the second questionnaire is responsive to the level of medical expertise of the user.",
+    "36. The method of claim 34, wherein the content of the second questionnaire is responsive to the level of scientific expertise of the user.",
+    "37. The method of claim 18, wherein an average value characterizing individuals having the same demographic profile the individual with respect to a given identified risk factor is used in response to failure of the user to characterize the individual with respect to the given identified risk factor.",
+    "38. The method of claim 18, wherein the specified period of time is an interval of time ending at a specified time in the future.",
+    "39. The method of claim 18, wherein a memory unit stores instructions for performing the method and wherein a processing unit coupled with the memory unit receives the instructions from the memory unit and in response thereto performs at least one step of the method.",
+    "40. The method of claim 18, wherein the method is implemented by a general-purpose computer.",
+    "41. The method of claim 18, wherein the method is implemented by a personal digital assistant.",
+    "42. The method of claim 18, wherein at least one step of the method is implemented by a processing unit in response to instructions embedded in the processing unit.",
+    "43. A method of recommending a course of medical action for an individual, said method using a database of risk data that includes data regarding risk factors and corresponding risk factor effects, said risk data having been extracted from peer-reviewed scientific literature, the method comprising: \nidentifying a first set of data that characterizes an individual in relation to a plurality of demographic parameters;  searching a database of epidemiological data extracted from peer-reviewed scientific literature in response to the first set of data to identify a plurality of risk factors and corresponding risk factor effects that are adjusted for interdependency among the risk factors;  identifying a second set of data that characterizes the individual in relation to the plurality of risk factors; and  in response to the sets of data, recommending a course of medical action for the individual.",
+    "44. A method of promoting business on a computer network, said method comprising supplying a first online questionnaire to a user regarding demographic characteristics of an individual, receiving a response to the first questionnaire and in response thereto searching epidemiological data extracted from peer-reviewed scientific literature to identify a plurality of risk factors that affect the likelihood of the individual experiencing a specified outcome, supplying a second online questionnaire to the user regarding the epidemiological characteristics of the individual relative to the identified plurality of risk factors, receiving a response from the user to the second questionnaire, and assessing risk for the individual to experience a specified outcome within a disease entity within a specified period of time in response to both responses from the user.",
+    "45. The method of claim 44, wherein the online questionnaire is supplied over a computer network.",
+    "46. The method of claim 44, wherein the online questionnaire is supplied over the Internet.",
+    "47. The method of claim 44, wherein the online questionnaire is supplied over an Intranet.",
+    "48. The method of claim 44, wherein the online questionnaire is supplied over an Extranet.",
+    "49. A computer programmed to receive a demographic profile of an individual; responsive to the profile, to supply a questionnaire regarding a plurality of risk factors specific to a specified disease entity; and responsive to a response to the questionnaire, to supply an assessment of the risk of the individual experiencing at least one outcome specific to the specified disease entity over at least one specified period of time.",
+    "50. The computer of claim 49, wherein the assessment accounts for interdependency among the plurality of risk factors.",
+    "51. A medium readable by a machine, the medium carrying a program of instructions executable by the machine for performing a method of assessing risk for an individual to experience a specified outcome (associated with a disease entity) within a specified period of time, said method using a database of risk factors extracted from peer-reviewed scientific literature, the method comprising: \nidentifying a demographic profile that specifies a demographic group to which the individual belongs;  determining a baseline risk that the individual will experience an outcome specific to a disease entity over a specified period of time in response to the demographic profile;  searching a database of risk factors extracted from peer-reviewed scientific literature to identify a plurality of risk factors for that demographic group and outcome, the risk factors extracted from a best matching study in said literature for that demographic group;  identifying an epidemiological profile that provides values for the identified risk factors for the individual; and  adjusting the baseline risk in response to the values to generate the assessed risk.",
+    "52. A medium readable by a machine, the medium carrying a program of instructions executable by the machine for performing a method of assessing risk of an individual experiencing a outcome within a disease entity within a specified period of time, the method comprising: \nidentifying a first set of data that characterizes an individual in relation to a plurality of demographic parameters;  searching a database of epidemiological data extracted from peer-reviewed scientific literature in response to the first set of data to identify a plurality of risk factors and corresponding risk factor effects that are adjusted for interdependency among the risk factors;  identifying a second set of data that characterizes the individual in relation to the plurality of risk factors; and  in response to the sets of data, recommending a course of medical action for the individual."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/220,204",
+      "representative_publication": "US20030065241A1",
+      "primary_language": "en",
+      "priority_date": "2002-08-27",
+      "filing_date": "2001-03-02",
+      "title": "Medical risk assessment system and method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US10/220,204",
+      "representative_publication": "US20030065241A1",
+      "primary_language": "en",
+      "priority_date": "2002-08-27",
+      "filing_date": "2001-03-02",
+      "title": "Medical risk assessment system and method"
+    }
+  ],
+  "family_id": "22822511",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5692501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-20",
+        "publication_date": "1997-12-02",
+        "assignee_original": "Minturn; Paul",
+        "title": "Scientific wellness personal/clinical/laboratory assessments, profile and health risk managment system with insurability rankings on cross-correlated 10-point optical health/fitness/wellness scales",
+        "patent_id": "patent/US5692501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5692501A%2Fen"
+      },
+      {
+        "publication_number": "US5956691A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-07",
+        "publication_date": "1999-09-21",
+        "assignee_original": "Second Opinion Financial Systems, Inc.",
+        "title": "Dynamic policy illustration system",
+        "patent_id": "patent/US5956691A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956691A%2Fen"
+      },
+      {
+        "publication_number": "US6059724A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-14",
+        "publication_date": "2000-05-09",
+        "assignee_original": "Biosignal, Inc.",
+        "title": "System for predicting future health",
+        "patent_id": "patent/US6059724A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6059724A%2Fen"
+      },
+      {
+        "publication_number": "US6098062A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-17",
+        "publication_date": "2000-08-01",
+        "assignee_original": "Janssen; Terry",
+        "title": "Argument structure hierarchy system and method for facilitating analysis and decision-making processes",
+        "patent_id": "patent/US6098062A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6098062A%2Fen"
+      },
+      {
+        "publication_number": "US6139494A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-15",
+        "publication_date": "2000-10-31",
+        "assignee_original": "Health Informatics Tools",
+        "title": "Method and apparatus for an integrated clinical tele-informatics system",
+        "patent_id": "patent/US6139494A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6139494A%2Fen"
+      },
+      {
+        "publication_number": "US6166194A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-29",
+        "publication_date": "2000-12-26",
+        "assignee_original": "Myriad Genetics, Inc.",
+        "title": "TMPRSS2 is a tumor suppressor",
+        "patent_id": "patent/US6166194A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6166194A%2Fen"
+      },
+      {
+        "publication_number": "US6242463B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-31",
+        "publication_date": "2001-06-05",
+        "assignee_original": "Opt-E-Scrip, Inc.",
+        "title": "Method and kit for treating illnesses",
+        "patent_id": "patent/US6242463B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6242463B1%2Fen"
+      },
+      {
+        "publication_number": "US20020107641A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-10",
+        "publication_date": "2002-08-08",
+        "assignee_original": "Schaeffer Anthony J.",
+        "title": "Methods and kits for managing diagnosis and therapeutics of bacterial infections",
+        "patent_id": "patent/US20020107641A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020107641A1%2Fen"
+      },
+      {
+        "publication_number": "US6684276B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-28",
+        "publication_date": "2004-01-27",
+        "assignee_original": "Thomas M. Walker",
+        "title": "Patient encounter electronic medical record system, method, and computer product",
+        "patent_id": "patent/US6684276B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6684276B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20020095313A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-28",
+        "publication_date": "2002-07-18",
+        "assignee_original": "Haq Mohamed M.",
+        "title": "Computer system for assisting a physician",
+        "patent_id": "patent/US20020095313A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020095313A1%2Fen"
+      },
+      {
+        "publication_number": "US20040243586A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-27",
+        "publication_date": "2004-12-02",
+        "assignee_original": "Byers Frank Hugh",
+        "title": "Method and apparatus for obtaining and storing medical history records",
+        "patent_id": "patent/US20040243586A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040243586A1%2Fen"
+      },
+      {
+        "publication_number": "US20050038675A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-12",
+        "publication_date": "2005-02-17",
+        "assignee_original": "Siekman Jeffrey A.",
+        "title": "Methods and systems for at-home and community-based care",
+        "patent_id": "patent/US20050038675A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050038675A1%2Fen"
+      },
+      {
+        "publication_number": "US20050100131A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-06",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Erik Busch",
+        "title": "Medical apparatus for diagnosis or treatment",
+        "patent_id": "patent/US20050100131A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050100131A1%2Fen"
+      },
+      {
+        "publication_number": "US20070118398A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Flicker Technologies, Llc",
+        "title": "System and method for estimating life expectancy and providing customized advice for improving life expectancy",
+        "patent_id": "patent/US20070118398A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118398A1%2Fen"
+      },
+      {
+        "publication_number": "US7306562B1",
+        "primary_language": "en",
+        "priority_date": "2004-04-23",
+        "publication_date": "2007-12-11",
+        "assignee_original": "Medical Software, Llc",
+        "title": "Medical risk assessment method and program product",
+        "patent_id": "patent/US7306562B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7306562B1%2Fen"
+      },
+      {
+        "publication_number": "US20080132768A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-28",
+        "publication_date": "2008-06-05",
+        "assignee_original": "Kakuichi Shiomi",
+        "title": "Cerebrum Evaluation Device",
+        "patent_id": "patent/US20080132768A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080132768A1%2Fen"
+      },
+      {
+        "publication_number": "US20080194919A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-08",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Miranda Aref Farage",
+        "title": "Method and apparatus for prediction and management of subjects and patients",
+        "patent_id": "patent/US20080194919A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080194919A1%2Fen"
+      },
+      {
+        "publication_number": "US20080228531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-16",
+        "publication_date": "2008-09-18",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Insurance Optimization and Longevity Analysis",
+        "patent_id": "patent/US20080228531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080228531A1%2Fen"
+      },
+      {
+        "publication_number": "US20080281639A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-09",
+        "publication_date": "2008-11-13",
+        "assignee_original": "Quinn Peter C",
+        "title": "Real-time evidence- and guideline-based recommendation method and system for patient care",
+        "patent_id": "patent/US20080281639A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080281639A1%2Fen"
+      },
+      {
+        "publication_number": "US20090043752A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-08",
+        "publication_date": "2009-02-12",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Predicting Side Effect Attributes",
+        "patent_id": "patent/US20090043752A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090043752A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063830A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Provider Selection",
+        "patent_id": "patent/US20100063830A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063830A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063865A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Provider Profiling",
+        "patent_id": "patent/US20100063865A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063865A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063930A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "System for Secure Mobile Healthcare Selection",
+        "patent_id": "patent/US20100063930A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063930A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063835A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Method for Secure Mobile Healthcare Selection",
+        "patent_id": "patent/US20100063835A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063835A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063843A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Record Access",
+        "patent_id": "patent/US20100063843A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063843A1%2Fen"
+      },
+      {
+        "publication_number": "US20100070292A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-18",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Transaction Database",
+        "patent_id": "patent/US20100070292A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100070292A1%2Fen"
+      },
+      {
+        "publication_number": "US20100076988A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Service Profiling",
+        "patent_id": "patent/US20100076988A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076988A1%2Fen"
+      },
+      {
+        "publication_number": "US20100076950A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-10",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Masked Data Service Selection",
+        "patent_id": "patent/US20100076950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076950A1%2Fen"
+      },
+      {
+        "publication_number": "US20100106523A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-27",
+        "publication_date": "2010-04-29",
+        "assignee_original": "Alicia Gruber Kalamas",
+        "title": "System and method for generating a medical history",
+        "patent_id": "patent/US20100106523A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100106523A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169340A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Pangenetic Web Item Recommendation System",
+        "patent_id": "patent/US20100169340A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169340A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169342A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Pangenetic Web Satisfaction Prediction System",
+        "patent_id": "patent/US20100169342A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169342A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169338A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Pangenetic Web Search System",
+        "patent_id": "patent/US20100169338A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169338A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169262A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Mobile Device for Pangenetic Web",
+        "patent_id": "patent/US20100169262A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169262A1%2Fen"
+      },
+      {
+        "publication_number": "US20100168524A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Momentum Research Inc.",
+        "title": "System and method for heart failure prediction",
+        "patent_id": "patent/US20100168524A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100168524A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169313A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Pangenetic Web Item Feedback System",
+        "patent_id": "patent/US20100169313A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169313A1%2Fen"
+      },
+      {
+        "publication_number": "US20100169343A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Expanse Networks, Inc.",
+        "title": "Pangenetic Web User Behavior Prediction System",
+        "patent_id": "patent/US20100169343A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100169343A1%2Fen"
+      },
+      {
+        "publication_number": "US20100198661A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-30",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Bank Of America Corporation",
+        "title": "Supplier portfolio indexing",
+        "patent_id": "patent/US20100198661A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100198661A1%2Fen"
+      },
+      {
+        "publication_number": "US20100198631A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-30",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Bank Of America Corporation",
+        "title": "Supplier stratification",
+        "patent_id": "patent/US20100198631A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100198631A1%2Fen"
+      },
+      {
+        "publication_number": "US20100198630A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-30",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Bank Of America Corporation",
+        "title": "Supplier risk evaluation",
+        "patent_id": "patent/US20100198630A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100198630A1%2Fen"
+      },
+      {
+        "publication_number": "US20110125038A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-20",
+        "publication_date": "2011-05-26",
+        "assignee_original": "Momentum Research Inc.",
+        "title": "System and method for heart failure prediction",
+        "patent_id": "patent/US20110125038A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110125038A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8751261B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-15",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Method and system for selection of patients to receive a medical device",
+        "patent_id": "patent/US8751261B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751261B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20180157386A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-05",
+        "publication_date": "2018-06-07",
+        "assignee_original": "Jiawen Su",
+        "title": "System and Method for detection, exploration, and interaction of graphic application interface",
+        "patent_id": "patent/US20180157386A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180157386A1%2Fen"
+      },
+      {
+        "publication_number": "US10311979B2",
+        "primary_language": "en",
+        "priority_date": "2005-10-18",
+        "publication_date": "2019-06-04",
+        "assignee_original": "At&T Intellectual Property Ii, L.P.",
+        "title": "Case management system and method for mediating anomaly notifications in health data to health alerts",
+        "patent_id": "patent/US10311979B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10311979B2%2Fen"
+      },
+      {
+        "publication_number": "US10354760B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-18",
+        "publication_date": "2019-07-16",
+        "assignee_original": "At&T Intellectual Property Ii, L.P.",
+        "title": "Tool for visual exploration of medical data",
+        "patent_id": "patent/US10354760B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10354760B1%2Fen"
+      },
+      {
+        "publication_number": "CN110310742A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-28",
+        "publication_date": "2019-10-08",
+        "assignee_original": "\u897f\u5b89\u4ea4\u901a\u5927\u5b66\u533b\u5b66\u9662\u7b2c\u4e00\u9644\u5c5e\u533b\u9662",
+        "title": "Methods and systems for risk assessment of gastrointestinal tumors",
+        "patent_id": "patent/CN110310742A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110310742A%2Fen"
+      },
+      {
+        "publication_number": "US20200090268A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-26",
+        "publication_date": "2020-03-19",
+        "assignee_original": "Alibaba Group Holding Limited",
+        "title": "Method and apparatus for determining level of risk of user, and computer device",
+        "patent_id": "patent/US20200090268A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200090268A1%2Fen"
+      },
+      {
+        "publication_number": "CN111192671A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-23",
+        "publication_date": "2020-05-22",
+        "assignee_original": "\u798f\u5efa\u4ebf\u80fd\u8fbe\u4fe1\u606f\u6280\u672f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Index analysis system based on hospital risk assessment",
+        "patent_id": "patent/CN111192671A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111192671A%2Fen"
+      },
+      {
+        "publication_number": "CN111223567A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-10",
+        "publication_date": "2020-06-02",
+        "assignee_original": "\u6df1\u5733\u5e02\u4e91\u5f71\u533b\u7597\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Suspected disease risk range calculation method based on regional medical image",
+        "patent_id": "patent/CN111223567A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111223567A%2Fen"
+      },
+      {
+        "publication_number": "US10783457B2",
+        "primary_language": "en",
+        "priority_date": "2017-05-26",
+        "publication_date": "2020-09-22",
+        "assignee_original": "Alibaba Group Holding Limited",
+        "title": "Method for determining risk preference of user, information recommendation method, and apparatus",
+        "patent_id": "patent/US10783457B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10783457B2%2Fen"
+      },
+      {
+        "publication_number": "US11322227B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-31",
+        "publication_date": "2022-05-03",
+        "assignee_original": "23Andme, Inc.",
+        "title": "Finding relatives in a database",
+        "patent_id": "patent/US11322227B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11322227B2%2Fen"
+      },
+      {
+        "publication_number": "US11342050B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-27",
+        "publication_date": "2022-05-24",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Monitoring users to capture contextual and environmental data for managing adverse events",
+        "patent_id": "patent/US11342050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11342050B2%2Fen"
+      },
+      {
+        "publication_number": "US20230343468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-29",
+        "publication_date": "2023-10-26",
+        "assignee_original": "Xcures, Inc.",
+        "title": "Automated individualized recommendations for medical treatment",
+        "patent_id": "patent/US20230343468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230343468A1%2Fen"
+      },
+      {
+        "publication_number": "US12020813B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-02",
+        "publication_date": "2024-06-25",
+        "assignee_original": "Siemens Healthineers Ag",
+        "title": "Method for supporting medical personnel, support system, computer program and data carrier",
+        "patent_id": "patent/US12020813B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12020813B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20030065241A1",
+      "primary_language": "en",
+      "publication_date": "2003-04-03",
+      "title": "Medical risk assessment system and method",
+      "patent_id": "patent/US20030065241A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030065241A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2058791829365312724",
+      "scholar_authors": "Dossa et al.",
+      "publication_date": "2022",
+      "title": "Sex differences in the pattern of patient referrals to male and female surgeons",
+      "patent_id": "scholar/2058791829365312724",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2058791829365312724"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7440529719105211950",
+      "scholar_authors": "Dossa et al.",
+      "publication_date": "2019",
+      "title": "Sex-based disparities in the hourly earnings of surgeons in the fee-for-service system in Ontario, Canada",
+      "patent_id": "scholar/7440529719105211950",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7440529719105211950"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18391550321223327436",
+      "scholar_authors": "Ream et al.",
+      "publication_date": "2020",
+      "title": "Telephone interventions for symptom management in adults with cancer",
+      "patent_id": "scholar/18391550321223327436",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18391550321223327436"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7375830024112335324",
+      "scholar_authors": "Middel et al.",
+      "publication_date": "2002",
+      "title": "Statistical significant change versus relevant or important change in (quasi) experimental design: some conceptual and methodological problems in estimating magnitude of intervention-related change in health services research",
+      "patent_id": "scholar/7375830024112335324",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7375830024112335324"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8125938561790745577",
+      "scholar_authors": "Lett et al.",
+      "publication_date": "2022",
+      "title": "Considerations for transgender population health research based on US national surveys",
+      "patent_id": "scholar/8125938561790745577",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8125938561790745577"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8903115350840468256",
+      "scholar_authors": "Debray et al.",
+      "publication_date": "2023",
+      "title": "Transparent reporting of multivariable prediction models developed or validated using clustered data (TRIPOD-Cluster): explanation and elaboration",
+      "patent_id": "scholar/8903115350840468256",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8903115350840468256"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5420858735501168807",
+      "scholar_authors": "Hung et al.",
+      "publication_date": "2014",
+      "title": "Psychometric comparison of the PROMIS physical function CAT with the FAAM and FFI for measuring patient-reported outcomes",
+      "patent_id": "scholar/5420858735501168807",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5420858735501168807"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7444291B1",
+      "primary_language": "en",
+      "publication_date": "2008-10-28",
+      "title": "System and method for modeling of healthcare utilization",
+      "patent_id": "patent/US7444291B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7444291B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9129059B2",
+      "primary_language": "en",
+      "publication_date": "2015-09-08",
+      "title": "Analyzing administrative healthcare claims data and other data sources",
+      "patent_id": "patent/US9129059B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9129059B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3830907717225438505",
+      "scholar_authors": "Diaz-Ordaz et al.",
+      "publication_date": "2014",
+      "title": "Are missing data adequately handled in cluster randomised trials? A systematic review and guidelines",
+      "patent_id": "scholar/3830907717225438505",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3830907717225438505"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020035486A1",
+      "primary_language": "en",
+      "publication_date": "2002-03-21",
+      "title": "Computerized clinical questionnaire with dynamically presented questions",
+      "patent_id": "patent/US20020035486A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020035486A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20030149597A1",
+      "primary_language": "en",
+      "publication_date": "2003-08-07",
+      "title": "System for supporting clinical decision-making",
+      "patent_id": "patent/US20030149597A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030149597A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6444181299451632238",
+      "scholar_authors": "Pickering et al.",
+      "publication_date": "2009",
+      "title": "Identification of patient information corruption in the intensive care unit: using a scoring tool to direct quality improvements in handover",
+      "patent_id": "scholar/6444181299451632238",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6444181299451632238"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17254881936146207020",
+      "scholar_authors": "Bernstein et al.",
+      "publication_date": "2019",
+      "title": "PROMIS pain interference is superior vs numeric pain rating scale for pain assessment in foot and ankle patients",
+      "patent_id": "scholar/17254881936146207020",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17254881936146207020"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12454595737151068746",
+      "scholar_authors": "Becker et al.",
+      "publication_date": "1996",
+      "title": "ICU scoring systems allow prediction of patient outcomes and comparison of ICU performance",
+      "patent_id": "scholar/12454595737151068746",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12454595737151068746"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008532104A",
+      "primary_language": "en",
+      "publication_date": "2008-08-14",
+      "title": "A method, system, and computer program product for generating and applying a prediction model capable of predicting a plurality of medical-related outcomes, evaluating an intervention plan, and simultaneously performing biomarker causality verification",
+      "patent_id": "patent/JP2008532104A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008532104A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101297297A",
+      "primary_language": "en",
+      "publication_date": "2008-10-29",
+      "title": "Medical-risk stratifying method and system",
+      "patent_id": "patent/CN101297297A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101297297A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "697577731572219695",
+      "scholar_authors": "Lee et al.",
+      "publication_date": "2021",
+      "title": "The minimal clinically important difference for PROMIS physical function in patients with thumb carpometacarpal arthritis",
+      "patent_id": "scholar/697577731572219695",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F697577731572219695"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12808048258866524047",
+      "scholar_authors": "Aronsky et al.",
+      "publication_date": "2001",
+      "title": "Evaluation of a computerized diagnostic decision support system for patients with pneumonia: study design considerations",
+      "patent_id": "scholar/12808048258866524047",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12808048258866524047"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001066007A1",
+      "primary_language": "en",
+      "publication_date": "2001-09-13",
+      "title": "Medical risk assessment system and method",
+      "patent_id": "patent/WO2001066007A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001066007A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13932117747802649294",
+      "scholar_authors": "Bhattacharya et al.",
+      "publication_date": "2016",
+      "title": "Identifying patterns of associated-conditions through topic models of Electronic Medical Records",
+      "patent_id": "scholar/13932117747802649294",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13932117747802649294"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10727143919365357316",
+      "scholar_authors": "Suriani et al.",
+      "publication_date": "2020",
+      "title": "Validation of PROMIS Global-10 compared with legacy instruments in patients with shoulder instability",
+      "patent_id": "scholar/10727143919365357316",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10727143919365357316"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12420302168982383211",
+      "scholar_authors": "Allen et al.",
+      "publication_date": "2021",
+      "title": "The effect of medicaid on care and outcomes for chronic conditions: Evidence from the Oregon health insurance experiment",
+      "patent_id": "scholar/12420302168982383211",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12420302168982383211"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2123624348834575110",
+      "scholar_authors": "Kaplan et al.",
+      "publication_date": "2019",
+      "title": "Comparison of rating scale, time tradeoff, and conjoint analysis methods for assessment of preferences in prostate cancer",
+      "patent_id": "scholar/2123624348834575110",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2123624348834575110"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-01-09",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 121
+      },
+      {
+        "id": "238000012502",
+        "name": "risk assessment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "230000001225",
+        "name": "therapeutic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001737",
+        "name": "promoting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003466",
+        "name": "anti-cipated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "206010020100",
+        "name": "Hip fracture",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "208000001132",
+        "name": "Osteoporosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "210000000988",
+        "name": "bone and bone",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229910052500",
+        "name": "inorganic mineral",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000011707",
+        "name": "mineral",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000029725",
+        "name": "Metabolic bone disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000012536",
+        "name": "storage buffer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012795",
+        "name": "verification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007477",
+        "name": "logistic regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000001228",
+        "name": "spectrum",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004083",
+        "name": "survival effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010200",
+        "name": "validation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000010392",
+        "name": "Bone Fractures",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010073148",
+        "name": "Multiple endocrine neoplasia type 2A",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004422",
+        "name": "calculation algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012812",
+        "name": "general test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012417",
+        "name": "linear regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010197",
+        "name": "meta-analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010041569",
+        "name": "spinal fracture",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010017076",
+        "name": "Fracture",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011461",
+        "name": "current therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001739",
+        "name": "density measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007435",
+        "name": "diagnostic evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037213",
+        "name": "diet",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005911",
+        "name": "diet",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006397",
+        "name": "emotional response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012854",
+        "name": "evaluation process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013332",
+        "name": "literature search",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010339",
+        "name": "medical test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007619",
+        "name": "statistical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013589",
+        "name": "supplement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

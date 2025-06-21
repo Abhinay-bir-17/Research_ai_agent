@@ -1,0 +1,1950 @@
+{
+  "search_metadata": {
+    "id": "68514e453882c5a4f8339887",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1e6e8cf0799ff24c/68514e453882c5a4f8339887.json",
+    "created_at": "2025-06-17 11:15:17 UTC",
+    "processed_at": "2025-06-17 11:15:17 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070084150A1/en",
+    "raw_html_file": "https://serpapi.com/searches/1e6e8cf0799ff24c/68514e453882c5a4f8339887.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070084150A1/en"
+  },
+  "title": "Automated solid pharmaceutical product packaging machine",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0c/cc/7c/24bceeba2f2e94/US20070084150A1.pdf",
+  "publication_number": "US20070084150A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "cavities",
+    "temporary storage",
+    "template",
+    "product package",
+    "storage member"
+  ],
+  "prior_art_date": "2000-11-01",
+  "application_number": "US11/399,566",
+  "inventors": [
+    {
+      "name": "Todd Siegel",
+      "link": "https://patents.google.com/?inventor=Todd+Siegel",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Todd+Siegel"
+    },
+    {
+      "name": "Stuart Bagley",
+      "link": "https://patents.google.com/?inventor=Stuart+Bagley",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Stuart+Bagley"
+    },
+    {
+      "name": "Anne Bagley",
+      "link": "https://patents.google.com/?inventor=Anne+Bagley",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Anne+Bagley"
+    }
+  ],
+  "assignees": [
+    "MTS Medication Technologies Inc"
+  ],
+  "priority_date": "2000-11-01",
+  "filing_date": "2006-04-05",
+  "publication_date": "2007-04-19",
+  "worldwide_applications": {
+    "2000": [
+      {
+        "filing_date": "2000-11-01",
+        "country_code": "US",
+        "application_number": "US09/704,134",
+        "document_id": "patent/US7334379B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ],
+    "2006": [
+      {
+        "filing_date": "2006-04-05",
+        "country_code": "US",
+        "application_number": "US11/399,566",
+        "document_id": "patent/US7882680B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-02-07",
+        "country_code": "US",
+        "application_number": "US13/022,340",
+        "document_id": "patent/US8225582B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-04-05",
+      "title": "Priority to US11/399,566",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7882680B2/en"
+    },
+    {
+      "date": "2006-04-05",
+      "title": "Application filed by Medical Tech Systems Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Medical Tech Systems Inc"
+    },
+    {
+      "date": "2007-02-05",
+      "title": "Assigned to MTS MEDICATION TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "MTS MEDICATION TECHNOLOGIES, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MEDICAL TECHNOLOGY SYSTEMS, INC."
+      ]
+    },
+    {
+      "date": "2007-04-19",
+      "title": "Publication of US20070084150A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070084150A1/en"
+    },
+    {
+      "date": "2009-12-30",
+      "title": "Assigned to U.S. BANK NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK NATIONAL ASSOCIATION",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: MTS MEDICATION TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2011-02-07",
+      "title": "Priority to US13/022,340",
+      "type": "priority",
+      "document_id": "patent/US8225582B2/en"
+    },
+    {
+      "date": "2011-02-08",
+      "title": "Publication of US7882680B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7882680B2/en"
+    },
+    {
+      "date": "2011-02-08",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2011-06-17",
+      "title": "Assigned to MTS MEDICATION TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "MTS MEDICATION TECHNOLOGIES, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: U.S. BANK NATIONAL ASSOCIATION"
+      ]
+    },
+    {
+      "date": "2011-06-17",
+      "title": "Assigned to GCI CAPITAL MARKETS LLC, AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "GCI CAPITAL MARKETS LLC, AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: MTS MEDICATION TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2012-05-25",
+      "title": "Assigned to MTS MEDICATIONS TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "MTS MEDICATIONS TECHNOLOGIES, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GCI CAPITAL MARKETS LLC"
+      ]
+    },
+    {
+      "date": "2013-09-27",
+      "title": "Assigned to WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: MTS MEDICATION TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2016-01-06",
+      "title": "Assigned to MTS MEDICATION TECHNOLOGIES, INC.",
+      "type": "reassignment",
+      "assignee_search": "MTS MEDICATION TECHNOLOGIES, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT"
+      ]
+    },
+    {
+      "date": "2016-01-07",
+      "title": "Assigned to WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MTS MEDICATION TECHNOLOGIES, INC."
+      ]
+    },
+    {
+      "date": "2020-12-20",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070084150.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11399566"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070084150"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007084150A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11399566/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070084150"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/18/28/ea/b6fdc1419366af/US20070084150A1-20070419-D00000.png",
+    "https://patentimages.storage.googleapis.com/8f/a8/ad/4f7b68301dcb2e/US20070084150A1-20070419-D00001.png",
+    "https://patentimages.storage.googleapis.com/13/a4/88/e70a1541bd35d5/US20070084150A1-20070419-D00002.png",
+    "https://patentimages.storage.googleapis.com/da/22/cf/95fb29f0a9751d/US20070084150A1-20070419-D00003.png",
+    "https://patentimages.storage.googleapis.com/ba/57/8c/f5a1e3ea82c2d3/US20070084150A1-20070419-D00004.png",
+    "https://patentimages.storage.googleapis.com/29/9c/4c/53df2e34667f34/US20070084150A1-20070419-D00005.png",
+    "https://patentimages.storage.googleapis.com/67/6d/23/4bd8f25267aa48/US20070084150A1-20070419-D00006.png"
+  ],
+  "classifications": [
+    {
+      "code": "B65B5/103",
+      "description": "Filling containers or receptacles progressively or in stages by introducing successive articles, or layers of articles by gravity for packaging pills or tablets",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An automated pharmaceutical product packaging machine simultaneously fills a plurality of product package templates in parallel with desired pharmaceutical dosing requirements. The templates are subsequently positioned over a temporary storage template having cavities for receiving solid pharmaceutical doses. A collector member is subsequently placed beneath the temporary storage template for receiving the pharmaceuticals which in turn is positioned over a solid pharmaceutical product package having a plurality of cavities which correspond to openings on the templates and wherein each of the templates fills a pharmaceutical package.",
+  "description_link": "https://serpapi.com/searches/68514e453882c5a4f8339887/google_patents_details/description.html",
+  "claims": [
+    "1-10. (canceled)",
+    "11. An automated pharmaceutical product packaging machine for dispensing solid pharmaceuticals into a product package having a plurality of cavities comprising: \na plurality of dispensers containing solid pharmaceuticals;  a funnel which receives pharmaceuticals from said dispensers;  a template comprising a plurality of cavities corresponding to the plurality of cavities of the product package;  a temporary storage member said temporary storage member comprising a plurality of cavities corresponding to the plurality of cavities of the product package for receiving pharmaceuticals from said template; and  wherein pharmaceuticals are transferred from said template to said cavities of said temporary storage member and from said temporary storage member to the product package.",
+    "12. The automated pharmaceutical product packaging machine of claim 11, wherein a bottom plate of said template includes a plurality of apertures corresponding to said plurality of cavities and wherein said bottom plate is slidingly engaged with a remainder of said template to align said plurality of apertures with said plurality of cavities.",
+    "13. The automated pharmaceutical product packaging machine of claim 11, wherein a bottom plate of said temporary storage member includes a plurality of apertures corresponding to said plurality of cavities and wherein said bottom plate is slidingly engaged with a remainder of said temporary storage member to align said plurality of apertures with said plurality of cavities.",
+    "14. The automated pharmaceutical product packaging machine of claim 11, further comprising a collector member comprising a plurality of cavities corresponding to a plurality of product package cavities for receiving pharmaceuticals from said temporary storage member.",
+    "15. The automated pharmaceutical product packaging machine of claim 14, wherein a bottom plate of said collector member includes a plurality of apertures corresponding to said plurality of cavities and wherein said bottom plate is slidingly engaged with a remainder of said collector member to align said plurality of apertures with said plurality of cavities.",
+    "16. A method for dispensing solid pharmaceutical products to a product package having a plurality of cavities comprising the steps of: \nproviding a template having a plurality of cavities corresponding to a plurality of product package cavities;  providing a temporary storage member having a plurality of cavities corresponding to a plurality of product package cavities;  selectively dispensing one or more solid pharmaceutical products from a plurality of different drug sources into a common funnel to place one or more solid pharmaceutical products from the plurality of different drug sources into each of said plurality of template cavities;  transferring the solid pharmaceutical products from said plurality of template cavities to said plurality of temporary storage member cavities; and  transferring the solid pharmaceutical products from said plurality of temporary storage member cavities to the product package cavities.",
+    "17. The method of claim 16, wherein said template includes a bottom plate having a plurality of apertures corresponding to said plurality of product package cavities and wherein said step of transferring the solid pharmaceuticals from said plurality of template cavities includes sliding said bottom plate relative to a remainder of said template to transfer the solid pharmaceutical products from said plurality of template cavities to said plurality of temporary storage member cavities.",
+    "18. The method of claim 16, further comprising the step of: \nproviding a collector member comprising a plurality of cavities corresponding to a plurality of product package cavities; and  wherein the solid pharmaceutical products are transferred to said plurality of cavities of said collector member prior to transferring the solid pharmaceutical products to the product package cavities.",
+    "19. The method of claim 18, wherein said temporary storage member includes a bottom plate having a plurality of apertures corresponding to said plurality of product package cavities and wherein said step of transferring the solid pharmaceuticals from said plurality of temporary storage member cavities includes sliding said bottom plate relative to a remainder of said temporary storage member to transfer the solid pharmaceutical products from said plurality of template cavities to said plurality of temporary storage member cavities."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US13/022,340",
+      "relation_type": "Continuation",
+      "representative_publication": "US8225582B2",
+      "primary_language": "en",
+      "priority_date": "2000-11-01",
+      "filing_date": "2011-02-07",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US09/704,134",
+      "relation_type": "Continuation",
+      "representative_publication": "US7334379B1",
+      "primary_language": "en",
+      "priority_date": "2000-03-31",
+      "filing_date": "2000-11-01",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/399,566",
+      "representative_publication": "US7882680B2",
+      "primary_language": "en",
+      "priority_date": "2000-11-01",
+      "filing_date": "2006-04-05",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    },
+    {
+      "application_number": "US13/022,340",
+      "representative_publication": "US8225582B2",
+      "primary_language": "en",
+      "priority_date": "2000-11-01",
+      "filing_date": "2011-02-07",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US09/704,134",
+      "representative_publication": "US7334379B1",
+      "primary_language": "en",
+      "priority_date": "2000-11-01",
+      "filing_date": "2000-11-01",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    },
+    {
+      "application_number": "US11/399,566",
+      "representative_publication": "US7882680B2",
+      "primary_language": "en",
+      "priority_date": "2000-11-01",
+      "filing_date": "2006-04-05",
+      "title": "Automated solid pharmaceutical product packaging machine"
+    }
+  ],
+  "family_id": "37946872",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US1258012A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1918-03-05",
+        "assignee_original": "Aaron Jedel",
+        "title": "Combined rack-filling and carton-loading machine.",
+        "patent_id": "patent/US1258012A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1258012A%2Fen"
+      },
+      {
+        "publication_number": "US1993619A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1931-04-25",
+        "publication_date": "1935-03-05",
+        "assignee_original": "Muller J C & Co",
+        "title": "Apparatus for removing the bottom cigarette group from a cigarette distributing chamber",
+        "patent_id": "patent/US1993619A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1993619A%2Fen"
+      },
+      {
+        "publication_number": "US3456424A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-11-18",
+        "publication_date": "1969-07-22",
+        "assignee_original": "Kaman Aircraft Corp",
+        "title": "Article packaging or handling apparatus",
+        "patent_id": "patent/US3456424A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3456424A%2Fen"
+      },
+      {
+        "publication_number": "US3780856A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-07-26",
+        "publication_date": "1973-12-25",
+        "assignee_original": "Medi Dose Inc",
+        "title": "Medicinal dispensing device",
+        "patent_id": "patent/US3780856A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3780856A%2Fen"
+      },
+      {
+        "publication_number": "US4233799A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-05-29",
+        "publication_date": "1980-11-18",
+        "assignee_original": "Societe Anonyme Expandet",
+        "title": "Distributing machine for placing stored objects on grill stands",
+        "patent_id": "patent/US4233799A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4233799A%2Fen"
+      },
+      {
+        "publication_number": "US4416375A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-04-30",
+        "publication_date": "1983-11-22",
+        "assignee_original": "Medi-Dose, Inc.",
+        "title": "Computer print form cover sheet for multi-compartment medicinal dispensing device",
+        "patent_id": "patent/US4416375A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4416375A%2Fen"
+      },
+      {
+        "publication_number": "US4490963A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-11-16",
+        "publication_date": "1985-01-01",
+        "assignee_original": "Knudsen David S",
+        "title": "Packaging machine",
+        "patent_id": "patent/US4490963A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4490963A%2Fen"
+      },
+      {
+        "publication_number": "US4546901A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-02-02",
+        "publication_date": "1985-10-15",
+        "assignee_original": "Buttarazzi Patrick J",
+        "title": "Apparatus for dispensing medication",
+        "patent_id": "patent/US4546901A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4546901A%2Fen"
+      },
+      {
+        "publication_number": "US4655026A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-12-11",
+        "publication_date": "1987-04-07",
+        "assignee_original": "Wigoda Luis T",
+        "title": "Pill dispensing machine",
+        "patent_id": "patent/US4655026A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4655026A%2Fen"
+      },
+      {
+        "publication_number": "US4664289A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-06-03",
+        "publication_date": "1987-05-12",
+        "assignee_original": "Sanyo Electric Co, Ltd.",
+        "title": "Drug dispensing apparatus",
+        "patent_id": "patent/US4664289A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4664289A%2Fen"
+      },
+      {
+        "publication_number": "US4733362A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-04-02",
+        "publication_date": "1988-03-22",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Drug dispensing apparatus with a printer having programmable format",
+        "patent_id": "patent/US4733362A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4733362A%2Fen"
+      },
+      {
+        "publication_number": "US4834264A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-06-03",
+        "publication_date": "1989-05-30",
+        "assignee_original": "Siegel Family Revocable Trust",
+        "title": "Dedicated multi-cavity dispenser for solids",
+        "patent_id": "patent/US4834264A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4834264A%2Fen"
+      },
+      {
+        "publication_number": "US4844246A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-02-18",
+        "publication_date": "1989-07-04",
+        "assignee_original": "Minnesota Mining And Manufacturing Company",
+        "title": "Kit for preparing blister packages",
+        "patent_id": "patent/US4844246A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4844246A%2Fen"
+      },
+      {
+        "publication_number": "US4870799A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-02-27",
+        "publication_date": "1989-10-03",
+        "assignee_original": "Societe Anonyme Dite: Compagnie Generale D'automatisme Cga-Hbs",
+        "title": "Installation for making up batches of articles",
+        "patent_id": "patent/US4870799A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4870799A%2Fen"
+      },
+      {
+        "publication_number": "US5019125A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-06-26",
+        "publication_date": "1991-05-28",
+        "assignee_original": "Marion Merrell Dow Inc.",
+        "title": "Dispensing container",
+        "patent_id": "patent/US5019125A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5019125A%2Fen"
+      },
+      {
+        "publication_number": "US5348061A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-12-01",
+        "publication_date": "1994-09-20",
+        "assignee_original": "Baxter International Inc.",
+        "title": "Tablet accumulator for an automated prescription vial filling system",
+        "patent_id": "patent/US5348061A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5348061A%2Fen"
+      },
+      {
+        "publication_number": "US5358118A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-09-30",
+        "publication_date": "1994-10-25",
+        "assignee_original": "R.P. Scherer Corporation",
+        "title": "Stepped edge blister pack",
+        "patent_id": "patent/US5358118A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5358118A%2Fen"
+      },
+      {
+        "publication_number": "US5481855A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-09-27",
+        "publication_date": "1996-01-09",
+        "assignee_original": "Yuyama; Shoji",
+        "title": "Tablet packing device and method for controlling the same",
+        "patent_id": "patent/US5481855A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5481855A%2Fen"
+      },
+      {
+        "publication_number": "US5548941A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-07-13",
+        "publication_date": "1996-08-27",
+        "assignee_original": "G.D Societa' Per Azioni",
+        "title": "Method of feeding groups of tobacco items, in particular cigarettes, to a continuous packing machine",
+        "patent_id": "patent/US5548941A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5548941A%2Fen"
+      },
+      {
+        "publication_number": "US5658802A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-09-07",
+        "publication_date": "1997-08-19",
+        "assignee_original": "Microfab Technologies, Inc.",
+        "title": "Method and apparatus for making miniaturized diagnostic arrays",
+        "patent_id": "patent/US5658802A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5658802A%2Fen"
+      },
+      {
+        "publication_number": "US5720154A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-27",
+        "publication_date": "1998-02-24",
+        "assignee_original": "Medco Containment Services, Inc.",
+        "title": "Enhanced drug dispensing system",
+        "patent_id": "patent/US5720154A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5720154A%2Fen"
+      },
+      {
+        "publication_number": "US5753456A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-02-23",
+        "publication_date": "1998-05-19",
+        "assignee_original": "Idexx Laboratiories, Inc.",
+        "title": "Method for quantification of biological material in a liquid sample",
+        "patent_id": "patent/US5753456A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5753456A%2Fen"
+      },
+      {
+        "publication_number": "US5765606A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-28",
+        "publication_date": "1998-06-16",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Medication filling apparatus",
+        "patent_id": "patent/US5765606A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5765606A%2Fen"
+      },
+      {
+        "publication_number": "US5839257A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-04-22",
+        "publication_date": "1998-11-24",
+        "assignee_original": "Automed Technologies Incorporated",
+        "title": "Drug packaging machine",
+        "patent_id": "patent/US5839257A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5839257A%2Fen"
+      },
+      {
+        "publication_number": "US5852911A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-07",
+        "publication_date": "1998-12-29",
+        "assignee_original": "Kabushiki Kaisha Yuyama Seisakusho",
+        "title": "Tablet dispenser",
+        "patent_id": "patent/US5852911A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5852911A%2Fen"
+      },
+      {
+        "publication_number": "US6023916A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-22",
+        "publication_date": "2000-02-15",
+        "assignee_original": "Dispill Inc.",
+        "title": "Kit and process for the manufacture of a set of individual pill containers",
+        "patent_id": "patent/US6023916A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6023916A%2Fen"
+      },
+      {
+        "publication_number": "US6170230B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-04",
+        "publication_date": "2001-01-09",
+        "assignee_original": "Automed Technologies, Inc.",
+        "title": "Medication collecting system",
+        "patent_id": "patent/US6170230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6170230B1%2Fen"
+      },
+      {
+        "publication_number": "US6318051B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-30",
+        "publication_date": "2001-11-20",
+        "assignee_original": "P+P Materialfluss-Systeme Gmbh",
+        "title": "Method and device for automatic dispatching of singular items, specially an individual pill",
+        "patent_id": "patent/US6318051B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6318051B1%2Fen"
+      },
+      {
+        "publication_number": "US6325114B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-01",
+        "publication_date": "2001-12-04",
+        "assignee_original": "Incyte Genomics, Inc.",
+        "title": "Pipetting station apparatus",
+        "patent_id": "patent/US6325114B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6325114B1%2Fen"
+      },
+      {
+        "publication_number": "US6334980B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-09-07",
+        "publication_date": "2002-01-01",
+        "assignee_original": "Microfab Technologies Inc.",
+        "title": "Flexible apparatus with ablation formed chamber(s) for conducting bio-chemical analyses",
+        "patent_id": "patent/US6334980B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6334980B1%2Fen"
+      },
+      {
+        "publication_number": "US6925774B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-31",
+        "publication_date": "2005-08-09",
+        "assignee_original": "Mts Medication Technologies, Inc.",
+        "title": "Compact structure for automatically filling solid pharmaceutical product packages",
+        "patent_id": "patent/US6925774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6925774B2%2Fen"
+      },
+      {
+        "publication_number": "US20060277870A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-13",
+        "publication_date": "2006-12-14",
+        "assignee_original": "Jeff Feehan",
+        "title": "System and method for removing medication from packaging",
+        "patent_id": "patent/US20060277870A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060277870A1%2Fen"
+      },
+      {
+        "publication_number": "US7334379B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-01",
+        "publication_date": "2008-02-26",
+        "assignee_original": "Mts Medication Technologies, Inc.",
+        "title": "Automated solid pharmaceutical product packaging machine",
+        "patent_id": "patent/US7334379B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7334379B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US4644289A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-12-03",
+        "publication_date": "1987-02-17",
+        "assignee_original": "Carter-Duncan Corporation",
+        "title": "Variable power amplifier for audio frequency signals and method",
+        "patent_id": "patent/US4644289A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4644289A%2Fen"
+      },
+      {
+        "publication_number": "DE3541672A1",
+        "primary_language": "en",
+        "priority_date": "1985-11-26",
+        "publication_date": "1987-05-27",
+        "assignee_original": "Uhlmann Maschf Josef",
+        "title": "DEVICE ON PACKAGING MACHINES FOR ADJUSTING AND DEPOSITING SMALL PARTS TO BE PACKAGED, LIKE TABLETS, CAPSULES, DRAGEES OR THE LIKE.",
+        "patent_id": "patent/DE3541672A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3541672A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20070173971A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-26",
+        "publication_date": "2007-07-26",
+        "assignee_original": "Prairiestone Pharmacy, Llc",
+        "title": "System and method of providing medication compliance packaging",
+        "patent_id": "patent/US20070173971A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070173971A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009023632A1",
+        "primary_language": "en",
+        "priority_date": "2007-08-13",
+        "publication_date": "2009-02-19",
+        "assignee_original": "Mts Medication Technologies, Inc.",
+        "title": "High speed automated filling of solid pharmaceutical product packaging via a conveyor system",
+        "patent_id": "patent/WO2009023632A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009023632A1%2Fen"
+      },
+      {
+        "publication_number": "US20090133362A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-24",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Josef Bentele",
+        "title": "System for individualized filling of\n blisters of blister packs",
+        "patent_id": "patent/US20090133362A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090133362A1%2Fen"
+      },
+      {
+        "publication_number": "US20090173779A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-21",
+        "publication_date": "2009-07-09",
+        "assignee_original": "Omnicare Inc.",
+        "title": "Automated label verify systems and methods for dispensing pharmaceuticals",
+        "patent_id": "patent/US20090173779A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090173779A1%2Fen"
+      },
+      {
+        "publication_number": "EP2092927A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-02-25",
+        "publication_date": "2009-08-26",
+        "assignee_original": "Rowa Automatisierungssysteme GmbH",
+        "title": "Method for ordering medicine portions in dispensing packs according to need",
+        "patent_id": "patent/EP2092927A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2092927A1%2Fen"
+      },
+      {
+        "publication_number": "US20090272081A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-02",
+        "publication_date": "2009-11-05",
+        "assignee_original": "Mike Panson",
+        "title": "Apparatus and method for packaging and dispensing medicine",
+        "patent_id": "patent/US20090272081A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090272081A1%2Fen"
+      },
+      {
+        "publication_number": "US20100089997A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-21",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Omnicare Inc.",
+        "title": "Methods for filling prescriptions to fulfill a customer order",
+        "patent_id": "patent/US20100089997A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100089997A1%2Fen"
+      },
+      {
+        "publication_number": "ITPD20080297A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-21",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Giovanni Frate",
+        "title": "BANCO FOR THE DISTRIBUTION OF DRUGS IN TABLETS IN PERSONAL BLISTERS",
+        "patent_id": "patent/ITPD20080297A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITPD20080297A1%2Fen"
+      },
+      {
+        "publication_number": "US20110011880A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-02",
+        "publication_date": "2011-01-20",
+        "assignee_original": "Marti Garcia Sala",
+        "title": "Blister Pack Dispensing Machine",
+        "patent_id": "patent/US20110011880A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110011880A1%2Fen"
+      },
+      {
+        "publication_number": "US7946101B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-30",
+        "publication_date": "2011-05-24",
+        "assignee_original": "Walgreen Co.",
+        "title": "Method and system for verification of contents of a multi-cell, multi-product blister pack",
+        "patent_id": "patent/US7946101B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7946101B1%2Fen"
+      },
+      {
+        "publication_number": "EP2380549A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-21",
+        "publication_date": "2011-10-26",
+        "assignee_original": "Frate giovanni",
+        "title": "Counter for dispensing drugs in form of tablets in personal blisters",
+        "patent_id": "patent/EP2380549A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2380549A1%2Fen"
+      },
+      {
+        "publication_number": "US20130211582A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-07",
+        "publication_date": "2013-08-15",
+        "assignee_original": "Manrex Pty. Ltd",
+        "title": "Error reduction in blister packaging apparatus",
+        "patent_id": "patent/US20130211582A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130211582A1%2Fen"
+      },
+      {
+        "publication_number": "US20130212987A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-26",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Yuyama Mfg. Co., Ltd.",
+        "title": "Tablet packaging device",
+        "patent_id": "patent/US20130212987A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130212987A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140298754A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-09",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Carefusion Switzerland 317 Sarl",
+        "title": "System and method for packaging dosed quantities of solid drug portions",
+        "patent_id": "patent/US20140298754A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140298754A1%2Fen"
+      },
+      {
+        "publication_number": "US20150068159A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-17",
+        "publication_date": "2015-03-12",
+        "assignee_original": "Hauni Maschinenbau Ag",
+        "title": "Storage magazine and method for the interim storage of snus bags",
+        "patent_id": "patent/US20150068159A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150068159A1%2Fen"
+      },
+      {
+        "publication_number": "US20150203227A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-31",
+        "publication_date": "2015-07-23",
+        "assignee_original": "Carefusion Switzerland 317 Sarl",
+        "title": "Apparatus for packaging dosed quantities of solid drug portions",
+        "patent_id": "patent/US20150203227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150203227A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "EP3704033A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-08",
+        "publication_date": "2020-09-09",
+        "assignee_original": "7 DS Engeeniering BV",
+        "title": "Individual blister package, packaging machine and method for producing an individual blister package",
+        "patent_id": "patent/EP3704033A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3704033A2%2Fen"
+      },
+      {
+        "publication_number": "US20220267035A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-19",
+        "publication_date": "2022-08-25",
+        "assignee_original": "Altria Client Services Llc",
+        "title": "Apparatuses and methods for loading containers with products",
+        "patent_id": "patent/US20220267035A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220267035A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7185476B1",
+        "primary_language": "en",
+        "priority_date": "1999-05-11",
+        "publication_date": "2007-03-06",
+        "assignee_original": "Mts, Medication Technologies, Inc.",
+        "title": "Automated solid pharmaceutical product packaging machine",
+        "patent_id": "patent/US7185476B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7185476B1%2Fen"
+      },
+      {
+        "publication_number": "US7334379B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-01",
+        "publication_date": "2008-02-26",
+        "assignee_original": "Mts Medication Technologies, Inc.",
+        "title": "Automated solid pharmaceutical product packaging machine",
+        "patent_id": "patent/US7334379B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7334379B1%2Fen"
+      },
+      {
+        "publication_number": "AT413483B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-11",
+        "publication_date": "2006-03-15",
+        "assignee_original": "Knapp Logistik Automation",
+        "title": "AUTOMATIC TABLET FILLING PROCESS AND SYSTEM",
+        "patent_id": "patent/AT413483B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAT413483B%2Fen"
+      },
+      {
+        "publication_number": "EP1988019B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-03",
+        "publication_date": "2009-01-21",
+        "assignee_original": "UHLMANN PAC-SYSTEME GmbH & Co. KG",
+        "title": "Method for manufacturing supply packs with various medicines for several days",
+        "patent_id": "patent/EP1988019B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1988019B1%2Fen"
+      },
+      {
+        "publication_number": "US7891492B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-13",
+        "publication_date": "2011-02-22",
+        "assignee_original": "Carton Service, Incorporated",
+        "title": "Pharmaceutical blister card package",
+        "patent_id": "patent/US7891492B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7891492B2%2Fen"
+      },
+      {
+        "publication_number": "US7908827B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-27",
+        "publication_date": "2011-03-22",
+        "assignee_original": "Qem, Inc.",
+        "title": "Method and apparatus for automatically filling prescriptions using interchangeable platens",
+        "patent_id": "patent/US7908827B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7908827B2%2Fen"
+      },
+      {
+        "publication_number": "US8863480B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-27",
+        "publication_date": "2014-10-21",
+        "assignee_original": "Qem, Inc.",
+        "title": "Pill dispenser with interchangeable platen having electronically readable/writable identification",
+        "patent_id": "patent/US8863480B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8863480B2%2Fen"
+      },
+      {
+        "publication_number": "US7958701B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-27",
+        "publication_date": "2011-06-14",
+        "assignee_original": "Qem, Inc.",
+        "title": "Pill dispenser with interchangeable platen having electronically readable identification",
+        "patent_id": "patent/US7958701B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7958701B2%2Fen"
+      },
+      {
+        "publication_number": "US7937911B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-21",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Walgreen Co.",
+        "title": "Method of preparing a blister card",
+        "patent_id": "patent/US7937911B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7937911B1%2Fen"
+      },
+      {
+        "publication_number": "EP2263452B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-16",
+        "publication_date": "2012-12-05",
+        "assignee_original": "TECNIPLAST S.p.A.",
+        "title": "Automated system for controlled distribution of substances to animal containment devices in an animal housing facility",
+        "patent_id": "patent/EP2263452B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2263452B1%2Fen"
+      },
+      {
+        "publication_number": "US20110113727A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-18",
+        "publication_date": "2011-05-19",
+        "assignee_original": "Bonner Kevin B",
+        "title": "Custom Prepackaging Method and Apparatus",
+        "patent_id": "patent/US20110113727A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110113727A1%2Fen"
+      },
+      {
+        "publication_number": "US9073206B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-21",
+        "publication_date": "2015-07-07",
+        "assignee_original": "Omnicare, Inc.",
+        "title": "Methods and apparatus for automated filling of packagings with medications",
+        "patent_id": "patent/US9073206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9073206B2%2Fen"
+      },
+      {
+        "publication_number": "US8914146B2",
+        "primary_language": "en",
+        "priority_date": "2011-07-11",
+        "publication_date": "2014-12-16",
+        "assignee_original": "Omnicare, Inc.",
+        "title": "Methods and apparatus for filling of packagings with medications",
+        "patent_id": "patent/US8914146B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8914146B2%2Fen"
+      },
+      {
+        "publication_number": "US9117016B2",
+        "primary_language": "en",
+        "priority_date": "2012-07-23",
+        "publication_date": "2015-08-25",
+        "assignee_original": "Omnicare, Inc.",
+        "title": "Universal label and verification systems and methods for filling customer orders of medical items",
+        "patent_id": "patent/US9117016B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9117016B2%2Fen"
+      },
+      {
+        "publication_number": "US20140108028A1",
+        "primary_language": "en",
+        "priority_date": "2012-10-12",
+        "publication_date": "2014-04-17",
+        "assignee_original": "Mckesson Automation Inc.",
+        "title": "Apparatuses, systems, and methods for anticipating and delivering medications from a central pharmacy to a patient in a healthcare facility",
+        "patent_id": "patent/US20140108028A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140108028A1%2Fen"
+      },
+      {
+        "publication_number": "US9150119B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2015-10-06",
+        "assignee_original": "Aesynt Incorporated",
+        "title": "Apparatuses, systems, and methods for anticipating and delivering medications from a central pharmacy to a patient using a track based transport system",
+        "patent_id": "patent/US9150119B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9150119B2%2Fen"
+      },
+      {
+        "publication_number": "US9436949B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-27",
+        "publication_date": "2016-09-06",
+        "assignee_original": "Gian Samin",
+        "title": "Evaluating geographically grouped data sets",
+        "patent_id": "patent/US9436949B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9436949B1%2Fen"
+      },
+      {
+        "publication_number": "FI126665B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-30",
+        "publication_date": "2017-03-31",
+        "assignee_original": "Newlcon Oy",
+        "title": "Method and apparatus for distributing drugs in drug distribution containers",
+        "patent_id": "patent/FI126665B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI126665B%2Fen"
+      },
+      {
+        "publication_number": "CA2939591C",
+        "primary_language": "en",
+        "priority_date": "2015-08-25",
+        "publication_date": "2021-11-09",
+        "assignee_original": "Chudy Group, LLC",
+        "title": "Plural-mode automatic medicament packaging system",
+        "patent_id": "patent/CA2939591C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2939591C%2Fen"
+      },
+      {
+        "publication_number": "US10759554B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-02",
+        "publication_date": "2020-09-01",
+        "assignee_original": "Rai Strategic Holdings, Inc.",
+        "title": "Dispenser unit for aerosol precursor",
+        "patent_id": "patent/US10759554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10759554B2%2Fen"
+      },
+      {
+        "publication_number": "CN109279109B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-13",
+        "publication_date": "2020-11-03",
+        "assignee_original": "\u6e56\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "A cartridge-type capacitor automatic loading and packing device",
+        "patent_id": "patent/CN109279109B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109279109B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7882680B2",
+      "primary_language": "en",
+      "publication_date": "2011-02-08",
+      "title": "Automated solid pharmaceutical product packaging machine",
+      "patent_id": "patent/US7882680B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7882680B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7185476B1",
+      "primary_language": "en",
+      "publication_date": "2007-03-06",
+      "title": "Automated solid pharmaceutical product packaging machine",
+      "patent_id": "patent/US7185476B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7185476B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12240635B2",
+      "primary_language": "en",
+      "publication_date": "2025-03-04",
+      "title": "Pharmacy packaging system",
+      "patent_id": "patent/US12240635B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12240635B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11649115B2",
+      "primary_language": "en",
+      "publication_date": "2023-05-16",
+      "title": "Apparatus and methods for automated picking of items",
+      "patent_id": "patent/US11649115B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11649115B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230211904A1",
+      "primary_language": "en",
+      "publication_date": "2023-07-06",
+      "title": "Pharmacy packaging system",
+      "patent_id": "patent/US20230211904A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230211904A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7225597B1",
+      "primary_language": "en",
+      "publication_date": "2007-06-05",
+      "title": "Machine to automate dispensing of pills",
+      "patent_id": "patent/US7225597B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7225597B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7426814B2",
+      "primary_language": "en",
+      "publication_date": "2008-09-23",
+      "title": "Method of dispensing pills from a movable platen",
+      "patent_id": "patent/US7426814B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7426814B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1981760B1",
+      "primary_language": "en",
+      "publication_date": "2011-07-13",
+      "title": "Automated solid pharmaceutical packaging machine utilizing robotic drive",
+      "patent_id": "patent/EP1981760B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1981760B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2183158B1",
+      "primary_language": "en",
+      "publication_date": "2016-04-13",
+      "title": "High speed automated filling of solid pharmaceutical product packaging via a conveyor system",
+      "patent_id": "patent/EP2183158B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2183158B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7886506B2",
+      "primary_language": "en",
+      "publication_date": "2011-02-15",
+      "title": "Method of automatically filling prescriptions",
+      "patent_id": "patent/US7886506B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7886506B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7908827B2",
+      "primary_language": "en",
+      "publication_date": "2011-03-22",
+      "title": "Method and apparatus for automatically filling prescriptions using interchangeable platens",
+      "patent_id": "patent/US7908827B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7908827B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020103573A1",
+      "primary_language": "en",
+      "publication_date": "2002-08-01",
+      "title": "Article dispensing system",
+      "patent_id": "patent/US20020103573A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020103573A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110208352A1",
+      "primary_language": "en",
+      "publication_date": "2011-08-25",
+      "title": "Pill dispenser with interchangeable platen having electronically readable/writable identification",
+      "patent_id": "patent/US20110208352A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110208352A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2404589C",
+      "primary_language": "en",
+      "publication_date": "2009-08-18",
+      "title": "Automated solid pharmaceutical product packaging machine",
+      "patent_id": "patent/CA2404589C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2404589C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2022126879A",
+      "primary_language": "en",
+      "publication_date": "2022-08-30",
+      "title": "Pharmaceutical sorting device and pharmaceutical sorting system",
+      "patent_id": "patent/JP2022126879A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022126879A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2001251235A1",
+      "primary_language": "en",
+      "publication_date": "2002-01-03",
+      "title": "Automated solid pharmaceutical product packaging machine",
+      "patent_id": "patent/AU2001251235A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2001251235A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200331641A1",
+      "primary_language": "en",
+      "publication_date": "2020-10-22",
+      "title": "Solid preparation subdividing device and solid preparation subdividing method",
+      "patent_id": "patent/US20200331641A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200331641A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12043432B2",
+      "primary_language": "en",
+      "publication_date": "2024-07-23",
+      "title": "System and method for high-volume filling of pharmaceutical prescriptions",
+      "patent_id": "patent/US12043432B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12043432B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250162740A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-22",
+      "title": "Pharmacy packaging system",
+      "patent_id": "patent/US20250162740A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250162740A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-02-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MTS MEDICATION TECHNOLOGIES, INC., FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:MEDICAL TECHNOLOGY SYSTEMS, INC.;REEL/FRAME:018851/0436"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040913"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK NATIONAL ASSOCIATION, MISSOURI"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:MTS MEDICATION TECHNOLOGIES, INC.;REEL/FRAME:023750/0284"
+        },
+        {
+          "label": "Effective date",
+          "value": "20091222"
+        },
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK NATIONAL ASSOCIATION,MISSOURI"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:MTS MEDICATION TECHNOLOGIES, INC.;REEL/FRAME:023750/0284"
+        },
+        {
+          "label": "Effective date",
+          "value": "20091222"
+        }
+      ]
+    },
+    {
+      "date": "2011-01-19",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2011-06-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MTS MEDICATION TECHNOLOGIES, INC., FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:U.S. BANK NATIONAL ASSOCIATION;REEL/FRAME:026458/0824"
+        },
+        {
+          "label": "Effective date",
+          "value": "20110615"
+        },
+        {
+          "label": "Owner name",
+          "value": "GCI CAPITAL MARKETS LLC, AS ADMINISTRATIVE AGENT,"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:MTS MEDICATION TECHNOLOGIES, INC.;REEL/FRAME:026464/0285"
+        },
+        {
+          "label": "Effective date",
+          "value": "20110615"
+        }
+      ]
+    },
+    {
+      "date": "2012-05-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MTS MEDICATIONS TECHNOLOGIES, INC., DISTRICT OF CO"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:GCI CAPITAL MARKETS LLC;REEL/FRAME:028272/0563"
+        },
+        {
+          "label": "Effective date",
+          "value": "20120521"
+        }
+      ]
+    },
+    {
+      "date": "2013-09-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNOR:MTS MEDICATION TECHNOLOGIES, INC.;REEL/FRAME:031301/0958"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130925"
+        }
+      ]
+    },
+    {
+      "date": "2014-08-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2016-01-06",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MTS MEDICATION TECHNOLOGIES, INC., FLORIDA"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINISTRATIVE AGENT;REEL/FRAME:037424/0971"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160105"
+        }
+      ]
+    },
+    {
+      "date": "2016-01-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WELLS FARGO BANK, NATIONAL ASSOCIATION, AS ADMINIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:MTS MEDICATION TECHNOLOGIES, INC.;REEL/FRAME:037434/0818"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160105"
+        }
+      ]
+    },
+    {
+      "date": "2016-12-05",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2017-11-29",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE UNDER 1.28(C) (ORIGINAL EVENT CODE: M1559)"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-04",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PETITION RELATED TO MAINTENANCE FEES GRANTED (ORIGINAL EVENT CODE: PTGR)"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-26",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-26",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-13",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-13",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-04",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20230208"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 53
+      },
+      {
+        "id": "239000000825",
+        "name": "pharmaceutical preparation",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "229940127557",
+        "name": "pharmaceutical product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 47
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 4
+      },
+      {
+        "id": "241000198620",
+        "name": "Infundibulicybe gibba",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000002985",
+        "name": "plastic film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000009512",
+        "name": "pharmaceutical packaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004888",
+        "name": "barrier function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000151",
+        "name": "deposition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005429",
+        "name": "filling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002372",
+        "name": "labelling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006187",
+        "name": "pill",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000955",
+        "name": "prescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012795",
+        "name": "verification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

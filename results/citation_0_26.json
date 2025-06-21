@@ -1,0 +1,3816 @@
+{
+  "search_metadata": {
+    "id": "68514dd5ae678ca4ba77436d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4b455180b9fb582a/68514dd5ae678ca4ba77436d.json",
+    "created_at": "2025-06-17 11:13:25 UTC",
+    "processed_at": "2025-06-17 11:13:25 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6063026A/en",
+    "raw_html_file": "https://serpapi.com/searches/4b455180b9fb582a/68514dd5ae678ca4ba77436d.html",
+    "total_time_taken": 0.66
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6063026A/en"
+  },
+  "title": "Medical diagnostic analysis system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/32/35/18/f5ef51ff23f4ad/US6063026.pdf",
+  "publication_number": "US6063026A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "indicator",
+    "database",
+    "data",
+    "levels",
+    "individual"
+  ],
+  "prior_art_date": "1995-12-07",
+  "application_number": "US08/620,385",
+  "inventors": [
+    {
+      "name": "Mark A. Schauss",
+      "link": "https://patents.google.com/?inventor=Mark+A.+Schauss",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Mark+A.+Schauss"
+    },
+    {
+      "name": "Patricia Kane",
+      "link": "https://patents.google.com/?inventor=Patricia+Kane",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Patricia+Kane"
+    }
+  ],
+  "assignees": [
+    "Carbon Based Corp"
+  ],
+  "priority_date": "1995-12-07",
+  "filing_date": "1996-03-22",
+  "publication_date": "2000-05-16",
+  "worldwide_applications": {
+    "1996": [
+      {
+        "filing_date": "1996-03-22",
+        "country_code": "US",
+        "application_number": "US08/620,385",
+        "document_id": "patent/US6063026A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      },
+      {
+        "filing_date": "1996-12-04",
+        "country_code": "AU",
+        "application_number": "AU16837/97A",
+        "document_id": "patent/AU1683797A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1996-12-04",
+        "country_code": "WO",
+        "application_number": "PCT/US1996/019297",
+        "document_id": "patent/WO1997020496A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      }
+    ]
+  },
+  "events": [
+    {
+      "title": "US case filed in New Jersey District Court",
+      "type": "litigation",
+      "critical": true,
+      "external_link": "https://portal.unifiedpatents.com/litigation/New%20Jersey%20District%20Court/case/2%3A19-cv-15343",
+      "description": [
+        "Source: District Court",
+        "Jurisdiction: New Jersey District Court",
+        "\"Unified Patents Litigation Data\" by Unified Patents is licensed under a Creative Commons Attribution 4.0 International License."
+      ]
+    },
+    {
+      "date": "1995-12-07",
+      "title": "Priority claimed from US08/568,752",
+      "type": "external-priority",
+      "document_id": "patent/US5746204A/en"
+    },
+    {
+      "date": "1996-03-22",
+      "title": "Application filed by Carbon Based Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Carbon Based Corp"
+    },
+    {
+      "date": "1996-03-22",
+      "title": "Priority to US08/620,385",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6063026A/en"
+    },
+    {
+      "date": "1996-06-03",
+      "title": "Assigned to CARBON BASED CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "CARBON BASED CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SCHAUSS, MARK A."
+      ]
+    },
+    {
+      "date": "1996-12-04",
+      "title": "Priority to AU16837/97A",
+      "type": "priority",
+      "document_id": "patent/AU1683797A/en"
+    },
+    {
+      "date": "1996-12-04",
+      "title": "Priority to PCT/US1996/019297",
+      "type": "priority",
+      "document_id": "patent/WO1997020496A1/en"
+    },
+    {
+      "date": "2000-05-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2000-05-16",
+      "title": "Publication of US6063026A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6063026A/en"
+    },
+    {
+      "date": "2006-06-02",
+      "title": "Assigned to CARBON BASED CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "CARBON BASED CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KANE, PATRICIA"
+      ]
+    },
+    {
+      "date": "2015-12-07",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6063026.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08620385"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6063026"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6063026A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08620385/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6063026"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/0b/03/f6/58283d3a25c397/US6063026-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/84/3b/21/4cd9368a96987c/US6063026-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/63/71/5e/67cd145f5be0b4/US6063026-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/a2/75/06/422028e8ce3395/US6063026-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/78/6f/4c/acbd00331132f9/US6063026-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/16/e3/69/12931396ab4557/US6063026-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/29/a4/00/11da2102aeaa53/US6063026-drawings-page-9.png",
+    "https://patentimages.storage.googleapis.com/91/00/a5/5f9b8cf346e396/US6063026-drawings-page-10.png",
+    "https://patentimages.storage.googleapis.com/0a/d9/d3/84b71fd2cc02f8/US6063026-drawings-page-11.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H15/00",
+      "description": "ICT specially adapted for medical reports, e.g. generation or transmission thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/10",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H70/40",
+      "description": "ICT specially adapted for the handling or processing of medical references relating to drugs, e.g. their side effects or intended usage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/923",
+      "description": "Computer assisted medical diagnostics by comparison of patient data to other data",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention is a computerized medical diagnostic method. It includes a first database containing a correlation of a plurality of diseases with a plurality of indicators associated with each such disease. A second database includes human experience test results associated with each indicator. An individual's test results are then compared with the second database data to determine presence levels for each indicator. Thereafter the presence levels are compared with the data in the first database to provide a pattern matching determination of diseases associated with the various indicator presence levels.\nThe presence level indicators for an individual may be affected by many environmental and/or personal factors such as age, sex, race, pregnancy, residence location, previous or current diseases, previous or current drug usage, etc., all of which are factors to be considered in creating an accurate analysis system. The present invention provides a method for correlating such factors with the various test indicators to identify therapeutic and/or contraindicated treatments and drugs.",
+  "description_link": "https://serpapi.com/searches/68514dd5ae678ca4ba77436d/google_patents_details/description.html",
+  "claims": [
+    "1. A medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, comprising:a. storing a first database in said means for data storage, said first database having indicator data including human experience test result levels associated with each of a plurality of indicators; b. storing a second database in said means for data storage, said second database having indicator data including a plurality of drugs and a plurality of indicators that are associated with each said drug; c. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; d. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said drugs in said individual.",
+    "2. A method as described in claim 1, wherein said indicator data of said second database includes a correlation of said drugs with increased and decreased levels of said indicators.",
+    "3. A method as described in claim 1, wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased.",
+    "4. A method as described in claim 1, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for said indicators.",
+    "5. A method as described in claim 4, wherein said step of determining an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU3##",
+    "6. A method as described in claim 5, wherein said step of determining an indicator presence level includes the further step of determining whether said percent status value is greater than 25% or less than -25%.",
+    "7. A method as described in claim 1, wherein said determination related to the effect of particular ones of said drugs in said individual includes a determination of drugs that cause or aggravate said indicator presence levels.",
+    "8. A method as described in claim 7, further including the step of: f. determining those drugs that are most commonly identified as causing or aggravating said indicator presence levels.",
+    "9. A method as described in claim 1, wherein steps a-e are performed on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from said two different dates to identify changes in said determinations.",
+    "10. A medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, comprising:a. storing a first database in said means for data storage; said first database having indicator data including human experience test result levels associated with each of a plurality of indicators; b. storing a second database in said means for data storage, said second database having indicator data including a plurality of pharmacological agents and a plurality of indicators that are associated with each said agent; c. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; d. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said agents in said individual.",
+    "11. A method as described in claim 10, wherein said indicator data of said second database includes a correlation of said agents with increased and decreased levels of said indicators.",
+    "12. A method as described in claim 10, wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased.",
+    "13. A method as described in claim 10, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for said indicators.",
+    "14. A method as described in claim 13, wherein said step of determining an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU4##",
+    "15. A method as described in claim 14, wherein said step of determining an indicator presence level includes the further step of determining whether said percent status value is greater than 25% or less than -25%.",
+    "16. A method as described in claim 10, wherein said determination related to the effect of particular ones of said agent in said individual includes a determination of agents that normalize said indicator presence levels.",
+    "17. A method as described in claim 16, further including the step of: f. determining those agents that are most commonly identified as normalizing said indicator presence levels.",
+    "18. A method as described in claim 10, wherein steps a-e are performed on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from said two different dates to identify changes in said determinations.",
+    "19. A medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, comprising:a. storing a first database in said means for data storage, said first database having indicator data including human experience test result levels associated with each of a plurality of indicators, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for each of said indicators; b. storing a second database in said means for data storage, said second database having indicator data including a plurality of drugs and a plurality of indicators that are associated with each said drug, wherein said indicator data of said second database includes a correlation of said drugs with increased and decreased levels of said indicators; c. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; d. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing, and wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said drugs in said individual.",
+    "20. A method as described in claim 19, wherein said step of determining of an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU5## and wherein said step of determining an indicator presence level includes the further step of determining whether said percent status value is greater than 25% as an indication that said indicator presence level is increased, or less than -25% as an indication that said indicator presence level is decreased.",
+    "21. A method as described in claim 20, wherein said determination related to the effect of particular ones of said drugs in said individual includes a determination of drugs that cause or aggravate said indicator presence levels.",
+    "22. A method as described in claim 21, wherein steps a-e are performed on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from said two different dates to identify changes in said determinations.",
+    "23. A method as described in claim 19, further including the step of:f. determining those drugs that are most commonly identified as causing or aggravating said increased or decreased indicator presence levels.",
+    "24. A medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, comprising:a. storing a first database in said means for data storage; said first database having indicator data including human experience test result levels associated with each of a plurality of indicators, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for each of said indicators; b. storing a second database in said means for data storage, said second database having indicator data including a plurality of pharmacological agents and a plurality of indicators that are associated with each said agent, wherein said indicator data of said second database includes a correlation of said agents with increased and decreased levels of said indicators; c. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; d. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing, and wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said agents in said individual.",
+    "25. A method as described in claim 24, wherein said step of determining an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU6## wherein said step of determining an indicator presence level includes the further step of determining whether said percent status value is greater than 25% as an indication that said indicator presence level is increased, or less than -25% as an indication that said indicator presence level is decreased.",
+    "26. A method as described in claim 25, wherein said determination related to the effect of particular ones of said agents in said individual includes a determination of agents that normalize said indicator presence levels.",
+    "27. A method as described in claim 26, wherein steps a-e are performed on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from said two different dates to identify changes in said determinations.",
+    "28. A method as described in claim 24, further including the step of:f. determining those agents that are most commonly identified as normalizing said increased or decreased indicator presence levels.",
+    "29. In a medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, including the steps of:a. storing a first database in said means for data storage, said first database having indicator data including human experience test result levels associated with each of a plurality of indicators, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for each of said indicators; b. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; the improvement therein comprising the steps of: c. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing, and wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased; d. storing a second database in said means for data storage, said second database having indicator data including a plurality of drugs and a plurality of indicators that are associated with each said drug, wherein said indicator data of said second database includes a correlation of said drugs with increased and decreased levels of said indicators; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said drugs in said individual.",
+    "30. In a method as described in claim 29, wherein said step of determining of an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU7## the improvement therein comprising the further step of determining whether said percent status value is greater than 25% as an indication that said indicator presence level is increased, or less than -25% as an indication that said indicator presence level is decreased.",
+    "31. In a method as described in claim 30, wherein said determination related to the effect of particular ones of said drugs in said individual includes the improvement of a determination of drugs that cause or aggravate said indicator presence levels.",
+    "32. In a method as described in claim 31, wherein test results are obtained on two separate days and results are compared, the improvement therein comprising performing steps a-e on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from step (e) from said two different dates to identify changes in said determinations.",
+    "33. In a method as described in claim 29, the improvement therein comprising the further step of:f. determining those drugs that are most commonly identified as causing or aggravating said increased or decreased indicator presence levels.",
+    "34. In a medical diagnostic method utilizing a computerized system having a means for data storage and a means for data processing, including the steps of:a. storing a first database in said means for data storage; said first database having indicator data including human experience test result levels associated with each of a plurality of indicators, wherein said indicator data of said first database includes a correlation of high, low and mean human experience test results for each of said indicators; b. inputting test results for an individual into said means for data processing, said test results including specific indicator levels associated with said individual; the improvement therein comprising the steps of: c. determining an indicator presence level for each said indicator by comparing said specific indicator levels with said indicator data of said first database utilizing said means for data processing, and wherein said step of determining an indicator presence level includes the further step of determining whether said indicator presence level is increased or decreased; d. storing a second database in said means for data storage, said second database having indicator data including a plurality of pharmacological agents and a plurality of indicators that are associated with each said agent, wherein said indicator data of said second database includes a correlation of said agents with increased and decreased levels of said indicators; e. comparing said indicator presence levels with said indicator data of said second database utilizing said means for data processing, and providing a determination related to the effect of particular ones of said agents in said individual.",
+    "35. In a method as described in claim 34, wherein said step of determining an indicator presence level includes the further step of determining a percent status value for each said indicator, said percent status value being determined from the relationship: ##EQU8## the improvement therein comprising the further step of determining whether said percent status value is greater than 25% as an indication that said indicator presence level is increased, or less than -25% as an indication that said indicator presence level is decreased.",
+    "36. In a method as described in claim 35, wherein said determination related to the effect of particular ones of said agents in said individual includes the improvement of a determination of agents that normalize said indicator presence levels.",
+    "37. In a method as described in claim 36, wherein test results are obtained on two separate days and results are compared, the improvement therein comprising performing steps a-e on two different dates utilizing individual test results created on said two different dates to produce a said determination on each of said two different dates; andcomparing said determinations from step (e) from said two different dates to identify changes in said determinations.",
+    "38. In a method as described in claim 34, the improvement therein comprising the further step of:f. determining those agents that are most commonly identified as normalizing said increased or decreased indicator presence levels."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US08/568,752",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US5746204A",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1995-12-07",
+      "title": "Disease indicator analysis system"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/620,385",
+      "representative_publication": "US6063026A",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1996-03-22",
+      "title": "Medical diagnostic analysis system"
+    },
+    {
+      "application_number": "AU16837/97A",
+      "representative_publication": "AU1683797A",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1996-12-04",
+      "title": "Medical diagnostic analysis system"
+    },
+    {
+      "application_number": "PCT/US1996/019297",
+      "representative_publication": "WO1997020496A1",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1996-12-04",
+      "title": "Medical diagnostic analysis system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/568,752",
+      "representative_publication": "US5746204A",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1995-12-07",
+      "title": "Disease indicator analysis system"
+    },
+    {
+      "application_number": "US08/620,385",
+      "representative_publication": "US6063026A",
+      "primary_language": "en",
+      "priority_date": "1995-12-07",
+      "filing_date": "1996-03-22",
+      "title": "Medical diagnostic analysis system"
+    }
+  ],
+  "family_id": "27074879",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4290114A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-07-01",
+        "publication_date": "1981-09-15",
+        "assignee_original": "Sinay Hanon S",
+        "title": "Medical diagnostic computer",
+        "patent_id": "patent/US4290114A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4290114A%2Fen"
+      },
+      {
+        "publication_number": "US4731725A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-06-24",
+        "publication_date": "1988-03-15",
+        "assignee_original": "Tokyo Shibaura Denki Kabushiki Kaisha",
+        "title": "Data processing system which suggests a pattern of medical tests to reduce the number of tests necessary to confirm or deny a diagnosis",
+        "patent_id": "patent/US4731725A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4731725A%2Fen"
+      },
+      {
+        "publication_number": "US4733354A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-23",
+        "publication_date": "1988-03-22",
+        "assignee_original": "Brian Potter",
+        "title": "Method and apparatus for automated medical diagnosis using decision tree analysis",
+        "patent_id": "patent/US4733354A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4733354A%2Fen"
+      },
+      {
+        "publication_number": "US5023785A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-11-16",
+        "publication_date": "1991-06-11",
+        "assignee_original": "Becton & Dickinson Co.",
+        "title": "Hematology - diagnosis apparatus employing expert system technology",
+        "patent_id": "patent/US5023785A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5023785A%2Fen"
+      },
+      {
+        "publication_number": "US5199439A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-01-16",
+        "publication_date": "1993-04-06",
+        "assignee_original": "Stanley Zimmerman",
+        "title": "Medical statistical analyzing method",
+        "patent_id": "patent/US5199439A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5199439A%2Fen"
+      },
+      {
+        "publication_number": "US5255187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-04-03",
+        "publication_date": "1993-10-19",
+        "assignee_original": "Sorensen Mark C",
+        "title": "Computer aided medical diagnostic method and apparatus",
+        "patent_id": "patent/US5255187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5255187A%2Fen"
+      },
+      {
+        "publication_number": "US5404292A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-11",
+        "publication_date": "1995-04-04",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Data processing system and method for automatically performing prioritized nursing diagnoses from patient assessment data",
+        "patent_id": "patent/US5404292A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5404292A%2Fen"
+      },
+      {
+        "publication_number": "US5437278A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-01-10",
+        "publication_date": "1995-08-01",
+        "assignee_original": "Wilk; Peter J.",
+        "title": "Medical diagnosis system and method",
+        "patent_id": "patent/US5437278A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5437278A%2Fen"
+      },
+      {
+        "publication_number": "US5463548A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-08-28",
+        "publication_date": "1995-10-31",
+        "assignee_original": "Arch Development Corporation",
+        "title": "Method and system for differential diagnosis based on clinical and radiological information using artificial neural networks",
+        "patent_id": "patent/US5463548A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5463548A%2Fen"
+      },
+      {
+        "publication_number": "US5551436A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-06-10",
+        "publication_date": "1996-09-03",
+        "assignee_original": "Hardy Co., Ltd.",
+        "title": "Medical diagnosis system",
+        "patent_id": "patent/US5551436A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5551436A%2Fen"
+      },
+      {
+        "publication_number": "US5594638A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "1997-01-14",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic system including re-enter function and sensitivity factors",
+        "patent_id": "patent/US5594638A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5594638A%2Fen"
+      },
+      {
+        "publication_number": "US5618729A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-17",
+        "publication_date": "1997-04-08",
+        "assignee_original": "The Analytic Sciences Corporation",
+        "title": "Automated system and method for estimating antibiotic effectiveness from drug diffusion tests",
+        "patent_id": "patent/US5618729A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5618729A%2Fen"
+      },
+      {
+        "publication_number": "US5642731A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-01-17",
+        "publication_date": "1997-07-01",
+        "assignee_original": "Informedix, Inc.",
+        "title": "Method of and apparatus for monitoring the management of disease",
+        "patent_id": "patent/US5642731A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5642731A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Blood Test Evaluation Copyright 1988 by Life Balances, Inc. (2 pages).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brief filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation , No. CUM L001368 97(S.P. Ct. NS,Cumberland County).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brief filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation, No. CUM-L001368-97(S.P. Ct. NS,Cumberland County)."
+    },
+    {
+      "title": "Certification of Kent Myles filed Mar., 1998 in Civil Action, Kane et al. vs Carbon Based Corporation ,No. CUM L001368 97(S.P. Ct. NS, Cumberland County)(Exhibit A from Brief (AW)).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Certification of Kent Myles filed Mar., 1998 in Civil Action, Kane et al. vs Carbon Based Corporation,No. CUM-L001368-97(S.P. Ct. NS, Cumberland County)(Exhibit A from Brief (AW))."
+    },
+    {
+      "title": "Certificationof Timothy Cunninghamm filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation ,No. CUM L001368 97 (S.P. Ct. NS, Cumberland County)(Exhibit A from Brief (AW)).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Certificationof Timothy Cunninghamm filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation,No. CUM-L001368-97 (S.P. Ct. NS, Cumberland County)(Exhibit A from Brief (AW))."
+    },
+    {
+      "title": "Fischbach et al., Manual of Laboratory and diagnostic Tests , pp. I III,4 22,4 23,276,277,1992J.B.LippincottCompany,Pennsylvania.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Fischbach et al., Manual of Laboratory and diagnostic Tests, pp. I-III,4-22,4-23,276,277,1992J.B.LippincottCompany,Pennsylvania."
+    },
+    {
+      "title": "Friedman, Richard B. et al., Effects of Disease on Clinical Laboratory Tests , p. 4 111, .1989, AACC Press, WashingonD.C.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Friedman, Richard B. et al.,Effects of Disease on Clinical Laboratory Tests, p. 4-111, .1989, AACC Press, WashingonD.C."
+    },
+    {
+      "title": "Health Equations, Blood Test Evaluation of Patricia Kenney on Mar. 23, 1995 (2 pages).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Lendon H. Smith, Feed Your Body Right , pp. 114 171, 184 189, 1994, M.Evans and Company, Inc., New York (Exhibit A from Supplemental Certification of Edward Kane (AZ).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Lendon H. Smith, Feed Your Body Right, pp. 114-171, 184-189, 1994, M.Evans and Company, Inc., New York (Exhibit A from Supplemental Certification of Edward Kane (AZ)."
+    },
+    {
+      "title": "Supplemental Certification of Edward Kane filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation , No. CUM L001368 97 (S.P. Ct. NS, Cumberland County).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Supplemental Certification of Edward Kane filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation, No. CUM-L001368-97 (S.P. Ct. NS, Cumberland County)."
+    },
+    {
+      "title": "Supplemental Certification of Patricia Kane filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation ,No. CUM L001368 97 (S.P. Ct. NS, Cumberland County).",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Supplemental Certification of Patricia Kane filed Mar., 1998 in Civil Action, Kane et al. vs. Carbon Based Corporation,No. CUM-L001368-97 (S.P. Ct. NS, Cumberland County)."
+    },
+    {
+      "title": "Young, Donald S., Effects of Drugs on Clinical Laboratory Tests , pp. 4 57,1995, AACC Press, Fourth Edition, Washington D.C.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Young, Donald S., Effects of Drugs on Clinical Laboratory Tests, pp. 4-57,1995, AACC Press, Fourth Edition, Washington D.C."
+    },
+    {
+      "title": "Young, Donald S., Effects of Preanalytical Variables on Clinical Laboratory Tests , pp. 3 287,1993,AACCPRESS,First Edition, WashingD.C.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Young, Donald S., Effects of Preanalytical Variables on Clinical Laboratory Tests , pp. I, II, 4 472, 4 473, 1996, AACC Press, Second Edition, Washing D.C.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Young, Donald S., Effects of Preanalytical Variables on Clinical Laboratory Tests, pp. I, II, 4-472, 4-473, 1996, AACC Press, Second Edition, Washing D.C."
+    },
+    {
+      "title": "Young, Donald S.,Effects of Preanalytical Variables on Clinical Laboratory Tests, pp. 3-287,1993,AACCPRESS,First Edition, WashingD.C."
+    },
+    {
+      "title": "Young,DonaldS., Effects of Drugs on Clinical Laboratory Tests , pp. I,3 236,3 237,1995, AACC Press, Fourth Edition, WashingtonD.C.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Young,DonaldS., Effects of Drugs on Clinical Laboratory Tests, pp. I,3-236,3-237,1995, AACC Press, Fourth Edition, WashingtonD.C."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US6315720B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-23",
+        "publication_date": "2001-11-13",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while avoiding the occurrence of an adverse side effect known or suspected of being caused by the drug",
+        "patent_id": "patent/US6315720B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6315720B1%2Fen"
+      },
+      {
+        "publication_number": "US20020035486A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-21",
+        "publication_date": "2002-03-21",
+        "assignee_original": "Huyn Nam Q.",
+        "title": "Computerized clinical questionnaire with dynamically presented questions",
+        "patent_id": "patent/US20020035486A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020035486A1%2Fen"
+      },
+      {
+        "publication_number": "US20020035487A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-20",
+        "publication_date": "2002-03-21",
+        "assignee_original": "Tony Brummel",
+        "title": "Intelligent patient visit information management and navigation system",
+        "patent_id": "patent/US20020035487A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020035487A1%2Fen"
+      },
+      {
+        "publication_number": "US20020055918A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-08",
+        "publication_date": "2002-05-09",
+        "assignee_original": "Patrick Hlathein",
+        "title": "Operating room resource management system incorporating an interactive, visual method for coordinating multiple, interdependent",
+        "patent_id": "patent/US20020055918A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020055918A1%2Fen"
+      },
+      {
+        "publication_number": "US20020062229A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-20",
+        "publication_date": "2002-05-23",
+        "assignee_original": "Christopher Alban",
+        "title": "Clinical documentation system for use by multiple caregivers",
+        "patent_id": "patent/US20020062229A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020062229A1%2Fen"
+      },
+      {
+        "publication_number": "US20020080189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-22",
+        "publication_date": "2002-06-27",
+        "assignee_original": "Carl Dvorak",
+        "title": "Electronic system for collecting and communicating clinical order information in an acute care setting",
+        "patent_id": "patent/US20020080189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020080189A1%2Fen"
+      },
+      {
+        "publication_number": "US20020083075A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-22",
+        "publication_date": "2002-06-27",
+        "assignee_original": "Tony Brummel",
+        "title": "System and method for a seamless user interface for an integrated electronic health care information system",
+        "patent_id": "patent/US20020083075A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020083075A1%2Fen"
+      },
+      {
+        "publication_number": "US20020107824A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-06",
+        "publication_date": "2002-08-08",
+        "assignee_original": "Sajid Ahmed",
+        "title": "System and method of decision making",
+        "patent_id": "patent/US20020107824A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020107824A1%2Fen"
+      },
+      {
+        "publication_number": "US20020138746A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-23",
+        "publication_date": "2002-09-26",
+        "assignee_original": "Mark Buttner",
+        "title": "Method of generating a secure output file",
+        "patent_id": "patent/US20020138746A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020138746A1%2Fen"
+      },
+      {
+        "publication_number": "US20020165898A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-03",
+        "publication_date": "2002-11-07",
+        "assignee_original": "Joe Duffy",
+        "title": "Recipient-determined method for sharing tasks in an advanced electronic messaging/workflow system",
+        "patent_id": "patent/US20020165898A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020165898A1%2Fen"
+      },
+      {
+        "publication_number": "US20030048932A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-31",
+        "publication_date": "2003-03-13",
+        "assignee_original": "Siemens Medical Solutions Health Services Corporation.",
+        "title": "System for processing image representative data",
+        "patent_id": "patent/US20030048932A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030048932A1%2Fen"
+      },
+      {
+        "publication_number": "US20030061073A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-01",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Khiang Seow",
+        "title": "Method and system for displaying patient information",
+        "patent_id": "patent/US20030061073A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030061073A1%2Fen"
+      },
+      {
+        "publication_number": "US20030060690A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-19",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Roger Jelliffe",
+        "title": "Therapeutic decisions systems and method using stochastic techniques",
+        "patent_id": "patent/US20030060690A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030060690A1%2Fen"
+      },
+      {
+        "publication_number": "US6561976B2",
+        "primary_language": "en",
+        "priority_date": "1998-08-28",
+        "publication_date": "2003-05-13",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while preventing the exposure of a foetus or other contraindicated individual to the drug",
+        "patent_id": "patent/US6561976B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6561976B2%2Fen"
+      },
+      {
+        "publication_number": "US20030101076A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-02",
+        "publication_date": "2003-05-29",
+        "assignee_original": "Zaleski John R.",
+        "title": "System for supporting clinical decision making through the modeling of acquired patient medical information",
+        "patent_id": "patent/US20030101076A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030101076A1%2Fen"
+      },
+      {
+        "publication_number": "US20030130872A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-27",
+        "publication_date": "2003-07-10",
+        "assignee_original": "Carl Dvorak",
+        "title": "Methods and apparatus for managing and using inpatient healthcare information",
+        "patent_id": "patent/US20030130872A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030130872A1%2Fen"
+      },
+      {
+        "publication_number": "US20030154110A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-20",
+        "publication_date": "2003-08-14",
+        "assignee_original": "Ervin Walter",
+        "title": "Method and apparatus for wireless access to a health care information system",
+        "patent_id": "patent/US20030154110A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030154110A1%2Fen"
+      },
+      {
+        "publication_number": "US6607482B1",
+        "primary_language": "en",
+        "priority_date": "2000-11-28",
+        "publication_date": "2003-08-19",
+        "assignee_original": "Jacob Teitelbaum",
+        "title": "Automated questionnaire for assisting in the diagnosis and treatment of medical problems and for data gathering, analysis and organization to make a complete medical history and illness record",
+        "patent_id": "patent/US6607482B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6607482B1%2Fen"
+      },
+      {
+        "publication_number": "WO2003079137A2",
+        "primary_language": "en",
+        "priority_date": "2001-12-28",
+        "publication_date": "2003-09-25",
+        "assignee_original": "Modrovich Ivan Endre",
+        "title": "Diagnostic information systems",
+        "patent_id": "patent/WO2003079137A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003079137A2%2Fen"
+      },
+      {
+        "publication_number": "US20030191671A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-06",
+        "publication_date": "2003-10-09",
+        "assignee_original": "Ulrich Dennis A.",
+        "title": "System and method for implementing medical risk algorithms at the point of care",
+        "patent_id": "patent/US20030191671A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030191671A1%2Fen"
+      },
+      {
+        "publication_number": "US20030208381A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-26",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Walter Ervin Dennis",
+        "title": "Patient health record access system",
+        "patent_id": "patent/US20030208381A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030208381A1%2Fen"
+      },
+      {
+        "publication_number": "US20030208108A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-01",
+        "publication_date": "2003-11-06",
+        "assignee_original": "Shewmake David T.",
+        "title": "Cardiovascular healthcare management system and method",
+        "patent_id": "patent/US20030208108A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030208108A1%2Fen"
+      },
+      {
+        "publication_number": "US20030215955A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-09",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Dunn Jacky F.",
+        "title": "System and method to test nutritional supplements",
+        "patent_id": "patent/US20030215955A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030215955A1%2Fen"
+      },
+      {
+        "publication_number": "US20030216945A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-25",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Dvorak Carl D.",
+        "title": "Method for analyzing orders and automatically reacting to them with appropriate responses",
+        "patent_id": "patent/US20030216945A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030216945A1%2Fen"
+      },
+      {
+        "publication_number": "US20030220816A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-11-27",
+        "assignee_original": "Andy Giesler",
+        "title": "System and method for managing interactions between machine-generated and user-defined patient lists",
+        "patent_id": "patent/US20030220816A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030220816A1%2Fen"
+      },
+      {
+        "publication_number": "US20030220817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-15",
+        "publication_date": "2003-11-27",
+        "assignee_original": "Steve Larsen",
+        "title": "System and method of formulating appropriate subsets of information from a patient's computer-based medical record for release to various requesting entities",
+        "patent_id": "patent/US20030220817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030220817A1%2Fen"
+      },
+      {
+        "publication_number": "US20030220821A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-04-30",
+        "publication_date": "2003-11-27",
+        "assignee_original": "Ervin Walter",
+        "title": "System and method for managing and reconciling asynchronous patient data",
+        "patent_id": "patent/US20030220821A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030220821A1%2Fen"
+      },
+      {
+        "publication_number": "US20040010465A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-20",
+        "publication_date": "2004-01-15",
+        "assignee_original": "Cliff Michalski",
+        "title": "Method and apparatus for exception based payment posting",
+        "patent_id": "patent/US20040010465A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040010465A1%2Fen"
+      },
+      {
+        "publication_number": "EP1382321A1",
+        "primary_language": "en",
+        "priority_date": "2002-07-15",
+        "publication_date": "2004-01-21",
+        "assignee_original": "The Egg Factory L.L.C.",
+        "title": "Method and apparatus for dispensing a customized pharmaceutical mixture",
+        "patent_id": "patent/EP1382321A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1382321A1%2Fen"
+      },
+      {
+        "publication_number": "US20040015100A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-13",
+        "publication_date": "2004-01-22",
+        "assignee_original": "Schmidt Richard A.",
+        "title": "Diagnosis of lower urinary tract dysregulation",
+        "patent_id": "patent/US20040015100A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040015100A1%2Fen"
+      },
+      {
+        "publication_number": "US20040059714A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-31",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Larsen Steven J.",
+        "title": "System and method for providing decision support to appointment schedulers in a healthcare setting",
+        "patent_id": "patent/US20040059714A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040059714A1%2Fen"
+      },
+      {
+        "publication_number": "US20040058386A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-15",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Wishart David Scott",
+        "title": "Automatic identificaiton of compounds in a sample mixture by means of nmr spectroscopy",
+        "patent_id": "patent/US20040058386A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040058386A1%2Fen"
+      },
+      {
+        "publication_number": "WO2004109550A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-06",
+        "publication_date": "2004-12-16",
+        "assignee_original": "Cornelius Meyer De Villiers",
+        "title": "Method of acquiring data",
+        "patent_id": "patent/WO2004109550A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004109550A1%2Fen"
+      },
+      {
+        "publication_number": "US20050071194A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-30",
+        "publication_date": "2005-03-31",
+        "assignee_original": "Bormann Daniel S.",
+        "title": "System and method for providing patient record synchronization in a healthcare setting",
+        "patent_id": "patent/US20050071194A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050071194A1%2Fen"
+      },
+      {
+        "publication_number": "US20050071195A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-30",
+        "publication_date": "2005-03-31",
+        "assignee_original": "Cassel David A.",
+        "title": "System and method of synchronizing data sets across distributed systems",
+        "patent_id": "patent/US20050071195A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050071195A1%2Fen"
+      },
+      {
+        "publication_number": "US20050108753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-18",
+        "publication_date": "2005-05-19",
+        "assignee_original": "Olivier Saidi",
+        "title": "Support vector regression for censored data",
+        "patent_id": "patent/US20050108753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050108753A1%2Fen"
+      },
+      {
+        "publication_number": "US20050137463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Merkle Van D.",
+        "title": "System and method for medical diagnosis",
+        "patent_id": "patent/US20050137463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137463A1%2Fen"
+      },
+      {
+        "publication_number": "US20050135306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-05",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Mcallen Christopher M.",
+        "title": "Discovery and connection management with mobile systems manager",
+        "patent_id": "patent/US20050135306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050135306A1%2Fen"
+      },
+      {
+        "publication_number": "US20050137653A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-05",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Friedman Gregory S.",
+        "title": "System and method for network monitoring of multiple medical devices",
+        "patent_id": "patent/US20050137653A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137653A1%2Fen"
+      },
+      {
+        "publication_number": "US20050165290A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-17",
+        "publication_date": "2005-07-28",
+        "assignee_original": "Angeliki Kotsianti",
+        "title": "Pathological tissue mapping",
+        "patent_id": "patent/US20050165290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050165290A1%2Fen"
+      },
+      {
+        "publication_number": "US20050177397A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-17",
+        "publication_date": "2005-08-11",
+        "assignee_original": "Bodybio, Inc.",
+        "title": "Network and methods for integrating individualized clinical test results and nutritional treatment",
+        "patent_id": "patent/US20050177397A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050177397A1%2Fen"
+      },
+      {
+        "publication_number": "US20050197982A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2005-09-08",
+        "assignee_original": "Olivier Saidi",
+        "title": "Methods and systems for predicting occurrence of an event",
+        "patent_id": "patent/US20050197982A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050197982A1%2Fen"
+      },
+      {
+        "publication_number": "US20050214731A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-25",
+        "publication_date": "2005-09-29",
+        "assignee_original": "Smith Don B",
+        "title": "Evidence-based virtual instruction and evaluation system",
+        "patent_id": "patent/US20050214731A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050214731A1%2Fen"
+      },
+      {
+        "publication_number": "US6954730B2",
+        "primary_language": "en",
+        "priority_date": "2001-06-18",
+        "publication_date": "2005-10-11",
+        "assignee_original": "Jkl Software Development Llc",
+        "title": "System and method for assisting diagnosis and treatment of temporomandibular joint conditions",
+        "patent_id": "patent/US6954730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6954730B2%2Fen"
+      },
+      {
+        "publication_number": "US20050228593A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-12",
+        "publication_date": "2005-10-13",
+        "assignee_original": "Jones Reginald A",
+        "title": "Method, system, and computer program for providing and evaluating medicine information",
+        "patent_id": "patent/US20050228593A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050228593A1%2Fen"
+      },
+      {
+        "publication_number": "US20050234741A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-16",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Sumit Rana",
+        "title": "Electronic appointment scheduling for medical resources",
+        "patent_id": "patent/US20050234741A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050234741A1%2Fen"
+      },
+      {
+        "publication_number": "US20050251423A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-10",
+        "publication_date": "2005-11-10",
+        "assignee_original": "Sashidhar Bellam",
+        "title": "Interactive system for patient access to electronic medical records",
+        "patent_id": "patent/US20050251423A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050251423A1%2Fen"
+      },
+      {
+        "publication_number": "US20050262031A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-21",
+        "publication_date": "2005-11-24",
+        "assignee_original": "Olivier Saidi",
+        "title": "Systems and methods for treating, diagnosing and predicting the occurrence of a medical condition",
+        "patent_id": "patent/US20050262031A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050262031A1%2Fen"
+      },
+      {
+        "publication_number": "US20050283387A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-21",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System for providing an interactive anatomical graphical representation of a body for use in a health care environment",
+        "patent_id": "patent/US20050283387A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050283387A1%2Fen"
+      },
+      {
+        "publication_number": "US20060004605A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-21",
+        "publication_date": "2006-01-05",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System and method for a comprehensive interactive graphical representation of a health care facility for managing patient care and health care facility resources",
+        "patent_id": "patent/US20060004605A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060004605A1%2Fen"
+      },
+      {
+        "publication_number": "US20060047554A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-24",
+        "publication_date": "2006-03-02",
+        "assignee_original": "Steven Larsen",
+        "title": "Rules based resource scheduling",
+        "patent_id": "patent/US20060047554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060047554A1%2Fen"
+      },
+      {
+        "publication_number": "US20060053034A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-08",
+        "publication_date": "2006-03-09",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System and method for providing a real-time status for managing encounters in health care settings",
+        "patent_id": "patent/US20060053034A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060053034A1%2Fen"
+      },
+      {
+        "publication_number": "US20060064248A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-11",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Olivier Saidi",
+        "title": "Systems and methods for automated diagnosis and grading of tissue images",
+        "patent_id": "patent/US20060064248A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060064248A1%2Fen"
+      },
+      {
+        "publication_number": "US20060080140A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-09",
+        "publication_date": "2006-04-13",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System and method for providing a clinical summary of patient information in various health care settings",
+        "patent_id": "patent/US20060080140A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060080140A1%2Fen"
+      },
+      {
+        "publication_number": "US20060085381A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-20",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "Remote deployment access system and method",
+        "patent_id": "patent/US20060085381A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060085381A1%2Fen"
+      },
+      {
+        "publication_number": "US20060117021A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-29",
+        "publication_date": "2006-06-01",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "Shared account information method and apparatus",
+        "patent_id": "patent/US20060117021A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060117021A1%2Fen"
+      },
+      {
+        "publication_number": "US7062076B1",
+        "primary_language": "en",
+        "priority_date": "1999-08-27",
+        "publication_date": "2006-06-13",
+        "assignee_original": "Iris Biotechnologies, Inc.",
+        "title": "Artificial intelligence system for genetic analysis",
+        "patent_id": "patent/US7062076B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7062076B1%2Fen"
+      },
+      {
+        "publication_number": "US20060161468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-20",
+        "publication_date": "2006-07-20",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System and method for reducing the steps involved in searching for available appointment times and scheduling appointments in a health care environment",
+        "patent_id": "patent/US20060161468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060161468A1%2Fen"
+      },
+      {
+        "publication_number": "US20070055118A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-11",
+        "publication_date": "2007-03-08",
+        "assignee_original": "Shingo Kawasaki",
+        "title": "Optical measurement apparatus for living body",
+        "patent_id": "patent/US20070055118A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070055118A1%2Fen"
+      },
+      {
+        "publication_number": "US20070093701A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-26",
+        "publication_date": "2007-04-26",
+        "assignee_original": "Hutchinson Technology Incorporated",
+        "title": "Dynamic StO2 measurements and analysis",
+        "patent_id": "patent/US20070093701A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070093701A1%2Fen"
+      },
+      {
+        "publication_number": "US20080201173A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-05",
+        "publication_date": "2008-08-21",
+        "assignee_original": "Toyohiro Takehara",
+        "title": "Methods for delivering a drug to a patient while restricting access to the drug by patients for whom the drug may be contraindicated",
+        "patent_id": "patent/US20080201173A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080201173A1%2Fen"
+      },
+      {
+        "publication_number": "US20090094059A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-14",
+        "publication_date": "2009-04-09",
+        "assignee_original": "Genelex, Inc",
+        "title": "Genetic Data Analysis and Database Tools",
+        "patent_id": "patent/US20090094059A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090094059A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009079446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-14",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Centocor, Inc.",
+        "title": "Method and system for distributing information between patients, health care providers, caregivers, and payors",
+        "patent_id": "patent/WO2009079446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009079446A1%2Fen"
+      },
+      {
+        "publication_number": "US20090164248A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Providence Medical Group, A Division Of Providence Health System",
+        "title": "System and Method for Patient Management/Communication with Intervention",
+        "patent_id": "patent/US20090164248A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090164248A1%2Fen"
+      },
+      {
+        "publication_number": "US20090164249A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Providence Medical Group, A Division Of Providence Health System - Oregon",
+        "title": "System and Method for Patient Management/Communication with Filtering",
+        "patent_id": "patent/US20090164249A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090164249A1%2Fen"
+      },
+      {
+        "publication_number": "US20090164237A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-21",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Providence Medical Group, A Division Of Providence Health System - Oregon",
+        "title": "System and Method for Patient Management/Communication",
+        "patent_id": "patent/US20090164237A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090164237A1%2Fen"
+      },
+      {
+        "publication_number": "US20090187407A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-18",
+        "publication_date": "2009-07-23",
+        "assignee_original": "Jeffrey Soble",
+        "title": "System and methods for reporting",
+        "patent_id": "patent/US20090187407A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090187407A1%2Fen"
+      },
+      {
+        "publication_number": "US7647234B1",
+        "primary_language": "en",
+        "priority_date": "1999-03-24",
+        "publication_date": "2010-01-12",
+        "assignee_original": "Berkeley Heartlab, Inc.",
+        "title": "Cardiovascular healthcare management system and method",
+        "patent_id": "patent/US7647234B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7647234B1%2Fen"
+      },
+      {
+        "publication_number": "US7860583B2",
+        "primary_language": "en",
+        "priority_date": "2004-08-25",
+        "publication_date": "2010-12-28",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "System and method for dynamically adjusting patient therapy",
+        "patent_id": "patent/US7860583B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7860583B2%2Fen"
+      },
+      {
+        "publication_number": "US7885824B1",
+        "primary_language": "en",
+        "priority_date": "2004-12-10",
+        "publication_date": "2011-02-08",
+        "assignee_original": "Exela Pharmsci, Inc.",
+        "title": "Method and system for delivering medical therapies",
+        "patent_id": "patent/US7885824B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7885824B1%2Fen"
+      },
+      {
+        "publication_number": "US20110166876A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-25",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for delivering a drug to a patient while restricting access to the drug by patients for whom the drug may be contraindicated",
+        "patent_id": "patent/US20110166876A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110166876A1%2Fen"
+      },
+      {
+        "publication_number": "WO2011083089A1",
+        "primary_language": "en",
+        "priority_date": "2010-01-08",
+        "publication_date": "2011-07-14",
+        "assignee_original": "Bior\u00e9alit\u00e9s S.A.S.",
+        "title": "Progastrin and liver pathologies",
+        "patent_id": "patent/WO2011083089A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011083089A1%2Fen"
+      },
+      {
+        "publication_number": "US20130346095A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-25",
+        "publication_date": "2013-12-26",
+        "assignee_original": "Judith Buckland",
+        "title": "Automated correlation of clinical findings",
+        "patent_id": "patent/US20130346095A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130346095A1%2Fen"
+      },
+      {
+        "publication_number": "US20140106981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-09",
+        "publication_date": "2014-04-17",
+        "assignee_original": "Integrated Diagnostics, Inc.",
+        "title": "Organ-Specific Proteins and Methods of Their Use",
+        "patent_id": "patent/US20140106981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140106981A1%2Fen"
+      },
+      {
+        "publication_number": "US8725547B2",
+        "primary_language": "en",
+        "priority_date": "2004-08-24",
+        "publication_date": "2014-05-13",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "Utilization indicating schedule scanner",
+        "patent_id": "patent/US8725547B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8725547B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9069887B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-18",
+        "publication_date": "2015-06-30",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Patient-specific medication management system",
+        "patent_id": "patent/US9069887B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9069887B2%2Fen"
+      },
+      {
+        "publication_number": "EP2899660A1",
+        "primary_language": "en",
+        "priority_date": "1999-08-27",
+        "publication_date": "2015-07-29",
+        "assignee_original": "Iris Biotechnologies Inc.",
+        "title": "Artificial intelligence system for genetic analysis",
+        "patent_id": "patent/EP2899660A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2899660A1%2Fen"
+      },
+      {
+        "publication_number": "US9129054B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-17",
+        "publication_date": "2015-09-08",
+        "assignee_original": "DePuy Synthes Products, Inc.",
+        "title": "Systems and methods for surgical and interventional planning, support, post-operative follow-up, and, functional recovery tracking",
+        "patent_id": "patent/US9129054B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9129054B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9427520B2",
+        "primary_language": "en",
+        "priority_date": "2005-02-11",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Management of pending medication orders",
+        "patent_id": "patent/US9427520B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9427520B2%2Fen"
+      },
+      {
+        "publication_number": "US9600633B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-18",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Distributed remote asset and medication management drug delivery system",
+        "patent_id": "patent/US9600633B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9600633B2%2Fen"
+      },
+      {
+        "publication_number": "US9741001B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-18",
+        "publication_date": "2017-08-22",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Predictive medication safety",
+        "patent_id": "patent/US9741001B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9741001B2%2Fen"
+      },
+      {
+        "publication_number": "US9925207B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-15",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods of treating myelodysplastic syndromes using lenalidomide",
+        "patent_id": "patent/US9925207B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9925207B2%2Fen"
+      },
+      {
+        "publication_number": "US9993467B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-19",
+        "publication_date": "2018-06-12",
+        "assignee_original": "Celgene Corporation",
+        "title": "Formulations of 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione",
+        "patent_id": "patent/US9993467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9993467B2%2Fen"
+      },
+      {
+        "publication_number": "US10029047B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-13",
+        "publication_date": "2018-07-24",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Patient-specific medication management system",
+        "patent_id": "patent/US10029047B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10029047B2%2Fen"
+      },
+      {
+        "publication_number": "US10034872B2",
+        "primary_language": "en",
+        "priority_date": "2014-08-22",
+        "publication_date": "2018-07-31",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods of treating multiple myeloma with immunomodulatory compounds in combination with antibodies",
+        "patent_id": "patent/US10034872B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10034872B2%2Fen"
+      },
+      {
+        "publication_number": "US10062457B2",
+        "primary_language": "en",
+        "priority_date": "2012-07-26",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Predictive notifications for adverse patient events",
+        "patent_id": "patent/US10062457B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10062457B2%2Fen"
+      },
+      {
+        "publication_number": "US10093649B1",
+        "primary_language": "en",
+        "priority_date": "2017-09-22",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione monohydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093649B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093649B1%2Fen"
+      },
+      {
+        "publication_number": "US10093648B1",
+        "primary_language": "en",
+        "priority_date": "2017-09-22",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione hemihydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093648B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093648B1%2Fen"
+      },
+      {
+        "publication_number": "US10093647B1",
+        "primary_language": "en",
+        "priority_date": "2017-05-26",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Celgene Corporation",
+        "title": "Crystalline 4-amino-2-(2,6-dioxopiperidine-3-yl)isoindoline-1,3-dione dihydrate, compositions and methods of use thereof",
+        "patent_id": "patent/US10093647B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093647B1%2Fen"
+      },
+      {
+        "publication_number": "US10206914B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-17",
+        "publication_date": "2019-02-19",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for treating multiple myeloma with 3-(4-amino-1-oxo-1,3-dihydroisoindol-2-yl)-piperidine-2,6-dione after stem cell transplantation",
+        "patent_id": "patent/US10206914B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10206914B2%2Fen"
+      },
+      {
+        "publication_number": "US10210312B2",
+        "primary_language": "en",
+        "priority_date": "2013-02-03",
+        "publication_date": "2019-02-19",
+        "assignee_original": "Youscript Inc.",
+        "title": "Systems and methods for quantification and presentation of medical risk arising from unknown factors",
+        "patent_id": "patent/US10210312B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10210312B2%2Fen"
+      },
+      {
+        "publication_number": "US10353856B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-17",
+        "publication_date": "2019-07-16",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Scalable communication system",
+        "patent_id": "patent/US10353856B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10353856B2%2Fen"
+      },
+      {
+        "publication_number": "US10430554B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-23",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Medication preparation queue",
+        "patent_id": "patent/US10430554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10430554B2%2Fen"
+      },
+      {
+        "publication_number": "US10867265B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-13",
+        "publication_date": "2020-12-15",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Predictive medication safety",
+        "patent_id": "patent/US10867265B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10867265B2%2Fen"
+      },
+      {
+        "publication_number": "US11087873B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-18",
+        "publication_date": "2021-08-10",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Context-aware healthcare notification system",
+        "patent_id": "patent/US11087873B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11087873B2%2Fen"
+      },
+      {
+        "publication_number": "US11116782B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-15",
+        "publication_date": "2021-09-14",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods of treating myelodysplastic syndromes with a combination therapy using lenalidomide and azacitidine",
+        "patent_id": "patent/US11116782B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11116782B2%2Fen"
+      },
+      {
+        "publication_number": "US11182728B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-30",
+        "publication_date": "2021-11-23",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Medication workflow management",
+        "patent_id": "patent/US11182728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11182728B2%2Fen"
+      },
+      {
+        "publication_number": "USRE48890E1",
+        "primary_language": "en",
+        "priority_date": "2002-05-17",
+        "publication_date": "2022-01-11",
+        "assignee_original": "Celgene Corporation",
+        "title": "Methods for treating multiple myeloma with 3-(4-amino-1-oxo-1,3-dihydroisoindol-2-yl)-piperidine-2,6-dione after stem cell transplantation",
+        "patent_id": "patent/USRE48890E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE48890E1%2Fen"
+      },
+      {
+        "publication_number": "US12079742B2",
+        "primary_language": "en",
+        "priority_date": "2013-05-22",
+        "publication_date": "2024-09-03",
+        "assignee_original": "Carefusion 303, Inc.",
+        "title": "Medication workflow management",
+        "patent_id": "patent/US12079742B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12079742B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6273854B1",
+        "primary_language": "en",
+        "priority_date": "1998-05-05",
+        "publication_date": "2001-08-14",
+        "assignee_original": "Body Bio Corporation",
+        "title": "Medical diagnostic analysis method and system",
+        "patent_id": "patent/US6273854B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6273854B1%2Fen"
+      },
+      {
+        "publication_number": "AU6523500A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-03",
+        "publication_date": "2001-02-19",
+        "assignee_original": "Healthsoft",
+        "title": "Computerized self-assessment system and electronic journal",
+        "patent_id": "patent/AU6523500A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU6523500A%2Fen"
+      },
+      {
+        "publication_number": "DE10103947A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-30",
+        "publication_date": "2002-08-14",
+        "assignee_original": "Siemens Ag",
+        "title": "Device for locating the triggers of seizure diseases",
+        "patent_id": "patent/DE10103947A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10103947A1%2Fen"
+      },
+      {
+        "publication_number": "JP2017516510A",
+        "primary_language": "en",
+        "priority_date": "2014-03-31",
+        "publication_date": "2017-06-22",
+        "assignee_original": "\u30b3\u30fc\u30cb\u30f3\u30af\u30ec\u30c3\u30ab \u30d5\u30a3\u30ea\u30c3\u30d7\u30b9 \u30a8\u30cc \u30f4\u30a7\uff2b\uff4f\uff4e\uff49\uff4e\uff4b\uff4c\uff49\uff4a\uff4b\uff45 \uff30\uff48\uff49\uff4c\uff49\uff50\uff53 \uff2e\uff0e\uff36\uff0e",
+        "title": "Method and apparatus for non-invasive monitoring and identification of drug effects and interactions",
+        "patent_id": "patent/JP2017516510A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017516510A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6063026A",
+      "primary_language": "en",
+      "publication_date": "2000-05-16",
+      "title": "Medical diagnostic analysis system",
+      "patent_id": "patent/US6063026A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6063026A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1997020496A9",
+      "primary_language": "en",
+      "publication_date": "1997-10-09",
+      "title": "Medical diagnostic analysis system",
+      "patent_id": "patent/WO1997020496A9/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997020496A9%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5746204A",
+      "primary_language": "en",
+      "publication_date": "1998-05-05",
+      "title": "Disease indicator analysis system",
+      "patent_id": "patent/US5746204A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5746204A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6273854B1",
+      "primary_language": "en",
+      "publication_date": "2001-08-14",
+      "title": "Medical diagnostic analysis method and system",
+      "patent_id": "patent/US6273854B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6273854B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14343554706862416045",
+      "scholar_authors": "Cortner et al.",
+      "publication_date": "1990",
+      "title": "Prevalence and expression of familial combined hyperlipidemia in childhood",
+      "patent_id": "scholar/14343554706862416045",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14343554706862416045"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15085394667898480940",
+      "scholar_authors": "Heaton et al.",
+      "publication_date": "1996",
+      "title": "Demographic influences on neuropsychological test performance",
+      "patent_id": "scholar/15085394667898480940",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15085394667898480940"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17928810072309236436",
+      "scholar_authors": "Brayne et al.",
+      "publication_date": "1990",
+      "title": "The association of education and socioeconomic status with the Mini Mental State Examination and the clinical diagnosis of dementia in elderly people",
+      "patent_id": "scholar/17928810072309236436",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17928810072309236436"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8198617065830926678",
+      "scholar_authors": "Symmons et al.",
+      "publication_date": "1988",
+      "title": "Development and assessment of a computerized index of clinical disease activity in systemic lupus erythematosus",
+      "patent_id": "scholar/8198617065830926678",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8198617065830926678"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17363573997239292718",
+      "scholar_authors": "Ryback et al.",
+      "publication_date": "1982",
+      "title": "Biochemical and hematologic correlates of alcoholism and liver disease",
+      "patent_id": "scholar/17363573997239292718",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17363573997239292718"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2693350149168808999",
+      "scholar_authors": "Greene et al.",
+      "publication_date": "1993",
+      "title": "Baseline characteristics in the Modification of Diet in Renal Disease Study.",
+      "patent_id": "scholar/2693350149168808999",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2693350149168808999"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2012128435A1",
+      "primary_language": "en",
+      "publication_date": "2012-09-27",
+      "title": "Significance parameter extraction method and its clinical decision support system for differential diagnosis of abdominal diseases based on entropy rough approximation technology",
+      "patent_id": "patent/WO2012128435A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012128435A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18088453720914941131",
+      "scholar_authors": "Whiting-O'Keefe et al.",
+      "publication_date": "1982",
+      "title": "Recognition of information in renal biopsies of patients with lupus nephritis",
+      "patent_id": "scholar/18088453720914941131",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18088453720914941131"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109545377A",
+      "primary_language": "en",
+      "publication_date": "2019-03-29",
+      "title": "Obtain method for building up and the application of the model of glomerular filtration rate",
+      "patent_id": "patent/CN109545377A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109545377A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12069019865027722447",
+      "scholar_authors": "Jankowski et al.",
+      "publication_date": "1977",
+      "title": "Criteria for the diagnosis of alcoholism",
+      "patent_id": "scholar/12069019865027722447",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12069019865027722447"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1571245678150561582",
+      "scholar_authors": "Sparrow et al.",
+      "publication_date": "1981",
+      "title": "Cross-sectional and longitudinal changes in the erythrocyte sedimentation rate in men",
+      "patent_id": "scholar/1571245678150561582",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1571245678150561582"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13279917280800701018",
+      "scholar_authors": "Self et al.",
+      "publication_date": "1986",
+      "title": "Failure to diagnose anemia in medical inpatients: is the traditional diagnosis of anemia a dying art?",
+      "patent_id": "scholar/13279917280800701018",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13279917280800701018"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11242338953031957580",
+      "scholar_authors": "Whitehead",
+      "publication_date": "1971",
+      "title": "Multiple analyses and their use in the investigation of patients",
+      "patent_id": "scholar/11242338953031957580",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11242338953031957580"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10600750077955823243",
+      "scholar_authors": "Cole",
+      "publication_date": "1980",
+      "title": "Biochemical test profiles and laboratory system design",
+      "patent_id": "scholar/10600750077955823243",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10600750077955823243"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6110449693770457168",
+      "scholar_authors": "Cunnick et al.",
+      "publication_date": "1972",
+      "title": "Value of biochemical profiling in a periodic health examination program: analysis of 1,000 cases",
+      "patent_id": "scholar/6110449693770457168",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6110449693770457168"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16978824235216451550",
+      "scholar_authors": "Cowan et al.",
+      "publication_date": "1985",
+      "title": "Average, binge and maximum alcohol intake in healthy young men: discriminant function analysis.",
+      "patent_id": "scholar/16978824235216451550",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16978824235216451550"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "474223664898401355",
+      "scholar_authors": "Harwood et al.",
+      "publication_date": "1978",
+      "title": "Reference values based on hospital admission laboratory data",
+      "patent_id": "scholar/474223664898401355",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F474223664898401355"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3354862610287907450",
+      "scholar_authors": "Linnarsson",
+      "publication_date": "1993",
+      "title": "Medical audit based on computer-stored patient records exemplified with an audit of hypertension care",
+      "patent_id": "scholar/3354862610287907450",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3354862610287907450"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2842565203190599401",
+      "scholar_authors": "Helling et al.",
+      "publication_date": "1979",
+      "title": "Comparison of computer-assisted medical record audit with other drug use review methods",
+      "patent_id": "scholar/2842565203190599401",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2842565203190599401"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17830214122389210196",
+      "scholar_authors": "Ellenberg",
+      "publication_date": "1994",
+      "title": "Observational data bases in neurological disorders: selection bias and generalization of results",
+      "patent_id": "scholar/17830214122389210196",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17830214122389210196"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7911139501922928438",
+      "scholar_authors": "Cady Jr",
+      "publication_date": "1967",
+      "title": "Epidemiology of coronary heart disease",
+      "patent_id": "scholar/7911139501922928438",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7911139501922928438"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1996-06-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CARBON BASED CORPORATION, NEVADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SCHAUSS, MARK A.;REEL/FRAME:007989/0228"
+        },
+        {
+          "label": "Effective date",
+          "value": "19960520"
+        }
+      ]
+    },
+    {
+      "date": "2000-05-03",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2003-10-16",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2006-06-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CARBON BASED CORPORATION, NEVADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:KANE, PATRICIA;REEL/FRAME:017730/0153"
+        },
+        {
+          "label": "Effective date",
+          "value": "19990813"
+        }
+      ]
+    },
+    {
+      "date": "2007-11-26",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2007-12-06",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Free format text",
+          "value": "PAYER NUMBER DE-ASSIGNED (ORIGINAL EVENT CODE: RMPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2008-05-13",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2008-05-13",
+      "code": "SULP",
+      "title": "Surcharge for late payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-22",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 58
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 58
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 51
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000002831",
+        "name": "pharmacologic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 18
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000035935",
+        "name": "pregnancy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001225",
+        "name": "therapeutic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "DDRJAANPRJIHGJ-UHFFFAOYSA-N",
+        "name": "creatinine",
+        "domain": "Chemical compound",
+        "smiles": "CN1CC(=O)NC1=N",
+        "inchi_key": "DDRJAANPRJIHGJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+        "name": "Aspirin",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)OC1=CC=CC=C1C(O)=O",
+        "inchi_key": "BSYNRYMUTXBXSQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229960001138",
+        "name": "acetylsalicylic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "name": "cholesterol",
+        "domain": "Chemical compound",
+        "smiles": "C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2",
+        "inchi_key": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "name": "Calcium",
+        "domain": "Chemical compound",
+        "smiles": "[Ca]",
+        "inchi_key": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000011575",
+        "name": "calcium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229910052791",
+        "name": "calcium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "OAICVXFJPJFONN-UHFFFAOYSA-N",
+        "name": "Phosphorus",
+        "domain": "Chemical compound",
+        "smiles": "[P]",
+        "inchi_key": "OAICVXFJPJFONN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229940109239",
+        "name": "creatinine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229910052698",
+        "name": "phosphorus",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000011574",
+        "name": "phosphorus",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "name": "Chloride anion",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-]",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "name": "Ilexoside XXIX",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)OS(=O)(=O)[O-])C)C)[C@@H]2[C@]1(C)O)C)C(=O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O.[Na+]",
+        "inchi_key": "DGAQECJNVWCQMB-PUAWFVPOSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052757",
+        "name": "nitrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000011734",
+        "name": "sodium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052708",
+        "name": "sodium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "210000003651",
+        "name": "basophil",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000747",
+        "name": "cardiac effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000012000",
+        "name": "cholesterol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000857",
+        "name": "drug effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000003907",
+        "name": "kidney function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000000265",
+        "name": "leukocyte",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000003550",
+        "name": "marker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "102000009027",
+        "name": "Albumins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "108010088751",
+        "name": "Albumins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "206010013710",
+        "name": "Drug interaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "name": "Potassium",
+        "domain": "Chemical compound",
+        "smiles": "[K]",
+        "inchi_key": "ZLMJMSJWJFRBEC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "LEHOTFFKMJEONL-UHFFFAOYSA-N",
+        "name": "Uric Acid",
+        "domain": "Chemical compound",
+        "smiles": "N1C(=O)NC(=O)C2=C1NC(=O)N2",
+        "inchi_key": "LEHOTFFKMJEONL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "TVWHNULVHGKJHS-UHFFFAOYSA-N",
+        "name": "Uric acid",
+        "domain": "Natural products",
+        "smiles": "N1C(=O)NC(=O)C2NC(=O)NC21",
+        "inchi_key": "TVWHNULVHGKJHS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003792",
+        "name": "electrolyte",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010348",
+        "name": "incorporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011591",
+        "name": "potassium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052700",
+        "name": "potassium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229940116269",
+        "name": "uric acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "102000002260",
+        "name": "Alkaline Phosphatase",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108020004774",
+        "name": "Alkaline Phosphatase",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108010003415",
+        "name": "Aspartate Aminotransferases",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "102000004625",
+        "name": "Aspartate Aminotransferases",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "name": "Glucose",
+        "domain": "Natural products",
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010000891",
+        "name": "acute myocardial infarction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000001450",
+        "name": "anions",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000001124",
+        "name": "body fluid",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000875",
+        "name": "corresponding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000008103",
+        "name": "glucose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008092",
+        "name": "positive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000003626",
+        "name": "triacylglycerols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010000599",
+        "name": "Acromegaly",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000006770",
+        "name": "Ascorbic Acid Deficiency",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "name": "Atomic nitrogen",
+        "domain": "Chemical compound",
+        "smiles": "N#N",
+        "inchi_key": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BPYKTIZUTYGOLE-IFADSCNNSA-N",
+        "name": "Bilirubin",
+        "domain": "Chemical compound",
+        "smiles": "N1C(=O)C(C)=C(C=C)\\C1=C\\C1=C(C)C(CCC(O)=O)=C(CC2=C(C(C)=C(\\C=C/3C(=C(C=C)C(=O)N\\3)C)N2)CCC(O)=O)N1",
+        "inchi_key": "BPYKTIZUTYGOLE-IFADSCNNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102000006395",
+        "name": "Globulins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108010044091",
+        "name": "Globulins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000031845",
+        "name": "Pernicious anaemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "101710095674",
+        "name": "Protein 6.5",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000008050",
+        "name": "Total Bilirubin Reagent",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010047623",
+        "name": "Vitamin C deficiency",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003862",
+        "name": "health status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000007475",
+        "name": "hemolytic anemia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NOESYZHRGYRDHS-UHFFFAOYSA-N",
+        "name": "insulin",
+        "domain": "Chemical compound",
+        "smiles": "N1C(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CCC(O)=O)NC(=O)C(C(C)C)NC(=O)C(NC(=O)CN)C(C)CC)CSSCC(C(NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CC=2C=CC(O)=CC=2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(C)C)C(=O)NC(CCC(O)=O)C(=O)NC(CC(N)=O)C(=O)NC(CC=2C=CC(O)=CC=2)C(=O)NC(CSSCC(NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC=2C=CC(O)=CC=2)NC(=O)C(CC(C)C)NC(=O)C(C)NC(=O)C(CCC(O)=O)NC(=O)C(C(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC=2NC=NC=2)NC(=O)C(CO)NC(=O)CNC2=O)C(=O)NCC(=O)NC(CCC(O)=O)C(=O)NC(CCCNC(N)=N)C(=O)NCC(=O)NC(CC=3C=CC=CC=3)C(=O)NC(CC=3C=CC=CC=3)C(=O)NC(CC=3C=CC(O)=CC=3)C(=O)NC(C(C)O)C(=O)N3C(CCC3)C(=O)NC(CCCCN)C(=O)NC(C)C(O)=O)C(=O)NC(CC(N)=O)C(O)=O)=O)NC(=O)C(C(C)CC)NC(=O)C(CO)NC(=O)C(C(C)O)NC(=O)C1CSSCC2NC(=O)C(CC(C)C)NC(=O)C(NC(=O)C(CCC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(NC(=O)C(N)CC=1C=CC=CC=1)C(C)C)CC1=CN=CN1",
+        "inchi_key": "NOESYZHRGYRDHS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007793",
+        "name": "ph indicator",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001817",
+        "name": "pituitary effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "REQCZEXYDRLIBE-UHFFFAOYSA-N",
+        "name": "procainamide",
+        "domain": "Chemical compound",
+        "smiles": "CCN(CC)CCNC(=O)C1=CC=C(N)C=C1",
+        "inchi_key": "REQCZEXYDRLIBE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960000244",
+        "name": "procainamide",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102000004169",
+        "name": "proteins and genes",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108090000623",
+        "name": "proteins and genes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010039073",
+        "name": "rheumatoid arthritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000010233",
+        "name": "scurvy",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011269",
+        "name": "treatment regimen",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000002700",
+        "name": "urine",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108010082126",
+        "name": "Alanine transaminase",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004475",
+        "name": "Arginine",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "COVZYZSDYWQREU-UHFFFAOYSA-N",
+        "name": "Busulfan",
+        "domain": "Chemical compound",
+        "smiles": "CS(=O)(=O)OCCCCOS(C)(=O)=O",
+        "inchi_key": "COVZYZSDYWQREU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000055",
+        "name": "Corticotropin-Releasing Hormone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102100037840",
+        "name": "Dehydrogenase/reductase SDR family member 2, mitochondrial",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000001554",
+        "name": "Hemoglobins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010054147",
+        "name": "Hemoglobins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010020751",
+        "name": "Hypersensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001536374",
+        "name": "Indicator indicator",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010061216",
+        "name": "Infarction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000004877",
+        "name": "Insulin",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108090001061",
+        "name": "Insulin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ODKSFYDXXFIFQN-BYPYZUCNSA-P",
+        "name": "L-argininium(2+)",
+        "domain": "Chemical compound",
+        "smiles": "NC(=[NH2+])NCCC[C@H]([NH3+])C(O)=O",
+        "inchi_key": "ODKSFYDXXFIFQN-BYPYZUCNSA-P",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MUBZPKHOEPUJKR-UHFFFAOYSA-N",
+        "name": "Oxalic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C(O)=O",
+        "inchi_key": "MUBZPKHOEPUJKR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101710188053",
+        "name": "Protein D",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101710132893",
+        "name": "Resolvase",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NYRAVIYBIHCEGB-UHFFFAOYSA-N",
+        "name": "[K].[Ca]",
+        "domain": "Chemical compound",
+        "smiles": "[K].[Ca]",
+        "inchi_key": "NYRAVIYBIHCEGB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BZKPWHYZMXOIDC-UHFFFAOYSA-N",
+        "name": "acetazolamide",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)NC1=NN=C(S(N)(=O)=O)S1",
+        "inchi_key": "BZKPWHYZMXOIDC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960000571",
+        "name": "acetazolamide",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000026935",
+        "name": "allergic disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007815",
+        "name": "allergy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004075",
+        "name": "alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ODKSFYDXXFIFQN-UHFFFAOYSA-N",
+        "name": "arginine",
+        "domain": "Natural products",
+        "smiles": "OC(=O)C(N)CCCNC(N)=N",
+        "inchi_key": "ODKSFYDXXFIFQN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003121",
+        "name": "arginine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001363",
+        "name": "autoimmune",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-VFUOTHLCSA-N",
+        "name": "beta-D-glucose",
+        "domain": "Chemical compound",
+        "smiles": "OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-VFUOTHLCSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009534",
+        "name": "blood test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "name": "boric acid",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O",
+        "inchi_key": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004327",
+        "name": "boric acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960002645",
+        "name": "boric acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960002092",
+        "name": "busulfan",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009535",
+        "name": "clinical urine test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IDLFZVILOHSSID-OVLDLUHVSA-N",
+        "name": "corticotropin",
+        "domain": "Chemical compound",
+        "smiles": "C([C@@H](C(=O)N[C@@H](CO)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC=1NC=NC=1)C(=O)N[C@@H](CC=1C=CC=CC=1)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CC=1C2=CC=CC=C2NC=1)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](C(C)C)C(=O)NCC(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC=1C=CC(O)=CC=1)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CC(N)=O)C(=O)NCC(=O)N[C@@H](C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC=1C=CC=CC=1)C(=O)N1[C@@H](CCC1)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC=1C=CC=CC=1)C(O)=O)NC(=O)[C@@H](N)CO)C1=CC=C(O)C=C1",
+        "inchi_key": "IDLFZVILOHSSID-OVLDLUHVSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960000258",
+        "name": "corticotropin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009795",
+        "name": "derivation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003911",
+        "name": "electrolyte status",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004756",
+        "name": "ethanol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002222",
+        "name": "fluorine compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005534",
+        "name": "hematocrit",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "name": "hydridophosphorus(.) (triplet)",
+        "domain": "Chemical compound",
+        "smiles": "[PH]",
+        "inchi_key": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007574",
+        "name": "infarction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125396",
+        "name": "insulin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002632",
+        "name": "lipids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960001078",
+        "name": "lithium",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004185",
+        "name": "liver",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001616",
+        "name": "monocyte",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002107",
+        "name": "myocardial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000440",
+        "name": "neutrophil",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002547",
+        "name": "new drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CBHCDHNUZWWAPP-UHFFFAOYSA-N",
+        "name": "pecazine",
+        "domain": "Chemical compound",
+        "smiles": "C1N(C)CCCC1CN1C2=CC=CC=C2SC2=CC=CC=C21",
+        "inchi_key": "CBHCDHNUZWWAPP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229950007538",
+        "name": "pecazine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000144",
+        "name": "pharmacologic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JQXXHWHPUNPDRT-WLSIYKJHSA-N",
+        "name": "rifampicin",
+        "domain": "Chemical compound",
+        "smiles": "O([C@](C1=O)(C)O/C=C/[C@@H]([C@H]([C@@H](OC(C)=O)[C@H](C)[C@H](O)[C@H](C)[C@@H](O)[C@@H](C)\\C=C\\C=C(C)/C(=O)NC=2C(O)=C3C([O-])=C4C)C)OC)C4=C1C3=C(O)C=2\\C=N\\N1CC[NH+](C)CC1",
+        "inchi_key": "JQXXHWHPUNPDRT-WLSIYKJHSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960001225",
+        "name": "rifampicin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002966",
+        "name": "serum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010998",
+        "name": "test method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

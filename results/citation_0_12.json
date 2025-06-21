@@ -1,0 +1,3168 @@
+{
+  "search_metadata": {
+    "id": "68514dad9a1f2c2f9bf6bd36",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d5b8c228a27e6c2c/68514dad9a1f2c2f9bf6bd36.json",
+    "created_at": "2025-06-17 11:12:45 UTC",
+    "processed_at": "2025-06-17 11:12:45 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5437278A/en",
+    "raw_html_file": "https://serpapi.com/searches/d5b8c228a27e6c2c/68514dad9a1f2c2f9bf6bd36.html",
+    "total_time_taken": 0.79
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5437278A/en"
+  },
+  "title": "Medical diagnosis system and method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/12/c6/53/54d15cccf39307/US5437278.pdf",
+  "publication_number": "US5437278A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "patient",
+    "data",
+    "digitized",
+    "computer",
+    "diagnosis"
+  ],
+  "prior_art_date": "1992-01-10",
+  "application_number": "US07/819,120",
+  "inventors": [
+    {
+      "name": "Peter J. Wilk",
+      "link": "https://patents.google.com/?inventor=Peter+J.+Wilk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Peter+J.+Wilk"
+    }
+  ],
+  "assignees": [
+    "PETETHOM PATENT LLC",
+    "PETETHOMPATENT LLC"
+  ],
+  "priority_date": "1992-01-10",
+  "filing_date": "1992-01-10",
+  "publication_date": "1995-08-01",
+  "worldwide_applications": {
+    "1992": [
+      {
+        "filing_date": "1992-01-10",
+        "country_code": "US",
+        "application_number": "US07/819,120",
+        "document_id": "patent/US5437278A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1992-01-10",
+      "title": "Priority to US07/819,120",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5437278A/en"
+    },
+    {
+      "date": "1992-01-10",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1992-04-09",
+      "title": "Priority to US07/865,991",
+      "type": "priority",
+      "document_id": "patent/US5360005A/en"
+    },
+    {
+      "date": "1992-06-26",
+      "title": "Priority to US07/904,862",
+      "type": "priority",
+      "document_id": "patent/US5398685A/en"
+    },
+    {
+      "date": "1992-09-08",
+      "title": "Priority to US07/941,569",
+      "type": "priority",
+      "document_id": "patent/US5415167A/en"
+    },
+    {
+      "date": "1995-08-01",
+      "title": "Publication of US5437278A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5437278A/en"
+    },
+    {
+      "date": "1995-08-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1997-04-24",
+      "title": "Priority to US08/839,971",
+      "type": "priority",
+      "document_id": "patent/US5871446A/en"
+    },
+    {
+      "date": "1998-09-15",
+      "title": "Priority to US09/153,451",
+      "type": "priority",
+      "document_id": "patent/US6306090B1/en"
+    },
+    {
+      "date": "2000-02-28",
+      "title": "Priority to US09/514,928",
+      "type": "priority",
+      "document_id": "patent/US7497828B1/en"
+    },
+    {
+      "date": "2008-03-06",
+      "title": "Priority to US12/074,869",
+      "type": "priority",
+      "document_id": "patent/US8235907B2/en"
+    },
+    {
+      "date": "2008-09-30",
+      "title": "Assigned to WILK PATENT DEVELOPMENT CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "WILK PATENT DEVELOPMENT CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WILK, PETER J."
+      ]
+    },
+    {
+      "date": "2012-05-23",
+      "title": "Assigned to WILK PATENT, LLC",
+      "type": "reassignment",
+      "assignee_search": "WILK PATENT, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WILK PATENT DEVELOPMENT CORPORATION, WILK, PETER J."
+      ]
+    },
+    {
+      "date": "2012-08-01",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "2013-06-05",
+      "title": "Assigned to PETETHOMPATENT, LLC",
+      "type": "reassignment",
+      "assignee_search": "PETETHOMPATENT, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WILK, PETER J."
+      ]
+    },
+    {
+      "date": "2013-06-11",
+      "title": "Assigned to PETETHOM PATENT, LLC",
+      "type": "reassignment",
+      "assignee_search": "PETETHOM PATENT, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WILK PATENT, LLC"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5437278.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/07819120"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5437278"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5437278A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/07819120/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5437278"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/b8/51/05/a060afaad08269/US5437278-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/22/38/62/11d936e74582c5/US5437278-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/54/45/6a/023886c77287ea/US5437278-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/04/f5/99/486ae82a2d276b/US5437278-drawings-page-5.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/6876",
+      "description": "Blood vessel",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/0022",
+      "description": "Monitoring a patient using a global network, e.g. telephone networks, internet",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/4839",
+      "description": "Diagnosis combined with treatment in closed-loop systems or methods combined with drug delivery",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6865",
+      "description": "Access ports",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6884",
+      "description": "Clamps or clips",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B7/04",
+      "description": "Electric stethoscopes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B8/00",
+      "description": "Diagnosis using ultrasonic, sonic or infrasonic waves",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B8/42",
+      "description": "Details of probe positioning or probe attachment to the patient",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/67",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for remote operation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/0031",
+      "description": "Implanted circuitry",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/1075",
+      "description": "Measuring physical dimensions, e.g. size of the entire body or parts thereof for measuring dimensions by non-invasive methods, e.g. for determining thickness of tissue layer",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B8/4236",
+      "description": "Details of probe positioning or probe attachment to the patient by using holders, e.g. positioning frames characterised by adhesive patches",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A medical diagnostic system comprises a monitoring device juxtaposable to a patient for collecting individualized medical data about the patient's condition, and a digitizer operatively connected to the monitoring device for digitizing the data. A computer is operatively connected to the digitizer and a memory which stores medical data for a multiplicity of previously diagnosed medical conditions. The computer is operated to compare digitized data about the patient's condition with the data stored in the memory and for deriving a diagnosis as to the patient's condition. The computer is connected to an ooutput device, e.g., a printer, for communicating the derived diagnosis to a user.",
+  "description_link": "https://serpapi.com/searches/68514dad9a1f2c2f9bf6bd36/google_patents_details/description.html",
+  "claims": [
+    "1. A medical diagnostic method comprising the steps of:providing a video camera; aiming said video camera at a skin surface of a patient; operating said video camera to generate a digitized video signal encoding an image of the skin surface of the patient; automatically analyzing said video signal to derive digitized data pertaining to visually detectable characteristics of the skin surface of the patient; automatically comparing the digitized data with data stored in an electronic memory to derive a diagnosis as to a skin condition of the patient; and communicating the derived diagnosis to a user.",
+    "2. The method defined in claim 1 wherein said step of automatically analyzing includes the step of automatically deriving a parameter abstracting information about the image.",
+    "3. The method defined in claim 2 wherein said step of analyzing includes the step of automatically determining a percentage of skin covered by an abnormal condition.",
+    "4. The method defined in claim 2 wherein said step of analyzing includes the step of determining a range of sizes of individual ulcers on the skin surface of the patient.",
+    "5. The method defined in claim 2 wherein said step of analyzing includes the step of determining a range of color variation of the skin surface of the patient.",
+    "6. The method defined in claim 1, further comprising the steps of:measuring a predetermined physiological parameter of the patient to determine a value for said parameter; automatically digitizing the determined value of the physiological parameter, said step of comparing including the step of automatically comparing the digitized value of the physiological parameter with data stored in the electronic memory.",
+    "7. The method defined in claim 6 wherein said step of measuring includes the step of monitoring a physiological paratmer taken from the group including temperature, blood pressure, pulmonary function, and cardiac function.",
+    "8. The method defined in claim 1 wherein said step of comparing includes the step of operating a computer to compare the digitized data with data stored in said memory, further comprising the step of feeding to said computer information pertaining to medical history, past diseases and genetic predispositions of the patient.",
+    "9. A medical diagnostic method comprising the steps of:scanning the patient to generate a digitized electrical signal encoding an image of an organic part of the patient; automatically analyzing said video signal to derive digitized data pertaining to structural characteristics of the organic part of the patient; measuring a predetermined physiological parameter of the patient to determine a value for said parameter; automatically digitizing the determined value of the physiological parameter; automatically comparing the digitized data and the digitized value of the physiological parameter with data stored in an electronic memory to derive a diagnosis as to the patient's condition; and communicating the derived diagnosis to a user, said step of scanning including the steps of aiming a video camera at a skin surface of the patient and operating said video camera to generate in electrically encoded form a visually readable image of the skin surface of the patient, said electrical signal being a video signal, said visually readable image being encoded in said video signal.",
+    "10. The method defined in claim 9 wherein said step of measuring includes the step of monitoring a physiological paratmer taken from the group including temperature, blood pressure, pulmonary function, and cardiac function.",
+    "11. The method defined in claim 9 wherein said step of comparing includes the step of operating a computer to compare the digitized data and the digitized value of the physiological parameter with data stored in said memory, further comprising the step of feeding to said computer information pertaining to medical history, past diseases and genetic predispositions of the patient.",
+    "12. A medical diagnostic system comprising:scanning means juxtaposable to a patient for collecting image type data about the patient and for generating a first digitized electrical signal encoding said image type data; monitoring means juxtaposable to the patient for collecting data about a physiological characteristic of the patient and for generating a second digitized electrical signal encoding said data about said physiological characteristic; memory means for storing medical data for a multiplicity of previously diagnosed medical conditions; computing means operatively connected to said memory means, said scanning means, and said monitoring means for comparing data encoded in said first electrical signal and in said second electrical signal with the data stored in said memory means and for deriving a diagnosis as to the patient's condition; and output means operatively connected to said computing means for communicating the derived diagnosis to a user.",
+    "13. The system defined in claim 12 wherein said scanning means includes a device taken from the group consisting of an NMI apparatus, a CAT scanner, an X-ray machine, an ultrasonography apparatus, and a video camera.",
+    "14. The system defined in claim 12 wherein said monitoring means includes a device taken from the group including an electronic thermometer, an electronic blood pressure gauge, a pulmonary function apparatus, a doppler study apparatus, an EEG machine, an EKG machine, and an EMG machine."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US07/865,991",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US5360005A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-04-09",
+      "title": "Medical diagnosis device for sensing cardiac activity and blood flow"
+    },
+    {
+      "application_number": "US07/904,862",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US5398685A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-06-26",
+      "title": "Endoscopic diagnostic system and associated method"
+    },
+    {
+      "application_number": "US07/941,569",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US5415167A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-09-08",
+      "title": "Medical system and associated method for automatic diagnosis and treatment"
+    },
+    {
+      "application_number": "US08/510,104",
+      "relation_type": "Division",
+      "representative_publication": "US5666953A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1995-08-01",
+      "title": "System and associated method for providing information for use in forming medical diagnosis"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US08/892,955",
+      "relation_type": "Continuation",
+      "representative_publication": "US6023632A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1997-07-16",
+      "title": "Ultrasonic medical system and associated method"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US07/819,120",
+      "representative_publication": "US5437278A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-01-10",
+      "title": "Medical diagnosis system and method"
+    },
+    {
+      "application_number": "US07/865,991",
+      "representative_publication": "US5360005A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-04-09",
+      "title": "Medical diagnosis device for sensing cardiac activity and blood flow"
+    },
+    {
+      "application_number": "US07/904,862",
+      "representative_publication": "US5398685A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-06-26",
+      "title": "Endoscopic diagnostic system and associated method"
+    },
+    {
+      "application_number": "US07/941,569",
+      "representative_publication": "US5415167A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-09-08",
+      "title": "Medical system and associated method for automatic diagnosis and treatment"
+    },
+    {
+      "application_number": "US08/839,971",
+      "representative_publication": "US5871446A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1997-04-24",
+      "title": "Ultrasonic medical system and associated method"
+    },
+    {
+      "application_number": "US09/153,451",
+      "representative_publication": "US6306090B1",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1998-09-15",
+      "title": "Ultrasonic medical system and associated method"
+    },
+    {
+      "application_number": "US09/514,928",
+      "representative_publication": "US7497828B1",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "2000-02-28",
+      "title": "Ultrasonic medical device and associated method"
+    },
+    {
+      "application_number": "US12/074,869",
+      "representative_publication": "US8235907B2",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "2008-03-06",
+      "title": "Ultrasonic medical device and associated method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US07/819,120",
+      "representative_publication": "US5437278A",
+      "primary_language": "en",
+      "priority_date": "1992-01-10",
+      "filing_date": "1992-01-10",
+      "title": "Medical diagnosis system and method"
+    }
+  ],
+  "family_id": "25227256",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4437161A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-06-29",
+        "publication_date": "1984-03-13",
+        "assignee_original": "Siemens Gammasonics Inc.",
+        "title": "Medical imaging apparatus",
+        "patent_id": "patent/US4437161A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4437161A%2Fen"
+      },
+      {
+        "publication_number": "GB2164771A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-09-21",
+        "publication_date": "1986-03-26",
+        "assignee_original": "Olympus Optical Co",
+        "title": "Medical image filing apparatus",
+        "patent_id": "patent/GB2164771A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2164771A%2Fen"
+      },
+      {
+        "publication_number": "US4641349A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-02-20",
+        "publication_date": "1987-02-03",
+        "assignee_original": "Leonard Flom",
+        "title": "Iris recognition system",
+        "patent_id": "patent/US4641349A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4641349A%2Fen"
+      },
+      {
+        "publication_number": "US4667335A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-06-20",
+        "publication_date": "1987-05-19",
+        "assignee_original": "International Remote Imaging Systems, Inc.",
+        "title": "Method of determining the diagnostic significance of the content of a volume of biological sample containing particles",
+        "patent_id": "patent/US4667335A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4667335A%2Fen"
+      },
+      {
+        "publication_number": "US4697594A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-08-21",
+        "publication_date": "1987-10-06",
+        "assignee_original": "North American Philips Corporation",
+        "title": "Displaying a single parameter image",
+        "patent_id": "patent/US4697594A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4697594A%2Fen"
+      },
+      {
+        "publication_number": "US4767717A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-05-02",
+        "publication_date": "1988-08-30",
+        "assignee_original": "Baisden C Robert",
+        "title": "Method of detecting and quantitating cell malignancy in biological tissue",
+        "patent_id": "patent/US4767717A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4767717A%2Fen"
+      },
+      {
+        "publication_number": "US4838681A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-01-28",
+        "publication_date": "1989-06-13",
+        "assignee_original": "George Pavlidis",
+        "title": "Method and means for detecting dyslexia",
+        "patent_id": "patent/US4838681A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4838681A%2Fen"
+      },
+      {
+        "publication_number": "US4839822A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-08-13",
+        "publication_date": "1989-06-13",
+        "assignee_original": "501 Synthes (U.S.A.)",
+        "title": "Computer system and method for suggesting treatments for physical trauma",
+        "patent_id": "patent/US4839822A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4839822A%2Fen"
+      },
+      {
+        "publication_number": "US4947245A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-05-23",
+        "publication_date": "1990-08-07",
+        "assignee_original": "Sumitomo Electric Industries, Ltd.",
+        "title": "Image picking-up and processing apparatus",
+        "patent_id": "patent/US4947245A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4947245A%2Fen"
+      },
+      {
+        "publication_number": "US4951674A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-03-20",
+        "publication_date": "1990-08-28",
+        "assignee_original": "Zanakis Michael F",
+        "title": "Biomagnetic analytical system using fiber-optic magnetic sensors",
+        "patent_id": "patent/US4951674A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4951674A%2Fen"
+      },
+      {
+        "publication_number": "US4951653A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-03-02",
+        "publication_date": "1990-08-28",
+        "assignee_original": "Laboratory Equipment, Corp.",
+        "title": "Ultrasound brain lesioning system",
+        "patent_id": "patent/US4951653A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4951653A%2Fen"
+      },
+      {
+        "publication_number": "US4989083A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-06-29",
+        "publication_date": "1991-01-29",
+        "assignee_original": "Olympus Optical Co., Ltd.",
+        "title": "Method of inspecting objects by image pickup means",
+        "patent_id": "patent/US4989083A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4989083A%2Fen"
+      },
+      {
+        "publication_number": "WO1991007135A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-11-22",
+        "publication_date": "1991-05-30",
+        "assignee_original": "Stereometrix Corporation",
+        "title": "Method for assisting an investigation of a human breast for a malignancy and apparatus for practicing such method",
+        "patent_id": "patent/WO1991007135A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1991007135A1%2Fen"
+      },
+      {
+        "publication_number": "US5027817A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-06-22",
+        "publication_date": "1991-07-02",
+        "assignee_original": "New York University",
+        "title": "Statistical based display for positron emission tomography scans",
+        "patent_id": "patent/US5027817A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5027817A%2Fen"
+      },
+      {
+        "publication_number": "US5099844A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-22",
+        "publication_date": "1992-03-31",
+        "assignee_original": "Biofield Corp.",
+        "title": "Discriminant function analysis method and apparatus for disease diagnosis and screening",
+        "patent_id": "patent/US5099844A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5099844A%2Fen"
+      },
+      {
+        "publication_number": "US5099846A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-23",
+        "publication_date": "1992-03-31",
+        "assignee_original": "Hardy Tyrone L",
+        "title": "Method and apparatus for video presentation from a variety of scanner imaging sources",
+        "patent_id": "patent/US5099846A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5099846A%2Fen"
+      },
+      {
+        "publication_number": "US5140988A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-08-22",
+        "publication_date": "1992-08-25",
+        "assignee_original": "Animal Ultrasound Services, Inc.",
+        "title": "Detection of abnormal bone structure in animals and carcasses with ultrasound",
+        "patent_id": "patent/US5140988A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5140988A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US5617855A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-09-01",
+        "publication_date": "1997-04-08",
+        "assignee_original": "Waletzky; Jeremy P.",
+        "title": "Medical testing device and associated method",
+        "patent_id": "patent/US5617855A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5617855A%2Fen"
+      },
+      {
+        "publication_number": "WO1997020496A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-07",
+        "publication_date": "1997-06-12",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Medical diagnostic analysis system",
+        "patent_id": "patent/WO1997020496A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997020496A1%2Fen"
+      },
+      {
+        "publication_number": "US5660176A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "1997-08-26",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system",
+        "patent_id": "patent/US5660176A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5660176A%2Fen"
+      },
+      {
+        "publication_number": "US5666953A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-01-10",
+        "publication_date": "1997-09-16",
+        "assignee_original": "Wilk; Peter J.",
+        "title": "System and associated method for providing information for use in forming medical diagnosis",
+        "patent_id": "patent/US5666953A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666953A%2Fen"
+      },
+      {
+        "publication_number": "WO1997037231A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-29",
+        "publication_date": "1997-10-09",
+        "assignee_original": "Ortho-Clinical Diagnostics Kabushiki Kaisha",
+        "title": "Blood transfusion test analyzing system and method for analyzing blood transfusion test",
+        "patent_id": "patent/WO1997037231A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997037231A1%2Fen"
+      },
+      {
+        "publication_number": "US5696492A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-13",
+        "publication_date": "1997-12-09",
+        "assignee_original": "Nihon Kohden Corporation",
+        "title": "Medical alarming system",
+        "patent_id": "patent/US5696492A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5696492A%2Fen"
+      },
+      {
+        "publication_number": "US5697376A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-11-29",
+        "publication_date": "1997-12-16",
+        "assignee_original": "Colin Corporation",
+        "title": "Physical information collection system",
+        "patent_id": "patent/US5697376A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5697376A%2Fen"
+      },
+      {
+        "publication_number": "DE19638738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-10",
+        "publication_date": "1998-03-12",
+        "assignee_original": "Ralf Dr Bousseljot",
+        "title": "Evaluation system for deriving diagnostic information from signals and data from medical sensor systems",
+        "patent_id": "patent/DE19638738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19638738A1%2Fen"
+      },
+      {
+        "publication_number": "US5730124A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-14",
+        "publication_date": "1998-03-24",
+        "assignee_original": "Mochida Pharmaceutical Co., Ltd.",
+        "title": "Medical measurement apparatus",
+        "patent_id": "patent/US5730124A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5730124A%2Fen"
+      },
+      {
+        "publication_number": "US5746204A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-12-07",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Carbon Based Corporation",
+        "title": "Disease indicator analysis system",
+        "patent_id": "patent/US5746204A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5746204A%2Fen"
+      },
+      {
+        "publication_number": "US5792047A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-15",
+        "publication_date": "1998-08-11",
+        "assignee_original": "Coggins; George",
+        "title": "Physiological parameter monitoring and bio-feedback apparatus",
+        "patent_id": "patent/US5792047A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5792047A%2Fen"
+      },
+      {
+        "publication_number": "US5791342A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-03",
+        "publication_date": "1998-08-11",
+        "assignee_original": "Telediagnostics Systems, Inc.",
+        "title": "Medical data transmission system",
+        "patent_id": "patent/US5791342A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5791342A%2Fen"
+      },
+      {
+        "publication_number": "US5878746A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-08-25",
+        "publication_date": "1999-03-09",
+        "assignee_original": "Lemelson; Jerome H.",
+        "title": "Computerized medical diagnostic system",
+        "patent_id": "patent/US5878746A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5878746A%2Fen"
+      },
+      {
+        "publication_number": "US5911133A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-22",
+        "publication_date": "1999-06-08",
+        "assignee_original": "Rush-Presbyterian -St. Luke's Medical Center",
+        "title": "User interface for echocardiographic report generation",
+        "patent_id": "patent/US5911133A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5911133A%2Fen"
+      },
+      {
+        "publication_number": "DE19809738A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-06",
+        "publication_date": "1999-09-16",
+        "assignee_original": "Siemens Ag",
+        "title": "X=ray diagnostic apparatus esp for digital lung work station",
+        "patent_id": "patent/DE19809738A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19809738A1%2Fen"
+      },
+      {
+        "publication_number": "US6023632A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-16",
+        "publication_date": "2000-02-08",
+        "assignee_original": "Wilk; Peter J.",
+        "title": "Ultrasonic medical system and associated method",
+        "patent_id": "patent/US6023632A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6023632A%2Fen"
+      },
+      {
+        "publication_number": "US6039688A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-01",
+        "publication_date": "2000-03-21",
+        "assignee_original": "Salus Media Inc.",
+        "title": "Therapeutic behavior modification program, compliance monitoring and feedback system",
+        "patent_id": "patent/US6039688A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6039688A%2Fen"
+      },
+      {
+        "publication_number": "DE19842400A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-16",
+        "publication_date": "2000-04-13",
+        "assignee_original": "Bundesrep Deutschland",
+        "title": "Method to determine similarity of measured periodic or quasi periodic-signals obtained with medical sensors, e.g. electrocardiograms; involves comparing measured signals with sample signals stored in database using computer",
+        "patent_id": "patent/DE19842400A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19842400A1%2Fen"
+      },
+      {
+        "publication_number": "US6072396A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-30",
+        "publication_date": "2000-06-06",
+        "assignee_original": "Advanced Business Sciences",
+        "title": "Apparatus and method for continuous electronic monitoring and tracking of individuals",
+        "patent_id": "patent/US6072396A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6072396A%2Fen"
+      },
+      {
+        "publication_number": "US6106463A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-20",
+        "publication_date": "2000-08-22",
+        "assignee_original": "Wilk; Peter J.",
+        "title": "Medical imaging device and associated method including flexible display",
+        "patent_id": "patent/US6106463A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6106463A%2Fen"
+      },
+      {
+        "publication_number": "US6139499A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-02-22",
+        "publication_date": "2000-10-31",
+        "assignee_original": "Wilk; Peter J.",
+        "title": "Ultrasonic medical system and associated method",
+        "patent_id": "patent/US6139499A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6139499A%2Fen"
+      },
+      {
+        "publication_number": "US6206829B1",
+        "primary_language": "en",
+        "priority_date": "1996-07-12",
+        "publication_date": "2001-03-27",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic and treatment advice system including network access",
+        "patent_id": "patent/US6206829B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6206829B1%2Fen"
+      },
+      {
+        "publication_number": "US6247004B1",
+        "primary_language": "en",
+        "priority_date": "1997-08-18",
+        "publication_date": "2001-06-12",
+        "assignee_original": "Nabil W. Moukheibir",
+        "title": "Universal computer assisted diagnosis",
+        "patent_id": "patent/US6247004B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6247004B1%2Fen"
+      },
+      {
+        "publication_number": "US6253159B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-31",
+        "publication_date": "2001-06-26",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Process control using multiple detections",
+        "patent_id": "patent/US6253159B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6253159B1%2Fen"
+      },
+      {
+        "publication_number": "US6260188B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-31",
+        "publication_date": "2001-07-10",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Control model",
+        "patent_id": "patent/US6260188B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6260188B1%2Fen"
+      },
+      {
+        "publication_number": "US6266436B1",
+        "primary_language": "en",
+        "priority_date": "1999-04-09",
+        "publication_date": "2001-07-24",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Process control using multiple detections",
+        "patent_id": "patent/US6266436B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6266436B1%2Fen"
+      },
+      {
+        "publication_number": "US6270456B1",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2001-08-07",
+        "assignee_original": "First Opinion Corporation",
+        "title": "Computerized medical diagnostic system utilizing list-based processing",
+        "patent_id": "patent/US6270456B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6270456B1%2Fen"
+      },
+      {
+        "publication_number": "US6273854B1",
+        "primary_language": "en",
+        "priority_date": "1998-05-05",
+        "publication_date": "2001-08-14",
+        "assignee_original": "Body Bio Corporation",
+        "title": "Medical diagnostic analysis method and system",
+        "patent_id": "patent/US6273854B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6273854B1%2Fen"
+      },
+      {
+        "publication_number": "US6280380B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-26",
+        "publication_date": "2001-08-28",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for determining a reference baseline of individual patient status for use in an automated collection and analysis patient care system",
+        "patent_id": "patent/US6280380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6280380B1%2Fen"
+      },
+      {
+        "publication_number": "US6302847B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-22",
+        "publication_date": "2001-10-16",
+        "assignee_original": "Florida Atlantic University",
+        "title": "Two dimensional ultrasonic scanning system and method",
+        "patent_id": "patent/US6302847B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6302847B1%2Fen"
+      },
+      {
+        "publication_number": "US20010032099A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-18",
+        "publication_date": "2001-10-18",
+        "assignee_original": "Joao Raymond Anthony",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US20010032099A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20010032099A1%2Fen"
+      },
+      {
+        "publication_number": "US6319201B1",
+        "primary_language": "en",
+        "priority_date": "1997-10-15",
+        "publication_date": "2001-11-20",
+        "assignee_original": "Peter J. Wilk",
+        "title": "Imaging device and associated method",
+        "patent_id": "patent/US6319201B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6319201B1%2Fen"
+      },
+      {
+        "publication_number": "KR20010110838A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-08",
+        "publication_date": "2001-12-15",
+        "assignee_original": "\ud0c1\uc2b9\ud638",
+        "title": "Remote derma-diagnosis system and method thereof",
+        "patent_id": "patent/KR20010110838A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20010110838A%2Fen"
+      },
+      {
+        "publication_number": "US20020021828A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-01",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Arthur Papier",
+        "title": "System and method to aid diagnoses using cross-referenced knowledge and image databases",
+        "patent_id": "patent/US20020021828A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020021828A1%2Fen"
+      },
+      {
+        "publication_number": "US20020032583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-18",
+        "publication_date": "2002-03-14",
+        "assignee_original": "Joao Raymond Anthony",
+        "title": "Apparatus and method for processing and/or for providing healthcare information and/or healthcare-related information",
+        "patent_id": "patent/US20020032583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020032583A1%2Fen"
+      },
+      {
+        "publication_number": "US6404910B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-31",
+        "publication_date": "2002-06-11",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Making absorbent articles using vision imaging system",
+        "patent_id": "patent/US6404910B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6404910B1%2Fen"
+      },
+      {
+        "publication_number": "US6409684B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-19",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Peter J. Wilk",
+        "title": "Medical diagnostic device with multiple sensors on a flexible substrate and associated methodology",
+        "patent_id": "patent/US6409684B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6409684B1%2Fen"
+      },
+      {
+        "publication_number": "US6411840B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Automated collection and analysis patient care system and method for diagnosing and monitoring the outcomes of atrial fibrillation",
+        "patent_id": "patent/US6411840B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6411840B1%2Fen"
+      },
+      {
+        "publication_number": "US6413233B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-08-18",
+        "publication_date": "2002-07-02",
+        "assignee_original": "Biothermics, Inc.",
+        "title": "Perfusion hyperthermia treatment system and method",
+        "patent_id": "patent/US6413233B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6413233B1%2Fen"
+      },
+      {
+        "publication_number": "US20020099302A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-07-25",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for providing diagnosis and montoring of congestive heart faliure for use in automated patient care",
+        "patent_id": "patent/US20020099302A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020099302A1%2Fen"
+      },
+      {
+        "publication_number": "US6438405B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-28",
+        "publication_date": "2002-08-20",
+        "assignee_original": "Koninklijke Philips Electronics, N.V.",
+        "title": "Imaging safety device",
+        "patent_id": "patent/US6438405B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6438405B1%2Fen"
+      },
+      {
+        "publication_number": "US20020132370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-23",
+        "publication_date": "2002-09-19",
+        "assignee_original": "Lassen Michael Rud",
+        "title": "Detection of a blood coagulation activity marker in a body fluid sample",
+        "patent_id": "patent/US20020132370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020132370A1%2Fen"
+      },
+      {
+        "publication_number": "US20020131625A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-09",
+        "publication_date": "2002-09-19",
+        "assignee_original": "Vining David J.",
+        "title": "Image reporting method and system",
+        "patent_id": "patent/US20020131625A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020131625A1%2Fen"
+      },
+      {
+        "publication_number": "US20020143262A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-10-03",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for providing diagnosis and monitoring of myocardial ischemia for use in automated patient care",
+        "patent_id": "patent/US20020143262A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020143262A1%2Fen"
+      },
+      {
+        "publication_number": "US6478737B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2002-11-12",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for analyzing normalized patient voice feedback an automated collection and analysis patient care system",
+        "patent_id": "patent/US6478737B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6478737B2%2Fen"
+      },
+      {
+        "publication_number": "US20020169367A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-11-14",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for providing diagnosis and monitoring of respiratory insufficiency for use in automated patient care",
+        "patent_id": "patent/US20020169367A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020169367A1%2Fen"
+      },
+      {
+        "publication_number": "US6491629B1",
+        "primary_language": "en",
+        "priority_date": "1997-11-25",
+        "publication_date": "2002-12-10",
+        "assignee_original": "Bundesrepublik Deutschland",
+        "title": "Method for determining at least one diagnostic piece of information from signal patterns of medical sensor systems",
+        "patent_id": "patent/US6491629B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6491629B1%2Fen"
+      },
+      {
+        "publication_number": "US20020188213A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2002-12-12",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for prioritizing multiple health disorders for use in automated patient care",
+        "patent_id": "patent/US20020188213A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020188213A1%2Fen"
+      },
+      {
+        "publication_number": "US20020198663A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-18",
+        "publication_date": "2002-12-26",
+        "assignee_original": "Lau Kenneth U.",
+        "title": "System and method for assisting diagnosis and treatment of temporomandibular joint conditions",
+        "patent_id": "patent/US20020198663A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020198663A1%2Fen"
+      },
+      {
+        "publication_number": "GB2377282A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-16",
+        "publication_date": "2003-01-08",
+        "assignee_original": "Sanjay Kumar Chugh",
+        "title": "Computerised medical database",
+        "patent_id": "patent/GB2377282A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2377282A%2Fen"
+      },
+      {
+        "publication_number": "US6517484B1",
+        "primary_language": "en",
+        "priority_date": "2000-02-28",
+        "publication_date": "2003-02-11",
+        "assignee_original": "Wilk Patent Development Corporation",
+        "title": "Ultrasonic imaging system and associated method",
+        "patent_id": "patent/US6517484B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6517484B1%2Fen"
+      },
+      {
+        "publication_number": "US6553270B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-30",
+        "publication_date": "2003-04-22",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Proactive control of a process after the beginning of a destabilizing event",
+        "patent_id": "patent/US6553270B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6553270B1%2Fen"
+      },
+      {
+        "publication_number": "US20030097278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-19",
+        "publication_date": "2003-05-22",
+        "assignee_original": "Mantilla David Alejandro",
+        "title": "Telephone-and network-based medical triage system and process",
+        "patent_id": "patent/US20030097278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030097278A1%2Fen"
+      },
+      {
+        "publication_number": "US6578002B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-25",
+        "publication_date": "2003-06-10",
+        "assignee_original": "Gregory John Derzay",
+        "title": "Medical diagnostic system service platform",
+        "patent_id": "patent/US6578002B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6578002B1%2Fen"
+      },
+      {
+        "publication_number": "US20030139785A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-24",
+        "publication_date": "2003-07-24",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Method and a system for using implanted medical device data for accessing therapies",
+        "patent_id": "patent/US20030139785A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030139785A1%2Fen"
+      },
+      {
+        "publication_number": "US6607485B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2003-08-19",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "Computer readable storage medium containing code for automated collection and analysis of patient information retrieved from an implantable medical device for remote patient care",
+        "patent_id": "patent/US6607485B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6607485B2%2Fen"
+      },
+      {
+        "publication_number": "WO2003071951A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-28",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Ultrasound imaging enhancement to clinical patient monitoring functions",
+        "patent_id": "patent/WO2003071951A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003071951A1%2Fen"
+      },
+      {
+        "publication_number": "US20030195397A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-03",
+        "publication_date": "2003-10-16",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for providing tiered patient feedback for use in automated patient care",
+        "patent_id": "patent/US20030195397A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030195397A1%2Fen"
+      },
+      {
+        "publication_number": "US20040006432A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-18",
+        "publication_date": "2004-01-08",
+        "assignee_original": "Lau Kenneth U.",
+        "title": "System and method for assisting diagnosis and treatment of temporomandibular joint conditions",
+        "patent_id": "patent/US20040006432A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040006432A1%2Fen"
+      },
+      {
+        "publication_number": "US20040015100A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-13",
+        "publication_date": "2004-01-22",
+        "assignee_original": "Schmidt Richard A.",
+        "title": "Diagnosis of lower urinary tract dysregulation",
+        "patent_id": "patent/US20040015100A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040015100A1%2Fen"
+      },
+      {
+        "publication_number": "US6690914B2",
+        "primary_language": "en",
+        "priority_date": "2000-12-22",
+        "publication_date": "2004-02-10",
+        "assignee_original": "Aidentity Matrix Medical, Inc.",
+        "title": "Multi-agent collaborative architecture for problem solving and tutoring",
+        "patent_id": "patent/US6690914B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6690914B2%2Fen"
+      },
+      {
+        "publication_number": "US20040030669A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-12",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Harris Jeffrey Saul",
+        "title": "Method for analyzing records in a data base",
+        "patent_id": "patent/US20040030669A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040030669A1%2Fen"
+      },
+      {
+        "publication_number": "US20040030584A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-12",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Harris Jeffrey Saul",
+        "title": "System and method for guideline-based, rules assisted medical and disability management",
+        "patent_id": "patent/US20040030584A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040030584A1%2Fen"
+      },
+      {
+        "publication_number": "WO2003024320A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-20",
+        "publication_date": "2004-02-19",
+        "assignee_original": "Bundesrep Deutschland",
+        "title": "Method and device for evaluating measured periodic or quasi-periodic signals produced by medical sensor systems",
+        "patent_id": "patent/WO2003024320A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003024320A3%2Fen"
+      },
+      {
+        "publication_number": "US20040039261A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-03",
+        "publication_date": "2004-02-26",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for providing feedback to an individual patient for automated remote patient care",
+        "patent_id": "patent/US20040039261A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040039261A1%2Fen"
+      },
+      {
+        "publication_number": "US6703936B2",
+        "primary_language": "en",
+        "priority_date": "2001-09-28",
+        "publication_date": "2004-03-09",
+        "assignee_original": "Veridian Engineering, Inc.",
+        "title": "System and method for tracking movement of individuals",
+        "patent_id": "patent/US6703936B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6703936B2%2Fen"
+      },
+      {
+        "publication_number": "US20040106875A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-15",
+        "publication_date": "2004-06-03",
+        "assignee_original": "Menzie Wayne Y.",
+        "title": "Medical testing telemetry system",
+        "patent_id": "patent/US20040106875A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040106875A1%2Fen"
+      },
+      {
+        "publication_number": "US6819785B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-09",
+        "publication_date": "2004-11-16",
+        "assignee_original": "Wake Forest University Health Sciences",
+        "title": "Image reporting method and system",
+        "patent_id": "patent/US6819785B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6819785B1%2Fen"
+      },
+      {
+        "publication_number": "WO2004098400A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-07",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Device for the production of medical reports based on image data",
+        "patent_id": "patent/WO2004098400A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004098400A1%2Fen"
+      },
+      {
+        "publication_number": "US20050001727A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-30",
+        "publication_date": "2005-01-06",
+        "assignee_original": "Toshiro Terauchi",
+        "title": "Communication apparatus and communication method",
+        "patent_id": "patent/US20050001727A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050001727A1%2Fen"
+      },
+      {
+        "publication_number": "US6856859B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-31",
+        "publication_date": "2005-02-15",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Method of controlling cross-direction alignment in manufacturing process",
+        "patent_id": "patent/US6856859B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6856859B1%2Fen"
+      },
+      {
+        "publication_number": "US20050059895A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-07",
+        "publication_date": "2005-03-17",
+        "assignee_original": "Brown Stephen J.",
+        "title": "System and methods for monitoring a patient's heart condition",
+        "patent_id": "patent/US20050059895A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050059895A1%2Fen"
+      },
+      {
+        "publication_number": "US20050087820A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-15",
+        "publication_date": "2005-04-28",
+        "assignee_original": "Gang Bai",
+        "title": "High dielectric constant metal oxide gate dielectrics",
+        "patent_id": "patent/US20050087820A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050087820A1%2Fen"
+      },
+      {
+        "publication_number": "US6887201B2",
+        "primary_language": "en",
+        "priority_date": "1999-07-26",
+        "publication_date": "2005-05-03",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for determining a reference baseline of regularly retrieved patient information for automated remote patient care",
+        "patent_id": "patent/US6887201B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6887201B2%2Fen"
+      },
+      {
+        "publication_number": "US20050171411A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-03",
+        "publication_date": "2005-08-04",
+        "assignee_original": "Kenknight Bruce",
+        "title": "System and method for transacting an automated patient communications session",
+        "patent_id": "patent/US20050171411A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050171411A1%2Fen"
+      },
+      {
+        "publication_number": "WO2005079660A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-18",
+        "publication_date": "2005-09-01",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Method and device for verifying the adherence to a performance specification for a medical procedure performed on a patient",
+        "patent_id": "patent/WO2005079660A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005079660A1%2Fen"
+      },
+      {
+        "publication_number": "USRE38838E1",
+        "primary_language": "en",
+        "priority_date": "1997-09-10",
+        "publication_date": "2005-10-18",
+        "assignee_original": "Taylor Jr John E",
+        "title": "Monitoring system",
+        "patent_id": "patent/USRE38838E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE38838E1%2Fen"
+      },
+      {
+        "publication_number": "US20050288588A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-25",
+        "publication_date": "2005-12-29",
+        "assignee_original": "Peter Weber",
+        "title": "Real-time 3D ultrasonic imaging apparatus and method",
+        "patent_id": "patent/US20050288588A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050288588A1%2Fen"
+      },
+      {
+        "publication_number": "US20060015263A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-10",
+        "publication_date": "2006-01-19",
+        "assignee_original": "Stupp Steven E",
+        "title": "Apparatus for determining association variables",
+        "patent_id": "patent/US20060015263A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060015263A1%2Fen"
+      },
+      {
+        "publication_number": "US6993167B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-12",
+        "publication_date": "2006-01-31",
+        "assignee_original": "Polartechnics Limited",
+        "title": "System and method for examining, recording and analyzing dermatological conditions",
+        "patent_id": "patent/US6993167B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6993167B1%2Fen"
+      },
+      {
+        "publication_number": "US20060025931A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-30",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Richard Rosen",
+        "title": "Method and apparatus for real time predictive modeling for chronically ill patients",
+        "patent_id": "patent/US20060025931A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060025931A1%2Fen"
+      },
+      {
+        "publication_number": "US20060023966A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-27",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Vining David J",
+        "title": "Method and system for producing interactive, three-dimensional renderings of selected body organs having hollow lumens to enable simulated movement through the lumen",
+        "patent_id": "patent/US20060023966A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060023966A1%2Fen"
+      },
+      {
+        "publication_number": "US20060101072A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-21",
+        "publication_date": "2006-05-11",
+        "assignee_original": "International Business Machines Corproation",
+        "title": "System and method for interpreting scan data",
+        "patent_id": "patent/US20060101072A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060101072A1%2Fen"
+      },
+      {
+        "publication_number": "US20060155204A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-19",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Ramesh Wariar",
+        "title": "System and method for assessing cardiac performance through cardiac vibration monitoring",
+        "patent_id": "patent/US20060155204A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060155204A1%2Fen"
+      },
+      {
+        "publication_number": "US20060253301A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-03",
+        "publication_date": "2006-11-09",
+        "assignee_original": "Simms Howard D",
+        "title": "System and method for managing alert notifications in an automated patient management system",
+        "patent_id": "patent/US20060253301A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060253301A1%2Fen"
+      },
+      {
+        "publication_number": "US20060253300A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-03",
+        "publication_date": "2006-11-09",
+        "assignee_original": "Somberg Benjamin L",
+        "title": "System and method for managing patient triage in an automated patient management system",
+        "patent_id": "patent/US20060253300A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060253300A1%2Fen"
+      },
+      {
+        "publication_number": "US7134996B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-03",
+        "publication_date": "2006-11-14",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for collection and analysis of patient information for automated remote patient care",
+        "patent_id": "patent/US7134996B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7134996B2%2Fen"
+      },
+      {
+        "publication_number": "US20070118588A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-17",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Brown Stephen J",
+        "title": "Method and apparatus for remote health monitoring and providing health related information",
+        "patent_id": "patent/US20070118588A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118588A1%2Fen"
+      },
+      {
+        "publication_number": "US20070136090A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-12",
+        "publication_date": "2007-06-14",
+        "assignee_original": "General Electric Company",
+        "title": "System and method for macro-enhanced clinical workflow",
+        "patent_id": "patent/US20070136090A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070136090A1%2Fen"
+      },
+      {
+        "publication_number": "US20070165049A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-14",
+        "publication_date": "2007-07-19",
+        "assignee_original": "General Electric Company",
+        "title": "Configurable system and method for results review",
+        "patent_id": "patent/US20070165049A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070165049A1%2Fen"
+      },
+      {
+        "publication_number": "US7292139B2",
+        "primary_language": "en",
+        "priority_date": "2002-12-17",
+        "publication_date": "2007-11-06",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Repeater device for communications with an implantable medical device",
+        "patent_id": "patent/US7292139B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7292139B2%2Fen"
+      },
+      {
+        "publication_number": "US7329226B1",
+        "primary_language": "en",
+        "priority_date": "2004-07-06",
+        "publication_date": "2008-02-12",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing pulmonary performance through transthoracic impedance monitoring",
+        "patent_id": "patent/US7329226B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7329226B1%2Fen"
+      },
+      {
+        "publication_number": "US20080052116A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-13",
+        "publication_date": "2008-02-28",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Disease management system and method",
+        "patent_id": "patent/US20080052116A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080052116A1%2Fen"
+      },
+      {
+        "publication_number": "US20080080742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-02",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Apparatus for correcting motion vectors and method thereof",
+        "patent_id": "patent/US20080080742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080080742A1%2Fen"
+      },
+      {
+        "publication_number": "US20080228077A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-01-10",
+        "publication_date": "2008-09-18",
+        "assignee_original": "Wilk Ultrasound Of Canada, Inc.",
+        "title": "Ultrasonic medical device and associated method",
+        "patent_id": "patent/US20080228077A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080228077A1%2Fen"
+      },
+      {
+        "publication_number": "US20080292151A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Kurtz Andrew F",
+        "title": "Capturing data for individual physiological monitoring",
+        "patent_id": "patent/US20080292151A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080292151A1%2Fen"
+      },
+      {
+        "publication_number": "US20080294017A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Gobeyn Kevin M",
+        "title": "Image data normalization for a monitoring system",
+        "patent_id": "patent/US20080294017A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294017A1%2Fen"
+      },
+      {
+        "publication_number": "US20080294013A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Gobeyn Kevin M",
+        "title": "Inferring wellness from physiological conditions data",
+        "patent_id": "patent/US20080294013A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294013A1%2Fen"
+      },
+      {
+        "publication_number": "US20080294016A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Gobeyn Kevin M",
+        "title": "Establishing baseline data for physiological monitoring system",
+        "patent_id": "patent/US20080294016A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294016A1%2Fen"
+      },
+      {
+        "publication_number": "US20080294018A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Kurtz Andrew F",
+        "title": "Privacy management for well-being monitoring",
+        "patent_id": "patent/US20080294018A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294018A1%2Fen"
+      },
+      {
+        "publication_number": "US20080294012A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-22",
+        "publication_date": "2008-11-27",
+        "assignee_original": "Kurtz Andrew F",
+        "title": "Monitoring physiological conditions",
+        "patent_id": "patent/US20080294012A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080294012A1%2Fen"
+      },
+      {
+        "publication_number": "US7464021B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-02",
+        "publication_date": "2008-12-09",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Computer system for translating medical test results into plain language",
+        "patent_id": "patent/US7464021B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7464021B1%2Fen"
+      },
+      {
+        "publication_number": "US7488290B1",
+        "primary_language": "en",
+        "priority_date": "2004-02-19",
+        "publication_date": "2009-02-10",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing cardiac performance through transcardiac impedance monitoring",
+        "patent_id": "patent/US7488290B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7488290B1%2Fen"
+      },
+      {
+        "publication_number": "US20090072142A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-14",
+        "publication_date": "2009-03-19",
+        "assignee_original": "Forensicare Incorporated",
+        "title": "Scanning system and techniques for medical and/or forensic assessment using the same",
+        "patent_id": "patent/US20090072142A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090072142A1%2Fen"
+      },
+      {
+        "publication_number": "US7598854B2",
+        "primary_language": "en",
+        "priority_date": "2005-03-01",
+        "publication_date": "2009-10-06",
+        "assignee_original": "Chon Meng Wong",
+        "title": "System and method for creating a proximity map of plurality of living beings and objects",
+        "patent_id": "patent/US7598854B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7598854B2%2Fen"
+      },
+      {
+        "publication_number": "US7619513B2",
+        "primary_language": "en",
+        "priority_date": "2003-10-03",
+        "publication_date": "2009-11-17",
+        "assignee_original": "Satellite Tracking Of People Llc",
+        "title": "System and method for tracking movement of individuals",
+        "patent_id": "patent/US7619513B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7619513B2%2Fen"
+      },
+      {
+        "publication_number": "US7624028B1",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2009-11-24",
+        "assignee_original": "Health Hero Network, Inc.",
+        "title": "Remote health monitoring and maintenance system",
+        "patent_id": "patent/US7624028B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7624028B1%2Fen"
+      },
+      {
+        "publication_number": "US20090303507A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-06",
+        "publication_date": "2009-12-10",
+        "assignee_original": "Virginia Venture Industries, Llc",
+        "title": "Methods and apparatuses for printing three dimensional images",
+        "patent_id": "patent/US20090303507A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090303507A1%2Fen"
+      },
+      {
+        "publication_number": "US20100063840A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-03",
+        "publication_date": "2010-03-11",
+        "assignee_original": "Hoyme Kenneth P",
+        "title": "System and method for managing coordination of collected patient data in an automated patient management system",
+        "patent_id": "patent/US20100063840A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100063840A1%2Fen"
+      },
+      {
+        "publication_number": "US20100090826A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-10",
+        "publication_date": "2010-04-15",
+        "assignee_original": "Brian Sean Moran",
+        "title": "Technique for Detecting Tracking Device Tampering Using An Auxiliary Device",
+        "patent_id": "patent/US20100090826A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100090826A1%2Fen"
+      },
+      {
+        "publication_number": "US20100125182A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-14",
+        "publication_date": "2010-05-20",
+        "assignee_original": "At&T Intellectual Property I, L.P.",
+        "title": "System and method for performing a diagnostic analysis of physiological information",
+        "patent_id": "patent/US20100125182A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100125182A1%2Fen"
+      },
+      {
+        "publication_number": "US7737841B2",
+        "primary_language": "en",
+        "priority_date": "2006-07-14",
+        "publication_date": "2010-06-15",
+        "assignee_original": "Remotemdx",
+        "title": "Alarm and alarm management system for remote tracking devices",
+        "patent_id": "patent/US7737841B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7737841B2%2Fen"
+      },
+      {
+        "publication_number": "US20100152583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-16",
+        "publication_date": "2010-06-17",
+        "assignee_original": "General Electric Company",
+        "title": "Medical imaging system and method containing ultrasound docking port",
+        "patent_id": "patent/US20100152583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100152583A1%2Fen"
+      },
+      {
+        "publication_number": "US20100152578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-16",
+        "publication_date": "2010-06-17",
+        "assignee_original": "General Electric Company",
+        "title": "Medical imaging system and method containing ultrasound docking port",
+        "patent_id": "patent/US20100152578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100152578A1%2Fen"
+      },
+      {
+        "publication_number": "US7747055B1",
+        "primary_language": "en",
+        "priority_date": "1998-11-25",
+        "publication_date": "2010-06-29",
+        "assignee_original": "Wake Forest University Health Sciences",
+        "title": "Virtual endoscopy with improved image segmentation and lesion detection",
+        "patent_id": "patent/US7747055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7747055B1%2Fen"
+      },
+      {
+        "publication_number": "US20100191544A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-27",
+        "publication_date": "2010-07-29",
+        "assignee_original": "Adam Bosworth",
+        "title": "Protocol Authoring for a Health Coaching Service",
+        "patent_id": "patent/US20100191544A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100191544A1%2Fen"
+      },
+      {
+        "publication_number": "US7780595B2",
+        "primary_language": "en",
+        "priority_date": "2003-05-15",
+        "publication_date": "2010-08-24",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Panel diagnostic method and system",
+        "patent_id": "patent/US7780595B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7780595B2%2Fen"
+      },
+      {
+        "publication_number": "US7804412B2",
+        "primary_language": "en",
+        "priority_date": "2005-08-10",
+        "publication_date": "2010-09-28",
+        "assignee_original": "Securealert, Inc.",
+        "title": "Remote tracking and communication device",
+        "patent_id": "patent/US7804412B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7804412B2%2Fen"
+      },
+      {
+        "publication_number": "US20100246760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-31",
+        "publication_date": "2010-09-30",
+        "assignee_original": "General Electric Company",
+        "title": "Combining x-ray and ultrasound imaging for enhanced mammography",
+        "patent_id": "patent/US20100246760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100246760A1%2Fen"
+      },
+      {
+        "publication_number": "US20100265251A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-25",
+        "publication_date": "2010-10-21",
+        "assignee_original": "Vining David J",
+        "title": "Virtual Endoscopy with Improved Image Segmentation and Lesion Detection",
+        "patent_id": "patent/US20100265251A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100265251A1%2Fen"
+      },
+      {
+        "publication_number": "US20100280838A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-01",
+        "publication_date": "2010-11-04",
+        "assignee_original": "Adam Bosworth",
+        "title": "Coaching Engine for a Health Coaching Service",
+        "patent_id": "patent/US20100280838A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100280838A1%2Fen"
+      },
+      {
+        "publication_number": "US20100302358A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-29",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Convergent Medical Solutions, Inc.",
+        "title": "Automated assessment of skin lesions using image library",
+        "patent_id": "patent/US20100302358A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100302358A1%2Fen"
+      },
+      {
+        "publication_number": "US7936262B2",
+        "primary_language": "en",
+        "priority_date": "2006-07-14",
+        "publication_date": "2011-05-03",
+        "assignee_original": "Securealert, Inc.",
+        "title": "Remote tracking system with a dedicated monitoring center",
+        "patent_id": "patent/US7936262B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7936262B2%2Fen"
+      },
+      {
+        "publication_number": "US20110213579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-26",
+        "publication_date": "2011-09-01",
+        "assignee_original": "Henke Tom L",
+        "title": "Method and apparatus for verifying test results",
+        "patent_id": "patent/US20110213579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110213579A1%2Fen"
+      },
+      {
+        "publication_number": "US20110213619A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-26",
+        "publication_date": "2011-09-01",
+        "assignee_original": "Henke Tom L",
+        "title": "Method and system for online medical diagnosis",
+        "patent_id": "patent/US20110213619A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110213619A1%2Fen"
+      },
+      {
+        "publication_number": "US8019582B2",
+        "primary_language": "en",
+        "priority_date": "2000-02-14",
+        "publication_date": "2011-09-13",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Automated diagnostic system and method",
+        "patent_id": "patent/US8019582B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8019582B2%2Fen"
+      },
+      {
+        "publication_number": "USRE43433E1",
+        "primary_language": "en",
+        "priority_date": "1993-12-29",
+        "publication_date": "2012-05-29",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Computerized medical diagnostic and treatment advice system",
+        "patent_id": "patent/USRE43433E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE43433E1%2Fen"
+      },
+      {
+        "publication_number": "US8232876B2",
+        "primary_language": "en",
+        "priority_date": "2008-03-07",
+        "publication_date": "2012-07-31",
+        "assignee_original": "Securealert, Inc.",
+        "title": "System and method for monitoring individuals using a beacon and intelligent remote tracking device",
+        "patent_id": "patent/US8232876B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8232876B2%2Fen"
+      },
+      {
+        "publication_number": "US8369937B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2013-02-05",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for prioritizing medical conditions",
+        "patent_id": "patent/US8369937B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8369937B2%2Fen"
+      },
+      {
+        "publication_number": "US8419636B2",
+        "primary_language": "en",
+        "priority_date": "1992-11-17",
+        "publication_date": "2013-04-16",
+        "assignee_original": "Robert Bosch Healthcare Systems, Inc.",
+        "title": "Method and system for improving adherence with a diet program or other medical regimen",
+        "patent_id": "patent/US8419636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8419636B2%2Fen"
+      },
+      {
+        "publication_number": "US8514070B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-07",
+        "publication_date": "2013-08-20",
+        "assignee_original": "Securealert, Inc.",
+        "title": "Tracking device incorporating enhanced security mounting strap",
+        "patent_id": "patent/US8514070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8514070B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8797210B2",
+        "primary_language": "en",
+        "priority_date": "2006-07-14",
+        "publication_date": "2014-08-05",
+        "assignee_original": "Securealert, Inc.",
+        "title": "Remote tracking device and a system and method for two-way voice communication between the device and a monitoring center",
+        "patent_id": "patent/US8797210B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8797210B2%2Fen"
+      },
+      {
+        "publication_number": "US9081879B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-22",
+        "publication_date": "2015-07-14",
+        "assignee_original": "Clinical Decision Support, Llc",
+        "title": "Matrix interface for medical diagnostic and treatment advice system and method",
+        "patent_id": "patent/US9081879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9081879B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US20160048651A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-01",
+        "publication_date": "2016-02-18",
+        "assignee_original": "Logical Images, Inc.",
+        "title": "System and method to aid diagnoses using sympticons",
+        "patent_id": "patent/US20160048651A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160048651A1%2Fen"
+      },
+      {
+        "publication_number": "US9378335B2",
+        "primary_language": "en",
+        "priority_date": "2009-11-23",
+        "publication_date": "2016-06-28",
+        "assignee_original": "Keas, Inc.",
+        "title": "Risk factor engine that determines a user health score using a food consumption trend, and predicted user weights",
+        "patent_id": "patent/US9378335B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9378335B2%2Fen"
+      },
+      {
+        "publication_number": "US9754077B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-22",
+        "publication_date": "2017-09-05",
+        "assignee_original": "WellDoc, Inc.",
+        "title": "Systems and methods for disease control and management",
+        "patent_id": "patent/US9754077B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9754077B2%2Fen"
+      },
+      {
+        "publication_number": "US10846607B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-22",
+        "publication_date": "2020-11-24",
+        "assignee_original": "WellDoc, Inc.",
+        "title": "Adaptive analytical behavioral and health assistant system and related method of use",
+        "patent_id": "patent/US10846607B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10846607B2%2Fen"
+      },
+      {
+        "publication_number": "US10872686B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-22",
+        "publication_date": "2020-12-22",
+        "assignee_original": "WellDoc, Inc.",
+        "title": "Systems and methods for disease control and management",
+        "patent_id": "patent/US10872686B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10872686B2%2Fen"
+      },
+      {
+        "publication_number": "US11587688B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-27",
+        "publication_date": "2023-02-21",
+        "assignee_original": "Raymond Anthony Joao",
+        "title": "Apparatus and method for providing healthcare services remotely or virtually with or using an electronic healthcare record and/or a communication network",
+        "patent_id": "patent/US11587688B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11587688B2%2Fen"
+      },
+      {
+        "publication_number": "DE202024103767U1",
+        "primary_language": "en",
+        "priority_date": "2024-07-08",
+        "publication_date": "2024-07-18",
+        "assignee_original": "Pooja KULKARNI",
+        "title": "A health diagnostic device",
+        "patent_id": "patent/DE202024103767U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202024103767U1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5437278A",
+      "primary_language": "en",
+      "publication_date": "1995-08-01",
+      "title": "Medical diagnosis system and method",
+      "patent_id": "patent/US5437278A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5437278A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5666953A",
+      "primary_language": "en",
+      "publication_date": "1997-09-16",
+      "title": "System and associated method for providing information for use in forming medical diagnosis",
+      "patent_id": "patent/US5666953A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666953A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5360005A",
+      "primary_language": "en",
+      "publication_date": "1994-11-01",
+      "title": "Medical diagnosis device for sensing cardiac activity and blood flow",
+      "patent_id": "patent/US5360005A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5360005A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5415167A",
+      "primary_language": "en",
+      "publication_date": "1995-05-16",
+      "title": "Medical system and associated method for automatic diagnosis and treatment",
+      "patent_id": "patent/US5415167A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5415167A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5871446A",
+      "primary_language": "en",
+      "publication_date": "1999-02-16",
+      "title": "Ultrasonic medical system and associated method",
+      "patent_id": "patent/US5871446A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5871446A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6306090B1",
+      "primary_language": "en",
+      "publication_date": "2001-10-23",
+      "title": "Ultrasonic medical system and associated method",
+      "patent_id": "patent/US6306090B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6306090B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6106463A",
+      "primary_language": "en",
+      "publication_date": "2000-08-22",
+      "title": "Medical imaging device and associated method including flexible display",
+      "patent_id": "patent/US6106463A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6106463A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0564459B1",
+      "primary_language": "en",
+      "publication_date": "1996-05-15",
+      "title": "Apparatus and method for evaluating the fetal condition",
+      "patent_id": "patent/EP0564459B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0564459B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5398685A",
+      "primary_language": "en",
+      "publication_date": "1995-03-21",
+      "title": "Endoscopic diagnostic system and associated method",
+      "patent_id": "patent/US5398685A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5398685A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TW480168B",
+      "primary_language": "en",
+      "publication_date": "2002-03-21",
+      "title": "Multi-modal cardiac diagnostic decision support system",
+      "patent_id": "patent/TW480168B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW480168B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004527266A",
+      "primary_language": "en",
+      "publication_date": "2004-09-09",
+      "title": "Remote evaluation system for ultrasound information obtained by programmed application specific data acquisition device",
+      "patent_id": "patent/JP2004527266A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004527266A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080228077A1",
+      "primary_language": "en",
+      "publication_date": "2008-09-18",
+      "title": "Ultrasonic medical device and associated method",
+      "patent_id": "patent/US20080228077A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080228077A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3781036A1",
+      "primary_language": "en",
+      "publication_date": "2021-02-24",
+      "title": "Electronic stethoscope",
+      "patent_id": "patent/EP3781036A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3781036A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106923863A",
+      "primary_language": "en",
+      "publication_date": "2017-07-07",
+      "title": "Ultrasonic image diagnostic apparatus",
+      "patent_id": "patent/CN106923863A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106923863A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111246802A",
+      "primary_language": "en",
+      "publication_date": "2020-06-05",
+      "title": "System and method for fusing ultrasound with additional signals",
+      "patent_id": "patent/CN111246802A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111246802A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101032393A",
+      "primary_language": "en",
+      "publication_date": "2007-09-12",
+      "title": "Multifunctional iatrical examining and monitoring method and device based on computer",
+      "patent_id": "patent/CN101032393A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101032393A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108095760A",
+      "primary_language": "en",
+      "publication_date": "2018-06-01",
+      "title": "A kind of appraisal procedure and device for being used to evaluate internal carotid blood vessel index parameter",
+      "patent_id": "patent/CN108095760A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108095760A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105496456A",
+      "primary_language": "en",
+      "publication_date": "2016-04-20",
+      "title": "Intelligent health examination diagnostic apparatus",
+      "patent_id": "patent/CN105496456A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105496456A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0977512A1",
+      "primary_language": "en",
+      "publication_date": "2000-02-09",
+      "title": "Medical imaging device and associated method",
+      "patent_id": "patent/EP0977512A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0977512A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1394545A",
+      "primary_language": "en",
+      "publication_date": "2003-02-05",
+      "title": "Remote human body health state monitoring system capable of utilizing network to make communication between professional institution or personnel and health or sub-health person",
+      "patent_id": "patent/CN1394545A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1394545A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110957032A",
+      "primary_language": "en",
+      "publication_date": "2020-04-03",
+      "title": "Remote medical diagnosis system for traditional Chinese medicine",
+      "patent_id": "patent/CN110957032A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110957032A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110477863A",
+      "primary_language": "en",
+      "publication_date": "2019-11-22",
+      "title": "A kind of intelligent algorithm model system and method based on cardiac function dynamic monitoring",
+      "patent_id": "patent/CN110477863A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110477863A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN210301239U",
+      "primary_language": "en",
+      "publication_date": "2020-04-14",
+      "title": "Medical image workstation system",
+      "patent_id": "patent/CN210301239U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN210301239U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20030008722A",
+      "primary_language": "en",
+      "publication_date": "2003-01-29",
+      "title": "Fetal Remote Monitoring Method and System",
+      "patent_id": "patent/KR20030008722A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20030008722A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8877900014627784242",
+      "scholar_authors": "Wee et al.",
+      "publication_date": "2009",
+      "title": "Electrocardiogram data capturing system and computerized digitization using image processing techniques",
+      "patent_id": "scholar/8877900014627784242",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8877900014627784242"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1994-10-31",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER CLAIMS SMALL ENTITY STATUS - SMALL BUSINESS (ORIGINAL EVENT CODE: SM02); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "1995-07-20",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "1999-02-01",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2003-02-19",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2003-08-01",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2003-08-01",
+      "code": "SULP",
+      "title": "Surcharge for late payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "date": "2007-02-14",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2007-07-30",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2007-07-30",
+      "code": "SULP",
+      "title": "Surcharge for late payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "11"
+        }
+      ]
+    },
+    {
+      "date": "2008-09-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WILK PATENT DEVELOPMENT CORPORATION, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WILK, PETER J.;REEL/FRAME:021617/0054"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080923"
+        }
+      ]
+    },
+    {
+      "date": "2012-05-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WILK PATENT, LLC, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WILK, PETER J.;WILK PATENT DEVELOPMENT CORPORATION;REEL/FRAME:028256/0952"
+        },
+        {
+          "label": "Effective date",
+          "value": "20120516"
+        }
+      ]
+    },
+    {
+      "date": "2013-06-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "PETETHOMPATENT, LLC, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WILK, PETER J.;REEL/FRAME:030549/0995"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130604"
+        }
+      ]
+    },
+    {
+      "date": "2013-06-11",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "PETETHOM PATENT, LLC, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WILK PATENT, LLC;REEL/FRAME:030588/0535"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130607"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "230000036772",
+        "name": "blood pressure",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000009325",
+        "name": "pulmonary function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002604",
+        "name": "ultrasonography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "208000034826",
+        "name": "Genetic Predisposition to Disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "208000025865",
+        "name": "Ulcer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "231100000397",
+        "name": "ulcer",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004217",
+        "name": "heart function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012806",
+        "name": "monitoring device",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000009530",
+        "name": "blood pressure measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000003754",
+        "name": "fetus",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000000056",
+        "name": "organ",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000001519",
+        "name": "tissue",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000740",
+        "name": "bleeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007435",
+        "name": "diagnostic evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001605",
+        "name": "fetal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000002216",
+        "name": "heart",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "244000005700",
+        "name": "microbiome",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035790",
+        "name": "physiological processes and functions",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035935",
+        "name": "pregnancy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000282326",
+        "name": "Felis catus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000017531",
+        "name": "blood circulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000004556",
+        "name": "brain",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000481",
+        "name": "breast",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000112",
+        "name": "colonic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004821",
+        "name": "distillation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002592",
+        "name": "echocardiography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000012010",
+        "name": "growth",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010365",
+        "name": "information processing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001404",
+        "name": "mediated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010339",
+        "name": "medical test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003205",
+        "name": "muscle",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004118",
+        "name": "muscle contraction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005192",
+        "name": "partition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000029058",
+        "name": "respiratory gaseous exchange",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002700",
+        "name": "urine",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001835",
+        "name": "viscera",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

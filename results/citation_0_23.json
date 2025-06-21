@@ -1,0 +1,1899 @@
+{
+  "search_metadata": {
+    "id": "68514dcaaa0a88390ecfded0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0495c0a4d3b132ed/68514dcaaa0a88390ecfded0.json",
+    "created_at": "2025-06-17 11:13:14 UTC",
+    "processed_at": "2025-06-17 11:13:14 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5993386A/en",
+    "raw_html_file": "https://serpapi.com/searches/0495c0a4d3b132ed/68514dcaaa0a88390ecfded0.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5993386A/en"
+  },
+  "title": "Computer assisted method for the diagnosis and treatment of illness",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/2d/b5/d8/e04c08391ff23a/US5993386.pdf",
+  "publication_number": "US5993386A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "health",
+    "state",
+    "patient",
+    "infectious",
+    "disease"
+  ],
+  "prior_art_date": "1997-07-15",
+  "application_number": "US08/893,026",
+  "inventors": [
+    {
+      "name": "Arthur Dale Ericsson",
+      "link": "https://patents.google.com/?inventor=Arthur+Dale+Ericsson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Arthur+Dale+Ericsson"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "1997-07-15",
+  "filing_date": "1997-07-15",
+  "publication_date": "1999-11-30",
+  "worldwide_applications": {
+    "1997": [
+      {
+        "filing_date": "1997-07-15",
+        "country_code": "US",
+        "application_number": "US08/893,026",
+        "document_id": "patent/US5993386A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1997-07-15",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "1997-07-15",
+      "title": "Priority to US08/893,026",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5993386A/en"
+    },
+    {
+      "date": "1999-11-30",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1999-11-30",
+      "title": "Publication of US5993386A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5993386A/en"
+    },
+    {
+      "date": "2017-07-15",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5993386.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08893026"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5993386"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5993386A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08893026/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5993386"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/91/13/c3/d67aa0a03b5c74/US5993386-drawings-page-2.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/411",
+      "description": "Detecting or monitoring allergy or intolerance reactions to an allergenic agent or substance",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H15/00",
+      "description": "ICT specially adapted for medical reports, e.g. generation or transmission thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/00",
+      "description": "Measuring for diagnostic purposes; Identification of persons",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A computerized technique for performing a medical outcomes analysis is disclosed including methods for quantifying a patients state of health to facilitate an increased quality of patient care and improving diagnostic techniques.",
+  "description_link": "https://serpapi.com/searches/68514dcaaa0a88390ecfded0/google_patents_details/description.html",
+  "claims": [
+    "1. A method for using a computer to monitor the diagnosis and treatment of illness, said method comprisingevaluating a patient; determining a first state of health for the patient at a first time, assigning a first numeric value to the first state of health for the patient and inputting such value to the computer, estimating an expected second state of health for a patient at or near a second time, wherein the expected second state of health can be the same as or different from the first state of health, assigning a numeric value to the expected second state of health and inputting such value to the computer, determining an actual second state of health for the patient at or near the second time, assigning a second numerical value to the actual second state of health for the patient and inputting such value to the computer, establishing, by use of the computer, a numeric value representative of error between the expected second state of health and the actual second state of health according to a predetermined relationship between the numeric value assigned to the expected second state of health and the numeric value assigned to the actual second state of health, wherein the numeric values are selected from a range of numeric values which increase or decrease from a value corresponding to dead at one end of the range to normal at the other end of the range, and wherein the numeric value representative of error quantifies an outcome useful for evaluating the diagnosis and treatment of the patient.",
+    "2. A method as in claim 1 wherein the numeric value for state of health increases or decreases from dead at one end of the range to normal at the other end of the range according to the criteria shown in the following Table:                                   TABLE                                   \n__________________________________________________________________________\nSTATES OF HEALTH                                                          \nState of Health                                                           \n         Criteria                                                         \n__________________________________________________________________________\ndead     Lifeless                                                         \nmoribund support mandatory, progressing rapidly                           \npre-moribund                                                              \n         Very sick, active support necessary. Severe signs and/or         \n         symptoms                                                         \n         of disease. Laboratory tests abnormal.                           \nSeverely Disabled                                                         \n         critically unstable, hospitalization indicated, laboratory       \n         abnormal.                                                        \n         Death is not imminent.                                           \nDisabled requiring of special care and assistance. Signs and symptoms     \n         severe, laboratory abnormal.                                     \nmoderately disabled                                                       \n         clinical signs and symptoms of disease, requires assistance and  \n         frequent medical care, laboratory abnormal                       \nmildly disabled                                                           \n         clinical signs and symptoms of disease, requiring of some        \n         assistance, able to care for needs, laboratory abnormal          \nimpaired clinical signs and symptoms of disease, cares for self needs,    \n         Unable to perform normal activity, laboratory abnormal           \nmildly impaired                                                           \n         some clinical signs and symptoms of disease, able to carry on    \n         normal activity with effort, laboratory may be abnormal          \npre-impaired                                                              \n         minor clinical signs and symptoms of disease, able to carry on   \n         normal activity, laboratory may be abnormal                      \nabnormal appears normal, no complaints, no clinical evidence of disease,  \n         laboratory may be abnormal                                       \nnormal   Normal, no complaints, no evidence of disease, clinical and      \n         laboratory normal.                                               \n__________________________________________________________________________",
+    "3. A method as in claim 2 wherein the numeric values assigned to state of health incrementally increase from dead to normal.",
+    "4. A method as in claim 2 wherein the numeric values assigned to state of health incrementally decrease from dead to normal.",
+    "5. A method as in claim 2 wherein the numeric values assigned to state of health are assigned by a computer based on a user input.",
+    "6. A method as in claim 1 further comprisingformulating a diagnosis for the patient, selecting an intervention plan for the patient which is appropriate for the diagnosis, and executing the intervention plan prior to the second time.",
+    "7. A method as in claim 6 further comprisingestimating the expected second state of health based in part on a presumed correctness of the diagnosis.",
+    "8. A method as in claim 6 further comprisingestimating the expected second state of health based in part on a presumed effectiveness of the intervention plan.",
+    "9. A method as in claim 6 further comprisingestimating the expected second state of health based in part on a presumed correctness of the diagnosis and a presumed effectiveness of the intervention plan.",
+    "10. A method as in claim 1 further comprisingestimating an expected second state of health for a patient at or near a second time, wherein the expected second state of health can be the same as or different from the first state of health.",
+    "11. A method as in claim 6 further comprisinginputting into a computer a code representative of the identity of the patient, inputting into a computer a code representative of the diagnosis for the patient, and inputting into a computer a code representative of the intervention plan for the patient.",
+    "12. A method as in claim 11 further comprisinginputting into a computer a code representative of the costs of formulating the diagnosis for the patient, and inputting into a computer a code representative of the costs of executing the intervention plan.",
+    "13. A method as in claim 12 further comprisinginputting into a computer a code representative of the identity of a physician who has formulated the diagnosis, and inputting into a computer a code representative of the identity of a physician who has formulated the intervention plan.",
+    "14. A method for using a computer to monitor the diagnosis and treatment of illness of a patient, wherein the patient displays a disease indicator, said method comprisingevaluating the patient, determining whether the onset of the disease indicator was acute, subacute or chronic, determining whether the disease indicator has followed an abated, progressive or static course, determining by examination whether the disease indicator is focalized, multifocal or diffuse, determining a first state of health for the patient at a first time assigning a first numeric value to the first state of health for the patient and inputting such value to the computer, estimating an expected second state of health for a patient at or near a second time, wherein the expected second state of health can be the same as or different from the first state of health, assigning a numeric value to the expected second state of health and inputting such value to the computer, determining an actual second state of health for the patient at or near the second time, assigning a second numerical value to the actual second state of health for the patient and inputting such value to the computer, establishing, by use of the computer, a numeric value representative of error between the expected second state of health and the actual second state of health according to a predetermined relationship between the numeric value assigned to the expected second state of health and the numeric value assigned to the actual second state of health, wherein the numeric values are selected from a range of numeric values which increase or decrease from a value corresponding to dead at one end of the range to normal at the other end of the range, and wherein the numeric value representative of error quantifies an outcome useful for evaluating the diagnosis and treatment of the patient.",
+    "15. A method as in claim 14 further comprising, assigning, for a patient which displays a disease indicator, at least one disease pathogenesis possibility based on the determinations of whether the onset of the disease indicator was acute, subacute or chronic, whether the disease indicator has followed an abated, progressive or static course, and whether the disease indicator is focalized, multifocal or diffuse, as given by the following Table:               TABLE                                                       \n______________________________________                                    \nDISEASE PATHOGENESIS POSSIBILITIES                                        \nONSET  COURSE    EXAM     PATHOGENESIS                                    \n______________________________________                                    \nAcute  abated    focalized                                                \n                          infectious, traumatic, vascular                 \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious                                      \n       Progressive                                                        \n                 focalized                                                \n                          infectious, allergic, iatrogenic                \n                 Multifocal                                               \n                          infectious, allergic                            \n                 Diffuse  infectious, external toxin, allergic            \n       Static    focalized                                                \n                          infectious                                      \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious                                      \nSubacute                                                                  \n       abated    focalized                                                \n                          infectious, electrophysiological                \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious                                      \n       Progressive                                                        \n                 focalized                                                \n                          infectious, allergic, autoimmune,               \n                          neoplasm, iatrogenic,                           \n                          electrophysiological                            \n                 Multifocal                                               \n                          infectious, allergic, autoimmune,               \n                          neoplasm, idiopathic                            \n                 Diffuse  infectious, external toxin,                     \n                          metabolic, allergic, idiopathic                 \n       Static    focalized                                                \n                          infectious, electrophysiological                \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious                                      \nChronic                                                                   \n       abated    focalized                                                \n                          infectious, electrophysiological                \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious                                      \n       Progressive                                                        \n                 focalized                                                \n                          infectious, degenerative,                       \n                          autoimmune, neoplasm,                           \n                          electrophysiological                            \n                 Muitifocal                                               \n                          infectious, degenerative,                       \n                          autoimmune, neoplasm,                           \n                          idiopathic                                      \n                 Diffuse  infectious, hereditary/genetic,                 \n                          external toxin, metabolic,                      \n                          idiopathic                                      \n       Static    focalized                                                \n                          infectious, electrophysiological                \n                 Multifocal                                               \n                          infectious                                      \n                 Diffuse  infectious, hereditary/genetic.                 \n______________________________________",
+    "16. A method as in claim 15 wherein the at least one disease pathogenesis possibility is assigned by a computer based on user input of codes representative of the onset of the disease indicator was acute, subacute or chronic, whether the disease indicator has followed an abated, progressive or static course, and whether the disease indicator is focalized, multifocal or diffuse.",
+    "17. A method as in claim 16 further comprisinginputting into a computer a code representative of the diagnosis for the patient, associating such code representative of the diagnosis for the patient with a disease pathogenesis selected from the group consisting of hereditary/genetic, infectious, traumatic, toxic (external), metabolic (internal), vascular, degenerative, allergic, autoimmune, neoplasm, idiopathic, iatrogenic, and electrophysiological, by use of the computer, assigning a disease pathogenesis to the diagnosis for the patient by use of the computer, comparing the assigned disease pathogenesis with the at least one disease pathogenesis possibility, and generating an output from the computer listing any disease pathogenesis possibility which is different from the assigned disease pathogenesis.",
+    "18. A method as in claim 16 further comprisinginputting into a computer a code representative of the diagnosis for the patient, associating such code representative of the diagnosis for the patient with a disease pathogenesis selected from the group consisting of hereditary/genetic, infectious, traumatic, toxic (external), metabolic (internal), vascular, degenerative, allergic, autoimmune, neoplasm, idiopathic, iatrogenic, and electrophysiological, by use of the computer, associating the disease pathogenesis with at least one outcome possibility given by the following Table:               TABLE                                                       \n______________________________________                                    \nOUTCOME POSSIBILITIES                                                     \nBETTER      UNCHANGED     WORSE                                           \n______________________________________                                    \n            hereditary/genetic                                            \ninfectious  infectious    Infectious                                      \ntraumatic                                                                 \nToxic (external)          Toxic (external)                                \nMetabolic (internal)      Metabolic (internal)                            \n                          Vascular                                        \n                          Degenerative                                    \nAllergic                                                                  \n                          Autoimmune                                      \n                          Neoplasm                                        \n            Idiopathic                                                    \n            Iatrogenic                                                    \n            Electrophysiological                                          \n                          electrophysiological                            \n______________________________________                                    \n   and estimating the expected second state of health based in part on the at least one outcome possibility.",
+    "19. A method as in claim 18 further comprisingdetermining whether the actual second state of health is better, unchanged or worse than the first state of health, associating the determination of whether the actual second state of health is better, unchanged or worse than the first state of health with a plurality of disease pathogenesis possibilities from the Table of Outcome Possibilities, generating an output from the computer of disease pathogenesis possibilities from the Table of Outcome possibilities which are different from the disease pathogenesis of the diagnosis.",
+    "20. A method as in claim 19 further comprisinggenerating an output from the computer of disease pathogenesis possibilities generated from the Table of Outcome possibilities which are different from disease pathogenesis possibilities derived from the Table of Disease Pathogenesis Possibilities.",
+    "21. A method as in claim 6 further comprisingperforming a diagnostic test on the patient, obtaining a positive test result from the diagnostic test; and determining a probability that the formulated diagnosis for the patient is correct.",
+    "22. A method as in claim 21 wherein probability is estimated based on a Chi Square analysis.",
+    "23. A method as in claim 22 wherein the Chi Square analysis is performed by computer based on data obtained from a population of patients characterized by the same set of determinations of whether the onset of the disease indicator was acute, subacute or chronic, whether the disease indicator has followed an abated, progressive or static course, and whether the disease indicator is focalized, multifocal or diffuse.",
+    "24. A method as in claim 22 further comprising inputting into the computer codes representative of a specific diagnostic test, the results of the specific diagnostic test, positive or negative, for each patient, and code representative of a determination of whether the test results were true positive, false positive, false negative, or true negative.",
+    "25. A method as in claim 21 wherein the probability is determined according to the formula p(D+|T+)=p(T+|D+)p(D+)/(p(T+|D+)p(D+))+(p(T+.vertline.D-)p(D-))  wherein p denotes probability; D+ means that the diagnosis is correct; D- means that the diagnosis is not correct; T+ means that a certain diagnostic test for the diagnosed condition is positive; T- means that the test is negative; and the symbol | means \"conditional upon\" what immediately follows.",
+    "26. A method as in claim 25 wherein D+ is estimated based on the incidence of the disease in question among a large population of patients having similar signs and symptoms.",
+    "27. A method as in claim 26 wherein D+ is estimated from a computerized database.",
+    "28. A method as in claim 21 further comprisinginputting into a computer a code representative of the identity of a physician who has formulated the diagnosis.",
+    "29. A method as in claim 24 further comprising inputting into the computer codes representative of the numerical value of the results of a specific diagnostic test, accumulating in the computer a database of numerical test results and their classification as true positive, false positive, false negative, and true negative; calculating from the database the numerical results of a particular test which is required to provide a predetermined certainty of result for a patient having a selected set of characterizing data; and characterizing the actual test results for a particular patient as positive or negative in comparison to the calculated number."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/893,026",
+      "representative_publication": "US5993386A",
+      "primary_language": "en",
+      "priority_date": "1997-07-15",
+      "filing_date": "1997-07-15",
+      "title": "Computer assisted method for the diagnosis and treatment of illness"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US08/893,026",
+      "representative_publication": "US5993386A",
+      "primary_language": "en",
+      "priority_date": "1997-07-15",
+      "filing_date": "1997-07-15",
+      "title": "Computer assisted method for the diagnosis and treatment of illness"
+    }
+  ],
+  "family_id": "25400899",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5255187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-04-03",
+        "publication_date": "1993-10-19",
+        "assignee_original": "Sorensen Mark C",
+        "title": "Computer aided medical diagnostic method and apparatus",
+        "patent_id": "patent/US5255187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5255187A%2Fen"
+      },
+      {
+        "publication_number": "US5724983A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-08-01",
+        "publication_date": "1998-03-10",
+        "assignee_original": "New England Center Hospitals, Inc.",
+        "title": "Continuous monitoring using a predictive instrument",
+        "patent_id": "patent/US5724983A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5724983A%2Fen"
+      },
+      {
+        "publication_number": "US5778882A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-24",
+        "publication_date": "1998-07-14",
+        "assignee_original": "Brigham And Women's Hospital",
+        "title": "Health monitoring system",
+        "patent_id": "patent/US5778882A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5778882A%2Fen"
+      },
+      {
+        "publication_number": "US5842175A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-28",
+        "publication_date": "1998-11-24",
+        "assignee_original": "Therassist Software, Inc.",
+        "title": "Therapy system",
+        "patent_id": "patent/US5842175A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5842175A%2Fen"
+      },
+      {
+        "publication_number": "US5845253A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-08-24",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Rensimer Enterprises, Ltd.",
+        "title": "System and method for recording patient-history data about on-going physician care procedures",
+        "patent_id": "patent/US5845253A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5845253A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US6149585A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-28",
+        "publication_date": "2000-11-21",
+        "assignee_original": "Sage Health Management Solutions, Inc.",
+        "title": "Diagnostic enhancement method and apparatus",
+        "patent_id": "patent/US6149585A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6149585A%2Fen"
+      },
+      {
+        "publication_number": "US6273854B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-05",
+        "publication_date": "2001-08-14",
+        "assignee_original": "Body Bio Corporation",
+        "title": "Medical diagnostic analysis method and system",
+        "patent_id": "patent/US6273854B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6273854B1%2Fen"
+      },
+      {
+        "publication_number": "US6322504B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-27",
+        "publication_date": "2001-11-27",
+        "assignee_original": "R And T, Llc",
+        "title": "Computerized interactive method and system for determining a risk of developing a disease and the consequences of developing the disease",
+        "patent_id": "patent/US6322504B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6322504B1%2Fen"
+      },
+      {
+        "publication_number": "US20030083904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-13",
+        "publication_date": "2003-05-01",
+        "assignee_original": "John Voytas",
+        "title": "Method and system for the transitional care of congestive heart failure patients",
+        "patent_id": "patent/US20030083904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030083904A1%2Fen"
+      },
+      {
+        "publication_number": "US20030171657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-22",
+        "publication_date": "2003-09-11",
+        "assignee_original": "Ralph Leonard",
+        "title": "Selection of optimal medication methodology (SOOMM)",
+        "patent_id": "patent/US20030171657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030171657A1%2Fen"
+      },
+      {
+        "publication_number": "US20040015100A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-13",
+        "publication_date": "2004-01-22",
+        "assignee_original": "Schmidt Richard A.",
+        "title": "Diagnosis of lower urinary tract dysregulation",
+        "patent_id": "patent/US20040015100A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040015100A1%2Fen"
+      },
+      {
+        "publication_number": "US20040036599A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-06",
+        "publication_date": "2004-02-26",
+        "assignee_original": "Martin Keith Llewellyn",
+        "title": "Population monitoring system",
+        "patent_id": "patent/US20040036599A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040036599A1%2Fen"
+      },
+      {
+        "publication_number": "US6768967B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-10",
+        "publication_date": "2004-07-27",
+        "assignee_original": "Therma-Wave, Inc.",
+        "title": "Database interpolation method for optical measurement of diffractive microstructures",
+        "patent_id": "patent/US6768967B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6768967B2%2Fen"
+      },
+      {
+        "publication_number": "US20040230457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-24",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Mark Rosenbloom",
+        "title": "Handheld medical reference application with integrated dosage calculator",
+        "patent_id": "patent/US20040230457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040230457A1%2Fen"
+      },
+      {
+        "publication_number": "US20040236237A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-16",
+        "publication_date": "2004-11-25",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for analyzing a patient status for myocardial ischemia for use in automated patient care",
+        "patent_id": "patent/US20040236237A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040236237A1%2Fen"
+      },
+      {
+        "publication_number": "US20040267579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-30",
+        "publication_date": "2004-12-30",
+        "assignee_original": "Markman Barry S.",
+        "title": "Method, apparatus and system for providing insurance coverage and claims payment for single event surgical and diagnostic procedures",
+        "patent_id": "patent/US20040267579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040267579A1%2Fen"
+      },
+      {
+        "publication_number": "US20050071192A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-30",
+        "publication_date": "2005-03-31",
+        "assignee_original": "Nada Milosavljevic",
+        "title": "Quick notation medical reference and record system and method of use",
+        "patent_id": "patent/US20050071192A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050071192A1%2Fen"
+      },
+      {
+        "publication_number": "US20050095628A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-12",
+        "publication_date": "2005-05-05",
+        "assignee_original": "Krempin David W.",
+        "title": "Program for regulating health conditions",
+        "patent_id": "patent/US20050095628A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050095628A1%2Fen"
+      },
+      {
+        "publication_number": "US20050137463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Merkle Van D.",
+        "title": "System and method for medical diagnosis",
+        "patent_id": "patent/US20050137463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137463A1%2Fen"
+      },
+      {
+        "publication_number": "US20050159980A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-21",
+        "publication_date": "2005-07-21",
+        "assignee_original": "Anuthep Benja-Athon",
+        "title": "Method of empowering consumers-controlled health-care",
+        "patent_id": "patent/US20050159980A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050159980A1%2Fen"
+      },
+      {
+        "publication_number": "US20050165286A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-26",
+        "publication_date": "2005-07-28",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for determining a reference baseline of patient information",
+        "patent_id": "patent/US20050165286A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050165286A1%2Fen"
+      },
+      {
+        "publication_number": "US20050182308A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-26",
+        "publication_date": "2005-08-18",
+        "assignee_original": "Bardy Gust H.",
+        "title": "System and method for determining a reference baseline record",
+        "patent_id": "patent/US20050182308A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050182308A1%2Fen"
+      },
+      {
+        "publication_number": "US20060009683A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-08",
+        "publication_date": "2006-01-12",
+        "assignee_original": "Fumihiko Sakai",
+        "title": "Diagnostic system and method",
+        "patent_id": "patent/US20060009683A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060009683A1%2Fen"
+      },
+      {
+        "publication_number": "US20060241972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-26",
+        "publication_date": "2006-10-26",
+        "assignee_original": "Lang Robert G",
+        "title": "Medical outcomes systems",
+        "patent_id": "patent/US20060241972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060241972A1%2Fen"
+      },
+      {
+        "publication_number": "US20060253006A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-03",
+        "publication_date": "2006-11-09",
+        "assignee_original": "Bardy Gust H",
+        "title": "System and method for generating feeback on physiometry analyzed during automated patient management",
+        "patent_id": "patent/US20060253006A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060253006A1%2Fen"
+      },
+      {
+        "publication_number": "US20070027723A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-03",
+        "publication_date": "2007-02-01",
+        "assignee_original": "Bardy Gust H",
+        "title": "System and method for collection and analysis of patient information for automated remote patient care",
+        "patent_id": "patent/US20070027723A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070027723A1%2Fen"
+      },
+      {
+        "publication_number": "US20070143145A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-16",
+        "publication_date": "2007-06-21",
+        "assignee_original": "Delusignan Roger",
+        "title": "Systems and methods for evaluating patient-specific information and providing patient management recommendations for healthcare providers",
+        "patent_id": "patent/US20070143145A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070143145A1%2Fen"
+      },
+      {
+        "publication_number": "US7302291B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2007-11-27",
+        "assignee_original": "Cardiac Intelligence Corporation",
+        "title": "System and method for analyzing a patient status for atrial fibrillation for use in automated patient care",
+        "patent_id": "patent/US7302291B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7302291B2%2Fen"
+      },
+      {
+        "publication_number": "US7329226B1",
+        "primary_language": "en",
+        "priority_date": "2004-07-06",
+        "publication_date": "2008-02-12",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing pulmonary performance through transthoracic impedance monitoring",
+        "patent_id": "patent/US7329226B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7329226B1%2Fen"
+      },
+      {
+        "publication_number": "US20080064543A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-07",
+        "publication_date": "2008-03-13",
+        "assignee_original": "Nsk Ltd.",
+        "title": "Three axis drive apparatus",
+        "patent_id": "patent/US20080064543A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080064543A1%2Fen"
+      },
+      {
+        "publication_number": "US7379885B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-10",
+        "publication_date": "2008-05-27",
+        "assignee_original": "David S. Zakim",
+        "title": "System and method for obtaining, processing and evaluating patient information for diagnosing disease and selecting treatment",
+        "patent_id": "patent/US7379885B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7379885B1%2Fen"
+      },
+      {
+        "publication_number": "US20080140453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-15",
+        "publication_date": "2008-06-12",
+        "assignee_original": "Poplinger Gretchen Bebb",
+        "title": "Speech therapy clinical progress tracking and caseload management",
+        "patent_id": "patent/US20080140453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080140453A1%2Fen"
+      },
+      {
+        "publication_number": "US7488290B1",
+        "primary_language": "en",
+        "priority_date": "2004-02-19",
+        "publication_date": "2009-02-10",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing cardiac performance through transcardiac impedance monitoring",
+        "patent_id": "patent/US7488290B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7488290B1%2Fen"
+      },
+      {
+        "publication_number": "US20090287503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-16",
+        "publication_date": "2009-11-19",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Analysis of individual and group healthcare data in order to provide real time healthcare recommendations",
+        "patent_id": "patent/US20090287503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090287503A1%2Fen"
+      },
+      {
+        "publication_number": "US20090299766A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2009-12-03",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "System and method for optimizing medical treatment planning and support in difficult situations subject to multiple constraints and uncertainties",
+        "patent_id": "patent/US20090299766A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090299766A1%2Fen"
+      },
+      {
+        "publication_number": "US7853611B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-26",
+        "publication_date": "2010-12-14",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "System and method for deriving a hierarchical event based database having action triggers based on inferred probabilities",
+        "patent_id": "patent/US7853611B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7853611B2%2Fen"
+      },
+      {
+        "publication_number": "US7874993B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2011-01-25",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for diagnosing and monitoring congestive heart failure",
+        "patent_id": "patent/US7874993B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7874993B2%2Fen"
+      },
+      {
+        "publication_number": "US7959574B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2011-06-14",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for analyzing a patient status for respiratory insufficiency for use in automated patient care",
+        "patent_id": "patent/US7959574B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7959574B2%2Fen"
+      },
+      {
+        "publication_number": "US8025624B2",
+        "primary_language": "en",
+        "priority_date": "2004-02-19",
+        "publication_date": "2011-09-27",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for assessing cardiac performance through cardiac vibration monitoring",
+        "patent_id": "patent/US8025624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8025624B2%2Fen"
+      },
+      {
+        "publication_number": "US8055603B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-03",
+        "publication_date": "2011-11-08",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Automatic generation of new rules for processing synthetic events using computer-based learning processes",
+        "patent_id": "patent/US8055603B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8055603B2%2Fen"
+      },
+      {
+        "publication_number": "US8092382B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2012-01-10",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for prioritizing medical conditions",
+        "patent_id": "patent/US8092382B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8092382B2%2Fen"
+      },
+      {
+        "publication_number": "US8145582B2",
+        "primary_language": "en",
+        "priority_date": "2006-10-03",
+        "publication_date": "2012-03-27",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Synthetic events for real time patient analysis",
+        "patent_id": "patent/US8145582B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8145582B2%2Fen"
+      },
+      {
+        "publication_number": "US8337409B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-29",
+        "publication_date": "2012-12-25",
+        "assignee_original": "Clinical Decision Support Llc",
+        "title": "Computerized medical diagnostic system utilizing list-based processing",
+        "patent_id": "patent/US8337409B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8337409B2%2Fen"
+      },
+      {
+        "publication_number": "US8346802B2",
+        "primary_language": "en",
+        "priority_date": "2007-02-26",
+        "publication_date": "2013-01-01",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Deriving a hierarchical event based database optimized for pharmaceutical analysis",
+        "patent_id": "patent/US8346802B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8346802B2%2Fen"
+      },
+      {
+        "publication_number": "US8369937B2",
+        "primary_language": "en",
+        "priority_date": "1999-11-16",
+        "publication_date": "2013-02-05",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for prioritizing medical conditions",
+        "patent_id": "patent/US8369937B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8369937B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8781847B2",
+        "primary_language": "en",
+        "priority_date": "2005-05-03",
+        "publication_date": "2014-07-15",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "System and method for managing alert notifications in an automated patient management system",
+        "patent_id": "patent/US8781847B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8781847B2%2Fen"
+      },
+      {
+        "publication_number": "US9129054B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-17",
+        "publication_date": "2015-09-08",
+        "assignee_original": "DePuy Synthes Products, Inc.",
+        "title": "Systems and methods for surgical and interventional planning, support, post-operative follow-up, and, functional recovery tracking",
+        "patent_id": "patent/US9129054B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9129054B2%2Fen"
+      },
+      {
+        "publication_number": "US9202184B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-07",
+        "publication_date": "2015-12-01",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Optimizing the selection, verification, and deployment of expert resources in a time of chaos",
+        "patent_id": "patent/US9202184B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202184B2%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US11257593B2",
+        "primary_language": "en",
+        "priority_date": "2014-01-29",
+        "publication_date": "2022-02-22",
+        "assignee_original": "Umethod Health, Inc.",
+        "title": "Interactive and analytical system that provides a dynamic tool for therapies to prevent and cure dementia-related diseases",
+        "patent_id": "patent/US11257593B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11257593B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5993386A",
+      "primary_language": "en",
+      "publication_date": "1999-11-30",
+      "title": "Computer assisted method for the diagnosis and treatment of illness",
+      "patent_id": "patent/US5993386A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5993386A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10340040B2",
+      "primary_language": "en",
+      "publication_date": "2019-07-02",
+      "title": "Method and system for identifying diagnostic and therapeutic options for medical conditions using electronic health records",
+      "patent_id": "patent/US10340040B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10340040B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5534745367269084856",
+      "scholar_authors": "Philbin et al.",
+      "publication_date": "1999",
+      "title": "Prediction of hospital readmission for heart failure: development of a simple risk score based on administrative data",
+      "patent_id": "scholar/5534745367269084856",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5534745367269084856"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9500913374071782979",
+      "scholar_authors": "Eagle et al.",
+      "publication_date": "2004",
+      "title": "A validated prediction model for all forms of acute coronary syndrome: estimating the risk of 6-month postdischarge death in an international registry",
+      "patent_id": "scholar/9500913374071782979",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9500913374071782979"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8579760023654987280",
+      "scholar_authors": "Mobley et al.",
+      "publication_date": "2000",
+      "title": "Predictions of coronary artery stenosis by artificial neural network",
+      "patent_id": "scholar/8579760023654987280",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8579760023654987280"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14712061613354803163",
+      "scholar_authors": "Landrum et al.",
+      "publication_date": "2000",
+      "title": "Analytic methods for constructing cross-sectional profiles of health care providers",
+      "patent_id": "scholar/14712061613354803163",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14712061613354803163"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17484890733705489677",
+      "scholar_authors": "Quaglini et al.",
+      "publication_date": "2004",
+      "title": "Economic benefit from clinical practice guideline compliance in stroke patient management",
+      "patent_id": "scholar/17484890733705489677",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17484890733705489677"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13011161702257172795",
+      "scholar_authors": "Mullainathan et al.",
+      "publication_date": "2019",
+      "title": "A machine learning approach to low-value health care: wasted tests, missed heart attacks and mis-predictions",
+      "patent_id": "scholar/13011161702257172795",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13011161702257172795"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4047949865758155891",
+      "scholar_authors": "Feinglass et al.",
+      "publication_date": "1991",
+      "title": "The financial effect of physician practice style on hospital resource use",
+      "patent_id": "scholar/4047949865758155891",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4047949865758155891"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10068409960476670641",
+      "scholar_authors": "Pallegedara",
+      "publication_date": "2018",
+      "title": "Impacts of chronic non-communicable diseases on households\u2019 out-of-pocket healthcare expenditures in Sri Lanka",
+      "patent_id": "scholar/10068409960476670641",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10068409960476670641"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16517467533348946901",
+      "scholar_authors": "Rosero et al.",
+      "publication_date": "2021",
+      "title": "Failure to rescue: a quality indicator for postoperative care",
+      "patent_id": "scholar/16517467533348946901",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16517467533348946901"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2056470173082528830",
+      "scholar_authors": "Huff",
+      "publication_date": "1997",
+      "title": "Comprehensive reliability assessment and comparison of quality indicators and their components",
+      "patent_id": "scholar/2056470173082528830",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2056470173082528830"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3072725159886782737",
+      "scholar_authors": "Tanaka et al.",
+      "publication_date": "2019",
+      "title": "Changes in the quality of diabetes care in Japan between 2007 and 2015: A repeated cross-sectional study using claims data",
+      "patent_id": "scholar/3072725159886782737",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3072725159886782737"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13502745269279287589",
+      "scholar_authors": "Topuz et al.",
+      "publication_date": "2024",
+      "title": "A Markovian score model for evaluating provider performance for continuity of care\u2014An explainable analytics approach",
+      "patent_id": "scholar/13502745269279287589",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13502745269279287589"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12292597206629718341",
+      "scholar_authors": "Hu et al.",
+      "publication_date": "2024",
+      "title": "Development and external validation of a dynamic risk score for early prediction of cardiogenic shock in cardiac intensive care units using machine learning",
+      "patent_id": "scholar/12292597206629718341",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12292597206629718341"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20240100366A",
+      "primary_language": "en",
+      "publication_date": "2024-07-01",
+      "title": "Predicting clinical trial facilitator performance using patient claims and historical data",
+      "patent_id": "patent/KR20240100366A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20240100366A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11380287531389918089",
+      "scholar_authors": "Dresden et al.",
+      "publication_date": "2020",
+      "title": "The impact of Geriatric Emergency Department Innovations (GEDI) on health services use, health related quality of life, and costs: Protocol for a randomized controlled trial",
+      "patent_id": "scholar/11380287531389918089",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11380287531389918089"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14099298742874582362",
+      "scholar_authors": "Ashley et al.",
+      "publication_date": "2002",
+      "title": "Exercise testing scores as an example of better decisions through science",
+      "patent_id": "scholar/14099298742874582362",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14099298742874582362"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0887759A1",
+      "primary_language": "en",
+      "publication_date": "1998-12-30",
+      "title": "Method and system for identifying at risk patients diagnosed with congestive heart failure",
+      "patent_id": "patent/EP0887759A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0887759A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102536982B1",
+      "primary_language": "en",
+      "publication_date": "2023-05-26",
+      "title": "Artificial intelligence-based disease prediction method and apparatus using medical questionnaire",
+      "patent_id": "patent/KR102536982B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102536982B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1121142084245462888",
+      "scholar_authors": "Roberts et al.",
+      "publication_date": "2007",
+      "title": "A service model of short-term case management for elderly people at risk of hospital admission",
+      "patent_id": "scholar/1121142084245462888",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1121142084245462888"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10446766335433344373",
+      "scholar_authors": "Schneider et al.",
+      "publication_date": "2009",
+      "title": "The use of the Nursing Interventions Classification (NIC) with cardiac patients receiving home health care",
+      "patent_id": "scholar/10446766335433344373",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10446766335433344373"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017127459A1",
+      "primary_language": "en",
+      "publication_date": "2017-07-27",
+      "title": "Method and system for identifying diagnostic and therapeutic options for medical conditions using electronic health records",
+      "patent_id": "patent/WO2017127459A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017127459A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15292652174016230221",
+      "scholar_authors": "Chen et al.",
+      "publication_date": "2025",
+      "title": "Impacts of Hospital Data Breach on Healthcare Quality",
+      "patent_id": "scholar/15292652174016230221",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15292652174016230221"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6062544453088039308",
+      "scholar_authors": "Han et al.",
+      "publication_date": "2023",
+      "title": "Uncooperative patients suspected of acute stroke ineligible for prehospital stroke screening test by emergency medical service providers: final hospital diagnoses and characteristics",
+      "patent_id": "scholar/6062544453088039308",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6062544453088039308"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-03-19",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2007-06-18",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2007-11-30",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2007-12-31",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2008-01-22",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20071130"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 54
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 85
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 100
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 100
+      },
+      {
+        "id": "208000015181",
+        "name": "infectious disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "230000002458",
+        "name": "infectious effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 62
+      },
+      {
+        "id": "230000008506",
+        "name": "pathogenesis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 28
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "230000000172",
+        "name": "allergic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "208000010668",
+        "name": "atopic eczema",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "206010028980",
+        "name": "Neoplasm",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000001363",
+        "name": "autoimmune",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "208000035269",
+        "name": "cancer or benign tumor",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000001684",
+        "name": "chronic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000002503",
+        "name": "metabolic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000003412",
+        "name": "degenerative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000002068",
+        "name": "genetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000000642",
+        "name": "iatrogenic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000000546",
+        "name": "chi-square test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001771",
+        "name": "impaired effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "231100000331",
+        "name": "toxic",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002588",
+        "name": "toxic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003053",
+        "name": "toxin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "231100000765",
+        "name": "toxin",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000000472",
+        "name": "traumatic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002792",
+        "name": "vascular",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000009533",
+        "name": "lab test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002250",
+        "name": "progressing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012631",
+        "name": "diagnostic technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000875",
+        "name": "corresponding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006378",
+        "name": "damage",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "101000802640",
+        "name": "Homo sapiens Lactosylceramide 4-alpha-galactosyltransferase",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102100035838",
+        "name": "Lactosylceramide 4-alpha-galactosyltransferase",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000002693",
+        "name": "Multiple Abnormalities",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037273",
+        "name": "Pathologic Processes",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004075",
+        "name": "alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005094",
+        "name": "computer simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001934",
+        "name": "delay",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000007176",
+        "name": "earache",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000013632",
+        "name": "homeostatic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005648",
+        "name": "markovian process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013178",
+        "name": "mathematical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000056",
+        "name": "organ",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009054",
+        "name": "pathological process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035479",
+        "name": "physiological effects, processes and functions",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035790",
+        "name": "physiological processes and functions",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006461",
+        "name": "physiological response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035945",
+        "name": "sensitivity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000009890",
+        "name": "sinusitis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009897",
+        "name": "systematic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011269",
+        "name": "treatment regimen",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,3550 @@
+{
+  "search_metadata": {
+    "id": "68514e61a4817c4362221ab9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/889a5289d558bc51/68514e61a4817c4362221ab9.json",
+    "created_at": "2025-06-17 11:15:45 UTC",
+    "processed_at": "2025-06-17 11:15:45 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080015894A1/en",
+    "raw_html_file": "https://serpapi.com/searches/889a5289d558bc51/68514e61a4817c4362221ab9.html",
+    "total_time_taken": 12.06
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080015894A1/en"
+  },
+  "title": "Health Risk Assessment Of A Medication Therapy Regimen",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b9/30/ea/26e39054225f29/US20080015894A1.pdf",
+  "publication_number": "US20080015894A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "medication",
+    "data",
+    "patient",
+    "medical condition",
+    "person"
+  ],
+  "prior_art_date": "2006-07-17",
+  "application_number": "US11/458,071",
+  "inventors": [
+    {
+      "name": "Scott A. Miller",
+      "link": "https://patents.google.com/?inventor=Scott+A.+Miller",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Scott+A.+Miller"
+    },
+    {
+      "name": "Carl T. Bertram",
+      "link": "https://patents.google.com/?inventor=Carl+T.+Bertram",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Carl+T.+Bertram"
+    }
+  ],
+  "assignees": [
+    "Walgreen Co"
+  ],
+  "priority_date": "2006-07-17",
+  "filing_date": "2006-07-17",
+  "publication_date": "2008-01-17",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-07-17",
+        "country_code": "US",
+        "application_number": "US11/458,071",
+        "document_id": "patent/US20080015894A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-07-17",
+      "title": "Application filed by Walgreen Co",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Walgreen Co"
+    },
+    {
+      "date": "2006-07-17",
+      "title": "Priority to US11/458,071",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20080015894A1/en"
+    },
+    {
+      "date": "2006-10-02",
+      "title": "Assigned to WALGREEN CO.",
+      "type": "reassignment",
+      "assignee_search": "WALGREEN CO.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BERTRAM, CARL T., MILLER, SCOTT A."
+      ]
+    },
+    {
+      "date": "2008-01-17",
+      "title": "Publication of US20080015894A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080015894A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080015894.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11458071"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080015894"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008015894A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11458071/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080015894"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/d7/62/8a/859e524a2eeb47/US20080015894A1-20080117-D00000.png",
+    "https://patentimages.storage.googleapis.com/d8/ec/4f/bbe2819bf5083b/US20080015894A1-20080117-D00001.png",
+    "https://patentimages.storage.googleapis.com/bd/cd/c0/ef302f6232e676/US20080015894A1-20080117-D00002.png",
+    "https://patentimages.storage.googleapis.com/bd/26/a7/daf7687bd38324/US20080015894A1-20080117-D00003.png",
+    "https://patentimages.storage.googleapis.com/3a/a2/2c/01f3ccd53cb6c3/US20080015894A1-20080117-D00004.png",
+    "https://patentimages.storage.googleapis.com/e3/29/4a/53ad230e0ad329/US20080015894A1-20080117-D00005.png",
+    "https://patentimages.storage.googleapis.com/93/af/71/befe4e31c9251d/US20080015894A1-20080117-D00006.png",
+    "https://patentimages.storage.googleapis.com/a4/49/a6/1495e1604b8a96/US20080015894A1-20080117-D00007.png",
+    "https://patentimages.storage.googleapis.com/27/82/dc/71be5d5a95a026/US20080015894A1-20080117-D00008.png",
+    "https://patentimages.storage.googleapis.com/dd/12/4e/e853c2abf33300/US20080015894A1-20080117-D00009.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/10",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method of assessing a health risk associated with a medication therapy regimen identifies potentially adverse health outcomes resulting from the medication therapy regimen. Methods of assessing a health risk associated with a medication therapy regimen and intervention thereof are provided herein. The methods of assessing a health risk associated with a medication therapy regimen and intervention include receiving information on one or more patient risk factors associated with the person, receiving information on a medical condition, receiving information on a medication being used by the person, evaluating the patient risk factor, the medical condition and medication information to identify an adverse health outcome, and evaluating the likeli.",
+  "description_link": "https://serpapi.com/searches/68514e61a4817c4362221ab9/google_patents_details/description.html",
+  "claims": [
+    "1. A method of assessing a health risk for a person comprising:\nreceiving patient parameter data relating to one or more patient risk factors associated with the person; receiving medical condition data relating to a medical condition associated with the person; receiving medication data relating to a medication being used by the person; evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person; and evaluating the likelihood of the identified adverse health outcome based on the patient parameter data, the medical condition data and the medication data.",
+    "2. The method of claim 1,\nwherein receiving the patient parameter data comprises receiving the patient parameter data from the person, wherein receiving the medical condition data comprises receiving the medical condition data from the person, and wherein receiving the medication data comprises receiving medication data from the person.",
+    "3. The method of claim 1,\nwherein receiving the patient parameter data comprises receiving the patient parameter data via the internet, wherein receiving the medical condition data comprises receiving the medical condition data via the internet, and wherein receiving the medication data comprises receiving medication data via the internet.",
+    "4. The method of claim 1, wherein the medication data comprises data relating to utilization of the medication.",
+    "5. The method of claim 1 wherein the medication data comprises data relating to the duration the medication has been used by the person.",
+    "6. The method of claim 1, wherein the medication data relates to a plurality of medications being used by the person and wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating an interaction between the plurality of medications being used by the person.",
+    "7. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating an interaction between the medication and the medical condition.",
+    "8. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating the utilization of the medication for overutilzation of the medication.",
+    "9. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating the utilization of the medication for abuse.",
+    "10. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating the utilization of the medication for fraud.",
+    "11. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating compliance with a medication regimen.",
+    "12. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating the medication data for a duplication of the medication.",
+    "13. The method of claim 1, wherein evaluating the patient parameter data, the medical condition data and the medication data to identify an adverse health outcome for the person comprises evaluating the patient parameter data to determine whether the age of the person exceeds a predetermined threshold and wherein evaluating the likelihood of the identified adverse health outcome comprises evaluating the likelihood of the identified adverse health outcome if the age of the person exceeds a predetermined threshold.",
+    "14. The method of claim 1, further comprising providing a result from evaluating the likelihood of the identified adverse health outcome.",
+    "15. The method of claim 14, wherein providing a result comprises providing at least one of the person and a medical provider of the person with the result from evaluating the likelihood of the identified adverse health outcome.",
+    "16. The method of claim 1, further comprising intervening in a medical treatment of the person in response to an identified adverse health outcome based on the patient parameter data, the medical condition data and the medication data.",
+    "17. A method of assessing health risks for a group of persons comprising:\nreceiving patient parameter data relating to one or more patient risk factors for each of a plurality of persons; receiving medical condition data relating to a medical condition for each of the plurality of persons; receiving medication data relating to a medication for each of the plurality of persons; creating a subset of persons from the plurality of persons based on the patient parameter data; evaluating the medical condition data and the medication data to identify an adverse health outcome for each of the persons in the subset; evaluating the likelihood of the identified adverse health outcome based on the medical condition data and the medication data for each of the persons in the subset; and providing a result from evaluating the likelihood of the identified adverse health outcome for each of the persons in the subset.",
+    "18. The method of claim 17,\nwherein receiving patient parameter data comprises receiving patient parameter data when each person enrolls in an insurance plan, wherein receiving medical condition data comprises receiving medical condition data when each person enrolls in the insurance plan, and wherein receiving medication data comprises receiving medication data when each person enrolls in the insurance plan.",
+    "19. The method of claim 17, wherein creating a subset of persons from the plurality of persons based on the patient parameter data comprises creating a subset of persons each having an age exceeding a predetermined age.",
+    "20. The method of claim 17, wherein evaluating the medical condition data and the medication data comprises evaluating for each of the persons in the subset one or more of the group consisting of: an interaction between a plurality of medications being used, an interaction between the medication and the medical condition, utilization of the medication, a duration the medication has been used, compliance with a medication regimen and a duplication of the medication.",
+    "21. The method of claim 17, wherein evaluating the medical condition data and the medication data to identify an adverse health outcome for each of the persons in the subset comprises evaluating the medical condition data, the medication data and the patient parameter data to identify an adverse health outcome for each of the persons in the subset.",
+    "22. A method of conducting a business relating to assessment of a health risk associated with a medication therapy regimen, the method comprising:\nreceiving a request to subscribe to a medication therapy management service; providing a medication therapy management service relating to identifying a health risk associated with a medication therapy regimen, wherein the medication therapy management service includes intervening in the medication therapy regimen if the medication therapy management service identifies a potentially adverse health outcome associated with the medication therapy regimen; submitting a reimbursement code in response to the intervention; and receiving reimbursement for the service in response to the reimbursement code.",
+    "23. The method of claim 22, wherein the intervention in the medication therapy regimen comprises creating a new medication therapy regimen for a person and providing the person with the new medication therapy regimen.",
+    "24. The method of claim 23, wherein creating a new medication therapy regimen for a person comprises consulting with a medical provider associated with the person to determine the new medication therapy regimen.",
+    "25. The method of claim 22, wherein providing a medication therapy management service relating to determining a health risk associated with a medication therapy regimen comprises:\nreceiving patient parameter data relating to one or more patient risk factors associated with a person receiving medical condition data relating to a medical condition associated with the person; receiving medication data relating to a medication being used by the person; evaluating the medical condition data and the medication data to identify an adverse health outcome for the person; and evaluating the likelihood of the identified adverse health outcome based on the patient parameter data, the medical condition data and the medication data.",
+    "26. The method of claim 22, wherein the reimbursement code comprises a National Council for Prescription Drug Programs Professional Pharmacy Services code."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/458,071",
+      "representative_publication": "US20080015894A1",
+      "primary_language": "en",
+      "priority_date": "2006-07-17",
+      "filing_date": "2006-07-17",
+      "title": "Health Risk Assessment Of A Medication Therapy Regimen"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US11/458,071",
+      "representative_publication": "US20080015894A1",
+      "primary_language": "en",
+      "priority_date": "2006-07-17",
+      "filing_date": "2006-07-17",
+      "title": "Health Risk Assessment Of A Medication Therapy Regimen"
+    }
+  ],
+  "family_id": "38950358",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US574376A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "publication_date": "1897-01-05",
+        "title": "Night-light",
+        "patent_id": "patent/US574376A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS574376A%2Fen"
+      },
+      {
+        "publication_number": "US1226850A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1915-10-22",
+        "publication_date": "1917-05-22",
+        "assignee_original": "Stanley Septimus Booty",
+        "title": "Wick-holder.",
+        "patent_id": "patent/US1226850A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1226850A%2Fen"
+      },
+      {
+        "publication_number": "US2462440A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1947-10-22",
+        "publication_date": "1949-02-22",
+        "assignee_original": "Thomas W Tierney",
+        "title": "Candle holder",
+        "patent_id": "patent/US2462440A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2462440A%2Fen"
+      },
+      {
+        "publication_number": "US2494995A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1946-01-12",
+        "publication_date": "1950-01-17",
+        "assignee_original": "Ralph N Gardner",
+        "title": "Spacing collar",
+        "patent_id": "patent/US2494995A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2494995A%2Fen"
+      },
+      {
+        "publication_number": "US3183688A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-08-22",
+        "publication_date": "1965-05-18",
+        "assignee_original": "Milton D Sobelson",
+        "title": "Buoyant illuminating device",
+        "patent_id": "patent/US3183688A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3183688A%2Fen"
+      },
+      {
+        "publication_number": "US3741711A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-03-27",
+        "publication_date": "1973-06-26",
+        "assignee_original": "G Bryant",
+        "title": "Composite indefinitely reusable decorative candle",
+        "patent_id": "patent/US3741711A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3741711A%2Fen"
+      },
+      {
+        "publication_number": "US3890085A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-12-27",
+        "publication_date": "1975-06-17",
+        "assignee_original": "Frits J Andeweg",
+        "title": "Illuminated candle structure",
+        "patent_id": "patent/US3890085A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3890085A%2Fen"
+      },
+      {
+        "publication_number": "US4206500A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-05-16",
+        "publication_date": "1980-06-03",
+        "assignee_original": "Neil Harry N",
+        "title": "Self contained illuminating device",
+        "patent_id": "patent/US4206500A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4206500A%2Fen"
+      },
+      {
+        "publication_number": "US4568269A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-12-14",
+        "publication_date": "1986-02-04",
+        "assignee_original": "Tung Tsan Lin",
+        "title": "Musical candle",
+        "patent_id": "patent/US4568269A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4568269A%2Fen"
+      },
+      {
+        "publication_number": "US4734619A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-07-07",
+        "publication_date": "1988-03-29",
+        "assignee_original": "Karel Havel",
+        "title": "Display device with variable color background",
+        "patent_id": "patent/US4734619A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4734619A%2Fen"
+      },
+      {
+        "publication_number": "US4804890A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-07-07",
+        "publication_date": "1989-02-14",
+        "assignee_original": "Karel Havel",
+        "title": "Variable color complementary display device",
+        "patent_id": "patent/US4804890A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4804890A%2Fen"
+      },
+      {
+        "publication_number": "US4804323A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-11-18",
+        "publication_date": "1989-02-14",
+        "assignee_original": "Kim Kyung Hee",
+        "title": "Music candle",
+        "patent_id": "patent/US4804323A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4804323A%2Fen"
+      },
+      {
+        "publication_number": "US4929866A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-11-17",
+        "publication_date": "1990-05-29",
+        "assignee_original": "Mitsubishi Cable Industries, Ltd.",
+        "title": "Light emitting diode lamp",
+        "patent_id": "patent/US4929866A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4929866A%2Fen"
+      },
+      {
+        "publication_number": "US4983119A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-03-26",
+        "publication_date": "1991-01-08",
+        "assignee_original": "Lin Wen Tsung",
+        "title": "Musical candle actuated by thermistor switch",
+        "patent_id": "patent/US4983119A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4983119A%2Fen"
+      },
+      {
+        "publication_number": "US4992704A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-04-17",
+        "publication_date": "1991-02-12",
+        "assignee_original": "Basic Electronics, Inc.",
+        "title": "Variable color light emitting diode",
+        "patent_id": "patent/US4992704A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4992704A%2Fen"
+      },
+      {
+        "publication_number": "US5015175A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-10-11",
+        "publication_date": "1991-05-14",
+        "assignee_original": "Lee Che Cheol",
+        "title": "Melodic candle assembly",
+        "patent_id": "patent/US5015175A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5015175A%2Fen"
+      },
+      {
+        "publication_number": "US5016172A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-06-14",
+        "publication_date": "1991-05-14",
+        "assignee_original": "Ramp Comsystems, Inc.",
+        "title": "Patient compliance and status monitoring system",
+        "patent_id": "patent/US5016172A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5016172A%2Fen"
+      },
+      {
+        "publication_number": "USD325077S",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-04-03",
+        "publication_date": "1992-03-31",
+        "assignee_original": "Neutron Industries, Inc.",
+        "title": "Portable air freshener container",
+        "patent_id": "patent/USD325077S/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD325077S%2Fen"
+      },
+      {
+        "publication_number": "US5194854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-01-15",
+        "publication_date": "1993-03-16",
+        "assignee_original": "Karel Havel",
+        "title": "Multicolor logic device",
+        "patent_id": "patent/US5194854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5194854A%2Fen"
+      },
+      {
+        "publication_number": "US5298871A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-25",
+        "publication_date": "1994-03-29",
+        "assignee_original": "Nec Corporation",
+        "title": "Pulse width modulation signal generating circuit",
+        "patent_id": "patent/US5298871A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5298871A%2Fen"
+      },
+      {
+        "publication_number": "US5612869A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-01-21",
+        "publication_date": "1997-03-18",
+        "assignee_original": "Innovative Enterprises International Corporation",
+        "title": "Electronic health care compliance assistance",
+        "patent_id": "patent/US5612869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5612869A%2Fen"
+      },
+      {
+        "publication_number": "US5619182A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-18",
+        "publication_date": "1997-04-08",
+        "assignee_original": "Robb; Charles L. R.",
+        "title": "Configurable color selection circuit for choosing colors of multi-colored leds in toys and secondary automotive flasher/brake indicators",
+        "patent_id": "patent/US5619182A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5619182A%2Fen"
+      },
+      {
+        "publication_number": "US5737539A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-28",
+        "publication_date": "1998-04-07",
+        "assignee_original": "Advanced Health Med-E-Systems Corp.",
+        "title": "Prescription creation system",
+        "patent_id": "patent/US5737539A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5737539A%2Fen"
+      },
+      {
+        "publication_number": "USD393910S",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-03",
+        "publication_date": "1998-04-28",
+        "assignee_original": "The Dial Corporation",
+        "title": "Candle holder",
+        "patent_id": "patent/USD393910S/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD393910S%2Fen"
+      },
+      {
+        "publication_number": "US5758095A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-24",
+        "publication_date": "1998-05-26",
+        "assignee_original": "Albaum; David",
+        "title": "Interactive medication ordering system",
+        "patent_id": "patent/US5758095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5758095A%2Fen"
+      },
+      {
+        "publication_number": "USD394910S",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-29",
+        "publication_date": "1998-06-02",
+        "assignee_original": "Fredrick Douglas Volker",
+        "title": "Candle holder",
+        "patent_id": "patent/USD394910S/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD394910S%2Fen"
+      },
+      {
+        "publication_number": "US5860917A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-15",
+        "publication_date": "1999-01-19",
+        "assignee_original": "Chiron Corporation",
+        "title": "Method and apparatus for predicting therapeutic outcomes",
+        "patent_id": "patent/US5860917A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5860917A%2Fen"
+      },
+      {
+        "publication_number": "US5890790A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-27",
+        "publication_date": "1999-04-06",
+        "assignee_original": "Rohm Co., Ltd.",
+        "title": "Illuminator with light-emitting surface",
+        "patent_id": "patent/US5890790A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5890790A%2Fen"
+      },
+      {
+        "publication_number": "US5894196A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-03",
+        "publication_date": "1999-04-13",
+        "assignee_original": "Mcdermott; Kevin",
+        "title": "Angled elliptical axial lighting device",
+        "patent_id": "patent/US5894196A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5894196A%2Fen"
+      },
+      {
+        "publication_number": "US6014631A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-02",
+        "publication_date": "2000-01-11",
+        "assignee_original": "Merck-Medco Managed Care, Llc",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6014631A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6014631A%2Fen"
+      },
+      {
+        "publication_number": "US6016038A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-26",
+        "publication_date": "2000-01-18",
+        "assignee_original": "Color Kinetics, Inc.",
+        "title": "Multicolored LED lighting method and apparatus",
+        "patent_id": "patent/US6016038A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6016038A%2Fen"
+      },
+      {
+        "publication_number": "US6029138A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-15",
+        "publication_date": "2000-02-22",
+        "assignee_original": "Brigham And Women's Hospital",
+        "title": "Computer system for decision support in the selection of diagnostic and therapeutic tests and interventions for patients",
+        "patent_id": "patent/US6029138A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6029138A%2Fen"
+      },
+      {
+        "publication_number": "US6033209A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-09",
+        "publication_date": "2000-03-07",
+        "assignee_original": "Shin; Haeng Chul",
+        "title": "Melody candle assembly",
+        "patent_id": "patent/US6033209A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6033209A%2Fen"
+      },
+      {
+        "publication_number": "US6050812A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-01",
+        "publication_date": "2000-04-18",
+        "assignee_original": "Chuang; Tang Jung",
+        "title": "Candleholder set with musical function",
+        "patent_id": "patent/US6050812A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6050812A%2Fen"
+      },
+      {
+        "publication_number": "US6062847A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-09",
+        "publication_date": "2000-05-16",
+        "assignee_original": "Lumi-Lite Candle Company, Inc.",
+        "title": "Anti-flash wick support",
+        "patent_id": "patent/US6062847A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6062847A%2Fen"
+      },
+      {
+        "publication_number": "US6074199A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-10",
+        "publication_date": "2000-06-13",
+        "assignee_original": "Song; Jin",
+        "title": "Sound producing candle",
+        "patent_id": "patent/US6074199A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6074199A%2Fen"
+      },
+      {
+        "publication_number": "US6081786A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-03",
+        "publication_date": "2000-06-27",
+        "assignee_original": "Triangle Pharmaceuticals, Inc.",
+        "title": "Systems, methods and computer program products for guiding the selection of therapeutic treatment regimens",
+        "patent_id": "patent/US6081786A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6081786A%2Fen"
+      },
+      {
+        "publication_number": "US6211626B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-26",
+        "publication_date": "2001-04-03",
+        "assignee_original": "Color Kinetics, Incorporated",
+        "title": "Illumination components",
+        "patent_id": "patent/US6211626B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6211626B1%2Fen"
+      },
+      {
+        "publication_number": "US6219674B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-24",
+        "publication_date": "2001-04-17",
+        "assignee_original": "Classen Immunotherapies, Inc.",
+        "title": "System for creating and managing proprietary product data",
+        "patent_id": "patent/US6219674B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6219674B1%2Fen"
+      },
+      {
+        "publication_number": "USRE37168E1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-07-07",
+        "publication_date": "2001-05-08",
+        "assignee_original": "Raymond F. St. Louis",
+        "title": "Electronic candle simulator",
+        "patent_id": "patent/USRE37168E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE37168E1%2Fen"
+      },
+      {
+        "publication_number": "US6240394B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-12",
+        "publication_date": "2001-05-29",
+        "assignee_original": "Catalina Marketing International, Inc.",
+        "title": "Method and apparatus for automatically generating advisory information for pharmacy patients",
+        "patent_id": "patent/US6240394B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6240394B1%2Fen"
+      },
+      {
+        "publication_number": "US6241362B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-19",
+        "publication_date": "2001-06-05",
+        "assignee_original": "David J. Morrison",
+        "title": "Lighted display emitting variable colors",
+        "patent_id": "patent/US6241362B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6241362B1%2Fen"
+      },
+      {
+        "publication_number": "US20020002473A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-10",
+        "publication_date": "2002-01-03",
+        "assignee_original": "Cerner Multum, Inc.",
+        "title": "Providing patient-specific drug information",
+        "patent_id": "patent/US20020002473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020002473A1%2Fen"
+      },
+      {
+        "publication_number": "US20020010595A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-27",
+        "publication_date": "2002-01-24",
+        "assignee_original": "Kapp Thomas L.",
+        "title": "Web-based medication management system",
+        "patent_id": "patent/US20020010595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020010595A1%2Fen"
+      },
+      {
+        "publication_number": "US6354710B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-06",
+        "publication_date": "2002-03-12",
+        "assignee_original": "George J. Nacouzi",
+        "title": "Aromatic system and method of use",
+        "patent_id": "patent/US6354710B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6354710B1%2Fen"
+      },
+      {
+        "publication_number": "USD455486S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-07",
+        "publication_date": "2002-04-09",
+        "assignee_original": "The Procter & Gamble Company",
+        "title": "Light emitting aroma therapy article",
+        "patent_id": "patent/USD455486S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD455486S1%2Fen"
+      },
+      {
+        "publication_number": "US20020042725A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-28",
+        "publication_date": "2002-04-11",
+        "assignee_original": "Christian Mayaud",
+        "title": "Computerized prescription system for gathering and presenting information relating to pharmaceuticals",
+        "patent_id": "patent/US20020042725A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020042725A1%2Fen"
+      },
+      {
+        "publication_number": "US6377164B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-10",
+        "publication_date": "2002-04-23",
+        "assignee_original": "Chester C. Fulmer",
+        "title": "High powered tri-mode light show",
+        "patent_id": "patent/US6377164B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6377164B1%2Fen"
+      },
+      {
+        "publication_number": "US6397190B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-22",
+        "publication_date": "2002-05-28",
+        "assignee_original": "Gerald E. Goetz",
+        "title": "Veterinary medication monitoring system and apparatus",
+        "patent_id": "patent/US6397190B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6397190B1%2Fen"
+      },
+      {
+        "publication_number": "US6398544B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-03",
+        "publication_date": "2002-06-04",
+        "assignee_original": "J. L. Clark, Inc.",
+        "title": "Formed safety bottom for a candle can",
+        "patent_id": "patent/US6398544B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6398544B2%2Fen"
+      },
+      {
+        "publication_number": "USD469893S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-01",
+        "publication_date": "2003-02-04",
+        "assignee_original": "One Plus Two Associated Co., Ltd.",
+        "title": "Candle holder",
+        "patent_id": "patent/USD469893S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD469893S1%2Fen"
+      },
+      {
+        "publication_number": "US6520770B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-27",
+        "publication_date": "2003-02-18",
+        "assignee_original": "Cindy Zou",
+        "title": "Prayer candle device",
+        "patent_id": "patent/US6520770B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6520770B2%2Fen"
+      },
+      {
+        "publication_number": "US20030036683A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-01",
+        "publication_date": "2003-02-20",
+        "assignee_original": "Kehr Bruce A.",
+        "title": "Method, system and computer program product for internet-enabled, patient monitoring system",
+        "patent_id": "patent/US20030036683A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030036683A1%2Fen"
+      },
+      {
+        "publication_number": "US20030036923A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-18",
+        "publication_date": "2003-02-20",
+        "assignee_original": "Waldon R. Forrest",
+        "title": "Patient compliance and monitoring system",
+        "patent_id": "patent/US20030036923A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030036923A1%2Fen"
+      },
+      {
+        "publication_number": "US20030050802A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-03",
+        "publication_date": "2003-03-13",
+        "assignee_original": "Richard Jay",
+        "title": "Medical service and prescription management system",
+        "patent_id": "patent/US20030050802A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030050802A1%2Fen"
+      },
+      {
+        "publication_number": "US6543268B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-03",
+        "publication_date": "2003-04-08",
+        "assignee_original": "J. L. Clark, Inc.",
+        "title": "Deep drawn candle can with formed safety bottom",
+        "patent_id": "patent/US6543268B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6543268B2%2Fen"
+      },
+      {
+        "publication_number": "US20030074225A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-12",
+        "publication_date": "2003-04-17",
+        "assignee_original": "Borsand Gerald C.",
+        "title": "Pharmaceutical information tracking system",
+        "patent_id": "patent/US20030074225A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030074225A1%2Fen"
+      },
+      {
+        "publication_number": "US6577080B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-26",
+        "publication_date": "2003-06-10",
+        "assignee_original": "Color Kinetics Incorporated",
+        "title": "Lighting entertainment system",
+        "patent_id": "patent/US6577080B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6577080B2%2Fen"
+      },
+      {
+        "publication_number": "US6575613B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-04",
+        "publication_date": "2003-06-10",
+        "assignee_original": "Pumpkin Ltd.",
+        "title": "Portable special effects illumination device",
+        "patent_id": "patent/US6575613B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6575613B2%2Fen"
+      },
+      {
+        "publication_number": "US6578003B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-31",
+        "publication_date": "2003-06-10",
+        "assignee_original": "Schering Corporation",
+        "title": "Method and apparatus for improving patient compliance with prescriptions",
+        "patent_id": "patent/US6578003B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6578003B1%2Fen"
+      },
+      {
+        "publication_number": "US20040002872A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-28",
+        "publication_date": "2004-01-01",
+        "assignee_original": "Wright Donald Joe",
+        "title": "PDA-based prescription messaging method and object-oriented system",
+        "patent_id": "patent/US20040002872A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040002872A1%2Fen"
+      },
+      {
+        "publication_number": "US20040006494A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-14",
+        "publication_date": "2004-01-08",
+        "assignee_original": "Badinelli Ellen R.",
+        "title": "Systems and methods for a consumer to determine food/medicine interactions",
+        "patent_id": "patent/US20040006494A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040006494A1%2Fen"
+      },
+      {
+        "publication_number": "US6676284B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-04",
+        "publication_date": "2004-01-13",
+        "assignee_original": "Wynne Willson Gottelier Limited",
+        "title": "Apparatus and method for providing a linear effect",
+        "patent_id": "patent/US6676284B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6676284B1%2Fen"
+      },
+      {
+        "publication_number": "US6690120B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-10",
+        "publication_date": "2004-02-10",
+        "assignee_original": "Frank Joseph Oskorep",
+        "title": "Year-round decorative lights with selectable holiday color schemes",
+        "patent_id": "patent/US6690120B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6690120B2%2Fen"
+      },
+      {
+        "publication_number": "US20040029061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-18",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Carl Dibnah",
+        "title": "Candle comprising a container and a wick sustainer",
+        "patent_id": "patent/US20040029061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040029061A1%2Fen"
+      },
+      {
+        "publication_number": "US6694298B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-02",
+        "publication_date": "2004-02-17",
+        "assignee_original": "Medco Health Solutions, Inc.",
+        "title": "Computer implemented patient medication review system and process for the managed care, health care and/or pharmacy industry",
+        "patent_id": "patent/US6694298B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6694298B1%2Fen"
+      },
+      {
+        "publication_number": "US20040033463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-16",
+        "publication_date": "2004-02-19",
+        "assignee_original": "Pesu Bradley D.",
+        "title": "Flame resistant wick holder for candle",
+        "patent_id": "patent/US20040033463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040033463A1%2Fen"
+      },
+      {
+        "publication_number": "US20040037069A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-18",
+        "publication_date": "2004-02-26",
+        "assignee_original": "Blackbourn Leigh George",
+        "title": "Electronic candle",
+        "patent_id": "patent/US20040037069A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040037069A1%2Fen"
+      },
+      {
+        "publication_number": "US20040049407A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-06",
+        "publication_date": "2004-03-11",
+        "assignee_original": "Rosenberg Michael J.",
+        "title": "Method and system minimizing drug to food interactions",
+        "patent_id": "patent/US20040049407A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040049407A1%2Fen"
+      },
+      {
+        "publication_number": "US20040052076A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-26",
+        "publication_date": "2004-03-18",
+        "assignee_original": "Mueller George G.",
+        "title": "Controlled lighting methods and apparatus",
+        "patent_id": "patent/US20040052076A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040052076A1%2Fen"
+      },
+      {
+        "publication_number": "US20040059605A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-02-12",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Adheris, Inc.,",
+        "title": "System for enabling data processing while maintaining confidentiality",
+        "patent_id": "patent/US20040059605A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040059605A1%2Fen"
+      },
+      {
+        "publication_number": "US20040073454A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-10",
+        "publication_date": "2004-04-15",
+        "assignee_original": "John Urquhart",
+        "title": "System and method of portal-mediated, website-based analysis of medication dosing",
+        "patent_id": "patent/US20040073454A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040073454A1%2Fen"
+      },
+      {
+        "publication_number": "US6733279B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-05",
+        "publication_date": "2004-05-11",
+        "assignee_original": "Harold D. Thigpen",
+        "title": "Remote microcontrolled laser oil lamp",
+        "patent_id": "patent/US6733279B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6733279B2%2Fen"
+      },
+      {
+        "publication_number": "US20040107120A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-09",
+        "publication_date": "2004-06-03",
+        "assignee_original": "Melton Hewlett E.",
+        "title": "Medical navigator and systems therefor",
+        "patent_id": "patent/US20040107120A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040107120A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122702A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Medical data processing system and method",
+        "patent_id": "patent/US20040122702A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122702A1%2Fen"
+      },
+      {
+        "publication_number": "US20050007035A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-19",
+        "publication_date": "2005-01-13",
+        "assignee_original": "Sloanled, Inc.",
+        "title": "Multiple LED control apparatus and method",
+        "patent_id": "patent/US20050007035A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050007035A1%2Fen"
+      },
+      {
+        "publication_number": "US20050021368A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-25",
+        "publication_date": "2005-01-27",
+        "assignee_original": "Debra Burkeen",
+        "title": "Enhanced safety medication administration system",
+        "patent_id": "patent/US20050021368A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050021368A1%2Fen"
+      },
+      {
+        "publication_number": "US20050027560A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-28",
+        "publication_date": "2005-02-03",
+        "assignee_original": "Deborah Cook",
+        "title": "Interactive multi-user medication and medical history management method",
+        "patent_id": "patent/US20050027560A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050027560A1%2Fen"
+      },
+      {
+        "publication_number": "US20050037306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-16",
+        "publication_date": "2005-02-17",
+        "assignee_original": "Tetsuo Nakatsu",
+        "title": "Candle system for enhancing burning and improving volatiles performance and a manufacturing method for the same",
+        "patent_id": "patent/US20050037306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050037306A1%2Fen"
+      },
+      {
+        "publication_number": "US6858870B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-10",
+        "publication_date": "2005-02-22",
+        "assignee_original": "Galaxy Pcb Co., Ltd.",
+        "title": "Multi-chip light emitting diode package",
+        "patent_id": "patent/US6858870B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6858870B2%2Fen"
+      },
+      {
+        "publication_number": "US20050043965A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-28",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Gabriel Heller",
+        "title": "Methods and apparatus for automated interactive medical management",
+        "patent_id": "patent/US20050043965A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050043965A1%2Fen"
+      },
+      {
+        "publication_number": "US20050091083A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-22",
+        "publication_date": "2005-04-28",
+        "assignee_original": "Medco Health Solutions, Inc.",
+        "title": "Computer system and method for generating healthcare risk indices using medication compliance information",
+        "patent_id": "patent/US20050091083A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050091083A1%2Fen"
+      },
+      {
+        "publication_number": "US6888322B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-26",
+        "publication_date": "2005-05-03",
+        "assignee_original": "Color Kinetics Incorporated",
+        "title": "Systems and methods for color changing device and enclosure",
+        "patent_id": "patent/US6888322B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6888322B2%2Fen"
+      },
+      {
+        "publication_number": "US6897622B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-30",
+        "publication_date": "2005-05-24",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Incremental color blending illumination system using LEDs",
+        "patent_id": "patent/US6897622B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6897622B2%2Fen"
+      },
+      {
+        "publication_number": "US6897489B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-10",
+        "publication_date": "2005-05-24",
+        "assignee_original": "Hui Peng",
+        "title": "(AlGa)InPN high brightness white or desired color LED's",
+        "patent_id": "patent/US6897489B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6897489B1%2Fen"
+      },
+      {
+        "publication_number": "US20050111217A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-25",
+        "publication_date": "2005-05-26",
+        "assignee_original": "Feng Lee X.",
+        "title": "Color changing candle",
+        "patent_id": "patent/US20050111217A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050111217A1%2Fen"
+      },
+      {
+        "publication_number": "US20060002102A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-06-30",
+        "publication_date": "2006-01-05",
+        "assignee_original": "Leonard Stephen B",
+        "title": "Volatile material dispensing system with illuminating device",
+        "patent_id": "patent/US20060002102A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060002102A1%2Fen"
+      },
+      {
+        "publication_number": "US20060018786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-20",
+        "publication_date": "2006-01-26",
+        "assignee_original": "Jc Candle Company, Inc.",
+        "title": "Multi-compartment container for use in producing an aroma",
+        "patent_id": "patent/US20060018786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060018786A1%2Fen"
+      },
+      {
+        "publication_number": "US7015825B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-04-14",
+        "publication_date": "2006-03-21",
+        "assignee_original": "Carpenter Decorating Co., Inc.",
+        "title": "Decorative lighting system and decorative illumination device",
+        "patent_id": "patent/US7015825B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7015825B2%2Fen"
+      },
+      {
+        "publication_number": "US7014819B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-14",
+        "publication_date": "2006-03-21",
+        "assignee_original": "Givaudan Schweiz Ag",
+        "title": "Device for vaporizing and diffusing oils",
+        "patent_id": "patent/US7014819B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7014819B2%2Fen"
+      },
+      {
+        "publication_number": "US7023147B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-09",
+        "publication_date": "2006-04-04",
+        "assignee_original": "Pentair Pool Products, Inc.",
+        "title": "Controller circuit",
+        "patent_id": "patent/US7023147B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7023147B2%2Fen"
+      },
+      {
+        "publication_number": "US20060084020A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-16",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Tetsuo Nakatsu",
+        "title": "Candle system for enhancing burning and improving volatiles performance and a manufacturing method for the same",
+        "patent_id": "patent/US20060084020A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060084020A1%2Fen"
+      },
+      {
+        "publication_number": "US20060084021A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-10",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Kubicek Chris A",
+        "title": "Wick holder",
+        "patent_id": "patent/US20060084021A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060084021A1%2Fen"
+      },
+      {
+        "publication_number": "US7052161B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-18",
+        "publication_date": "2006-05-30",
+        "assignee_original": "Roehm Gmbh & Co. Kg",
+        "title": "Illuminative device",
+        "patent_id": "patent/US7052161B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7052161B2%2Fen"
+      },
+      {
+        "publication_number": "US20070073555A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-29",
+        "publication_date": "2007-03-29",
+        "assignee_original": "Patientrack Pty Ltd.",
+        "title": "System and process for facilitating the provision of health care",
+        "patent_id": "patent/US20070073555A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070073555A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080082357A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "User Interface for Clinical Decision Support",
+        "patent_id": "patent/US20080082357A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082357A1%2Fen"
+      },
+      {
+        "publication_number": "US20080082358A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Clinical Decision Support Triggered From Another Clinical Decision Support",
+        "patent_id": "patent/US20080082358A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082358A1%2Fen"
+      },
+      {
+        "publication_number": "US20080082365A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-29",
+        "publication_date": "2008-04-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Proactive and Interactive Clinical Decision Support",
+        "patent_id": "patent/US20080082365A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080082365A1%2Fen"
+      },
+      {
+        "publication_number": "US20080121743A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-29",
+        "publication_date": "2008-05-29",
+        "assignee_original": "Fleckten Eric T",
+        "title": "System For Pneumatically Conveying Particulate Material",
+        "patent_id": "patent/US20080121743A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080121743A1%2Fen"
+      },
+      {
+        "publication_number": "US20080281868A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-26",
+        "publication_date": "2008-11-13",
+        "assignee_original": "Connections Center",
+        "title": "Methods, apparatus and products for transferring knowledge",
+        "patent_id": "patent/US20080281868A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080281868A1%2Fen"
+      },
+      {
+        "publication_number": "US20090048863A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-15",
+        "publication_date": "2009-02-19",
+        "assignee_original": "Walgreen Co.",
+        "title": "Method and apparatus for medication prescription consultation",
+        "patent_id": "patent/US20090048863A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090048863A1%2Fen"
+      },
+      {
+        "publication_number": "US20090132460A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-20",
+        "publication_date": "2009-05-21",
+        "assignee_original": "Farrokh Alemi",
+        "title": "Tailoring Medication to Individual Characteristics",
+        "patent_id": "patent/US20090132460A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090132460A1%2Fen"
+      },
+      {
+        "publication_number": "US20090326976A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-26",
+        "publication_date": "2009-12-31",
+        "assignee_original": "Macdonald Morris",
+        "title": "Estimating healthcare outcomes for individuals",
+        "patent_id": "patent/US20090326976A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090326976A1%2Fen"
+      },
+      {
+        "publication_number": "US20100145953A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-19",
+        "publication_date": "2010-06-10",
+        "assignee_original": "Dianne Charles",
+        "title": "Method and system for personalized health management based on user-specific criteria",
+        "patent_id": "patent/US20100145953A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100145953A1%2Fen"
+      },
+      {
+        "publication_number": "US20100198571A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-31",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Don Morris",
+        "title": "Individualized Ranking of Risk of Health Outcomes",
+        "patent_id": "patent/US20100198571A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100198571A1%2Fen"
+      },
+      {
+        "publication_number": "US20100256984A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-05",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Gold Steven B",
+        "title": "Method and system to control and enhance prescribing and dispensing of medication",
+        "patent_id": "patent/US20100256984A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100256984A1%2Fen"
+      },
+      {
+        "publication_number": "US20100305964A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-27",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Eddy David M",
+        "title": "Healthcare quality measurement",
+        "patent_id": "patent/US20100305964A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100305964A1%2Fen"
+      },
+      {
+        "publication_number": "US20100324936A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-22",
+        "publication_date": "2010-12-23",
+        "assignee_original": "Suresh-Kumar Venkata Vishnubhatla",
+        "title": "Pharmacy management and administration with bedside real-time medical event data collection",
+        "patent_id": "patent/US20100324936A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100324936A1%2Fen"
+      },
+      {
+        "publication_number": "US20110009707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-07",
+        "publication_date": "2011-01-13",
+        "assignee_original": "Kaundinya Murali P",
+        "title": "Telehealth Scheduling and Communications Network",
+        "patent_id": "patent/US20110009707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110009707A1%2Fen"
+      },
+      {
+        "publication_number": "US20110301429A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-10",
+        "publication_date": "2011-12-08",
+        "assignee_original": "Sascha Henke",
+        "title": "Method for remote diagnostic monitoring and support of patients and device and telemedical center",
+        "patent_id": "patent/US20110301429A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110301429A1%2Fen"
+      },
+      {
+        "publication_number": "US20120203565A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-07",
+        "publication_date": "2012-08-09",
+        "assignee_original": "Mckesson Specialty Arizona Inc.",
+        "title": "Method and apparatus for providing improved patient medication adherence",
+        "patent_id": "patent/US20120203565A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120203565A1%2Fen"
+      },
+      {
+        "publication_number": "US8392220B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-09",
+        "publication_date": "2013-03-05",
+        "assignee_original": "Carekinesis, Inc.",
+        "title": "Medication management system and method",
+        "patent_id": "patent/US8392220B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8392220B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9396308B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-22",
+        "publication_date": "2016-07-19",
+        "assignee_original": "Humana Inc.",
+        "title": "Physiological imagery generator system and method",
+        "patent_id": "patent/US9396308B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9396308B1%2Fen"
+      },
+      {
+        "publication_number": "US20160292367A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-30",
+        "publication_date": "2016-10-06",
+        "assignee_original": "Cambia Health Solutions, Inc.",
+        "title": "Systems and methods for a comprehensive online health care platform",
+        "patent_id": "patent/US20160292367A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160292367A1%2Fen"
+      },
+      {
+        "publication_number": "WO2016172801A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-29",
+        "publication_date": "2016-11-03",
+        "assignee_original": "The University Of British Columbia",
+        "title": "Clinical support system and method",
+        "patent_id": "patent/WO2016172801A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016172801A1%2Fen"
+      },
+      {
+        "publication_number": "US20170109493A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-15",
+        "publication_date": "2017-04-20",
+        "assignee_original": "Reciprocal Labs Corporation (Dba Propeller Health)",
+        "title": "Pre-emptive chronic obstructive pulmonary disease risk notifications based on medicament device monitoring",
+        "patent_id": "patent/US20170109493A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170109493A1%2Fen"
+      },
+      {
+        "publication_number": "US20180121605A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-01",
+        "publication_date": "2018-05-03",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Cognitive Medication Reconciliation",
+        "patent_id": "patent/US20180121605A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180121605A1%2Fen"
+      },
+      {
+        "publication_number": "US10353662B2",
+        "primary_language": "en",
+        "priority_date": "2010-01-11",
+        "publication_date": "2019-07-16",
+        "assignee_original": "Humana Inc.",
+        "title": "Pain visualization system and method",
+        "patent_id": "patent/US10353662B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10353662B2%2Fen"
+      },
+      {
+        "publication_number": "US10430555B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-13",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining and communicating information to a pharmacy indicating patient eligibility for an intervention service",
+        "patent_id": "patent/US10430555B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10430555B1%2Fen"
+      },
+      {
+        "publication_number": "US10642957B1",
+        "primary_language": "en",
+        "priority_date": "2014-10-21",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Mckesson Corporation",
+        "title": "Systems and methods for determining, collecting, and configuring patient intervention screening information from a pharmacy",
+        "patent_id": "patent/US10642957B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10642957B1%2Fen"
+      },
+      {
+        "publication_number": "US10650380B1",
+        "primary_language": "en",
+        "priority_date": "2017-03-31",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Mckesson Corporation",
+        "title": "System and method for evaluating requests",
+        "patent_id": "patent/US10650380B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10650380B1%2Fen"
+      },
+      {
+        "publication_number": "CN111554373A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-06",
+        "publication_date": "2020-08-18",
+        "assignee_original": "\u676d\u5dde\u5e02\u5987\u4ea7\u79d1\u533b\u9662",
+        "title": "Woman medication method based on inspection and examination and risk assessment medical record system",
+        "patent_id": "patent/CN111554373A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111554373A%2Fen"
+      },
+      {
+        "publication_number": "US10898129B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-16",
+        "publication_date": "2021-01-26",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Strategic treatment of pressure ulcer using sub-epidermal moisture values",
+        "patent_id": "patent/US10898129B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10898129B2%2Fen"
+      },
+      {
+        "publication_number": "US10950960B2",
+        "primary_language": "en",
+        "priority_date": "2018-10-11",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Device with disposable element",
+        "patent_id": "patent/US10950960B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10950960B2%2Fen"
+      },
+      {
+        "publication_number": "US10959664B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-03",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Bbi Medical Innovations, Llc",
+        "title": "Measurement of susceptibility to diabetic foot ulcers",
+        "patent_id": "patent/US10959664B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10959664B2%2Fen"
+      },
+      {
+        "publication_number": "US11065056B2",
+        "primary_language": "en",
+        "priority_date": "2016-03-24",
+        "publication_date": "2021-07-20",
+        "assignee_original": "Sofradim Production",
+        "title": "System and method of generating a model and simulating an effect on a surgical repair site",
+        "patent_id": "patent/US11065056B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11065056B2%2Fen"
+      },
+      {
+        "publication_number": "US11253192B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-08",
+        "publication_date": "2022-02-22",
+        "assignee_original": "Bruain Biometrics, LLC",
+        "title": "SEM scanner sensing apparatus, system and methodology for early detection of ulcers",
+        "patent_id": "patent/US11253192B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11253192B2%2Fen"
+      },
+      {
+        "publication_number": "CN114242244A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-21",
+        "publication_date": "2022-03-25",
+        "assignee_original": "\u5e7f\u5dde\u6d77\u601d\u533b\u7597\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Personalized medicine-taking risk prediction and risk stratification system",
+        "patent_id": "patent/CN114242244A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114242244A%2Fen"
+      },
+      {
+        "publication_number": "US11284810B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-24",
+        "publication_date": "2022-03-29",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Apparatus and methods for determining damaged tissue using sub-epidermal moisture measurements",
+        "patent_id": "patent/US11284810B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11284810B2%2Fen"
+      },
+      {
+        "publication_number": "US11304652B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-03",
+        "publication_date": "2022-04-19",
+        "assignee_original": "Bbi Medical Innovations, Llc",
+        "title": "Measurement of tissue viability",
+        "patent_id": "patent/US11304652B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11304652B2%2Fen"
+      },
+      {
+        "publication_number": "WO2022079720A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-15",
+        "publication_date": "2022-04-21",
+        "assignee_original": "Feelbetter Ltd.",
+        "title": "Automated medication management and intervention",
+        "patent_id": "patent/WO2022079720A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022079720A1%2Fen"
+      },
+      {
+        "publication_number": "US11337651B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-03",
+        "publication_date": "2022-05-24",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Measurement of edema",
+        "patent_id": "patent/US11337651B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11337651B2%2Fen"
+      },
+      {
+        "publication_number": "US11471094B2",
+        "primary_language": "en",
+        "priority_date": "2018-02-09",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Detection of tissue damage",
+        "patent_id": "patent/US11471094B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11471094B2%2Fen"
+      },
+      {
+        "publication_number": "US11642075B2",
+        "primary_language": "en",
+        "priority_date": "2021-02-03",
+        "publication_date": "2023-05-09",
+        "assignee_original": "Bruin Biometrics, Llc",
+        "title": "Methods of treating deep and early-stage pressure induced tissue damage",
+        "patent_id": "patent/US11642075B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11642075B2%2Fen"
+      },
+      {
+        "publication_number": "US11694800B2",
+        "primary_language": "en",
+        "priority_date": "2018-05-09",
+        "publication_date": "2023-07-04",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Medical diagnosis system with continuous learning and reasoning",
+        "patent_id": "patent/US11694800B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11694800B2%2Fen"
+      },
+      {
+        "publication_number": "US12027243B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-17",
+        "publication_date": "2024-07-02",
+        "assignee_original": "Hc1 Insights, Inc.",
+        "title": "System and method for determining healthcare relationships",
+        "patent_id": "patent/US12027243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12027243B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8478605B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-02",
+      "title": "Appropriateness of a medication therapy regimen",
+      "patent_id": "patent/US8478605B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8478605B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8700430B2",
+      "primary_language": "en",
+      "publication_date": "2014-04-15",
+      "title": "Optimization of a medication therapy regimen",
+      "patent_id": "patent/US8700430B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8700430B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080015894A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-17",
+      "title": "Health Risk Assessment Of A Medication Therapy Regimen",
+      "patent_id": "patent/US20080015894A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080015894A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080126131A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-29",
+      "title": "Predictive Modeling And Risk Stratification Of A Medication Therapy Regimen",
+      "patent_id": "patent/US20080126131A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080126131A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080015893A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-17",
+      "title": "Identification of Inappropriate Medications In A Medication Therapy Regimen",
+      "patent_id": "patent/US20080015893A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080015893A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080126130A1",
+      "primary_language": "en",
+      "publication_date": "2008-05-29",
+      "title": "Compliance With A Medication Therapy Regimen",
+      "patent_id": "patent/US20080126130A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080126130A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "USRE42508E1",
+      "primary_language": "en",
+      "publication_date": "2011-06-28",
+      "title": "Methods and systems for healthcare practice management",
+      "patent_id": "patent/USRE42508E1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE42508E1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8380540B1",
+      "primary_language": "en",
+      "publication_date": "2013-02-19",
+      "title": "Computer implemented method and system for analyzing pharmaceutical benefit plans and for providing member specific advice, optionally including lower cost pharmaceutical alternatives",
+      "patent_id": "patent/US8380540B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8380540B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8712796B2",
+      "primary_language": "en",
+      "publication_date": "2014-04-29",
+      "title": "Systems, computer programs, and methods for controlling costs of a healthcare practice",
+      "patent_id": "patent/US8712796B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8712796B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10401708690435828336",
+      "scholar_authors": "Grossman et al.",
+      "publication_date": "2012",
+      "title": "Transmitting and processing electronic prescriptions: experiences of physician practices and pharmacies",
+      "patent_id": "scholar/10401708690435828336",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10401708690435828336"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8099306B2",
+      "primary_language": "en",
+      "publication_date": "2012-01-17",
+      "title": "Pharmacy episodes of care",
+      "patent_id": "patent/US8099306B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8099306B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1810919682683436864",
+      "scholar_authors": "Medicare Payment Advisory Commission (US)",
+      "publication_date": "2004",
+      "title": "Report to the Congress: new approaches in Medicare",
+      "patent_id": "scholar/1810919682683436864",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1810919682683436864"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070250352A1",
+      "primary_language": "en",
+      "publication_date": "2007-10-25",
+      "title": "Fully Automated Health Plan Administrator",
+      "patent_id": "patent/US20070250352A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070250352A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200143946A1",
+      "primary_language": "en",
+      "publication_date": "2020-05-07",
+      "title": "Patient risk scoring and evaluation systems and methods",
+      "patent_id": "patent/US20200143946A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200143946A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060271405A1",
+      "primary_language": "en",
+      "publication_date": "2006-11-30",
+      "title": "Pharmaceutical care of patients and documentation system therefor",
+      "patent_id": "patent/US20060271405A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060271405A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8799030B1",
+      "primary_language": "en",
+      "publication_date": "2014-08-05",
+      "title": "Methods and systems for disease management care coordination",
+      "patent_id": "patent/US8799030B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8799030B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130060581A1",
+      "primary_language": "en",
+      "publication_date": "2013-03-07",
+      "title": "Medication Therapy Review Methods",
+      "patent_id": "patent/US20130060581A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130060581A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210313032A1",
+      "primary_language": "en",
+      "publication_date": "2021-10-07",
+      "title": "Systems and methods for dynamic interactive drug savings reports services",
+      "patent_id": "patent/US20210313032A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210313032A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250095836A1",
+      "primary_language": "en",
+      "publication_date": "2025-03-20",
+      "title": "Healthcare occupational outcomes navigation engine",
+      "patent_id": "patent/US20250095836A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250095836A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "481533217002524142",
+      "scholar_authors": "Follen et al.",
+      "publication_date": "2007",
+      "title": "Implementing health information technology to improve the process of health care delivery: a case study",
+      "patent_id": "scholar/481533217002524142",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F481533217002524142"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130066651A1",
+      "primary_language": "en",
+      "publication_date": "2013-03-14",
+      "title": "Medication Risk Assessment System",
+      "patent_id": "patent/US20130066651A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130066651A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190147992A1",
+      "primary_language": "en",
+      "publication_date": "2019-05-16",
+      "title": "Electronic Healthcare Treatment Discharge System",
+      "patent_id": "patent/US20190147992A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190147992A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050159985A1",
+      "primary_language": "en",
+      "publication_date": "2005-07-21",
+      "title": "System and method of stratifying intervention groups and comparison groups based on disease severity index scores and ranges",
+      "patent_id": "patent/US20050159985A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050159985A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220036990A1",
+      "primary_language": "en",
+      "publication_date": "2022-02-03",
+      "title": "Automated prior authorization for genetic efficacy testing with presciption dispensation",
+      "patent_id": "patent/US20220036990A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220036990A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16097415601767541421",
+      "scholar_authors": "Giordano et al.",
+      "publication_date": "2008",
+      "title": "Medication Therapy Management Goes Hi-Tech: Implementing Automated Software Improves Pharmacy Efficiency",
+      "patent_id": "scholar/16097415601767541421",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16097415601767541421"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-10-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WALGREEN CO., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MILLER, SCOTT A.;BERTRAM, CARL T.;REEL/FRAME:018357/0308"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060803"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-20",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "229940079593",
+        "name": "drug",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 745
+      },
+      {
+        "id": "239000003814",
+        "name": "drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 745
+      },
+      {
+        "id": "238000002560",
+        "name": "therapeutic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 310
+      },
+      {
+        "id": "230000036541",
+        "name": "health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 145
+      },
+      {
+        "id": "238000012502",
+        "name": "risk assessment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 94
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 51
+      },
+      {
+        "id": "238000002483",
+        "name": "medication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 126
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000000955",
+        "name": "prescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 88
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000013517",
+        "name": "stratification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "name": "cholesterol",
+        "domain": "Chemical compound",
+        "smiles": "C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2",
+        "inchi_key": "HVYWMOMLDIMFJA-DPAQBDIFSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000007721",
+        "name": "medicinal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "208000034826",
+        "name": "Genetic Predisposition to Disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "208000006673",
+        "name": "asthma",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "-1",
+        "name": "statins",
+        "domain": "Chemical compound",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000013405",
+        "name": "beer",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000012000",
+        "name": "cholesterol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001684",
+        "name": "chronic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "206010012601",
+        "name": "diabetes mellitus",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000020650",
+        "name": "eye health related herbal supplements",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013160",
+        "name": "medical therapy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000820",
+        "name": "nonprescription drug",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000737",
+        "name": "periodic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "102000008873",
+        "name": "Angiotensin II receptor",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108050000824",
+        "name": "Angiotensin II receptor",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940121710",
+        "name": "HMGCoA reductase inhibitor",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010020772",
+        "name": "Hypertension",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000001132",
+        "name": "Osteoporosis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002876",
+        "name": "beta blocker",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940097320",
+        "name": "beta blocking agent",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000008280",
+        "name": "blood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004369",
+        "name": "blood",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008821",
+        "name": "health effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003112",
+        "name": "inhibitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003907",
+        "name": "kidney function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004185",
+        "name": "liver",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003908",
+        "name": "liver function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000003431",
+        "name": "steroids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001225",
+        "name": "therapeutic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "206010004446",
+        "name": "Benign prostatic hyperplasia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000017667",
+        "name": "Chronic Disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000006545",
+        "name": "Chronic Obstructive Pulmonary Disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010019280",
+        "name": "Heart failures",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010020751",
+        "name": "Hypersensitivity",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000004403",
+        "name": "Prostatic Hyperplasia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007815",
+        "name": "allergy",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013480",
+        "name": "data collection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PCHJSUWPFVWCPO-UHFFFAOYSA-N",
+        "name": "gold",
+        "domain": "Chemical compound",
+        "smiles": "[Au]",
+        "inchi_key": "PCHJSUWPFVWCPO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000002216",
+        "name": "heart",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002471",
+        "name": "hydroxymethylglutaryl coenzyme A reductase inhibitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000004072",
+        "name": "lung",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940122361",
+        "name": "Bisphosphonate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010007558",
+        "name": "Cardiac failure chronic",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RKWGIWYCVPQPMF-UHFFFAOYSA-N",
+        "name": "Chloropropamide",
+        "domain": "Chemical compound",
+        "smiles": "CCCNC(=O)NS(=O)(=O)C1=CC=C(Cl)C=C1",
+        "inchi_key": "RKWGIWYCVPQPMF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010013710",
+        "name": "Drug interaction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000019693",
+        "name": "Lung disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NPPQSCRMBWNHMW-UHFFFAOYSA-N",
+        "name": "Meprobamate",
+        "domain": "Chemical compound",
+        "smiles": "NC(=O)OCC(C)(CCC)COC(N)=O",
+        "inchi_key": "NPPQSCRMBWNHMW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PVNIIMVLHYAWGP-UHFFFAOYSA-N",
+        "name": "Niacin",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C1=CC=CN=C1",
+        "inchi_key": "PVNIIMVLHYAWGP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000018737",
+        "name": "Parkinson disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IKMPWMZBZSAONZ-UHFFFAOYSA-N",
+        "name": "Quazepam",
+        "domain": "Chemical compound",
+        "smiles": "FC1=CC=CC=C1C1=NCC(=S)N(CC(F)(F)F)C2=CC=C(Cl)C=C12",
+        "inchi_key": "IKMPWMZBZSAONZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000219061",
+        "name": "Rheum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000025865",
+        "name": "Ulcer",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009825",
+        "name": "accumulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002776",
+        "name": "aggregation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004220",
+        "name": "aggregation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960000836",
+        "name": "amitriptyline",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KRMDCWKBEZIMAB-UHFFFAOYSA-N",
+        "name": "amitriptyline",
+        "domain": "Chemical compound",
+        "smiles": "C1CC2=CC=CC=C2C(=CCCN(C)C)C2=CC=CC=C21",
+        "inchi_key": "KRMDCWKBEZIMAB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010003246",
+        "name": "arthritis",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004663",
+        "name": "bisphosphonates",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009534",
+        "name": "blood test",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037180",
+        "name": "bone health",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004782",
+        "name": "chlordiazepoxide",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ANTSCNMPPGJYLG-UHFFFAOYSA-N",
+        "name": "chlordiazepoxide",
+        "domain": "Chemical compound",
+        "smiles": "O=N=1CC(NC)=NC2=CC=C(Cl)C=C2C=1C1=CC=CC=C1",
+        "inchi_key": "ANTSCNMPPGJYLG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960001761",
+        "name": "chlorpropamide",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004362",
+        "name": "clorazepate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XDDJGVMJFWAHJX-UHFFFAOYSA-N",
+        "name": "clorazepic acid",
+        "domain": "Chemical compound",
+        "smiles": "C12=CC(Cl)=CC=C2NC(=O)C(C(=O)O)N=C1C1=CC=CC=C1",
+        "inchi_key": "XDDJGVMJFWAHJX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013523",
+        "name": "data management",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002716",
+        "name": "delivery method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLMALTXPSGQGBX-GCJKJVERSA-N",
+        "name": "dextropropoxyphene",
+        "domain": "Chemical compound",
+        "smiles": "C([C@](OC(=O)CC)([C@H](C)CN(C)C)C=1C=CC=CC=1)C1=CC=CC=C1",
+        "inchi_key": "XLMALTXPSGQGBX-GCJKJVERSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004193",
+        "name": "dextropropoxyphene",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003529",
+        "name": "diazepam",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "AAOVKJBEBIDNHE-UHFFFAOYSA-N",
+        "name": "diazepam",
+        "domain": "Chemical compound",
+        "smiles": "N=1CC(=O)N(C)C2=CC=C(Cl)C=C2C=1C1=CC=CC=C1",
+        "inchi_key": "AAOVKJBEBIDNHE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000035475",
+        "name": "disorder",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ODQWQRRAPPTVAG-GZTJUZNOSA-N",
+        "name": "doxepin",
+        "domain": "Chemical compound",
+        "smiles": "C1OC2=CC=CC=C2C(=C/CCN(C)C)/C2=CC=CC=C21",
+        "inchi_key": "ODQWQRRAPPTVAG-GZTJUZNOSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960005426",
+        "name": "doxepin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008406",
+        "name": "drug-drug interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940125753",
+        "name": "fibrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003528",
+        "name": "flurazepam",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SAADBVWGJQAEFS-UHFFFAOYSA-N",
+        "name": "flurazepam",
+        "domain": "Chemical compound",
+        "smiles": "N=1CC(=O)N(CCN(CC)CC)C2=CC=C(Cl)C=C2C=1C1=CC=CC=C1F",
+        "inchi_key": "SAADBVWGJQAEFS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000014509",
+        "name": "gene expression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002068",
+        "name": "genetic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004801",
+        "name": "imipramine",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BCGWQEUPMDMJNV-UHFFFAOYSA-N",
+        "name": "imipramine",
+        "domain": "Chemical compound",
+        "smiles": "C1CC2=CC=CC=C2N(CCCN(C)C)C2=CC=CC=C21",
+        "inchi_key": "BCGWQEUPMDMJNV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003340",
+        "name": "mental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960004815",
+        "name": "meprobamate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000010125",
+        "name": "myocardial infarction",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960003512",
+        "name": "nicotinic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000001968",
+        "name": "nicotinic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011664",
+        "name": "nicotinic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940126701",
+        "name": "oral medication",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002085",
+        "name": "persistent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006187",
+        "name": "pill",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004886",
+        "name": "process control",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000020016",
+        "name": "psychiatric disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960001964",
+        "name": "quazepam",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003087",
+        "name": "receptor blocking agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001685",
+        "name": "thyroid gland",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000419",
+        "name": "toxicity",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001988",
+        "name": "toxicity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001960",
+        "name": "triggered effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000397",
+        "name": "ulcer",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

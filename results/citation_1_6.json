@@ -1,0 +1,3147 @@
+{
+  "search_metadata": {
+    "id": "68514f9e02ab8c62d3b23c0e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/20c9c8260d412335/68514f9e02ab8c62d3b23c0e.json",
+    "created_at": "2025-06-17 11:21:02 UTC",
+    "processed_at": "2025-06-17 11:21:02 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070136102A1/en",
+    "raw_html_file": "https://serpapi.com/searches/20c9c8260d412335/68514f9e02ab8c62d3b23c0e.html",
+    "total_time_taken": 1.12
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070136102A1/en"
+  },
+  "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/88/78/a2/1383a2c31bef0f/US20070136102A1.pdf",
+  "publication_number": "US20070136102A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "patient",
+    "facility",
+    "profile",
+    "staff",
+    "patients"
+  ],
+  "prior_art_date": "2005-12-09",
+  "application_number": "US11/608,074",
+  "inventors": [
+    {
+      "name": "Mark Rodgers",
+      "link": "https://patents.google.com/?inventor=Mark+Rodgers",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Mark+Rodgers"
+    }
+  ],
+  "assignees": [
+    "CareView Communications Inc"
+  ],
+  "priority_date": "2005-12-09",
+  "filing_date": "2006-12-07",
+  "publication_date": "2007-06-14",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-12-07",
+        "country_code": "US",
+        "application_number": "US11/608,074",
+        "document_id": "patent/US7786874B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-11-17",
+      "title": "Priority claimed from US11/561,263",
+      "type": "external-priority",
+      "document_id": "patent/US20070132597A1/en"
+    },
+    {
+      "date": "2006-12-07",
+      "title": "Assigned to VALENCE BROADBAND, INC.",
+      "type": "reassignment",
+      "assignee_search": "VALENCE BROADBAND, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: RODGERS, MARK E."
+      ]
+    },
+    {
+      "date": "2006-12-07",
+      "title": "Priority to US11/608,074",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7786874B2/en"
+    },
+    {
+      "date": "2006-12-07",
+      "title": "Application filed by Valence Broadband Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Valence Broadband Inc"
+    },
+    {
+      "date": "2006-12-08",
+      "title": "Priority to CA002604214A",
+      "type": "priority",
+      "document_id": "patent/CA2604214A1/en"
+    },
+    {
+      "date": "2006-12-08",
+      "title": "Priority to CA002618615A",
+      "type": "priority",
+      "document_id": "patent/CA2618615A1/en"
+    },
+    {
+      "date": "2006-12-08",
+      "title": "Priority to CA002618379A",
+      "type": "priority",
+      "document_id": "patent/CA2618379A1/en"
+    },
+    {
+      "date": "2006-12-08",
+      "title": "Priority to EP06849199A",
+      "type": "priority",
+      "document_id": "patent/EP1969554A4/en"
+    },
+    {
+      "date": "2006-12-08",
+      "title": "Priority to PCT/US2006/061796",
+      "type": "priority",
+      "document_id": "patent/WO2007081629A2/en"
+    },
+    {
+      "date": "2007-06-14",
+      "title": "Publication of US20070136102A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070136102A1/en"
+    },
+    {
+      "date": "2007-07-17",
+      "title": "Priority to US11/779,096",
+      "type": "priority",
+      "document_id": "patent/US7911348B2/en"
+    },
+    {
+      "date": "2008-09-30",
+      "title": "Assigned to SAMARION, INC.",
+      "type": "reassignment",
+      "assignee_search": "SAMARION, INC.",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: VALENCE BROADBAND, INC."
+      ]
+    },
+    {
+      "date": "2010-08-31",
+      "title": "Publication of US7786874B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7786874B2/en"
+    },
+    {
+      "date": "2010-08-31",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-11-16",
+      "title": "Assigned to BEE CAVE, LLC",
+      "type": "reassignment",
+      "assignee_search": "BEE CAVE, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SAMARION, INC."
+      ]
+    },
+    {
+      "date": "2014-11-14",
+      "title": "Assigned to Datalogic IP Tech Srl",
+      "type": "reassignment",
+      "assignee_search": "Datalogic IP Tech Srl",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BEE CAVE, LLC"
+      ]
+    },
+    {
+      "date": "2016-03-28",
+      "title": "Assigned to FAMILY PATENT HOLDING, LLC",
+      "type": "reassignment",
+      "assignee_search": "FAMILY PATENT HOLDING, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Datalogic IP Tech Srl"
+      ]
+    },
+    {
+      "date": "2017-05-25",
+      "title": "Assigned to CAREVIEW COMMUNICATIONS, INC.",
+      "type": "reassignment",
+      "assignee_search": "CAREVIEW COMMUNICATIONS, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: FAMILY PATENT HOLDING, LLC"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2027-10-03",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070136102.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11608074"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070136102"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007136102A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11608074/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070136102"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/e5/94/68/2e064e9706a211/US20070136102A1-20070614-D00000.png",
+    "https://patentimages.storage.googleapis.com/26/ad/55/61ba436cd00a1b/US20070136102A1-20070614-D00001.png",
+    "https://patentimages.storage.googleapis.com/88/af/6e/e12353741a0968/US20070136102A1-20070614-D00002.png",
+    "https://patentimages.storage.googleapis.com/14/57/5a/781bcdf2489247/US20070136102A1-20070614-D00003.png",
+    "https://patentimages.storage.googleapis.com/07/d5/00/88e849bdceecdd/US20070136102A1-20070614-D00004.png",
+    "https://patentimages.storage.googleapis.com/9b/c4/6b/c8c88bb3b07c0c/US20070136102A1-20070614-D00005.png",
+    "https://patentimages.storage.googleapis.com/56/7b/4c/ab998e397e4bf1/US20070136102A1-20070614-D00006.png",
+    "https://patentimages.storage.googleapis.com/43/33/f9/27a2cc259359f3/US20070136102A1-20070614-D00007.png",
+    "https://patentimages.storage.googleapis.com/82/72/48/7961970dbfcb7b/US20070136102A1-20070614-D00008.png",
+    "https://patentimages.storage.googleapis.com/92/4d/33/677336159edd54/US20070136102A1-20070614-D00009.png",
+    "https://patentimages.storage.googleapis.com/a2/b5/4a/adcc7ccb70d212/US20070136102A1-20070614-D00010.png",
+    "https://patentimages.storage.googleapis.com/2a/12/a7/f3f8fa08c976d5/US20070136102A1-20070614-D00011.png",
+    "https://patentimages.storage.googleapis.com/46/2a/59/54c120f6db9e49/US20070136102A1-20070614-D00012.png",
+    "https://patentimages.storage.googleapis.com/72/9e/9c/b92e0d3a31fc71/US20070136102A1-20070614-D00013.png",
+    "https://patentimages.storage.googleapis.com/15/29/78/d4a75ada96617c/US20070136102A1-20070614-D00014.png",
+    "https://patentimages.storage.googleapis.com/c7/55/22/2d1b96e62e6285/US20070136102A1-20070614-D00015.png",
+    "https://patentimages.storage.googleapis.com/31/e4/08/dd2f84b5f35916/US20070136102A1-20070614-D00016.png",
+    "https://patentimages.storage.googleapis.com/ae/15/d1/6a417f8388004a/US20070136102A1-20070614-D00017.png",
+    "https://patentimages.storage.googleapis.com/19/8f/38/0baed5ac0398db/US20070136102A1-20070614-D00018.png",
+    "https://patentimages.storage.googleapis.com/0c/75/9f/5e011e11e6793a/US20070136102A1-20070614-D00019.png",
+    "https://patentimages.storage.googleapis.com/98/2c/07/8aca555b985756/US20070136102A1-20070614-D00020.png"
+  ],
+  "classifications": [
+    {
+      "code": "A61B5/1113",
+      "description": "Local tracking of patients, e.g. in a hospital or private home",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/1117",
+      "description": "Fall detection",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6889",
+      "description": "Rooms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/06",
+      "description": "Resources, workflows, human or project management; Enterprise or organisation planning; Enterprise or organisation modelling",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/087",
+      "description": "Inventory or stock management, e.g. order filling, procurement or balancing against orders",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/043",
+      "description": "Alarms for ensuring the safety of persons responsive to non-activity, e.g. of elderly persons based on behaviour analysis detecting an emergency event, e.g. a fall",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0446",
+      "description": "Sensor means for detecting worn on the body to detect changes of posture, e.g. a fall, inclination, acceleration, gait",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0461",
+      "description": "Sensor means for detecting integrated or attached to an item closely associated with the person but not worn by the person, e.g. chair, walking stick, bed sensor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0469",
+      "description": "Presence detectors to detect unsafe condition, e.g. infrared sensor, microphone",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0476",
+      "description": "Cameras to detect unsafe condition, e.g. video cameras",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/0492",
+      "description": "Sensor dual technology, i.e. two or more technologies collaborate to extract unsafe condition, e.g. video tracking and RFID tracking",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08B21/22",
+      "description": "Status alarms responsive to presence or absence of persons",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/20",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the management or administration of healthcare resources or facilities, e.g. managing hospital staff or surgery rooms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H40/67",
+      "description": "ICT specially adapted for the management or administration of healthcare resources or facilities; ICT specially adapted for the management or operation of medical equipment or devices for the operation of medical equipment or devices for remote operation",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H04N7/141",
+      "description": "Systems for two-way working between two video terminals, e.g. videophone",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B2562/046",
+      "description": "Arrangements of multiple sensors of the same type in a matrix array",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/1127",
+      "description": "Measuring movement of the entire body or parts thereof, e.g. head or hand tremor or mobility of a limb using a particular sensing technique using markers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/1128",
+      "description": "Measuring movement of the entire body or parts thereof, e.g. head or hand tremor or mobility of a limb using a particular sensing technique using image analysis",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6822",
+      "description": "Neck",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6824",
+      "description": "Arm or wrist",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/6829",
+      "description": "Foot or ankle",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61B5/747",
+      "description": "Arrangements for interactive communication between patient and care services, e.g. by using a telephone network in case of emergency, i.e. alerting emergency services",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/65",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records stored on portable record carriers, e.g. on smartcards, RFID tags or CD",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Methods, systems and computer program products are used in monitoring patients, staff, assets and visitors at a facility, initiating a response to prevent or mitigate harm, and assess and ensure overall quality and performance, and refine individual patient, staff and visitor profiles. A plurality of sensors throughout the facility provide multiple data streams relating to the locations of patients relative to at least one of caregivers, assets, other patients, visitors or one or more fixed locations. A computer system analyses the data stream and determines the location and/or movements of the patients relative to the caregivers, assets, other patients, visitors and/or fixed locations. A profile containing individual data for the patient is used to accurately detect events, including actionable events, ensure completion of prescribed care, assess patient wellness, and, in some cases, provide tailored patient specific responses to detected events. Patient profiles are periodically refined by means of an information feedback loop in order to more accurately predict (actionable) events, provide adequate care and ensure a desired level of patient wellness. Staff and visitor profiles can be used to measure staff and visitor performance at a facility.",
+  "description_link": "https://serpapi.com/searches/68514f9e02ab8c62d3b23c0e/google_patents_details/description.html",
+  "claims": [
+    "1. In a computer system that maintains stored profiles for a plurality of patients at a facility and that receives data from networked computers or other devices at the facility relating to behavior, activities, care, wellness or other information for each patient, a method for maintaining the stored profiles for patients at the facility comprising: \nstoring an initial profile for each of a plurality of patients at a facility based on at least one of specific personalized information for each patient or general information common to more than one patient, the profile including at least one of a limit for detecting an event, an alarm level for use in detecting an actionable event, a care regimen for the patient, or wellness parameter for the patient;  receiving collected data related to at least one of a detected event, actionable event, care regimen, or wellness parameter for a patient of the facility, the data being collected using one or more of a sensor, camera or computer positioned within the facility that detect and/or analyze data regarding at least one of location and/or movements by the patient, location and/or movements by staff, assets and/or visitors, physical condition of patient, or activities performed on and/or by patient; and  refining the profile for the patient based on the collected data in order to modify at least one of the limit, alarm level, care regimen, or wellness parameter.",
+    "2. A method as defined in claim 1, wherein the profile includes both static data and dynamic data, wherein refining the profile involves altering the dynamic data.",
+    "3. A method as defined in claim 2, wherein the profile is refined by the computer system automatically altering the limit level, alarm level, treatment regimen, and/or wellness parameter.",
+    "4. A method as defined in claim 2, wherein the profile is refined by a staff member manually altering the limit level, alarm level, treatment regimen, and/or wellness parameter.",
+    "5. A method as defined in claim 2, wherein the static data remains unmodified.",
+    "6. A method as defined in claim 1, the limit for the patient being refined in order to more accurately determine occurrence of an event.",
+    "7. A method as defined in claim 6, the alarm level for the patient being refined in order to more accurately determine occurrence of an actionable event.",
+    "8. A method as defined in claim 6, the event being detected in accordance with a recursively refined profile for the patient based at least in part on previously collected data.",
+    "9. A method as defined in claim 1, the profile including data relating to movements by the patient that are predictive of bed exiting by that patient.",
+    "10. A method as defined in claim 9, the profile including a plurality of limits that indicate a plurality of corresponding body part positions that, when attained simultaneously or sequentially, are predictive of bed existing.",
+    "11. A method as defined in claim 10, the refining act including modifying the limits based on collected data in order to further reduce the risk of unattended bed exiting and/or false positive alerts or alarms.",
+    "12. A method as defined in claim 1, wherein the collected data relates to an event, the method further comprising staff verifying whether or not the event is an actionable event, wherein verifying or rejection the event as an actionable event forms part of an information feedback loop that at least partially comprises the refining act.",
+    "13. A method as defined in claim 12, wherein the event and/or actionable event relate to at least one of patient wandering into unauthorized zones, patient flight from the facility, patient support exiting, patient initiated alert, failure to complete a prescribed regimen, or patient injury.",
+    "14. A method as defined in claim 1, the patient profile being refined based on a measured level of social interaction by the patient.",
+    "15. A method as defined in claim 1, the patient profile being refined based on a measured level of total ambulation by the patient over a predetermined period of time.",
+    "16. A method as defined in claim 1, the patient profile being refined based on a measured level of total ambulation by the patient over a predetermined period of time in association with a previously defined personal ambulation assistive device.",
+    "17. A method as defined in claim 1, the patient profile being refined based on a measured level of denture use by the patient.",
+    "18. A method as defined in claim 1, the patient profile being refined based on a measured level of denture cleaning compared to denture cleaning schedules utilized by staff.",
+    "19. A method as defined in claim 1, the patient profile being refined based completion of a prescribed patient treatment.",
+    "20. A method as defined in claim 19, wherein the prescribed patient treatment involves an interaction between the patient and at least one of a caregiver or asset.",
+    "21. A method as defined in claim 1, the patient profile being refined based on changes in patient gait.",
+    "22. A method as defined in claim 1, the patient profile being refined based on patient breathing that is indicative of a medical condition.",
+    "23. A method as defined in claim 1, further comprising storing a performance profile for a plurality of caregivers and/or visitors at the facility relating to caregiver and/or visitor performance, collecting data regarding the locations and/or movements by the caregivers and/or visitors, and refining caregiver and/or visitor performance profiles based on the collected data.",
+    "24. A computer-program product comprising computer-readable media having stored thereon computer-executable instructions, that when executed by a processor, causes the computer system to execute the method of claim 1.",
+    "25. In a computer system that maintains stored profiles for a plurality of patients at a facility and that receives data from networked computers or other devices at the facility relating to behavior, activities, care, wellness or other information for each patient, a method for maintaining the stored profiles for patients at the facility comprising: \nstoring an initial profile for each of a plurality of patients at a facility based on at least one of specific personalized information for each patient or general information common to more than one patient, the profile including at least one of a limit for detecting an event, an alarm level for use in detecting an actionable event, a care regimen for a patient, or wellness parameter for a patient;  receiving collected data related to at least one of a detected event, actionable event, care regimen, or wellness parameter for at least some of the patients at the facility, the data being collected using one or more of a sensor, camera or computer positioned within the facility that detect and/or analyze data regarding at least one of location and/or movements by the patients, location and/or movements by staff, assets and/or visitors, physical condition of patients, or activities performed on and/or by patients; and  refining the profiles for the plurality of patient based on the collected data in order to modify at least one of the limit, alarm level, care regimen, or wellness parameter, at least some of the patient profiles differing as among different patients according to individual attributes of needs of the patients.",
+    "26. In a computer system that maintains stored profiles for patients, staff and visitors at a facility and that receives data from networked computers or other devices at the facility relating to patient care and wellness quality and staff and visitor performance at a healthcare facility, a method for maintaining the stored profiles for a patient, staff member, and visitor at the facility comprising: \nstoring an initial profile for the patient, staff member, and visitor at the facility based on at least one of specific personalized information for the patient, staff member or visitor or general information common to more than one patient, staff member or visitor, the profile including at least one of a limit for detecting an event, an alarm level for use in detecting an actionable event, a care regimen for the patient, a wellness parameter for the patient, a performance parameter for a staff member, or a performance parameter for a visitor;  receiving collected data related to at least one of a detected event, an actionable event, care regimen, wellness parameter for a patient, performance parameter for a staff member, or performance parameter of a visitor of the facility, the data being collected using one or more of a sensor, camera or computer positioned within the facility that detect and/or analyze data regarding at least one of location and/or movements by the patient, location and/or movements by staff, assets and/or visitors, physical condition of patient, or activities performed on and/or by patient; and  refining the profile for at least one of the patient, staff member or visitor based on the collected data in order to modify at least one of the limit, alarm level, care regimen, wellness parameter, or performance parameter."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US11/779,096",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US7911348B2",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2007-07-17",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US11/561,263",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US20070132597A1",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-11-17",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/608,074",
+      "representative_publication": "US7786874B2",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-07",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility"
+    },
+    {
+      "application_number": "CA002604214A",
+      "representative_publication": "CA2604214A1",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-08",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility"
+    },
+    {
+      "application_number": "CA002618615A",
+      "representative_publication": "CA2618615A1",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-08",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response"
+    },
+    {
+      "application_number": "CA002618379A",
+      "representative_publication": "CA2618379A1",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-08",
+      "title": "Methods for redefining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility"
+    },
+    {
+      "application_number": "EP06849199A",
+      "representative_publication": "EP1969554A4",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-08",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility"
+    },
+    {
+      "application_number": "PCT/US2006/061796",
+      "representative_publication": "WO2007081629A2",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-08",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility"
+    },
+    {
+      "application_number": "US11/779,096",
+      "representative_publication": "US7911348B2",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2007-07-17",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US74837605P",
+      "priority_date": "2005-12-09",
+      "filing_date": "2005-12-09"
+    },
+    {
+      "application_number": "US79904106P",
+      "priority_date": "2006-05-10",
+      "filing_date": "2006-05-10"
+    },
+    {
+      "application_number": "US83566206P",
+      "priority_date": "2006-08-04",
+      "filing_date": "2006-08-04"
+    },
+    {
+      "application_number": "US82663406P",
+      "priority_date": "2006-09-22",
+      "filing_date": "2006-09-22"
+    },
+    {
+      "application_number": "US11/561,263",
+      "representative_publication": "US20070132597A1",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-11-17",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response"
+    },
+    {
+      "application_number": "US11/608,074",
+      "representative_publication": "US7786874B2",
+      "primary_language": "en",
+      "priority_date": "2005-12-09",
+      "filing_date": "2006-12-07",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility"
+    }
+  ],
+  "family_id": "56290887",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3972320A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-08-12",
+        "publication_date": "1976-08-03",
+        "assignee_original": "Gabor Ujhelyi Kalman",
+        "title": "Patient monitoring system",
+        "patent_id": "patent/US3972320A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3972320A%2Fen"
+      },
+      {
+        "publication_number": "US5416695A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-03-09",
+        "publication_date": "1995-05-16",
+        "assignee_original": "Metriplex, Inc.",
+        "title": "Method and apparatus for alerting patients and medical personnel of emergency medical situations",
+        "patent_id": "patent/US5416695A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5416695A%2Fen"
+      },
+      {
+        "publication_number": "US5583758A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-06-22",
+        "publication_date": "1996-12-10",
+        "assignee_original": "Health Risk Management, Inc.",
+        "title": "Health care management system for managing medical treatments and comparing user-proposed and recommended resources required for treatment",
+        "patent_id": "patent/US5583758A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5583758A%2Fen"
+      },
+      {
+        "publication_number": "US5732401A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-29",
+        "publication_date": "1998-03-24",
+        "assignee_original": "Intellitecs International Ltd.",
+        "title": "Activity based cost tracking systems",
+        "patent_id": "patent/US5732401A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5732401A%2Fen"
+      },
+      {
+        "publication_number": "US5738102A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-03-31",
+        "publication_date": "1998-04-14",
+        "assignee_original": "Lemelson; Jerome H.",
+        "title": "Patient monitoring system",
+        "patent_id": "patent/US5738102A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5738102A%2Fen"
+      },
+      {
+        "publication_number": "US5740800A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-01",
+        "publication_date": "1998-04-21",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method and apparatus for clinical pathway order selection in a medical information system",
+        "patent_id": "patent/US5740800A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5740800A%2Fen"
+      },
+      {
+        "publication_number": "US5765139A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-04-30",
+        "publication_date": "1998-06-09",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and apparatus for transforming a resource planning data structure into a scheduling data structure",
+        "patent_id": "patent/US5765139A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5765139A%2Fen"
+      },
+      {
+        "publication_number": "US5781442A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-05-15",
+        "publication_date": "1998-07-14",
+        "assignee_original": "Alaris Medical Systems, Inc.",
+        "title": "System and method for collecting data and managing patient care",
+        "patent_id": "patent/US5781442A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5781442A%2Fen"
+      },
+      {
+        "publication_number": "US5946659A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-28",
+        "publication_date": "1999-08-31",
+        "assignee_original": "Clinicomp International, Inc.",
+        "title": "System and method for notification and access of patient care information being simultaneously entered",
+        "patent_id": "patent/US5946659A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5946659A%2Fen"
+      },
+      {
+        "publication_number": "US6049281A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-29",
+        "publication_date": "2000-04-11",
+        "assignee_original": "Osterweil; Josef",
+        "title": "Method and apparatus for monitoring movements of an individual",
+        "patent_id": "patent/US6049281A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6049281A%2Fen"
+      },
+      {
+        "publication_number": "US6067019A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-25",
+        "publication_date": "2000-05-23",
+        "assignee_original": "Hill-Rom, Inc.",
+        "title": "Bed exit detection apparatus",
+        "patent_id": "patent/US6067019A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6067019A%2Fen"
+      },
+      {
+        "publication_number": "US6078261A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-11-10",
+        "publication_date": "2000-06-20",
+        "assignee_original": "Alert Systems, Inc.",
+        "title": "System for monitoring a bed patient",
+        "patent_id": "patent/US6078261A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6078261A%2Fen"
+      },
+      {
+        "publication_number": "US6125350A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-02",
+        "publication_date": "2000-09-26",
+        "assignee_original": "Software For Surgeons",
+        "title": "Medical information log system",
+        "patent_id": "patent/US6125350A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6125350A%2Fen"
+      },
+      {
+        "publication_number": "US6154139A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-04-21",
+        "publication_date": "2000-11-28",
+        "assignee_original": "Versus Technology",
+        "title": "Method and system for locating subjects within a tracking environment",
+        "patent_id": "patent/US6154139A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6154139A%2Fen"
+      },
+      {
+        "publication_number": "US6160478A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-27",
+        "publication_date": "2000-12-12",
+        "assignee_original": "Sarcos Lc",
+        "title": "Wireless health monitoring system",
+        "patent_id": "patent/US6160478A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6160478A%2Fen"
+      },
+      {
+        "publication_number": "US6402691B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-21",
+        "publication_date": "2002-06-11",
+        "assignee_original": "Herschel Q. Peddicord",
+        "title": "In-home patient monitoring system",
+        "patent_id": "patent/US6402691B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6402691B1%2Fen"
+      },
+      {
+        "publication_number": "US20030013459A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-10",
+        "publication_date": "2003-01-16",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Method and system for location based recordal of user activity",
+        "patent_id": "patent/US20030013459A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030013459A1%2Fen"
+      },
+      {
+        "publication_number": "US6524239B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-11-05",
+        "publication_date": "2003-02-25",
+        "assignee_original": "Wcr Company",
+        "title": "Apparatus for non-instrusively measuring health parameters of a subject and method of use thereof",
+        "patent_id": "patent/US6524239B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6524239B1%2Fen"
+      },
+      {
+        "publication_number": "US20030058111A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-27",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Computer vision based elderly care monitoring system",
+        "patent_id": "patent/US20030058111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030058111A1%2Fen"
+      },
+      {
+        "publication_number": "US6611206B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-15",
+        "publication_date": "2003-08-26",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Automatic system for monitoring independent person requiring occasional assistance",
+        "patent_id": "patent/US6611206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6611206B2%2Fen"
+      },
+      {
+        "publication_number": "US6640212B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-30",
+        "publication_date": "2003-10-28",
+        "assignee_original": "Rodney L. Rosse",
+        "title": "Standardized information management system for long-term residence facilities",
+        "patent_id": "patent/US6640212B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6640212B1%2Fen"
+      },
+      {
+        "publication_number": "US6748250B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-27",
+        "publication_date": "2004-06-08",
+        "assignee_original": "Medoptix, Inc.",
+        "title": "Method and system of monitoring a patient",
+        "patent_id": "patent/US6748250B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6748250B1%2Fen"
+      },
+      {
+        "publication_number": "US6791460B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-05",
+        "publication_date": "2004-09-14",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Patient position detection apparatus for a bed",
+        "patent_id": "patent/US6791460B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6791460B2%2Fen"
+      },
+      {
+        "publication_number": "US20040193449A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-27",
+        "publication_date": "2004-09-30",
+        "assignee_original": "Wildman Timothy D.",
+        "title": "Universal communications, monitoring, tracking, and control system for a healthcare facility",
+        "patent_id": "patent/US20040193449A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040193449A1%2Fen"
+      },
+      {
+        "publication_number": "US6804656B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-23",
+        "publication_date": "2004-10-12",
+        "assignee_original": "Visicu, Inc.",
+        "title": "System and method for providing continuous, expert network critical care services from a remote location(s)",
+        "patent_id": "patent/US6804656B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6804656B1%2Fen"
+      },
+      {
+        "publication_number": "US6830180B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-13",
+        "publication_date": "2004-12-14",
+        "assignee_original": "Christopher S. Walsh",
+        "title": "Method for verification of a patient and of a medical treatment to be delivered to this patient",
+        "patent_id": "patent/US6830180B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6830180B2%2Fen"
+      },
+      {
+        "publication_number": "US6876303B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-05",
+        "publication_date": "2005-04-05",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Hospital monitoring and control system and method",
+        "patent_id": "patent/US6876303B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6876303B2%2Fen"
+      },
+      {
+        "publication_number": "US7110569B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-27",
+        "publication_date": "2006-09-19",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Video based detection of fall-down and other events",
+        "patent_id": "patent/US7110569B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7110569B2%2Fen"
+      },
+      {
+        "publication_number": "US7369680B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-27",
+        "publication_date": "2008-05-06",
+        "assignee_original": "Koninklijke Phhilips Electronics N.V.",
+        "title": "Method and apparatus for detecting an event based on patterns of behavior",
+        "patent_id": "patent/US7369680B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7369680B2%2Fen"
+      },
+      {
+        "publication_number": "US7505620B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-14",
+        "publication_date": "2009-03-17",
+        "assignee_original": "Sick Ag",
+        "title": "Method for the monitoring of a monitored zone",
+        "patent_id": "patent/US7505620B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7505620B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US1388242A",
+        "primary_language": "en",
+        "priority_date": "1919-12-23",
+        "publication_date": "1921-08-23",
+        "assignee_original": "Dodds Thomas",
+        "title": "Invalid-bed",
+        "patent_id": "patent/US1388242A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1388242A%2Fen"
+      },
+      {
+        "publication_number": "US2592166A",
+        "primary_language": "en",
+        "priority_date": "1947-10-17",
+        "publication_date": "1952-04-08",
+        "assignee_original": "Hospital Furniture Inc",
+        "title": "Safety bed",
+        "patent_id": "patent/US2592166A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2592166A%2Fen"
+      },
+      {
+        "publication_number": "US2604639A",
+        "primary_language": "en",
+        "priority_date": "1950-01-18",
+        "publication_date": "1952-07-29",
+        "assignee_original": "Jack L Killifer",
+        "title": "Hydraulic hospital bed lift",
+        "patent_id": "patent/US2604639A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2604639A%2Fen"
+      },
+      {
+        "publication_number": "US3039118A",
+        "primary_language": "en",
+        "priority_date": "1960-11-22",
+        "publication_date": "1962-06-19",
+        "assignee_original": "Clyde B Hutt",
+        "title": "Adjustable height bed",
+        "patent_id": "patent/US3039118A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3039118A%2Fen"
+      },
+      {
+        "publication_number": "US3919727A",
+        "primary_language": "en",
+        "priority_date": "1974-08-12",
+        "publication_date": "1975-11-18",
+        "assignee_original": "Joerns Furniture Co",
+        "title": "Hidden adjustment means for a bed",
+        "patent_id": "patent/US3919727A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3919727A%2Fen"
+      },
+      {
+        "publication_number": "CA1041586A",
+        "primary_language": "en",
+        "priority_date": "1975-09-02",
+        "publication_date": "1978-10-31",
+        "assignee_original": "Frank M. Damico",
+        "title": "Examination table",
+        "patent_id": "patent/CA1041586A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1041586A%2Fen"
+      },
+      {
+        "publication_number": "US4087872A",
+        "primary_language": "en",
+        "priority_date": "1977-01-28",
+        "publication_date": "1978-05-09",
+        "assignee_original": "Smirle James M",
+        "title": "Movable bed frame",
+        "patent_id": "patent/US4087872A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4087872A%2Fen"
+      },
+      {
+        "publication_number": "US4152795A",
+        "primary_language": "en",
+        "priority_date": "1977-12-19",
+        "publication_date": "1979-05-08",
+        "assignee_original": "John Rodosta",
+        "title": "Bed rocking mechanism",
+        "patent_id": "patent/US4152795A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4152795A%2Fen"
+      },
+      {
+        "publication_number": "US4196425A",
+        "primary_language": "en",
+        "priority_date": "1978-07-10",
+        "publication_date": "1980-04-01",
+        "assignee_original": "by said David S. Weekly said Clyde E. Williams",
+        "title": "Patient activity monitoring system",
+        "patent_id": "patent/US4196425A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4196425A%2Fen"
+      },
+      {
+        "publication_number": "US4539560A",
+        "primary_language": "en",
+        "priority_date": "1982-12-10",
+        "publication_date": "1985-09-03",
+        "assignee_original": "Hill-Rom Company, Inc.",
+        "title": "Bed departure detection system",
+        "patent_id": "patent/US4539560A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4539560A%2Fen"
+      },
+      {
+        "publication_number": "US4633237A",
+        "primary_language": "en",
+        "priority_date": "1984-07-11",
+        "publication_date": "1986-12-30",
+        "assignee_original": "Kenneth A. Tucknott",
+        "title": "Patient bed alarm system",
+        "patent_id": "patent/US4633237A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4633237A%2Fen"
+      },
+      {
+        "publication_number": "DE3443334A1",
+        "primary_language": "en",
+        "priority_date": "1984-11-28",
+        "publication_date": "1986-06-26",
+        "assignee_original": "Wolf 8403 Bad Abbach Ciecierski",
+        "title": "Couch adjustable in height",
+        "patent_id": "patent/DE3443334A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3443334A1%2Fen"
+      },
+      {
+        "publication_number": "US4947152A",
+        "primary_language": "en",
+        "priority_date": "1986-02-10",
+        "publication_date": "1990-08-07",
+        "assignee_original": "Mesa Vista Hospital",
+        "title": "Patient monitoring system",
+        "patent_id": "patent/US4947152A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4947152A%2Fen"
+      },
+      {
+        "publication_number": "GB2199803B",
+        "primary_language": "en",
+        "priority_date": "1987-01-20",
+        "publication_date": "1991-05-29",
+        "assignee_original": "Sanwa Shutter Corp",
+        "title": "Elevation bed",
+        "patent_id": "patent/GB2199803B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2199803B%2Fen"
+      },
+      {
+        "publication_number": "US4814751A",
+        "primary_language": "en",
+        "priority_date": "1987-02-27",
+        "publication_date": "1989-03-21",
+        "assignee_original": "Wildlife Materials, Inc.",
+        "title": "Patient tracking system",
+        "patent_id": "patent/US4814751A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4814751A%2Fen"
+      },
+      {
+        "publication_number": "FR2623388A1",
+        "primary_language": "en",
+        "priority_date": "1987-11-23",
+        "publication_date": "1989-05-26",
+        "assignee_original": "Bertin & Cie",
+        "title": "METHOD AND DEVICE FOR MONITORING THE BREATHING OF AN INDIVIDUAL",
+        "patent_id": "patent/FR2623388A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2623388A1%2Fen"
+      },
+      {
+        "publication_number": "US4952928A",
+        "primary_language": "en",
+        "priority_date": "1988-08-29",
+        "publication_date": "1990-08-28",
+        "assignee_original": "B. I. Incorporated",
+        "title": "Adaptable electronic monitoring and identification system",
+        "patent_id": "patent/US4952928A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4952928A%2Fen"
+      },
+      {
+        "publication_number": "US4907845A",
+        "primary_language": "en",
+        "priority_date": "1988-09-16",
+        "publication_date": "1990-03-13",
+        "assignee_original": "Salomon Sa",
+        "title": "Bed patient monitoring system",
+        "patent_id": "patent/US4907845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4907845A%2Fen"
+      },
+      {
+        "publication_number": "US5008654A",
+        "primary_language": "en",
+        "priority_date": "1989-11-07",
+        "publication_date": "1991-04-16",
+        "assignee_original": "Callaway James J",
+        "title": "Patient ambulation motion detector",
+        "patent_id": "patent/US5008654A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5008654A%2Fen"
+      },
+      {
+        "publication_number": "DK0433737T3",
+        "primary_language": "en",
+        "priority_date": "1989-12-08",
+        "publication_date": "1994-03-28",
+        "assignee_original": "Voelker Moebelproduktions Ges",
+        "title": "Bed, especially sick and / or nursing bed",
+        "patent_id": "patent/DK0433737T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDK0433737T3%2Fen"
+      },
+      {
+        "publication_number": "US6958706B2",
+        "primary_language": "en",
+        "priority_date": "1990-07-27",
+        "publication_date": "2005-10-25",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Patient care and communication system",
+        "patent_id": "patent/US6958706B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6958706B2%2Fen"
+      },
+      {
+        "publication_number": "US5594786A",
+        "primary_language": "en",
+        "priority_date": "1990-07-27",
+        "publication_date": "1997-01-14",
+        "assignee_original": "Executone Information Systems, Inc.",
+        "title": "Patient care and communication system",
+        "patent_id": "patent/US5594786A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5594786A%2Fen"
+      },
+      {
+        "publication_number": "US5218344A",
+        "primary_language": "en",
+        "priority_date": "1991-07-31",
+        "publication_date": "1993-06-08",
+        "assignee_original": "Ricketts James G",
+        "title": "Method and system for monitoring personnel",
+        "patent_id": "patent/US5218344A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5218344A%2Fen"
+      },
+      {
+        "publication_number": "US5276432A",
+        "primary_language": "en",
+        "priority_date": "1992-01-15",
+        "publication_date": "1994-01-04",
+        "assignee_original": "Stryker Corporation",
+        "title": "Patient exit detection mechanism for hospital bed",
+        "patent_id": "patent/US5276432A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5276432A%2Fen"
+      },
+      {
+        "publication_number": "US5365217A",
+        "primary_language": "en",
+        "priority_date": "1992-02-20",
+        "publication_date": "1994-11-15",
+        "assignee_original": "Frank J. Toner",
+        "title": "Personal security system apparatus and method",
+        "patent_id": "patent/US5365217A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5365217A%2Fen"
+      },
+      {
+        "publication_number": "US5353012A",
+        "primary_language": "en",
+        "priority_date": "1992-05-14",
+        "publication_date": "1994-10-04",
+        "assignee_original": "Bartronix, Inc.",
+        "title": "Bed position and activity sensing apparatus",
+        "patent_id": "patent/US5353012A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5353012A%2Fen"
+      },
+      {
+        "publication_number": "US5495288A",
+        "primary_language": "en",
+        "priority_date": "1994-01-28",
+        "publication_date": "1996-02-27",
+        "assignee_original": "Ultrak, Inc.",
+        "title": "Remote activated surveillance system",
+        "patent_id": "patent/US5495288A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5495288A%2Fen"
+      },
+      {
+        "publication_number": "US5490298A",
+        "primary_language": "en",
+        "priority_date": "1994-02-08",
+        "publication_date": "1996-02-13",
+        "assignee_original": "Rosalyn Goldsmith",
+        "title": "Modular high-low-adjustable contour-adjustable bed",
+        "patent_id": "patent/US5490298A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5490298A%2Fen"
+      },
+      {
+        "publication_number": "ATE180152T1",
+        "primary_language": "en",
+        "priority_date": "1994-03-09",
+        "publication_date": "1999-06-15",
+        "assignee_original": "John Alan Hall Jackson",
+        "title": "SENSOR DEVICE FOR A BED AND BED WITH SENSOR DEVICE",
+        "patent_id": "patent/ATE180152T1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE180152T1%2Fen"
+      },
+      {
+        "publication_number": "US5714931A",
+        "primary_language": "en",
+        "priority_date": "1994-05-16",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Petite; Thomas D.",
+        "title": "Personalized security system",
+        "patent_id": "patent/US5714931A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5714931A%2Fen"
+      },
+      {
+        "publication_number": "US5633627A",
+        "primary_language": "en",
+        "priority_date": "1994-09-23",
+        "publication_date": "1997-05-27",
+        "assignee_original": "Bed-Check Corporation",
+        "title": "Hard-wired monitoring system for hospital bed or short term care patients",
+        "patent_id": "patent/US5633627A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5633627A%2Fen"
+      },
+      {
+        "publication_number": "US5650770A",
+        "primary_language": "en",
+        "priority_date": "1994-10-27",
+        "publication_date": "1997-07-22",
+        "assignee_original": "Schlager; Dan",
+        "title": "Self-locating remote monitoring systems",
+        "patent_id": "patent/US5650770A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5650770A%2Fen"
+      },
+      {
+        "publication_number": "US5519380A",
+        "primary_language": "en",
+        "priority_date": "1994-11-04",
+        "publication_date": "1996-05-21",
+        "assignee_original": "Guardian Electronics, Inc.",
+        "title": "Personal monitoring system and method",
+        "patent_id": "patent/US5519380A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5519380A%2Fen"
+      },
+      {
+        "publication_number": "US6671563B1",
+        "primary_language": "en",
+        "priority_date": "1995-05-15",
+        "publication_date": "2003-12-30",
+        "assignee_original": "Alaris Medical Systems, Inc.",
+        "title": "System and method for collecting data and managing patient care",
+        "patent_id": "patent/US6671563B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6671563B1%2Fen"
+      },
+      {
+        "publication_number": "US5941836A",
+        "primary_language": "en",
+        "priority_date": "1996-06-12",
+        "publication_date": "1999-08-24",
+        "assignee_original": "Friedman; Mark B.",
+        "title": "Patient position monitor",
+        "patent_id": "patent/US5941836A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5941836A%2Fen"
+      },
+      {
+        "publication_number": "EP0816986B1",
+        "primary_language": "en",
+        "priority_date": "1996-07-03",
+        "publication_date": "2006-09-06",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "System for recognizing motions",
+        "patent_id": "patent/EP0816986B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0816986B1%2Fen"
+      },
+      {
+        "publication_number": "US5831669A",
+        "primary_language": "en",
+        "priority_date": "1996-07-09",
+        "publication_date": "1998-11-03",
+        "assignee_original": "Ericsson Inc",
+        "title": "Facility monitoring system with image memory and correlation",
+        "patent_id": "patent/US5831669A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5831669A%2Fen"
+      },
+      {
+        "publication_number": "US5877675A",
+        "primary_language": "en",
+        "priority_date": "1996-08-29",
+        "publication_date": "1999-03-02",
+        "assignee_original": "Jansys, Inc.",
+        "title": "Wireless healthcare communication system",
+        "patent_id": "patent/US5877675A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5877675A%2Fen"
+      },
+      {
+        "publication_number": "US6624754B1",
+        "primary_language": "en",
+        "priority_date": "1998-01-20",
+        "publication_date": "2003-09-23",
+        "assignee_original": "Hoffman Resources Llc",
+        "title": "Personal security and tracking system",
+        "patent_id": "patent/US6624754B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6624754B1%2Fen"
+      },
+      {
+        "publication_number": "US5844488A",
+        "primary_language": "en",
+        "priority_date": "1997-09-23",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Musick; Jeff L.",
+        "title": "Bed sensor and alarm",
+        "patent_id": "patent/US5844488A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5844488A%2Fen"
+      },
+      {
+        "publication_number": "US6466125B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-23",
+        "publication_date": "2002-10-15",
+        "assignee_original": "Time Domain Corporation",
+        "title": "System and method using impulse radio technology to track and monitor people needing health care",
+        "patent_id": "patent/US6466125B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6466125B1%2Fen"
+      },
+      {
+        "publication_number": "US6169484B1",
+        "primary_language": "en",
+        "priority_date": "1998-04-28",
+        "publication_date": "2001-01-02",
+        "assignee_original": "Itt Manufacturing Enterprises, Inc.",
+        "title": "Personal location system",
+        "patent_id": "patent/US6169484B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6169484B1%2Fen"
+      },
+      {
+        "publication_number": "US6104295A",
+        "primary_language": "en",
+        "priority_date": "1998-07-20",
+        "publication_date": "2000-08-15",
+        "assignee_original": "Versus Technology, Inc.",
+        "title": "Electronic band tag and method of storing ID information therein",
+        "patent_id": "patent/US6104295A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6104295A%2Fen"
+      },
+      {
+        "publication_number": "US6505365B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-11",
+        "publication_date": "2003-01-14",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Hospital bed mechanisms",
+        "patent_id": "patent/US6505365B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6505365B1%2Fen"
+      },
+      {
+        "publication_number": "US6204767B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-04",
+        "publication_date": "2001-03-20",
+        "assignee_original": "Donald A. Edwards",
+        "title": "Chair monitor",
+        "patent_id": "patent/US6204767B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6204767B1%2Fen"
+      },
+      {
+        "publication_number": "WO2001008556A1",
+        "primary_language": "en",
+        "priority_date": "1999-07-29",
+        "publication_date": "2001-02-08",
+        "assignee_original": "Arend Jan Brilman",
+        "title": "Apparatus for registering movement patterns of human beings",
+        "patent_id": "patent/WO2001008556A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001008556A1%2Fen"
+      },
+      {
+        "publication_number": "US6492904B2",
+        "primary_language": "en",
+        "priority_date": "1999-09-27",
+        "publication_date": "2002-12-10",
+        "assignee_original": "Time Domain Corporation",
+        "title": "Method and system for coordinating timing among ultrawideband transmissions",
+        "patent_id": "patent/US6492904B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6492904B2%2Fen"
+      },
+      {
+        "publication_number": "US6651280B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-16",
+        "publication_date": "2003-11-25",
+        "assignee_original": "Jerry Blevins",
+        "title": "Patient lifter",
+        "patent_id": "patent/US6651280B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6651280B2%2Fen"
+      },
+      {
+        "publication_number": "US20020140559A1",
+        "primary_language": "en",
+        "priority_date": "2001-03-29",
+        "publication_date": "2002-10-03",
+        "assignee_original": "Zhou Peter Y.",
+        "title": "System and method for remotely monitoring",
+        "patent_id": "patent/US20020140559A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020140559A1%2Fen"
+      },
+      {
+        "publication_number": "US20030028399A1",
+        "primary_language": "en",
+        "priority_date": "2000-09-25",
+        "publication_date": "2003-02-06",
+        "assignee_original": "Duane Davis",
+        "title": "Method and system for providing interactive health care services",
+        "patent_id": "patent/US20030028399A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030028399A1%2Fen"
+      },
+      {
+        "publication_number": "EP1201163A1",
+        "primary_language": "en",
+        "priority_date": "2000-10-30",
+        "publication_date": "2002-05-02",
+        "assignee_original": "Gerhart W. Vilsmeier",
+        "title": "Elevation bed with belt drive",
+        "patent_id": "patent/EP1201163A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1201163A1%2Fen"
+      },
+      {
+        "publication_number": "US6968294B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-15",
+        "publication_date": "2005-11-22",
+        "assignee_original": "Koninklijke Philips Electronics N.V.",
+        "title": "Automatic system for monitoring person requiring care and his/her caretaker",
+        "patent_id": "patent/US6968294B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6968294B2%2Fen"
+      },
+      {
+        "publication_number": "EP1380020A4",
+        "primary_language": "en",
+        "priority_date": "2001-03-30",
+        "publication_date": "2006-08-30",
+        "assignee_original": "Augmentech Inc",
+        "title": "Patient incontinence/position monitoring apparatus and method of use thereof",
+        "patent_id": "patent/EP1380020A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1380020A4%2Fen"
+      },
+      {
+        "publication_number": "AU2002257749B2",
+        "primary_language": "en",
+        "priority_date": "2001-04-05",
+        "publication_date": "2006-01-19",
+        "assignee_original": "Ge Healthcare Finland Oy",
+        "title": "Method and system for detecting variances in a tracking environment",
+        "patent_id": "patent/AU2002257749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2002257749B2%2Fen"
+      },
+      {
+        "publication_number": "US7242306B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-08",
+        "publication_date": "2007-07-10",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Article locating and tracking apparatus and method",
+        "patent_id": "patent/US7242306B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7242306B2%2Fen"
+      },
+      {
+        "publication_number": "JP2003000553A",
+        "primary_language": "en",
+        "priority_date": "2001-06-25",
+        "publication_date": "2003-01-07",
+        "assignee_original": "Nippon Colin Co Ltd",
+        "title": "Patient detector",
+        "patent_id": "patent/JP2003000553A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003000553A%2Fen"
+      },
+      {
+        "publication_number": "ATE365337T1",
+        "primary_language": "en",
+        "priority_date": "2001-09-05",
+        "publication_date": "2007-07-15",
+        "assignee_original": "Newbury Networks Inc",
+        "title": "POSITION DETECTION AND LOCATION TRACKING IN A WIRELESS NETWORK",
+        "patent_id": "patent/ATE365337T1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE365337T1%2Fen"
+      },
+      {
+        "publication_number": "US20030069815A1",
+        "primary_language": "en",
+        "priority_date": "2001-10-10",
+        "publication_date": "2003-04-10",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "RFID time tracking",
+        "patent_id": "patent/US20030069815A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030069815A1%2Fen"
+      },
+      {
+        "publication_number": "US6822571B2",
+        "primary_language": "en",
+        "priority_date": "2001-11-15",
+        "publication_date": "2004-11-23",
+        "assignee_original": "Stryker Corporation",
+        "title": "Patient movement detection system for a bed including a load cell mounting assembly",
+        "patent_id": "patent/US6822571B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6822571B2%2Fen"
+      },
+      {
+        "publication_number": "US20030167187A1",
+        "primary_language": "en",
+        "priority_date": "2002-02-19",
+        "publication_date": "2003-09-04",
+        "assignee_original": "Bua Robert N.",
+        "title": "Systems and methods of determining performance ratings of health care facilities and providing user access to performance information",
+        "patent_id": "patent/US20030167187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030167187A1%2Fen"
+      },
+      {
+        "publication_number": "US20040172290A1",
+        "primary_language": "en",
+        "priority_date": "2002-07-15",
+        "publication_date": "2004-09-02",
+        "assignee_original": "Samuel Leven",
+        "title": "Health monitoring device",
+        "patent_id": "patent/US20040172290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040172290A1%2Fen"
+      },
+      {
+        "publication_number": "US6788206B1",
+        "primary_language": "en",
+        "priority_date": "2002-09-05",
+        "publication_date": "2004-09-07",
+        "assignee_original": "Donald A. Edwards",
+        "title": "Patient monitoring system",
+        "patent_id": "patent/US6788206B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6788206B1%2Fen"
+      },
+      {
+        "publication_number": "WO2004036390A2",
+        "primary_language": "en",
+        "priority_date": "2002-10-18",
+        "publication_date": "2004-04-29",
+        "assignee_original": "Trustees Of Boston University",
+        "title": "Patient activity monitor",
+        "patent_id": "patent/WO2004036390A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004036390A2%2Fen"
+      },
+      {
+        "publication_number": "US6909367B1",
+        "primary_language": "en",
+        "priority_date": "2003-02-24",
+        "publication_date": "2005-06-21",
+        "assignee_original": "Larry P. Wetmore",
+        "title": "Method of determining the exact location of an individual in a structure",
+        "patent_id": "patent/US6909367B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6909367B1%2Fen"
+      },
+      {
+        "publication_number": "US6838992B2",
+        "primary_language": "en",
+        "priority_date": "2003-03-21",
+        "publication_date": "2005-01-04",
+        "assignee_original": "Versus Technology, Inc.",
+        "title": "Methods and systems for locating subjects and providing event notification within a tracking environment and badge for use therein",
+        "patent_id": "patent/US6838992B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6838992B2%2Fen"
+      },
+      {
+        "publication_number": "US6897781B2",
+        "primary_language": "en",
+        "priority_date": "2003-03-26",
+        "publication_date": "2005-05-24",
+        "assignee_original": "Bed-Check Corporation",
+        "title": "Electronic patient monitor and white noise source",
+        "patent_id": "patent/US6897781B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6897781B2%2Fen"
+      },
+      {
+        "publication_number": "US6987232B2",
+        "primary_language": "en",
+        "priority_date": "2003-07-14",
+        "publication_date": "2006-01-17",
+        "assignee_original": "Bed-Check Corporation",
+        "title": "Sensor and method for detecting a patient's movement via position and occlusion",
+        "patent_id": "patent/US6987232B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6987232B2%2Fen"
+      },
+      {
+        "publication_number": "JP2007534032A",
+        "primary_language": "en",
+        "priority_date": "2003-07-22",
+        "publication_date": "2007-11-22",
+        "assignee_original": "\u30ed\u30f3\u30b8\u30e7  \u30ab\u30f3\u30d1\u30cb\u30fc",
+        "title": "How to monitor a sleeping infant",
+        "patent_id": "patent/JP2007534032A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007534032A%2Fen"
+      },
+      {
+        "publication_number": "EP1654187A4",
+        "primary_language": "en",
+        "priority_date": "2003-07-31",
+        "publication_date": "2011-06-29",
+        "assignee_original": "Happijac Company",
+        "title": "System and method for moving objects",
+        "patent_id": "patent/EP1654187A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1654187A4%2Fen"
+      },
+      {
+        "publication_number": "US7452336B2",
+        "primary_language": "en",
+        "priority_date": "2003-09-06",
+        "publication_date": "2008-11-18",
+        "assignee_original": "Interactive Neuro Technology, Inc.",
+        "title": "Interactive neural training device",
+        "patent_id": "patent/US7452336B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7452336B2%2Fen"
+      },
+      {
+        "publication_number": "CN100544667C",
+        "primary_language": "en",
+        "priority_date": "2003-12-04",
+        "publication_date": "2009-09-30",
+        "assignee_original": "\u8d6b\u827e\u7eb3\u533b\u7597\u516c\u53f8",
+        "title": "Intelligent medical vigilance system",
+        "patent_id": "patent/CN100544667C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100544667C%2Fen"
+      },
+      {
+        "publication_number": "US20050283382A1",
+        "primary_language": "en",
+        "priority_date": "2004-06-21",
+        "publication_date": "2005-12-22",
+        "assignee_original": "Epic Systems Corporation",
+        "title": "System and method for managing and tracking the location of patients and health care facility resources in a health care facility",
+        "patent_id": "patent/US20050283382A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050283382A1%2Fen"
+      },
+      {
+        "publication_number": "CA2578753A1",
+        "primary_language": "en",
+        "priority_date": "2004-07-28",
+        "publication_date": "2006-02-02",
+        "assignee_original": "National University Of Ireland, Galway",
+        "title": "Portable medical monitoring and diagnostic system",
+        "patent_id": "patent/CA2578753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2578753A1%2Fen"
+      },
+      {
+        "publication_number": "US20060033625A1",
+        "primary_language": "en",
+        "priority_date": "2004-08-11",
+        "publication_date": "2006-02-16",
+        "assignee_original": "General Electric Company",
+        "title": "Digital assurance method and system to extend in-home living",
+        "patent_id": "patent/US20060033625A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060033625A1%2Fen"
+      },
+      {
+        "publication_number": "US20060053035A1",
+        "primary_language": "en",
+        "priority_date": "2004-09-09",
+        "publication_date": "2006-03-09",
+        "assignee_original": "Eisenberg Floyd P",
+        "title": "Healthcare personnel management system",
+        "patent_id": "patent/US20060053035A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060053035A1%2Fen"
+      },
+      {
+        "publication_number": "US7502498B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-10",
+        "publication_date": "2009-03-10",
+        "assignee_original": "Available For Licensing",
+        "title": "Patient monitoring apparatus",
+        "patent_id": "patent/US7502498B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7502498B2%2Fen"
+      },
+      {
+        "publication_number": "US7861334B2",
+        "primary_language": "en",
+        "priority_date": "2005-12-19",
+        "publication_date": "2011-01-04",
+        "assignee_original": "Stryker Corporation",
+        "title": "Hospital bed",
+        "patent_id": "patent/US7861334B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7861334B2%2Fen"
+      },
+      {
+        "publication_number": "DE202005008326U1",
+        "primary_language": "en",
+        "priority_date": "2005-05-24",
+        "publication_date": "2005-10-06",
+        "assignee_original": "OKIN Gesellschaft f\u00fcr Antriebstechnik mbH",
+        "title": "Detachable hospital bed, comprising telescopic posts with vertical slots and sleeping area with corner extensions",
+        "patent_id": "patent/DE202005008326U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202005008326U1%2Fen"
+      },
+      {
+        "publication_number": "US20070132597A1",
+        "primary_language": "en",
+        "priority_date": "2005-12-09",
+        "publication_date": "2007-06-14",
+        "assignee_original": "Valence Broadband, Inc.",
+        "title": "Methods and systems for monitoring patient support exiting and initiating response",
+        "patent_id": "patent/US20070132597A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070132597A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080018454A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-13",
+        "publication_date": "2008-01-24",
+        "assignee_original": "Kuo-Hung Chan",
+        "title": "Remote mobile medical communication apparatus, system and method",
+        "patent_id": "patent/US20080018454A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080018454A1%2Fen"
+      },
+      {
+        "publication_number": "US20080221928A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-06",
+        "publication_date": "2008-09-11",
+        "assignee_original": "Luis Garcia",
+        "title": "System for Monitoring Patient Activity in a Medical Facility",
+        "patent_id": "patent/US20080221928A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080221928A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009055635A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-26",
+        "publication_date": "2009-04-30",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "System and method for collection and communication of data from multiple patient care devices",
+        "patent_id": "patent/WO2009055635A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009055635A1%2Fen"
+      },
+      {
+        "publication_number": "US20090278934A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-12",
+        "publication_date": "2009-11-12",
+        "assignee_original": "Careview Communications, Inc",
+        "title": "System and method for predicting patient falls",
+        "patent_id": "patent/US20090278934A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090278934A1%2Fen"
+      },
+      {
+        "publication_number": "US20090327102A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-23",
+        "publication_date": "2009-12-31",
+        "assignee_original": "Jatin Maniar",
+        "title": "System and method for providing real time asset visibility",
+        "patent_id": "patent/US20090327102A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090327102A1%2Fen"
+      },
+      {
+        "publication_number": "US20110125513A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-20",
+        "publication_date": "2011-05-26",
+        "assignee_original": "Versus Technology, Inc.",
+        "title": "Real-time method and system for controlling healthcare delivery processes within a clinical environment",
+        "patent_id": "patent/US20110125513A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110125513A1%2Fen"
+      },
+      {
+        "publication_number": "US20110191438A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-03",
+        "publication_date": "2011-08-04",
+        "assignee_original": "Bump Technologies, Inc.",
+        "title": "Bump button",
+        "patent_id": "patent/US20110191438A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110191438A1%2Fen"
+      },
+      {
+        "publication_number": "US20110301429A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-10",
+        "publication_date": "2011-12-08",
+        "assignee_original": "Sascha Henke",
+        "title": "Method for remote diagnostic monitoring and support of patients and device and telemedical center",
+        "patent_id": "patent/US20110301429A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110301429A1%2Fen"
+      },
+      {
+        "publication_number": "US8266742B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-06",
+        "publication_date": "2012-09-18",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Biometric bed configuration",
+        "patent_id": "patent/US8266742B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8266742B2%2Fen"
+      },
+      {
+        "publication_number": "US8372018B2",
+        "primary_language": "en",
+        "priority_date": "2008-01-16",
+        "publication_date": "2013-02-12",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Support device and palpation device and methods of use",
+        "patent_id": "patent/US8372018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8372018B2%2Fen"
+      },
+      {
+        "publication_number": "US20130162433A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-12",
+        "publication_date": "2013-06-27",
+        "assignee_original": "Masimo Corporation",
+        "title": "Systems and methods for storing, analyzing, retrieving and displaying streaming medical data",
+        "patent_id": "patent/US20130162433A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130162433A1%2Fen"
+      },
+      {
+        "publication_number": "US20130182092A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-29",
+        "publication_date": "2013-07-18",
+        "assignee_original": "Omron Healthcare Co., Ltd.",
+        "title": "Safe nursing system and method for controlling safe nursing system",
+        "patent_id": "patent/US20130182092A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130182092A1%2Fen"
+      },
+      {
+        "publication_number": "US20130218812A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-17",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Wavemarket, Inc.",
+        "title": "System and method for detecting medical anomalies using a mobile communication device",
+        "patent_id": "patent/US20130218812A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130218812A1%2Fen"
+      },
+      {
+        "publication_number": "US8676603B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-02",
+        "publication_date": "2014-03-18",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "System and method for documenting patient procedures",
+        "patent_id": "patent/US8676603B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8676603B2%2Fen"
+      },
+      {
+        "publication_number": "US20140142442A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-19",
+        "publication_date": "2014-05-22",
+        "assignee_original": "Judy Sibille SNOW",
+        "title": "Audio Feedback for Medical Conditions",
+        "patent_id": "patent/US20140142442A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140142442A1%2Fen"
+      },
+      {
+        "publication_number": "US20140168397A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-19",
+        "publication_date": "2014-06-19",
+        "assignee_original": "Careview Communications, Inc",
+        "title": "Electronic Patient Sitter Management System and Method for Implementing",
+        "patent_id": "patent/US20140168397A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140168397A1%2Fen"
+      },
+      {
+        "publication_number": "US8924394B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-18",
+        "publication_date": "2014-12-30",
+        "assignee_original": "Mmodal Ip Llc",
+        "title": "Computer-assisted abstraction for reporting of quality measures",
+        "patent_id": "patent/US8924394B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8924394B2%2Fen"
+      },
+      {
+        "publication_number": "US9005101B1",
+        "primary_language": "en",
+        "priority_date": "2014-01-04",
+        "publication_date": "2015-04-14",
+        "assignee_original": "Julian Van Erlach",
+        "title": "Smart surface biological sensor and therapy administration",
+        "patent_id": "patent/US9005101B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9005101B1%2Fen"
+      },
+      {
+        "publication_number": "WO2015054308A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-07",
+        "publication_date": "2015-04-16",
+        "assignee_original": "Ickovic & Bliss, Inc.",
+        "title": "Wearable mobile broadcasting recovery system and device",
+        "patent_id": "patent/WO2015054308A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015054308A1%2Fen"
+      },
+      {
+        "publication_number": "DE102013017264A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-10-17",
+        "publication_date": "2015-04-23",
+        "assignee_original": "Dr\u00e4ger Medical GmbH",
+        "title": "Method for monitoring a patient within a medical monitoring area",
+        "patent_id": "patent/DE102013017264A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102013017264A1%2Fen"
+      },
+      {
+        "publication_number": "US20150186601A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-27",
+        "publication_date": "2015-07-02",
+        "assignee_original": "Michael J. Waxman",
+        "title": "Systems and Methods for Hospital Bed Management",
+        "patent_id": "patent/US20150186601A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150186601A1%2Fen"
+      },
+      {
+        "publication_number": "US20150287182A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-04",
+        "publication_date": "2015-10-08",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Head mounted video and touch detection for healthcare facility hygiene",
+        "patent_id": "patent/US20150287182A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150287182A1%2Fen"
+      },
+      {
+        "publication_number": "US20150287301A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-28",
+        "publication_date": "2015-10-08",
+        "assignee_original": "Tyco Fire & Security Gmbh",
+        "title": "Correlation of Sensory Inputs to Identify Unauthorized Persons",
+        "patent_id": "patent/US20150287301A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150287301A1%2Fen"
+      },
+      {
+        "publication_number": "US9293026B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-29",
+        "publication_date": "2016-03-22",
+        "assignee_original": "Daniel R. Murphy",
+        "title": "Bed exit night light with increased functionality",
+        "patent_id": "patent/US9293026B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9293026B2%2Fen"
+      },
+      {
+        "publication_number": "US9318012B2",
+        "primary_language": "en",
+        "priority_date": "2003-12-12",
+        "publication_date": "2016-04-19",
+        "assignee_original": "Steve Gail Johnson",
+        "title": "Noise correcting patient fall risk state system and method for predicting patient falls",
+        "patent_id": "patent/US9318012B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9318012B2%2Fen"
+      },
+      {
+        "publication_number": "US20160183864A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-26",
+        "publication_date": "2016-06-30",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and system for determining whether a caregiver takes appropriate measures to prevent patient bedsores",
+        "patent_id": "patent/US20160183864A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160183864A1%2Fen"
+      },
+      {
+        "publication_number": "US9402155B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-03",
+        "publication_date": "2016-07-26",
+        "assignee_original": "Location Labs, Inc.",
+        "title": "System and method for indicating a state of a geographic area based on mobile device sensor measurements",
+        "patent_id": "patent/US9402155B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9402155B2%2Fen"
+      },
+      {
+        "publication_number": "CN105813562A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-13",
+        "publication_date": "2016-07-27",
+        "assignee_original": "\u7687\u5bb6\u98de\u5229\u6d66\u6709\u9650\u516c\u53f8",
+        "title": "Sleep monitoring system and method",
+        "patent_id": "patent/CN105813562A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105813562A%2Fen"
+      },
+      {
+        "publication_number": "US20160350597A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-29",
+        "publication_date": "2016-12-01",
+        "assignee_original": "Accenture Global Solutions Limited",
+        "title": "Predicting external events from digital video content",
+        "patent_id": "patent/US20160350597A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160350597A1%2Fen"
+      },
+      {
+        "publication_number": "US9579047B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2017-02-28",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "Systems and methods for dynamically identifying a patient support surface and patient monitoring",
+        "patent_id": "patent/US9579047B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9579047B2%2Fen"
+      },
+      {
+        "publication_number": "EP2343888A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-28",
+        "publication_date": "2017-04-26",
+        "assignee_original": "University of Tsukuba",
+        "title": "Communication wall panel, care system equipped with communication wall panel, and conference system equipped with communication wall panel",
+        "patent_id": "patent/EP2343888A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2343888A4%2Fen"
+      },
+      {
+        "publication_number": "US9700247B2",
+        "primary_language": "en",
+        "priority_date": "2012-03-21",
+        "publication_date": "2017-07-11",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Patient support apparatus with redundant identity verification",
+        "patent_id": "patent/US9700247B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9700247B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017146643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-23",
+        "publication_date": "2017-08-31",
+        "assignee_original": "Apeiron Technology Pte Ltd",
+        "title": "A patient monitoring system",
+        "patent_id": "patent/WO2017146643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017146643A1%2Fen"
+      },
+      {
+        "publication_number": "US9848458B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-01",
+        "publication_date": "2017-12-19",
+        "assignee_original": "Oceus Networks, Inc.",
+        "title": "Wireless parameter-sensing node and network thereof",
+        "patent_id": "patent/US9848458B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9848458B2%2Fen"
+      },
+      {
+        "publication_number": "US20170364858A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2017-12-21",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Article of personal protection equipment and sensor",
+        "patent_id": "patent/US20170364858A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170364858A1%2Fen"
+      },
+      {
+        "publication_number": "US9866797B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-28",
+        "publication_date": "2018-01-09",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "System and method for monitoring a fall state of a patient while minimizing false alarms",
+        "patent_id": "patent/US9866797B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9866797B2%2Fen"
+      },
+      {
+        "publication_number": "US20180122210A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-28",
+        "publication_date": "2018-05-03",
+        "assignee_original": "HBH Development, LLC",
+        "title": "Target behavior monitoring system",
+        "patent_id": "patent/US20180122210A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180122210A1%2Fen"
+      },
+      {
+        "publication_number": "US10028099B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-08",
+        "publication_date": "2018-07-17",
+        "assignee_original": "Location Labs, Inc.",
+        "title": "Bio-powered locator device",
+        "patent_id": "patent/US10028099B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10028099B2%2Fen"
+      },
+      {
+        "publication_number": "US20180261066A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-13",
+        "publication_date": "2018-09-13",
+        "assignee_original": "General Electric Company",
+        "title": "Patient Monitoring System and Method for Activity Tracking",
+        "patent_id": "patent/US20180261066A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180261066A1%2Fen"
+      },
+      {
+        "publication_number": "US10156956B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-13",
+        "publication_date": "2018-12-18",
+        "assignee_original": "Mmodal Ip Llc",
+        "title": "Maintaining a discrete data representation that corresponds to information contained in free-form text",
+        "patent_id": "patent/US10156956B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10156956B2%2Fen"
+      },
+      {
+        "publication_number": "US20190052919A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-11",
+        "publication_date": "2019-02-14",
+        "assignee_original": "Benjamin Dean Maddalena",
+        "title": "Methods and Systems for Cloud-Based Content Management",
+        "patent_id": "patent/US20190052919A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190052919A1%2Fen"
+      },
+      {
+        "publication_number": "US10217342B2",
+        "primary_language": "en",
+        "priority_date": "2011-07-12",
+        "publication_date": "2019-02-26",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and process for determining whether an individual suffers a fall requiring assistance",
+        "patent_id": "patent/US10217342B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10217342B2%2Fen"
+      },
+      {
+        "publication_number": "US20190065970A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-30",
+        "publication_date": "2019-02-28",
+        "assignee_original": "P Tech, Llc",
+        "title": "Artificial intelligence and/or virtual reality for activity optimization/personalization",
+        "patent_id": "patent/US20190065970A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190065970A1%2Fen"
+      },
+      {
+        "publication_number": "US10229571B2",
+        "primary_language": "en",
+        "priority_date": "2013-12-18",
+        "publication_date": "2019-03-12",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Systems and methods for determining whether an individual suffers a fall requiring assistance",
+        "patent_id": "patent/US10229571B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10229571B2%2Fen"
+      },
+      {
+        "publication_number": "US20190098101A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-04",
+        "publication_date": "2019-03-28",
+        "assignee_original": "At&T Intellectual Property I, L.P.",
+        "title": "Method and apparatus for modifying behavior of a user via a network",
+        "patent_id": "patent/US20190098101A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190098101A1%2Fen"
+      },
+      {
+        "publication_number": "US10255994B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-04",
+        "publication_date": "2019-04-09",
+        "assignee_original": "Masimo Corporation",
+        "title": "Physiological parameter alarm delay",
+        "patent_id": "patent/US10255994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10255994B2%2Fen"
+      },
+      {
+        "publication_number": "US20190122039A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-23",
+        "publication_date": "2019-04-25",
+        "assignee_original": "Wistron Corp.",
+        "title": "Image detection method and image detection device for determining posture of a user",
+        "patent_id": "patent/US20190122039A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190122039A1%2Fen"
+      },
+      {
+        "publication_number": "US10303924B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-31",
+        "publication_date": "2019-05-28",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Methods and systems for detecting prohibited objects in a patient room",
+        "patent_id": "patent/US10303924B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10303924B2%2Fen"
+      },
+      {
+        "publication_number": "US10321856B2",
+        "primary_language": "en",
+        "priority_date": "2017-01-12",
+        "publication_date": "2019-06-18",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Bed exit monitoring system",
+        "patent_id": "patent/US10321856B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10321856B2%2Fen"
+      },
+      {
+        "publication_number": "US10342478B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-07",
+        "publication_date": "2019-07-09",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and system for determining whether a caretaker takes appropriate measures to prevent patient bedsores",
+        "patent_id": "patent/US10342478B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10342478B2%2Fen"
+      },
+      {
+        "publication_number": "US10360787B2",
+        "primary_language": "en",
+        "priority_date": "2016-05-05",
+        "publication_date": "2019-07-23",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Discriminating patient care communications system",
+        "patent_id": "patent/US10360787B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10360787B2%2Fen"
+      },
+      {
+        "publication_number": "US10368039B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-23",
+        "publication_date": "2019-07-30",
+        "assignee_original": "Stryker Corporation",
+        "title": "Video monitoring system",
+        "patent_id": "patent/US10368039B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10368039B2%2Fen"
+      },
+      {
+        "publication_number": "US10382724B2",
+        "primary_language": "en",
+        "priority_date": "2014-01-17",
+        "publication_date": "2019-08-13",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and system for determining whether an individual takes appropriate measures to prevent the spread of healthcare-associated infections along with centralized monitoring",
+        "patent_id": "patent/US10382724B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10382724B2%2Fen"
+      },
+      {
+        "publication_number": "US10387720B2",
+        "primary_language": "en",
+        "priority_date": "2010-07-29",
+        "publication_date": "2019-08-20",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "System and method for using a video monitoring system to prevent and manage decubitus ulcers in patients",
+        "patent_id": "patent/US10387720B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10387720B2%2Fen"
+      },
+      {
+        "publication_number": "US10402769B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-16",
+        "publication_date": "2019-09-03",
+        "assignee_original": "Adp, Llc",
+        "title": "Employee preference identification in a wellness management system",
+        "patent_id": "patent/US10402769B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10402769B2%2Fen"
+      },
+      {
+        "publication_number": "US10402925B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-16",
+        "publication_date": "2019-09-03",
+        "assignee_original": "Adp, Llc",
+        "title": "Employee wellness management system",
+        "patent_id": "patent/US10402925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10402925B2%2Fen"
+      },
+      {
+        "publication_number": "US10482321B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-29",
+        "publication_date": "2019-11-19",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Methods and systems for identifying the crossing of a virtual barrier",
+        "patent_id": "patent/US10482321B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10482321B2%2Fen"
+      },
+      {
+        "publication_number": "US10510443B2",
+        "primary_language": "en",
+        "priority_date": "2014-12-23",
+        "publication_date": "2019-12-17",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Methods and systems for determining whether a monitored individual's hand(s) have entered a virtual safety zone",
+        "patent_id": "patent/US10510443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10510443B2%2Fen"
+      },
+      {
+        "publication_number": "US10509967B2",
+        "primary_language": "en",
+        "priority_date": "2015-08-10",
+        "publication_date": "2019-12-17",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "Occupancy detection",
+        "patent_id": "patent/US10509967B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10509967B2%2Fen"
+      },
+      {
+        "publication_number": "US10546481B2",
+        "primary_language": "en",
+        "priority_date": "2011-07-12",
+        "publication_date": "2020-01-28",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method for determining whether an individual leaves a prescribed virtual perimeter",
+        "patent_id": "patent/US10546481B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10546481B2%2Fen"
+      },
+      {
+        "publication_number": "US10568547B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-08",
+        "publication_date": "2020-02-25",
+        "assignee_original": "The Board Of Regents Of The University Of Nebraska",
+        "title": "Multifunctional assessment system for assessing muscle strength, mobility, and frailty",
+        "patent_id": "patent/US10568547B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10568547B1%2Fen"
+      },
+      {
+        "publication_number": "WO2020039758A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-20",
+        "publication_date": "2020-02-27",
+        "assignee_original": "\u30b3\u30cb\u30ab\u30df\u30ce\u30eb\u30bf\u682a\u5f0f\u4f1a\u793e",
+        "title": "Information processing apparatus, sensor box, and program",
+        "patent_id": "patent/WO2020039758A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020039758A1%2Fen"
+      },
+      {
+        "publication_number": "US10602095B1",
+        "primary_language": "en",
+        "priority_date": "2014-01-17",
+        "publication_date": "2020-03-24",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Method and system for determining whether an individual takes appropriate measures to prevent the spread of healthcare-associated infections",
+        "patent_id": "patent/US10602095B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10602095B1%2Fen"
+      },
+      {
+        "publication_number": "CN111009317A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-09",
+        "publication_date": "2020-04-14",
+        "assignee_original": "\u5317\u534e\u5927\u5b66",
+        "title": "An intelligent monitoring system for neurosurgery monitoring room based on the Internet of Things",
+        "patent_id": "patent/CN111009317A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111009317A%2Fen"
+      },
+      {
+        "publication_number": "US10643446B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-28",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Utilizing artificial intelligence to detect objects or patient safety events in a patient room",
+        "patent_id": "patent/US10643446B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10643446B2%2Fen"
+      },
+      {
+        "publication_number": "US10645346B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-18",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "Patient video monitoring systems and methods having detection algorithm recovery from changes in illumination",
+        "patent_id": "patent/US10645346B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10645346B2%2Fen"
+      },
+      {
+        "publication_number": "US10874794B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-20",
+        "publication_date": "2020-12-29",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Managing medication administration in clinical care room",
+        "patent_id": "patent/US10874794B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10874794B2%2Fen"
+      },
+      {
+        "publication_number": "US10922936B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-06",
+        "publication_date": "2021-02-16",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Methods and systems for detecting prohibited objects",
+        "patent_id": "patent/US10922936B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10922936B2%2Fen"
+      },
+      {
+        "publication_number": "US11087875B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-04",
+        "publication_date": "2021-08-10",
+        "assignee_original": "Masimo Corporation",
+        "title": "Medical monitoring system",
+        "patent_id": "patent/US11087875B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11087875B2%2Fen"
+      },
+      {
+        "publication_number": "CN113393923A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-11",
+        "publication_date": "2021-09-14",
+        "assignee_original": "\u5e0c\u5c14-\u7f57\u59c6\u670d\u52a1\u516c\u53f8",
+        "title": "Patient behavior pattern based out-of-bed prediction",
+        "patent_id": "patent/CN113393923A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113393923A%2Fen"
+      },
+      {
+        "publication_number": "US11133105B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-04",
+        "publication_date": "2021-09-28",
+        "assignee_original": "Masimo Corporation",
+        "title": "Medical monitoring system",
+        "patent_id": "patent/US11133105B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11133105B2%2Fen"
+      },
+      {
+        "publication_number": "US11176801B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-19",
+        "publication_date": "2021-11-16",
+        "assignee_original": "Masimo Corporation",
+        "title": "Health care sanitation monitoring system",
+        "patent_id": "patent/US11176801B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11176801B2%2Fen"
+      },
+      {
+        "publication_number": "US20210358202A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-13",
+        "publication_date": "2021-11-18",
+        "assignee_original": "Electronic Caregiver, Inc.",
+        "title": "Room Labeling Drawing Interface for Activity Tracking and Detection",
+        "patent_id": "patent/US20210358202A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210358202A1%2Fen"
+      },
+      {
+        "publication_number": "US20220351857A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-29",
+        "publication_date": "2022-11-03",
+        "assignee_original": "Galerie Technology, LLC",
+        "title": "Predictive change in acuity for healthcare environments",
+        "patent_id": "patent/US20220351857A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220351857A1%2Fen"
+      },
+      {
+        "publication_number": "US11605281B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-17",
+        "publication_date": "2023-03-14",
+        "assignee_original": "Koninklijke Philips N.V.",
+        "title": "System to secure health safety during charging of health wearable",
+        "patent_id": "patent/US11605281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11605281B2%2Fen"
+      },
+      {
+        "publication_number": "US11602278B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-27",
+        "publication_date": "2023-03-14",
+        "assignee_original": "Board Of Regents Of The University Of Nebraska",
+        "title": "Apparatus for assessing user frailty",
+        "patent_id": "patent/US11602278B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11602278B2%2Fen"
+      },
+      {
+        "publication_number": "EP4160604A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-30",
+        "publication_date": "2023-04-05",
+        "assignee_original": "Nihon Kohden Corporation",
+        "title": "Fluid balance management system, prediction device, learned model generation device, and learned model generation method",
+        "patent_id": "patent/EP4160604A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4160604A1%2Fen"
+      },
+      {
+        "publication_number": "US11710320B2",
+        "primary_language": "en",
+        "priority_date": "2015-10-22",
+        "publication_date": "2023-07-25",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "Patient video monitoring systems and methods for thermal detection of liquids",
+        "patent_id": "patent/US11710320B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11710320B2%2Fen"
+      },
+      {
+        "publication_number": "US20230248598A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-27",
+        "publication_date": "2023-08-10",
+        "assignee_original": "Careview Communications, Inc.",
+        "title": "Systems and methods for monitoring and controlling bed functions",
+        "patent_id": "patent/US20230248598A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230248598A1%2Fen"
+      },
+      {
+        "publication_number": "US11778420B2",
+        "primary_language": "en",
+        "priority_date": "2020-06-29",
+        "publication_date": "2023-10-03",
+        "assignee_original": "Ickovic & Bliss, Inc.",
+        "title": "Systems, methods, and program products for digital PET identification",
+        "patent_id": "patent/US11778420B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11778420B2%2Fen"
+      },
+      {
+        "publication_number": "CN116882754A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-25",
+        "publication_date": "2023-10-13",
+        "assignee_original": "\u676d\u5dde\u6167\u653f\u8f6f\u4ef6\u5f00\u53d1\u6709\u9650\u516c\u53f8",
+        "title": "Full closed-loop supervision and early warning method and system for mine sand industry",
+        "patent_id": "patent/CN116882754A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116882754A%2Fen"
+      },
+      {
+        "publication_number": "US11842812B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-27",
+        "publication_date": "2023-12-12",
+        "assignee_original": "GE Precision Healthcare LLC",
+        "title": "Location-based user authorization for an infant care device",
+        "patent_id": "patent/US11842812B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11842812B2%2Fen"
+      },
+      {
+        "publication_number": "US20230397865A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-09",
+        "publication_date": "2023-12-14",
+        "assignee_original": "EarliTec Diagnostics, Inc.",
+        "title": "Assessing developmental disorders via eye tracking",
+        "patent_id": "patent/US20230397865A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230397865A1%2Fen"
+      },
+      {
+        "publication_number": "US12148512B2",
+        "primary_language": "en",
+        "priority_date": "2019-12-31",
+        "publication_date": "2024-11-19",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Patient safety using virtual observation",
+        "patent_id": "patent/US12148512B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12148512B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20080086489A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-05",
+        "publication_date": "2008-04-10",
+        "assignee_original": "David Wilkes",
+        "title": "Low error rate interface for untrained users based on a method and system for event tracking",
+        "patent_id": "patent/US20080086489A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080086489A1%2Fen"
+      },
+      {
+        "publication_number": "TWI385590B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-12",
+        "publication_date": "2013-02-11",
+        "assignee_original": "Inventec Corp",
+        "title": "Health information browsing and guiding system and method thereof",
+        "patent_id": "patent/TWI385590B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI385590B%2Fen"
+      },
+      {
+        "publication_number": "CN102651051A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-28",
+        "publication_date": "2012-08-29",
+        "assignee_original": "\u56fd\u9645\u5546\u4e1a\u673a\u5668\u516c\u53f8",
+        "title": "System and method for identifying clinical pathway implementation deviation",
+        "patent_id": "patent/CN102651051A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102651051A%2Fen"
+      },
+      {
+        "publication_number": "US10368796B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-22",
+        "publication_date": "2019-08-06",
+        "assignee_original": "Tc13-Pressure Applications Llc",
+        "title": "Systems and methods for monitoring and providing therapeutic support for a user",
+        "patent_id": "patent/US10368796B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10368796B2%2Fen"
+      },
+      {
+        "publication_number": "US9277829B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-22",
+        "publication_date": "2016-03-08",
+        "assignee_original": "TC13\u2014Pressure Applications LLC",
+        "title": "Systems and methods for monitoring and providing therapeutic support for a user",
+        "patent_id": "patent/US9277829B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9277829B2%2Fen"
+      },
+      {
+        "publication_number": "US10621686B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-16",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Vios Medical, Inc.",
+        "title": "Patient care and health information management system",
+        "patent_id": "patent/US10621686B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10621686B2%2Fen"
+      },
+      {
+        "publication_number": "EP2995242B1",
+        "primary_language": "en",
+        "priority_date": "2014-09-11",
+        "publication_date": "2023-11-15",
+        "assignee_original": "Hill-Rom S.A.S.",
+        "title": "Patient support apparatus",
+        "patent_id": "patent/EP2995242B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2995242B1%2Fen"
+      },
+      {
+        "publication_number": "EP3216195B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-06",
+        "publication_date": "2020-08-19",
+        "assignee_original": "IOT Holdings, Inc.",
+        "title": "Method and system for event pattern guided mobile content services",
+        "patent_id": "patent/EP3216195B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3216195B1%2Fen"
+      },
+      {
+        "publication_number": "US11864926B2",
+        "primary_language": "en",
+        "priority_date": "2015-08-28",
+        "publication_date": "2024-01-09",
+        "assignee_original": "Foresite Healthcare, Llc",
+        "title": "Systems and methods for detecting attempted bed exit",
+        "patent_id": "patent/US11864926B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11864926B2%2Fen"
+      },
+      {
+        "publication_number": "US10206630B2",
+        "primary_language": "en",
+        "priority_date": "2015-08-28",
+        "publication_date": "2019-02-19",
+        "assignee_original": "Foresite Healthcare, Llc",
+        "title": "Systems for automatic assessment of fall risk",
+        "patent_id": "patent/US10206630B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10206630B2%2Fen"
+      },
+      {
+        "publication_number": "US10068461B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-05",
+        "publication_date": "2018-09-04",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Real-time patient experience monitoring system",
+        "patent_id": "patent/US10068461B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10068461B2%2Fen"
+      },
+      {
+        "publication_number": "CA3030850C",
+        "primary_language": "en",
+        "priority_date": "2016-06-28",
+        "publication_date": "2023-12-05",
+        "assignee_original": "Foresite Healthcare, Llc",
+        "title": "Systems and methods for use in detecting falls utilizing thermal sensing",
+        "patent_id": "patent/CA3030850C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3030850C%2Fen"
+      },
+      {
+        "publication_number": "US20220230714A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-19",
+        "publication_date": "2022-07-21",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Dashboards for clinical workflow and patient handoff assistance",
+        "patent_id": "patent/US20220230714A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220230714A1%2Fen"
+      },
+      {
+        "publication_number": "US12279999B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-22",
+        "publication_date": "2025-04-22",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Wireless configuration and authorization of a wall unit that pairs with a medical device",
+        "patent_id": "patent/US12279999B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12279999B2%2Fen"
+      },
+      {
+        "publication_number": "US12186241B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-22",
+        "publication_date": "2025-01-07",
+        "assignee_original": "Hill-Rom Services, Inc.",
+        "title": "Time-based wireless pairing between a medical device and a wall unit",
+        "patent_id": "patent/US12186241B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12186241B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7786874B2",
+      "primary_language": "en",
+      "publication_date": "2010-08-31",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility",
+      "patent_id": "patent/US7786874B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7786874B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7761310B2",
+      "primary_language": "en",
+      "publication_date": "2010-07-20",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility",
+      "patent_id": "patent/US7761310B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7761310B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7911348B2",
+      "primary_language": "en",
+      "publication_date": "2011-03-22",
+      "title": "Methods for refining patient, staff and visitor profiles used in monitoring quality and performance at a healthcare facility",
+      "patent_id": "patent/US7911348B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7911348B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070288263A1",
+      "primary_language": "en",
+      "publication_date": "2007-12-13",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility",
+      "patent_id": "patent/US20070288263A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070288263A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1969554A2",
+      "primary_language": "en",
+      "publication_date": "2008-09-17",
+      "title": "Methods and systems for monitoring quality and performance at a healthcare facility",
+      "patent_id": "patent/EP1969554A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1969554A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070132597A1",
+      "primary_language": "en",
+      "publication_date": "2007-06-14",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response",
+      "patent_id": "patent/US20070132597A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070132597A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080021731A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-24",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response",
+      "patent_id": "patent/US20080021731A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080021731A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7987069B2",
+      "primary_language": "en",
+      "publication_date": "2011-07-26",
+      "title": "Monitoring patient support exiting and initiating response",
+      "patent_id": "patent/US7987069B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7987069B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090044334A1",
+      "primary_language": "en",
+      "publication_date": "2009-02-19",
+      "title": "Automatically adjusting patient platform support height in response to patient related events",
+      "patent_id": "patent/US20090044334A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090044334A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7612666B2",
+      "primary_language": "en",
+      "publication_date": "2009-11-03",
+      "title": "Video based monitoring system",
+      "patent_id": "patent/US7612666B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7612666B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10524722B2",
+      "primary_language": "en",
+      "publication_date": "2020-01-07",
+      "title": "Method and system for determining whether a caregiver takes appropriate measures to prevent patient bedsores",
+      "patent_id": "patent/US10524722B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10524722B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6839205B2",
+      "primary_language": "en",
+      "publication_date": "2021-03-03",
+      "title": "Automated procedure determination and judgment generation",
+      "patent_id": "patent/JP6839205B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6839205B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10121070B2",
+      "primary_language": "en",
+      "publication_date": "2018-11-06",
+      "title": "Video monitoring system",
+      "patent_id": "patent/US10121070B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10121070B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6261879B2",
+      "primary_language": "en",
+      "publication_date": "2018-01-17",
+      "title": "User bed prediction system, method and apparatus",
+      "patent_id": "patent/JP6261879B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6261879B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2770933C",
+      "primary_language": "en",
+      "publication_date": "2021-05-25",
+      "title": "A method and system for monitoring the activity of a subject within spatial temporal and/or behavioral parameters",
+      "patent_id": "patent/CA2770933C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2770933C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114269240A",
+      "primary_language": "en",
+      "publication_date": "2022-04-01",
+      "title": "paramedic assistance system",
+      "patent_id": "patent/CN114269240A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114269240A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160314258A1",
+      "primary_language": "en",
+      "publication_date": "2016-10-27",
+      "title": "Method and system for determining whether a patient has moved or been moved sufficiently to prevent patient bedsores",
+      "patent_id": "patent/US20160314258A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160314258A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20080033752A1",
+      "primary_language": "en",
+      "publication_date": "2008-02-07",
+      "title": "Methods and systems for monitoring staff/patient contacts and ratios",
+      "patent_id": "patent/US20080033752A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080033752A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2024038108A",
+      "primary_language": "en",
+      "publication_date": "2024-03-19",
+      "title": "Information processing equipment, monitoring system, and control program",
+      "patent_id": "patent/JP2024038108A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024038108A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2618615A1",
+      "primary_language": "en",
+      "publication_date": "2007-07-19",
+      "title": "Methods and systems for monitoring patient support exiting and initiating response",
+      "patent_id": "patent/CA2618615A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2618615A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2021106898A4",
+      "primary_language": "en",
+      "publication_date": "2021-11-25",
+      "title": "Network-based smart alert system for hospitals and aged care facilities",
+      "patent_id": "patent/AU2021106898A4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2021106898A4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7259540B2",
+      "primary_language": "en",
+      "publication_date": "2023-04-18",
+      "title": "Determination device, control program for determination device, and determination method",
+      "patent_id": "patent/JP7259540B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7259540B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001195678A",
+      "primary_language": "en",
+      "publication_date": "2001-07-19",
+      "title": "Life management support system for aged person and handicapped person",
+      "patent_id": "patent/JP2001195678A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001195678A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7604792B2",
+      "primary_language": "en",
+      "publication_date": "2024-12-24",
+      "title": "CARE INFORMATION PROCESSING PROGRAM, CARE INFORMATION PROCESSING APPARATUS, AND CARE INFORMATION PROCESSING SYSTEM",
+      "patent_id": "patent/JP7604792B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7604792B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240157900A1",
+      "primary_language": "en",
+      "publication_date": "2024-05-16",
+      "title": "Systems and methods for accident prediction",
+      "patent_id": "patent/US20240157900A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240157900A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-12-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "VALENCE BROADBAND, INC., MISSISSIPPI"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:RODGERS, MARK E.;REEL/FRAME:018598/0741"
+        },
+        {
+          "label": "Effective date",
+          "value": "20061206"
+        }
+      ]
+    },
+    {
+      "date": "2008-09-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SAMARION, INC., MISSISSIPPI"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:VALENCE BROADBAND, INC.;REEL/FRAME:021612/0402"
+        },
+        {
+          "label": "Effective date",
+          "value": "20071207"
+        }
+      ]
+    },
+    {
+      "date": "2010-08-11",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2010-11-16",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BEE CAVE, LLC, TEXAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SAMARION, INC.;REEL/FRAME:025375/0968"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100920"
+        }
+      ]
+    },
+    {
+      "date": "2011-07-26",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2014-04-08",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2014-04-08",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2014-11-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "DATALOGIC IP TECH SRL, ITALY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:BEE CAVE, LLC;REEL/FRAME:034175/0774"
+        },
+        {
+          "label": "Effective date",
+          "value": "20140318"
+        }
+      ]
+    },
+    {
+      "date": "2016-03-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FAMILY PATENT HOLDING, LLC, DELAWARE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:DATALOGIC IP TECH SRL;REEL/FRAME:038275/0418"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160315"
+        }
+      ]
+    },
+    {
+      "date": "2017-05-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CAREVIEW COMMUNICATIONS, INC., TEXAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:FAMILY PATENT HOLDING, LLC;REEL/FRAME:042577/0560"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170525"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-26",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-22",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2553); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ]
+}

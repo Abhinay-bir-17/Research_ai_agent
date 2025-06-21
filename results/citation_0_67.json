@@ -1,0 +1,3440 @@
+{
+  "search_metadata": {
+    "id": "68514e46054e5fe04adff8ed",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8fc1c42fe107054e/68514e46054e5fe04adff8ed.json",
+    "created_at": "2025-06-17 11:15:18 UTC",
+    "processed_at": "2025-06-17 11:15:18 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070094048A1/en",
+    "raw_html_file": "https://serpapi.com/searches/8fc1c42fe107054e/68514e46054e5fe04adff8ed.html",
+    "total_time_taken": 6.72
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070094048A1/en"
+  },
+  "title": "Expert knowledge combination process based medical risk stratifying method and system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ad/df/8e/9aaa8e6641910a/US20070094048A1.pdf",
+  "publication_number": "US20070094048A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "medical",
+    "mrs",
+    "values",
+    "models",
+    "health"
+  ],
+  "prior_art_date": "2005-10-25",
+  "application_number": "US11/495,555",
+  "inventors": [
+    {
+      "name": "Anthony Grichnik",
+      "link": "https://patents.google.com/?inventor=Anthony+Grichnik",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Anthony+Grichnik"
+    }
+  ],
+  "assignees": [
+    "Caterpillar Inc"
+  ],
+  "priority_date": "2005-10-25",
+  "filing_date": "2006-07-31",
+  "publication_date": "2007-04-26",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-10-25",
+        "country_code": "US",
+        "application_number": "US11/257,341",
+        "document_id": "patent/US7487134B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2006": [
+      {
+        "filing_date": "2006-07-31",
+        "country_code": "US",
+        "application_number": "US11/495,555",
+        "document_id": "patent/US7584166B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2006-08-22",
+        "country_code": "WO",
+        "application_number": "PCT/US2006/032778",
+        "document_id": "patent/WO2007050186A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2006-08-22",
+        "country_code": "CN",
+        "application_number": "CNA2006800396905A",
+        "document_id": "patent/CN101297297A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2006-08-22",
+        "country_code": "EP",
+        "application_number": "EP06813643A",
+        "document_id": "patent/EP1941410A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-07-31",
+      "title": "Application filed by Caterpillar Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Caterpillar Inc"
+    },
+    {
+      "date": "2006-07-31",
+      "title": "Priority to US11/495,555",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7584166B2/en"
+    },
+    {
+      "date": "2006-07-31",
+      "title": "Assigned to CATERPILLAR INC.",
+      "type": "reassignment",
+      "assignee_search": "CATERPILLAR INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GRICHNIK, ANTHONY J."
+      ]
+    },
+    {
+      "date": "2007-04-26",
+      "title": "Publication of US20070094048A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070094048A1/en"
+    },
+    {
+      "date": "2009-09-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2009-09-01",
+      "title": "Publication of US7584166B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7584166B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2026-10-12",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070094048.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11495555"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070094048"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007094048A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11495555/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070094048"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/e0/ee/5e/ee5999b14bef4b/US20070094048A1-20070426-D00000.png",
+    "https://patentimages.storage.googleapis.com/e6/7c/2d/0f7bc9545124f7/US20070094048A1-20070426-D00001.png",
+    "https://patentimages.storage.googleapis.com/df/7e/d0/b1971d76fd5a69/US20070094048A1-20070426-D00002.png",
+    "https://patentimages.storage.googleapis.com/c3/79/81/053e70af78fd08/US20070094048A1-20070426-D00003.png",
+    "https://patentimages.storage.googleapis.com/b0/33/08/43185df7178c93/US20070094048A1-20070426-D00004.png",
+    "https://patentimages.storage.googleapis.com/25/24/e0/0f7452f73f23a5/US20070094048A1-20070426-D00005.png",
+    "https://patentimages.storage.googleapis.com/1a/cf/70/851ed8aa7f26c6/US20070094048A1-20070426-D00006.png",
+    "https://patentimages.storage.googleapis.com/2e/e3/53/4289fdcf43ae17/US20070094048A1-20070426-D00007.png",
+    "https://patentimages.storage.googleapis.com/ce/34/0b/3352ac2926dd04/US20070094048A1-20070426-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "G16H50/30",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for calculating health indices; for individual health risk assessment",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H50/20",
+      "description": "ICT specially adapted for medical diagnosis, medical simulation or medical data mining; ICT specially adapted for detecting, monitoring or modelling epidemics or pandemics for computer-aided diagnosis, e.g. based on medical expert systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16Z99/00",
+      "description": "Subject matter not provided for in other main groups of this subclass",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method is provided for a medical risk stratification system. The method may include obtaining data records associated with one or more health variables and a plurality of medical risks from a plurality of MRS models based on an expert knowledge combination process and establishing a medical risk process model indicative of interrelationships between the plurality of medical risks and a plurality of health parameters based on the data records. The method may also include obtaining a set of values corresponding to the plurality of health parameters and calculating values of the plurality of medical risks simultaneously based upon the set of values corresponding to the plurality of health parameters and the medical risk process model. Further, the method may include optimizing the plurality of health parameters to minimize the plurality of medical risks simultaneously and presenting the values of the plurality of medical risks.",
+  "description_link": "https://serpapi.com/searches/68514e46054e5fe04adff8ed/google_patents_details/description.html",
+  "claims": [
+    "1. A method for a medical risk stratification (MRS) system, comprising: \nobtaining data records associated with one or more health variables and a plurality of medical risks from a plurality of MRS models based on an expert knowledge combination process;  establishing a medical risk process model indicative of interrelationships between the plurality of medical risks and a plurality of health parameters based on the data records;  obtaining a set of values corresponding to the plurality of health parameters;  calculating values of the plurality of medical risks simultaneously based upon the set of values corresponding to the plurality of health parameters and the medical risk process model;  optimizing the plurality of health parameters to minimize the plurality of medical risks simultaneously; and  presenting the values of the plurality of medical risks.",
+    "2. The method according to claim 1, wherein the establishing includes: \nselecting the plurality of health parameters from the one or more health variables;  generating a computational model indicative of the interrelationships;  determining desired statistical distributions of the plurality of health parameters of the computational model; and  recalibrating the plurality of health parameters based on the desired statistical distributions.",
+    "3. The method according to claim 2, wherein selecting further includes: \npre-processing the data records; and  using a genetic algorithm to select the plurality of health parameters from the one or more health variables based on a mahalanobis distance between a normal data set and an abnormal data set of the data records.",
+    "4. The method according to claim 2, wherein generating further includes: \ncreating a neural network computational model;  training the neural network computational model using the data records; and  validating the neural network computation model using the data records.",
+    "5. The method according to claim 2, wherein determining further includes: \ndetermining a candidate set of values of the health parameters with a maximum zeta statistic using a genetic algorithm; and  determining the desired distributions of the health parameters based on the candidate set,  wherein the zeta statistic \u03b6 is represented by:       \u03b6 =   \u2211 1 j  \u2062  \u2003  \u2062   \u2211  1 \u2062  \u2003   i  \u2062  \u2003  \u2062   \uf603  S ij  \uf604  \u2062  (   \u03c3 i    x _  i   )  \u2062  (    x _  j   \u03c3 j   )      ,     provided that x i represents a mean of an ith input; x j represents a mean of a jth output; \u03c3i represents a standard deviation of the ith input; \u03c3j represents a standard deviation of the jth output; and |Sij| represents sensitivity of the jth output to the ith input of the computational model.",
+    "\u03b6 =   \u2211 1 j  \u2062  \u2003  \u2062   \u2211  1 \u2062  \u2003   i  \u2062  \u2003  \u2062   \uf603  S ij  \uf604  \u2062  (   \u03c3 i    x _  i   )  \u2062  (    x _  j   \u03c3 j   )      ,",
+    "7. The method according to claim 1, wherein the obtaining data records includes: \nselecting a common medical risk among the plurality of MRS models from the plurality of medical risks, and a plurality of model variables of the plurality of MRS models;  obtaining a set of values of the plurality of model variables;  determining a plurality of values of the common medical risk respectively corresponding to the plurality of MRS models, based on the set of values;  determining a unified medical risk based on the plurality of values of the common medical risks; and  creating the data records associated with the one or more health variables by combining plurality of model variables of the plurality of MRS models and the unified medical risk.",
+    "8. The method according to claim 7, wherein the determining the unified medical risk includes: \ndetermining the unified medical risk as an Euclidean distance in an Euclidean space having a plurality of dimensions, respectively representing the plurality of medical risks of the plurality of MRS models.",
+    "9. The method according to claim 8, wherein: \nprovided that m is an integer representing the total number of the plurality of MRS models, and (x1, x2, x3, . . . , xm) represents the plurality of values of the common medical risk from the plurality of MRS models, respectively; and  the Euclidean distance is determined as (x1 2+x2 2+ . . . +xm 2)1/2.",
+    "10. A computer system, comprising: \na database containing data records associating a plurality of medical risks and a plurality of health parameters; and  a processor configured to: \nobtain data records associated with one or more health variables and a plurality of medical risks from a plurality of MRS models based on an expert knowledge combination process; \nestablish a medical risk process model indicative of interrelationships between the plurality of medical risks and a plurality of health parameters based on the data records; \nobtain a set of values corresponding to the plurality of health parameters; \ncalculate values of the plurality of medical risks simultaneously based upon the set of values corresponding to the plurality of health parameters and the medical risk process model; \noptimize the plurality of health parameters to minimize the plurality of medical risks simultaneously; and \npresent the values of the plurality of medical risks.",
+    "11. The computer system according to claim 10, wherein, to establish the medical risk process model, the processor is further configured to: \nselect the plurality of health parameters from the one or more health variables;  generate a computational model indicative of the interrelationships;  determine desired statistical distributions of the plurality of health parameters of the computational model; and  recalibrate the plurality of health parameters based on the desired statistical distributions.",
+    "12. The computer system according to claim 10, wherein, to obtain the data records, the processor is further configured to: \nselect a common medical risk among the plurality of MRS models from the plurality of medical risks, and a plurality of model variables of the plurality of MRS models;  obtain a set of values of the plurality of model variables;  determine a plurality of values of the common medical risk respectively corresponding to the plurality of MRS models, based on the set of values;  determine a unified medical risk based on the plurality of values of the common medical risks; and  create the data records associated with the one or more health variables by combining plurality of model variables of the plurality of MRS models and the unified medical risk.",
+    "13. The computer system according to claim 12, wherein, to determine the unified medical risk, the processor is further configured to: \ndetermine the unified medical risk as an Euclidean distance in an Euclidean space having a plurality of dimensions, respectively representing the plurality of medical risks of the plurality of MRS models.",
+    "14. The computer system according to claim 13, wherein: \nprovided that m is an integer representing the total number of the plurality of MRS models, and (x1, x2, x3, . . . xm) represents the plurality of values of the common medical risk from the plurality of MRS models, respectively; and  the Euclidean distance is determined as (x1 2+x2 2+ . . . +xm 2)1/2",
+    "15. The computer system according to claim 10, further includes: \none or more input devices configured to obtain the set of values corresponding to the plurality of health parameters indicative of factual and desired health information about an individual user or a population.",
+    "16. The computer system according to claim 10, further includes: \na display device configured to: \ndisplay the set of values of the plurality of health parameters in a first display area; \ndisplay statistic data corresponding to the plurality of heath parameters in a second display area; and \ndisplay the interrelationships between the plurality of health parameters and the plurality of medical risks in a third display area.",
+    "17. A computer-readable medium for use on a computer system configured to perform a medical risk stratification procedure, the computer-readable medium having computer-executable instructions for performing a method comprising: \nobtaining data records associated with one or more health variables and a plurality of medical risks from a plurality of MRS models based on an expert knowledge combination process;  establishing a medical risk process model indicative of interrelationships between the plurality of medical risks and a plurality of health parameters based on the data records;  obtaining a set of values corresponding to the plurality of health parameters;  calculating values of the plurality of medical risks simultaneously based upon the set of values corresponding to the plurality of health parameters and the medical risk process model;  optimizing the plurality of health parameters to minimize the plurality of medical risks simultaneously; and  presenting the values of the plurality of medical risks.",
+    "18. The computer-readable medium according to claim 17, wherein the establishing includes: \nselecting the plurality of health parameters from the one or more health variables;  generating a computational model indicative of the interrelationships;  determining desired statistical distributions of the plurality of health parameters of the computational model; and  recalibrating the plurality of health parameters based on the desired statistical distributions.",
+    "19. The computer-readable medium according to claim 18, wherein determining further includes: \ndetermining a candidate set of values of the health parameters with a maximum zeta statistic using a genetic algorithm; and  determining the desired distributions of the health parameters based on the candidate set,  wherein the zeta statistic \u03b6 is represented by:       \u03b6 =   \u2211 1 j  \u2062  \u2003  \u2062   \u2211  1 \u2062  \u2003   i  \u2062  \u2003  \u2062   \uf603  S ij  \uf604  \u2062  (   \u03c3 i    x _  i   )  \u2062  (    x _  j   \u03c3 j   )      ,     provided that x i represents a mean of an ith input; x j represents a mean of a jth output; \u03c3i represents a standard deviation of the ith input; \u03c3j represents a standard deviation of the jth output; and |Sij| represents sensitivity of the jth output to the ith input of the computational model.",
+    "\u03b6 =   \u2211 1 j  \u2062  \u2003  \u2062   \u2211  1 \u2062  \u2003   i  \u2062  \u2003  \u2062   \uf603  S ij  \uf604  \u2062  (   \u03c3 i    x _  i   )  \u2062  (    x _  j   \u03c3 j   )      ,",
+    "20. The computer-readable medium according to claim 19, wherein the obtaining data records includes: \nselecting a common medical risk among the plurality of MRS models from the plurality of medical risks, and a plurality of model variables of the plurality of MRS models;  obtaining a set of values of the plurality of model variables;  determining a plurality of values of the common medical risk respectively corresponding to the plurality of MRS models, based on the set of values;  determining a unified medical risk based on the plurality of values of the common medical risks; and  creating the data records associated with the one or more health variables by combining plurality of model variables of the plurality of MRS models and the unified medical risk."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US11/257,341",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US7487134B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-25",
+      "filing_date": "2005-10-25",
+      "title": "Medical risk stratifying method and system"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/495,555",
+      "representative_publication": "US7584166B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-25",
+      "filing_date": "2006-07-31",
+      "title": "Expert knowledge combination process based medical risk stratifying method and system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US11/257,341",
+      "representative_publication": "US7487134B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-25",
+      "filing_date": "2005-10-25",
+      "title": "Medical risk stratifying method and system"
+    },
+    {
+      "application_number": "US11/495,555",
+      "representative_publication": "US7584166B2",
+      "primary_language": "en",
+      "priority_date": "2005-10-25",
+      "filing_date": "2006-07-31",
+      "title": "Expert knowledge combination process based medical risk stratifying method and system"
+    }
+  ],
+  "family_id": "37671371",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3316395A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-05-23",
+        "publication_date": "1967-04-25",
+        "assignee_original": "Credit Corp Comp",
+        "title": "Credit risk computer",
+        "patent_id": "patent/US3316395A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3316395A%2Fen"
+      },
+      {
+        "publication_number": "US4136329A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-05-12",
+        "publication_date": "1979-01-23",
+        "assignee_original": "Transportation Logic Corporation",
+        "title": "Engine condition-responsive shutdown and warning apparatus",
+        "patent_id": "patent/US4136329A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4136329A%2Fen"
+      },
+      {
+        "publication_number": "US4533900A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-02-06",
+        "publication_date": "1985-08-06",
+        "assignee_original": "Bayerische Motoren Werke Aktiengesellschaft",
+        "title": "Service-interval display for motor vehicles",
+        "patent_id": "patent/US4533900A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4533900A%2Fen"
+      },
+      {
+        "publication_number": "US5014220A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-09-06",
+        "publication_date": "1991-05-07",
+        "assignee_original": "The Boeing Company",
+        "title": "Reliability model generator",
+        "patent_id": "patent/US5014220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5014220A%2Fen"
+      },
+      {
+        "publication_number": "US5341315A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-03-14",
+        "publication_date": "1994-08-23",
+        "assignee_original": "Matsushita Electric Industrial Co., Ltd.",
+        "title": "Test pattern generation device",
+        "patent_id": "patent/US5341315A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5341315A%2Fen"
+      },
+      {
+        "publication_number": "US5386373A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-08-05",
+        "publication_date": "1995-01-31",
+        "assignee_original": "Pavilion Technologies, Inc.",
+        "title": "Virtual continuous emission monitoring system with sensor validation",
+        "patent_id": "patent/US5386373A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5386373A%2Fen"
+      },
+      {
+        "publication_number": "US5434796A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-06-30",
+        "publication_date": "1995-07-18",
+        "assignee_original": "Daylight Chemical Information Systems, Inc.",
+        "title": "Method and apparatus for designing molecules with desired properties by evolving successive populations",
+        "patent_id": "patent/US5434796A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5434796A%2Fen"
+      },
+      {
+        "publication_number": "US5539638A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-08-05",
+        "publication_date": "1996-07-23",
+        "assignee_original": "Pavilion Technologies, Inc.",
+        "title": "Virtual emissions monitor for automobile",
+        "patent_id": "patent/US5539638A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5539638A%2Fen"
+      },
+      {
+        "publication_number": "US5594637A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-05-26",
+        "publication_date": "1997-01-14",
+        "assignee_original": "Base Ten Systems, Inc.",
+        "title": "System and method for assessing medical risk",
+        "patent_id": "patent/US5594637A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5594637A%2Fen"
+      },
+      {
+        "publication_number": "US5598076A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-12-09",
+        "publication_date": "1997-01-28",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Process for optimizing control parameters for a system having an actual behavior depending on the control parameters",
+        "patent_id": "patent/US5598076A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5598076A%2Fen"
+      },
+      {
+        "publication_number": "US5604895A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-02-22",
+        "publication_date": "1997-02-18",
+        "assignee_original": "Motorola Inc.",
+        "title": "Method and apparatus for inserting computer code into a high level language (HLL) software model of an electrical circuit to monitor test coverage of the software model when exposed to test inputs",
+        "patent_id": "patent/US5604895A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5604895A%2Fen"
+      },
+      {
+        "publication_number": "US5604306A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-07-28",
+        "publication_date": "1997-02-18",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Apparatus and method for detecting a plugged air filter on an engine",
+        "patent_id": "patent/US5604306A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5604306A%2Fen"
+      },
+      {
+        "publication_number": "US5608865A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-14",
+        "publication_date": "1997-03-04",
+        "assignee_original": "Network Integrity, Inc.",
+        "title": "Stand-in Computer file server providing fast recovery from computer file server failures",
+        "patent_id": "patent/US5608865A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5608865A%2Fen"
+      },
+      {
+        "publication_number": "US5727128A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-08",
+        "publication_date": "1998-03-10",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "System and method for automatically determining a set of variables for use in creating a process model",
+        "patent_id": "patent/US5727128A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5727128A%2Fen"
+      },
+      {
+        "publication_number": "US5750887A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-18",
+        "publication_date": "1998-05-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method for determining a remaining life of engine oil",
+        "patent_id": "patent/US5750887A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5750887A%2Fen"
+      },
+      {
+        "publication_number": "US5752007A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-11",
+        "publication_date": "1998-05-12",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "System and method using separators for developing training records for use in creating an empirical model of a process",
+        "patent_id": "patent/US5752007A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5752007A%2Fen"
+      },
+      {
+        "publication_number": "US5914890A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-30",
+        "publication_date": "1999-06-22",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method for determining the condition of engine oil based on soot modeling",
+        "patent_id": "patent/US5914890A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5914890A%2Fen"
+      },
+      {
+        "publication_number": "US5925089A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-10",
+        "publication_date": "1999-07-20",
+        "assignee_original": "Yamaha Hatsudoki Kabushiki Kaisha",
+        "title": "Model-based control method and apparatus using inverse model",
+        "patent_id": "patent/US5925089A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5925089A%2Fen"
+      },
+      {
+        "publication_number": "US6086617A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-07-18",
+        "publication_date": "2000-07-11",
+        "assignee_original": "Engineous Software, Inc.",
+        "title": "User directed heuristic design optimization search",
+        "patent_id": "patent/US6086617A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6086617A%2Fen"
+      },
+      {
+        "publication_number": "US6092016A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-01-25",
+        "publication_date": "2000-07-18",
+        "assignee_original": "Caterpillar, Inc.",
+        "title": "Apparatus and method for diagnosing an engine using an exhaust temperature model",
+        "patent_id": "patent/US6092016A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6092016A%2Fen"
+      },
+      {
+        "publication_number": "US6195648B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-10",
+        "publication_date": "2001-02-27",
+        "assignee_original": "Frank Simon",
+        "title": "Loan repay enforcement system",
+        "patent_id": "patent/US6195648B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6195648B1%2Fen"
+      },
+      {
+        "publication_number": "US6199007B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-07-09",
+        "publication_date": "2001-03-06",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for determining an absolute power loss condition in an internal combustion engine",
+        "patent_id": "patent/US6199007B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6199007B1%2Fen"
+      },
+      {
+        "publication_number": "US6208982B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-18",
+        "publication_date": "2001-03-27",
+        "assignee_original": "Lockheed Martin Energy Research Corporation",
+        "title": "Method and apparatus for solving complex and computationally intensive inverse problems in real-time",
+        "patent_id": "patent/US6208982B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6208982B1%2Fen"
+      },
+      {
+        "publication_number": "US6223133B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-14",
+        "publication_date": "2001-04-24",
+        "assignee_original": "Exxon Research And Engineering Company",
+        "title": "Method for optimizing multivariate calibrations",
+        "patent_id": "patent/US6223133B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6223133B1%2Fen"
+      },
+      {
+        "publication_number": "US6236908B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-05-07",
+        "publication_date": "2001-05-22",
+        "assignee_original": "Ford Global Technologies, Inc.",
+        "title": "Virtual vehicle sensors based on neural networks trained using data generated by simulation models",
+        "patent_id": "patent/US6236908B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6236908B1%2Fen"
+      },
+      {
+        "publication_number": "US6240343B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-28",
+        "publication_date": "2001-05-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Apparatus and method for diagnosing an engine using computer based models in combination with a neural network",
+        "patent_id": "patent/US6240343B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6240343B1%2Fen"
+      },
+      {
+        "publication_number": "US6267722B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-03",
+        "publication_date": "2001-07-31",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6267722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6267722B1%2Fen"
+      },
+      {
+        "publication_number": "US6269351B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-31",
+        "publication_date": "2001-07-31",
+        "assignee_original": "Dryken Technologies, Inc.",
+        "title": "Method and system for training an artificial neural network",
+        "patent_id": "patent/US6269351B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6269351B1%2Fen"
+      },
+      {
+        "publication_number": "US20020016701A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-27",
+        "publication_date": "2002-02-07",
+        "assignee_original": "Emmanuel Duret",
+        "title": "Method and system intended for real-time estimation of the flow mode of a multiphase fluid stream at all points of a pipe",
+        "patent_id": "patent/US20020016701A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020016701A1%2Fen"
+      },
+      {
+        "publication_number": "US20020014294A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-29",
+        "publication_date": "2002-02-07",
+        "assignee_original": "The Yokohama Rubber Co., Ltd.",
+        "title": "Shape design process of engineering products and pneumatic tire designed using the present design process",
+        "patent_id": "patent/US20020014294A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020014294A1%2Fen"
+      },
+      {
+        "publication_number": "US6370544B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-06-18",
+        "publication_date": "2002-04-09",
+        "assignee_original": "Itt Manufacturing Enterprises, Inc.",
+        "title": "System and method for integrating enterprise management application with network management operations",
+        "patent_id": "patent/US6370544B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6370544B1%2Fen"
+      },
+      {
+        "publication_number": "US20020042784A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-10-06",
+        "publication_date": "2002-04-11",
+        "assignee_original": "Kerven David S.",
+        "title": "System and method for automatically searching and analyzing intellectual property-related materials",
+        "patent_id": "patent/US20020042784A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020042784A1%2Fen"
+      },
+      {
+        "publication_number": "US20020049704A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-04",
+        "publication_date": "2002-04-25",
+        "assignee_original": "Vanderveldt Ingrid V.",
+        "title": "Method and system for dynamic data-mining and on-line communication of customized information",
+        "patent_id": "patent/US20020049704A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020049704A1%2Fen"
+      },
+      {
+        "publication_number": "US6394952B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-02-03",
+        "publication_date": "2002-05-28",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6394952B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6394952B1%2Fen"
+      },
+      {
+        "publication_number": "US6405122B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-14",
+        "publication_date": "2002-06-11",
+        "assignee_original": "Yamaha Hatsudoki Kabushiki Kaisha",
+        "title": "Method and apparatus for estimating data for engine control",
+        "patent_id": "patent/US6405122B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6405122B1%2Fen"
+      },
+      {
+        "publication_number": "US20030018503A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-19",
+        "publication_date": "2003-01-23",
+        "assignee_original": "Shulman Ronald F.",
+        "title": "Computer-based system and method for monitoring the profitability of a manufacturing plant",
+        "patent_id": "patent/US20030018503A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030018503A1%2Fen"
+      },
+      {
+        "publication_number": "US6513018B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-05",
+        "publication_date": "2003-01-28",
+        "assignee_original": "Fair, Isaac And Company, Inc.",
+        "title": "Method and apparatus for scoring the likelihood of a desired performance result",
+        "patent_id": "patent/US6513018B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6513018B1%2Fen"
+      },
+      {
+        "publication_number": "US20030055607A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-11",
+        "publication_date": "2003-03-20",
+        "assignee_original": "Wegerich Stephan W.",
+        "title": "Residual signal alert generation for condition monitoring using approximated SPRT distribution",
+        "patent_id": "patent/US20030055607A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030055607A1%2Fen"
+      },
+      {
+        "publication_number": "US6546379B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-10-26",
+        "publication_date": "2003-04-08",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Cascade boosting of predictive models",
+        "patent_id": "patent/US6546379B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6546379B1%2Fen"
+      },
+      {
+        "publication_number": "US20030093250A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-08",
+        "publication_date": "2003-05-15",
+        "assignee_original": "Goebel Kai Frank",
+        "title": "System, method and computer product for incremental improvement of algorithm performance during algorithm development",
+        "patent_id": "patent/US20030093250A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030093250A1%2Fen"
+      },
+      {
+        "publication_number": "US6584768B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-16",
+        "publication_date": "2003-07-01",
+        "assignee_original": "The Majestic Companies, Ltd.",
+        "title": "Vehicle exhaust filtration system and method",
+        "patent_id": "patent/US6584768B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6584768B1%2Fen"
+      },
+      {
+        "publication_number": "US20030126053A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-28",
+        "publication_date": "2003-07-03",
+        "assignee_original": "Jonathan Boswell",
+        "title": "System and method for pricing of a financial product or service using a waterfall tool",
+        "patent_id": "patent/US20030126053A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030126053A1%2Fen"
+      },
+      {
+        "publication_number": "US20030126103A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-11-14",
+        "publication_date": "2003-07-03",
+        "assignee_original": "Ye Chen",
+        "title": "Agent using detailed predictive model",
+        "patent_id": "patent/US20030126103A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030126103A1%2Fen"
+      },
+      {
+        "publication_number": "US20030130855A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-28",
+        "publication_date": "2003-07-10",
+        "assignee_original": "Lucent Technologies Inc.",
+        "title": "System and method for compressing a data table using models",
+        "patent_id": "patent/US20030130855A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030130855A1%2Fen"
+      },
+      {
+        "publication_number": "US6594989B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-17",
+        "publication_date": "2003-07-22",
+        "assignee_original": "Ford Global Technologies, Llc",
+        "title": "Method and apparatus for enhancing fuel economy of a lean burn internal combustion engine",
+        "patent_id": "patent/US6594989B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6594989B1%2Fen"
+      },
+      {
+        "publication_number": "US20040030420A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-30",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Ulyanov Sergei V.",
+        "title": "System and method for nonlinear dynamic control based on soft computing with discrete constraints",
+        "patent_id": "patent/US20040030420A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040030420A1%2Fen"
+      },
+      {
+        "publication_number": "US20040034857A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-19",
+        "publication_date": "2004-02-19",
+        "assignee_original": "Mangino Kimberley Marie",
+        "title": "System and method for simulating a discrete event process using business system data",
+        "patent_id": "patent/US20040034857A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040034857A1%2Fen"
+      },
+      {
+        "publication_number": "US6698203B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-19",
+        "publication_date": "2004-03-02",
+        "assignee_original": "Cummins, Inc.",
+        "title": "System for estimating absolute boost pressure in a turbocharged internal combustion engine",
+        "patent_id": "patent/US6698203B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6698203B2%2Fen"
+      },
+      {
+        "publication_number": "US6711676B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-15",
+        "publication_date": "2004-03-23",
+        "assignee_original": "Zomaya Group, Inc.",
+        "title": "System and method for providing computer upgrade information",
+        "patent_id": "patent/US6711676B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6711676B1%2Fen"
+      },
+      {
+        "publication_number": "US20040059518A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-11",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Rothschild Walter Galeski",
+        "title": "Systems and methods for statistical modeling of complex data sets",
+        "patent_id": "patent/US20040059518A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040059518A1%2Fen"
+      },
+      {
+        "publication_number": "US6721606B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-24",
+        "publication_date": "2004-04-13",
+        "assignee_original": "Yamaha Hatsudoki Kabushiki Kaisha",
+        "title": "Method and apparatus for optimizing overall characteristics of device",
+        "patent_id": "patent/US6721606B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6721606B1%2Fen"
+      },
+      {
+        "publication_number": "US6725208B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-06",
+        "publication_date": "2004-04-20",
+        "assignee_original": "Pavilion Technologies, Inc.",
+        "title": "Bayesian neural networks for optimization and control",
+        "patent_id": "patent/US6725208B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6725208B1%2Fen"
+      },
+      {
+        "publication_number": "US20040077966A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-17",
+        "publication_date": "2004-04-22",
+        "assignee_original": "Fuji Xerox Co., Ltd.",
+        "title": "Electroencephalogram diagnosis apparatus and method",
+        "patent_id": "patent/US20040077966A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040077966A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122703A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-19",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Walker Matthew J.",
+        "title": "Medical data operating model development system and method",
+        "patent_id": "patent/US20040122703A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122703A1%2Fen"
+      },
+      {
+        "publication_number": "US20040122702A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-18",
+        "publication_date": "2004-06-24",
+        "assignee_original": "Sabol John M.",
+        "title": "Medical data processing system and method",
+        "patent_id": "patent/US20040122702A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040122702A1%2Fen"
+      },
+      {
+        "publication_number": "US20040128058A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-30",
+        "publication_date": "2004-07-01",
+        "assignee_original": "Andres David J.",
+        "title": "Engine control strategies",
+        "patent_id": "patent/US20040128058A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040128058A1%2Fen"
+      },
+      {
+        "publication_number": "US20040138995A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-16",
+        "publication_date": "2004-07-15",
+        "assignee_original": "Fidelity National Financial, Inc.",
+        "title": "Preparation of an advanced report for use in assessing credit worthiness of borrower",
+        "patent_id": "patent/US20040138995A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040138995A1%2Fen"
+      },
+      {
+        "publication_number": "US20040135677A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-26",
+        "publication_date": "2004-07-15",
+        "assignee_original": "Robert Asam",
+        "title": "Use of the data stored by a racing car positioning system for supporting computer-based simulation games",
+        "patent_id": "patent/US20040135677A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040135677A1%2Fen"
+      },
+      {
+        "publication_number": "US6763708B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-31",
+        "publication_date": "2004-07-20",
+        "assignee_original": "General Motors Corporation",
+        "title": "Passive model-based EGR diagnostic",
+        "patent_id": "patent/US6763708B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6763708B2%2Fen"
+      },
+      {
+        "publication_number": "US6859785B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-11",
+        "publication_date": "2005-02-22",
+        "assignee_original": "Case Strategy Llp",
+        "title": "Diagnostic method and apparatus for business growth strategy",
+        "patent_id": "patent/US6859785B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6859785B2%2Fen"
+      },
+      {
+        "publication_number": "US6859770B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-30",
+        "publication_date": "2005-02-22",
+        "assignee_original": "Hewlett-Packard Development Company, L.P.",
+        "title": "Method and apparatus for generating transaction-based stimulus for simulation of VLSI circuits using event coverage analysis",
+        "patent_id": "patent/US6859770B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6859770B2%2Fen"
+      },
+      {
+        "publication_number": "US20050047661A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-29",
+        "publication_date": "2005-03-03",
+        "assignee_original": "Maurer Donald E.",
+        "title": "Distance sorting algorithm for matching patterns",
+        "patent_id": "patent/US20050047661A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050047661A1%2Fen"
+      },
+      {
+        "publication_number": "US20050055176A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-20",
+        "publication_date": "2005-03-10",
+        "assignee_original": "Clarke Burton R.",
+        "title": "Method of analyzing a product",
+        "patent_id": "patent/US20050055176A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050055176A1%2Fen"
+      },
+      {
+        "publication_number": "US6865883B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-12",
+        "publication_date": "2005-03-15",
+        "assignee_original": "Detroit Diesel Corporation",
+        "title": "System and method for regenerating exhaust system filtering and catalyst components",
+        "patent_id": "patent/US6865883B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6865883B2%2Fen"
+      },
+      {
+        "publication_number": "US6882929B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-15",
+        "publication_date": "2005-04-19",
+        "assignee_original": "Caterpillar Inc",
+        "title": "NOx emission-control system using a virtual sensor",
+        "patent_id": "patent/US6882929B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6882929B2%2Fen"
+      },
+      {
+        "publication_number": "US20050091093A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-24",
+        "publication_date": "2005-04-28",
+        "assignee_original": "Inernational Business Machines Corporation",
+        "title": "End-to-end business process solution creation",
+        "patent_id": "patent/US20050091093A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050091093A1%2Fen"
+      },
+      {
+        "publication_number": "US6895286B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-01",
+        "publication_date": "2005-05-17",
+        "assignee_original": "Yamaha Hatsudoki Kabushiki Kaisha",
+        "title": "Control system of optimizing the function of machine assembly using GA-Fuzzy inference",
+        "patent_id": "patent/US6895286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6895286B2%2Fen"
+      },
+      {
+        "publication_number": "US20060010157A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-09",
+        "publication_date": "2006-01-12",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Systems and methods to facilitate utilization of database modeling",
+        "patent_id": "patent/US20060010157A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060010157A1%2Fen"
+      },
+      {
+        "publication_number": "US20060010142A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-09",
+        "publication_date": "2006-01-12",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Modeling sequence and time series data in predictive analytics",
+        "patent_id": "patent/US20060010142A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060010142A1%2Fen"
+      },
+      {
+        "publication_number": "US20060010057A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-10",
+        "publication_date": "2006-01-12",
+        "assignee_original": "Bradway Robert A",
+        "title": "Systems and methods for conducting an interactive financial simulation",
+        "patent_id": "patent/US20060010057A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060010057A1%2Fen"
+      },
+      {
+        "publication_number": "US20060025897A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-30",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Shostak Oleksandr T",
+        "title": "Sensor assemblies",
+        "patent_id": "patent/US20060025897A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060025897A1%2Fen"
+      },
+      {
+        "publication_number": "US20060026587A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-28",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Lemarroy Luis A",
+        "title": "Systems and methods for operating system migration",
+        "patent_id": "patent/US20060026587A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060026587A1%2Fen"
+      },
+      {
+        "publication_number": "US20060026270A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-30",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Automatic protocol migration when upgrading operating systems",
+        "patent_id": "patent/US20060026270A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060026270A1%2Fen"
+      },
+      {
+        "publication_number": "US7000229B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-24",
+        "publication_date": "2006-02-14",
+        "assignee_original": "Sun Microsystems, Inc.",
+        "title": "Method and system for live operating environment upgrades",
+        "patent_id": "patent/US7000229B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7000229B2%2Fen"
+      },
+      {
+        "publication_number": "US20060064474A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-23",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Feinleib David A",
+        "title": "System and method for automated migration from Linux to Windows",
+        "patent_id": "patent/US20060064474A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060064474A1%2Fen"
+      },
+      {
+        "publication_number": "US20060068973A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-27",
+        "publication_date": "2006-03-30",
+        "assignee_original": "Todd Kappauf",
+        "title": "Oxygen depletion sensing for a remote starting vehicle",
+        "patent_id": "patent/US20060068973A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060068973A1%2Fen"
+      },
+      {
+        "publication_number": "US7024343B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-07",
+        "publication_date": "2006-04-04",
+        "assignee_original": "Visteon Global Technologies, Inc.",
+        "title": "Method for calibrating a mathematical model",
+        "patent_id": "patent/US7024343B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7024343B2%2Fen"
+      },
+      {
+        "publication_number": "US7027953B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-30",
+        "publication_date": "2006-04-11",
+        "assignee_original": "Rsl Electronics Ltd.",
+        "title": "Method and system for diagnostics and prognostics of a mechanical system",
+        "patent_id": "patent/US7027953B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7027953B2%2Fen"
+      },
+      {
+        "publication_number": "US7035834B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-15",
+        "publication_date": "2006-04-25",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Engine control system using a cascaded neural network",
+        "patent_id": "patent/US7035834B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7035834B2%2Fen"
+      },
+      {
+        "publication_number": "US20060129289A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-22",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Kumar Ajith K",
+        "title": "System and method for managing emissions from mobile vehicles",
+        "patent_id": "patent/US20060129289A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060129289A1%2Fen"
+      },
+      {
+        "publication_number": "US20060130052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-14",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Allen James P",
+        "title": "Operating system migration with minimal storage area network reconfiguration",
+        "patent_id": "patent/US20060130052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060130052A1%2Fen"
+      },
+      {
+        "publication_number": "US7174284B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-21",
+        "publication_date": "2007-02-06",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Apparatus and method for simulation of the control and machine behavior of machine tools and production-line machines",
+        "patent_id": "patent/US7174284B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7174284B2%2Fen"
+      },
+      {
+        "publication_number": "US7178328B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-20",
+        "publication_date": "2007-02-20",
+        "assignee_original": "General Motors Corporation",
+        "title": "System for controlling the urea supply to SCR catalysts",
+        "patent_id": "patent/US7178328B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7178328B2%2Fen"
+      },
+      {
+        "publication_number": "US7191161B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-31",
+        "publication_date": "2007-03-13",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Method for constructing composite response surfaces by combining neural networks with polynominal interpolation or estimation techniques",
+        "patent_id": "patent/US7191161B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7191161B1%2Fen"
+      },
+      {
+        "publication_number": "US20070061144A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-30",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Batch statistics process model method and system",
+        "patent_id": "patent/US20070061144A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070061144A1%2Fen"
+      },
+      {
+        "publication_number": "US7194392B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-23",
+        "publication_date": "2007-03-20",
+        "assignee_original": "Taner Tuken",
+        "title": "System for estimating model parameters",
+        "patent_id": "patent/US7194392B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7194392B2%2Fen"
+      },
+      {
+        "publication_number": "US20070094181A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-07",
+        "publication_date": "2007-04-26",
+        "assignee_original": "Mci, Llc.",
+        "title": "Artificial intelligence trending system",
+        "patent_id": "patent/US20070094181A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070094181A1%2Fen"
+      },
+      {
+        "publication_number": "US7213007B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-24",
+        "publication_date": "2007-05-01",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Method for forecasting using a genetic algorithm",
+        "patent_id": "patent/US7213007B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7213007B2%2Fen"
+      },
+      {
+        "publication_number": "US20070118338A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model based virtual sensor and method",
+        "patent_id": "patent/US20070118338A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118338A1%2Fen"
+      },
+      {
+        "publication_number": "US20070124237A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-30",
+        "publication_date": "2007-05-31",
+        "assignee_original": "General Electric Company",
+        "title": "System and method for optimizing cross-sell decisions for financial products",
+        "patent_id": "patent/US20070124237A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070124237A1%2Fen"
+      },
+      {
+        "publication_number": "US20070150332A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-22",
+        "publication_date": "2007-06-28",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Heuristic supply chain modeling method and system",
+        "patent_id": "patent/US20070150332A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070150332A1%2Fen"
+      },
+      {
+        "publication_number": "US20070168494A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-22",
+        "publication_date": "2007-07-19",
+        "assignee_original": "Zhen Liu",
+        "title": "Method and system for on-line performance modeling using inference for real production it systems",
+        "patent_id": "patent/US20070168494A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070168494A1%2Fen"
+      },
+      {
+        "publication_number": "US7356393B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-18",
+        "publication_date": "2008-04-08",
+        "assignee_original": "Turfcentric, Inc.",
+        "title": "Integrated system for routine maintenance of mechanized equipment",
+        "patent_id": "patent/US7356393B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7356393B1%2Fen"
+      },
+      {
+        "publication_number": "US7369925B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-11",
+        "publication_date": "2008-05-06",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Vehicle failure diagnosis apparatus and in-vehicle terminal for vehicle failure diagnosis",
+        "patent_id": "patent/US7369925B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7369925B2%2Fen"
+      },
+      {
+        "publication_number": "US7379885B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-10",
+        "publication_date": "2008-05-27",
+        "assignee_original": "David S. Zakim",
+        "title": "System and method for obtaining, processing and evaluating patient information for diagnosing disease and selecting treatment",
+        "patent_id": "patent/US7379885B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7379885B1%2Fen"
+      },
+      {
+        "publication_number": "US20080154881A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-20",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Hong Fu Jin Precision Industry (Shenzhen) Co.,Ltd.",
+        "title": "System and method for filtering xml files",
+        "patent_id": "patent/US20080154881A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154881A1%2Fen"
+      },
+      {
+        "publication_number": "US7487134B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-25",
+        "publication_date": "2009-02-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Medical risk stratifying method and system",
+        "patent_id": "patent/US7487134B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7487134B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5262941A",
+        "primary_language": "en",
+        "priority_date": "1990-03-30",
+        "publication_date": "1993-11-16",
+        "assignee_original": "Itt Corporation",
+        "title": "Expert credit recommendation method and system",
+        "patent_id": "patent/US5262941A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5262941A%2Fen"
+      },
+      {
+        "publication_number": "US5163412A",
+        "primary_language": "en",
+        "priority_date": "1991-11-08",
+        "publication_date": "1992-11-17",
+        "assignee_original": "Neutronics Enterprises, Inc.",
+        "title": "Pollution control system for older vehicles",
+        "patent_id": "patent/US5163412A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5163412A%2Fen"
+      },
+      {
+        "publication_number": "US5666297A",
+        "primary_language": "en",
+        "priority_date": "1994-05-13",
+        "publication_date": "1997-09-09",
+        "assignee_original": "Aspen Technology, Inc.",
+        "title": "Plant simulation and optimization software apparatus and method using dual execution models",
+        "patent_id": "patent/US5666297A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5666297A%2Fen"
+      },
+      {
+        "publication_number": "US5561610A",
+        "primary_language": "en",
+        "priority_date": "1994-06-30",
+        "publication_date": "1996-10-01",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and apparatus for indicating a fault condition",
+        "patent_id": "patent/US5561610A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5561610A%2Fen"
+      },
+      {
+        "publication_number": "US5566091A",
+        "primary_language": "en",
+        "priority_date": "1994-06-30",
+        "publication_date": "1996-10-15",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and apparatus for machine health inference by comparing two like loaded components",
+        "patent_id": "patent/US5566091A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5566091A%2Fen"
+      },
+      {
+        "publication_number": "US5835902A",
+        "primary_language": "en",
+        "priority_date": "1994-11-02",
+        "publication_date": "1998-11-10",
+        "assignee_original": "Jannarone; Robert J.",
+        "title": "Concurrent learning and performance information processing system",
+        "patent_id": "patent/US5835902A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5835902A%2Fen"
+      },
+      {
+        "publication_number": "US5585553A",
+        "primary_language": "en",
+        "priority_date": "1995-07-28",
+        "publication_date": "1996-12-17",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Apparatus and method for diagnosing an engine using a boost pressure model",
+        "patent_id": "patent/US5585553A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5585553A%2Fen"
+      },
+      {
+        "publication_number": "US5719796A",
+        "primary_language": "en",
+        "priority_date": "1995-12-04",
+        "publication_date": "1998-02-17",
+        "assignee_original": "Advanced Micro Devices, Inc.",
+        "title": "System for monitoring and analyzing manufacturing processes using statistical simulation with single step feedback",
+        "patent_id": "patent/US5719796A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5719796A%2Fen"
+      },
+      {
+        "publication_number": "JPH09158775A",
+        "primary_language": "en",
+        "priority_date": "1995-12-06",
+        "publication_date": "1997-06-17",
+        "assignee_original": "Toyota Motor Corp",
+        "title": "Abnormality detecting device of intake air pressure sensor of internal combustion engine",
+        "patent_id": "patent/JPH09158775A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09158775A%2Fen"
+      },
+      {
+        "publication_number": "US6438430B1",
+        "primary_language": "en",
+        "priority_date": "1996-05-06",
+        "publication_date": "2002-08-20",
+        "assignee_original": "Pavilion Technologies, Inc.",
+        "title": "Kiln thermal and combustion control",
+        "patent_id": "patent/US6438430B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6438430B1%2Fen"
+      },
+      {
+        "publication_number": "US6108635A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-22",
+        "publication_date": "2000-08-22",
+        "assignee_original": "Interleukin Genetics, Inc.",
+        "title": "Integrated disease information system",
+        "patent_id": "patent/US6108635A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6108635A%2Fen"
+      },
+      {
+        "publication_number": "US5842202A",
+        "primary_language": "en",
+        "priority_date": "1996-11-27",
+        "publication_date": "1998-11-24",
+        "assignee_original": "Massachusetts Institute Of Technology",
+        "title": "Systems and methods for data quality management",
+        "patent_id": "patent/US5842202A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5842202A%2Fen"
+      },
+      {
+        "publication_number": "JPH10332621A",
+        "primary_language": "en",
+        "priority_date": "1997-06-02",
+        "publication_date": "1998-12-18",
+        "assignee_original": "Shimadzu Corp",
+        "title": "Evaluation method for zeta potential and measuring apparatus for zeta potential",
+        "patent_id": "patent/JPH10332621A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10332621A%2Fen"
+      },
+      {
+        "publication_number": "US5950147A",
+        "primary_language": "en",
+        "priority_date": "1997-06-05",
+        "publication_date": "1999-09-07",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and apparatus for predicting a fault condition",
+        "patent_id": "patent/US5950147A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5950147A%2Fen"
+      },
+      {
+        "publication_number": "US6145066A",
+        "primary_language": "en",
+        "priority_date": "1997-11-14",
+        "publication_date": "2000-11-07",
+        "assignee_original": "Amdahl Corporation",
+        "title": "Computer system with transparent data migration between storage volumes",
+        "patent_id": "patent/US6145066A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6145066A%2Fen"
+      },
+      {
+        "publication_number": "US6477660B1",
+        "primary_language": "en",
+        "priority_date": "1998-03-03",
+        "publication_date": "2002-11-05",
+        "assignee_original": "Sap Aktiengesellschaft",
+        "title": "Data model for supply chain planning",
+        "patent_id": "patent/US6477660B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6477660B1%2Fen"
+      },
+      {
+        "publication_number": "US5987976A",
+        "primary_language": "en",
+        "priority_date": "1998-03-12",
+        "publication_date": "1999-11-23",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method for determining the condition of engine oil based on TBN modeling",
+        "patent_id": "patent/US5987976A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5987976A%2Fen"
+      },
+      {
+        "publication_number": "US6119074A",
+        "primary_language": "en",
+        "priority_date": "1998-05-20",
+        "publication_date": "2000-09-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and apparatus of predicting a fault condition",
+        "patent_id": "patent/US6119074A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6119074A%2Fen"
+      },
+      {
+        "publication_number": "JPH11351045A",
+        "primary_language": "en",
+        "priority_date": "1998-06-09",
+        "publication_date": "1999-12-21",
+        "assignee_original": "Hitachi Ltd",
+        "title": "Method for estimating the quantity indicating the state of the engine",
+        "patent_id": "patent/JPH11351045A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11351045A%2Fen"
+      },
+      {
+        "publication_number": "US20060117274A1",
+        "primary_language": "en",
+        "priority_date": "1998-08-31",
+        "publication_date": "2006-06-01",
+        "assignee_original": "Tseng Ping-Sheng",
+        "title": "Behavior processor system and method",
+        "patent_id": "patent/US20060117274A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060117274A1%2Fen"
+      },
+      {
+        "publication_number": "US6941287B1",
+        "primary_language": "en",
+        "priority_date": "1999-04-30",
+        "publication_date": "2005-09-06",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Distributed hierarchical evolutionary modeling and visualization of empirical data",
+        "patent_id": "patent/US6941287B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6941287B1%2Fen"
+      },
+      {
+        "publication_number": "US6442511B1",
+        "primary_language": "en",
+        "priority_date": "1999-09-03",
+        "publication_date": "2002-08-27",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and apparatus for determining the severity of a trend toward an impending machine failure and responding to the same",
+        "patent_id": "patent/US6442511B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6442511B1%2Fen"
+      },
+      {
+        "publication_number": "US6976062B1",
+        "primary_language": "en",
+        "priority_date": "1999-09-22",
+        "publication_date": "2005-12-13",
+        "assignee_original": "Intermec Ip Corp.",
+        "title": "Automated software upgrade utility",
+        "patent_id": "patent/US6976062B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6976062B1%2Fen"
+      },
+      {
+        "publication_number": "US7020595B1",
+        "primary_language": "en",
+        "priority_date": "1999-11-26",
+        "publication_date": "2006-03-28",
+        "assignee_original": "General Electric Company",
+        "title": "Methods and apparatus for model based diagnostics",
+        "patent_id": "patent/US7020595B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7020595B1%2Fen"
+      },
+      {
+        "publication_number": "US6775647B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-02",
+        "publication_date": "2004-08-10",
+        "assignee_original": "American Technology & Services, Inc.",
+        "title": "Method and system for estimating manufacturing costs",
+        "patent_id": "patent/US6775647B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6775647B1%2Fen"
+      },
+      {
+        "publication_number": "US6298718B1",
+        "primary_language": "en",
+        "priority_date": "2000-03-08",
+        "publication_date": "2001-10-09",
+        "assignee_original": "Cummins Engine Company, Inc.",
+        "title": "Turbocharger compressor diagnostic system",
+        "patent_id": "patent/US6298718B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6298718B1%2Fen"
+      },
+      {
+        "publication_number": "US6952662B2",
+        "primary_language": "en",
+        "priority_date": "2000-03-30",
+        "publication_date": "2005-10-04",
+        "assignee_original": "Smartsignal Corporation",
+        "title": "Signal differentiation system using improved non-linear operator",
+        "patent_id": "patent/US6952662B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6952662B2%2Fen"
+      },
+      {
+        "publication_number": "US7233886B2",
+        "primary_language": "en",
+        "priority_date": "2001-01-19",
+        "publication_date": "2007-06-19",
+        "assignee_original": "Smartsignal Corporation",
+        "title": "Adaptive modeling of changed states in predictive condition monitoring",
+        "patent_id": "patent/US7233886B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7233886B2%2Fen"
+      },
+      {
+        "publication_number": "US20020103996A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-31",
+        "publication_date": "2002-08-01",
+        "assignee_original": "Levasseur Joshua T.",
+        "title": "Method and system for installing an operating system",
+        "patent_id": "patent/US20020103996A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020103996A1%2Fen"
+      },
+      {
+        "publication_number": "JP4446366B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-22",
+        "publication_date": "2010-04-07",
+        "assignee_original": "\u6771\u4eac\u74e6\u65af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Exhaust gas purification method and apparatus for lean combustion gas engine",
+        "patent_id": "patent/JP4446366B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4446366B2%2Fen"
+      },
+      {
+        "publication_number": "US20020198821A1",
+        "primary_language": "en",
+        "priority_date": "2001-06-21",
+        "publication_date": "2002-12-26",
+        "assignee_original": "Rodrigo Munoz",
+        "title": "Method and apparatus for matching risk to return",
+        "patent_id": "patent/US20020198821A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020198821A1%2Fen"
+      },
+      {
+        "publication_number": "WO2003067350A2",
+        "primary_language": "en",
+        "priority_date": "2002-02-05",
+        "publication_date": "2003-08-14",
+        "assignee_original": "Cleaire Advanced Emission Controls",
+        "title": "Apparatus and method for simultaneous monitoring, logging, and controlling of an industrial process",
+        "patent_id": "patent/WO2003067350A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003067350A2%2Fen"
+      },
+      {
+        "publication_number": "US7237238B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-01",
+        "publication_date": "2007-06-26",
+        "assignee_original": "Dell Products L.P.",
+        "title": "Method and apparatus for automated operating systems upgrade",
+        "patent_id": "patent/US7237238B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7237238B2%2Fen"
+      },
+      {
+        "publication_number": "US7561971B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-28",
+        "publication_date": "2009-07-14",
+        "assignee_original": "Exagen Diagnostics, Inc.",
+        "title": "Methods and devices relating to estimating classifier performance",
+        "patent_id": "patent/US7561971B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7561971B2%2Fen"
+      },
+      {
+        "publication_number": "US6687597B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-28",
+        "publication_date": "2004-02-03",
+        "assignee_original": "Saskatchewan Research Council",
+        "title": "Neural control system and method for alternatively fueled engines",
+        "patent_id": "patent/US6687597B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6687597B2%2Fen"
+      },
+      {
+        "publication_number": "US20030200296A1",
+        "primary_language": "en",
+        "priority_date": "2002-04-22",
+        "publication_date": "2003-10-23",
+        "assignee_original": "Orillion Corporation",
+        "title": "Apparatus and method for modeling, and storing within a database, services on a telecommunications network",
+        "patent_id": "patent/US20030200296A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030200296A1%2Fen"
+      },
+      {
+        "publication_number": "US6935313B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-15",
+        "publication_date": "2005-08-30",
+        "assignee_original": "Caterpillar Inc",
+        "title": "System and method for diagnosing and calibrating internal combustion engines",
+        "patent_id": "patent/US6935313B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6935313B2%2Fen"
+      },
+      {
+        "publication_number": "US6785604B2",
+        "primary_language": "en",
+        "priority_date": "2002-05-15",
+        "publication_date": "2004-08-31",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Diagnostic systems for turbocharged engines",
+        "patent_id": "patent/US6785604B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6785604B2%2Fen"
+      },
+      {
+        "publication_number": "US20040030667A1",
+        "primary_language": "en",
+        "priority_date": "2002-08-02",
+        "publication_date": "2004-02-12",
+        "assignee_original": "Capital One Financial Corporation",
+        "title": "Automated systems and methods for generating statistical models",
+        "patent_id": "patent/US20040030667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040030667A1%2Fen"
+      },
+      {
+        "publication_number": "US20040230404A1",
+        "primary_language": "en",
+        "priority_date": "2002-08-19",
+        "publication_date": "2004-11-18",
+        "assignee_original": "Messmer Richard Paul",
+        "title": "System and method for optimizing simulation of a discrete event process using business system data",
+        "patent_id": "patent/US20040230404A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040230404A1%2Fen"
+      },
+      {
+        "publication_number": "EP1540198A4",
+        "primary_language": "en",
+        "priority_date": "2002-09-13",
+        "publication_date": "2006-06-21",
+        "assignee_original": "Yamaha Motor Co Ltd",
+        "title": "Fuzzy controller with a reduced number of sensors",
+        "patent_id": "patent/EP1540198A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1540198A4%2Fen"
+      },
+      {
+        "publication_number": "US6909960B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-31",
+        "publication_date": "2005-06-21",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Method for performing gas turbine performance diagnostics",
+        "patent_id": "patent/US6909960B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6909960B2%2Fen"
+      },
+      {
+        "publication_number": "US6823675B2",
+        "primary_language": "en",
+        "priority_date": "2002-11-13",
+        "publication_date": "2004-11-30",
+        "assignee_original": "General Electric Company",
+        "title": "Adaptive model-based control systems and methods for controlling a gas turbine",
+        "patent_id": "patent/US6823675B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6823675B2%2Fen"
+      },
+      {
+        "publication_number": "US7152778B2",
+        "primary_language": "en",
+        "priority_date": "2003-06-23",
+        "publication_date": "2006-12-26",
+        "assignee_original": "Bitstock",
+        "title": "Collecting and valuating used items for sale",
+        "patent_id": "patent/US7152778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7152778B2%2Fen"
+      },
+      {
+        "publication_number": "US7467119B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-21",
+        "publication_date": "2008-12-16",
+        "assignee_original": "Aureon Laboratories, Inc.",
+        "title": "Systems and methods for treating, diagnosing and predicting the occurrence of a medical condition",
+        "patent_id": "patent/US7467119B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7467119B2%2Fen"
+      },
+      {
+        "publication_number": "US7899725B2",
+        "primary_language": "en",
+        "priority_date": "2004-03-02",
+        "publication_date": "2011-03-01",
+        "assignee_original": "Accenture Global Services Limited",
+        "title": "Enhanced business reporting methodology",
+        "patent_id": "patent/US7899725B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7899725B2%2Fen"
+      },
+      {
+        "publication_number": "US7451003B2",
+        "primary_language": "en",
+        "priority_date": "2004-03-04",
+        "publication_date": "2008-11-11",
+        "assignee_original": "Falconeer Technologies Llc",
+        "title": "Method and system of monitoring, sensor validation and predictive fault analysis",
+        "patent_id": "patent/US7451003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7451003B2%2Fen"
+      },
+      {
+        "publication_number": "US7693801B2",
+        "primary_language": "en",
+        "priority_date": "2004-04-22",
+        "publication_date": "2010-04-06",
+        "assignee_original": "Hewlett-Packard Development Company, L.P.",
+        "title": "Method and system for forecasting commodity prices using capacity utilization data",
+        "patent_id": "patent/US7693801B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7693801B2%2Fen"
+      },
+      {
+        "publication_number": "US7280879B2",
+        "primary_language": "en",
+        "priority_date": "2004-05-20",
+        "publication_date": "2007-10-09",
+        "assignee_original": "Sap Ag",
+        "title": "Interfaces from external systems to time dependent process parameters in integrated process and product engineering",
+        "patent_id": "patent/US7280879B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7280879B2%2Fen"
+      },
+      {
+        "publication_number": "US20050278227A1",
+        "primary_language": "en",
+        "priority_date": "2004-05-28",
+        "publication_date": "2005-12-15",
+        "assignee_original": "Niel Esary",
+        "title": "Systems and methods of managing price modeling data through closed-loop analytics",
+        "patent_id": "patent/US20050278227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050278227A1%2Fen"
+      },
+      {
+        "publication_number": "US7805721B2",
+        "primary_language": "en",
+        "priority_date": "2004-06-14",
+        "publication_date": "2010-09-28",
+        "assignee_original": "Likewise Software, Inc.",
+        "title": "System and method for automated migration from Windows to Linux",
+        "patent_id": "patent/US7805721B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7805721B2%2Fen"
+      },
+      {
+        "publication_number": "WO2006017453A2",
+        "primary_language": "en",
+        "priority_date": "2004-08-02",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Schlumberger Holdings Limited",
+        "title": "Method apparatus and system for visualization of probabilistic models",
+        "patent_id": "patent/WO2006017453A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006017453A2%2Fen"
+      },
+      {
+        "publication_number": "US7127892B2",
+        "primary_language": "en",
+        "priority_date": "2004-08-13",
+        "publication_date": "2006-10-31",
+        "assignee_original": "Cummins, Inc.",
+        "title": "Techniques for determining turbocharger speed",
+        "patent_id": "patent/US7127892B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7127892B2%2Fen"
+      },
+      {
+        "publication_number": "US7124047B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-03",
+        "publication_date": "2006-10-17",
+        "assignee_original": "Eaton Corporation",
+        "title": "Mathematical model useful for determining and calibrating output of a linear sensor",
+        "patent_id": "patent/US7124047B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7124047B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229753A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Probabilistic modeling system for product design",
+        "patent_id": "patent/US20060229753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229753A1%2Fen"
+      },
+      {
+        "publication_number": "US7565333B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2009-07-21",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Control system and method",
+        "patent_id": "patent/US7565333B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7565333B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229854A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Computer system architecture for probabilistic modeling",
+        "patent_id": "patent/US20060229854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229854A1%2Fen"
+      },
+      {
+        "publication_number": "US7499777B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2009-03-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Diagnostic and prognostic method and system",
+        "patent_id": "patent/US7499777B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7499777B2%2Fen"
+      },
+      {
+        "publication_number": "US20060229852A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Zeta statistic process method and system",
+        "patent_id": "patent/US20060229852A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229852A1%2Fen"
+      },
+      {
+        "publication_number": "US20060230018A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Mahalanobis distance genetic algorithm (MDGA) method and system",
+        "patent_id": "patent/US20060230018A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060230018A1%2Fen"
+      },
+      {
+        "publication_number": "US20060230097A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model monitoring method and system",
+        "patent_id": "patent/US20060230097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060230097A1%2Fen"
+      },
+      {
+        "publication_number": "US20060247798A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-28",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Subbu Rajesh V",
+        "title": "Method and system for performing multi-objective predictive modeling, monitoring, and update for an asset",
+        "patent_id": "patent/US20060247798A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060247798A1%2Fen"
+      },
+      {
+        "publication_number": "US7472096B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-18",
+        "publication_date": "2008-12-30",
+        "assignee_original": "Microsoft Corporation",
+        "title": "Training a learning system with arbitrary cost functions",
+        "patent_id": "patent/US7472096B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7472096B2%2Fen"
+      },
+      {
+        "publication_number": "US7505949B2",
+        "primary_language": "en",
+        "priority_date": "2006-01-31",
+        "publication_date": "2009-03-17",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model error correction method and system",
+        "patent_id": "patent/US7505949B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7505949B2%2Fen"
+      },
+      {
+        "publication_number": "US20080154811A1",
+        "primary_language": "en",
+        "priority_date": "2006-12-21",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for verifying virtual sensors",
+        "patent_id": "patent/US20080154811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154811A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20060229854A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Computer system architecture for probabilistic modeling",
+        "patent_id": "patent/US20060229854A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229854A1%2Fen"
+      },
+      {
+        "publication_number": "US20060229769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Control system and method",
+        "patent_id": "patent/US20060229769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229769A1%2Fen"
+      },
+      {
+        "publication_number": "US20060230097A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model monitoring method and system",
+        "patent_id": "patent/US20060230097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060230097A1%2Fen"
+      },
+      {
+        "publication_number": "US20060229852A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Zeta statistic process method and system",
+        "patent_id": "patent/US20060229852A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229852A1%2Fen"
+      },
+      {
+        "publication_number": "US20060229753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Probabilistic modeling system for product design",
+        "patent_id": "patent/US20060229753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060229753A1%2Fen"
+      },
+      {
+        "publication_number": "US20070061144A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-30",
+        "publication_date": "2007-03-15",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Batch statistics process model method and system",
+        "patent_id": "patent/US20070061144A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070061144A1%2Fen"
+      },
+      {
+        "publication_number": "US20070118487A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-05-24",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Product cost modeling method and system",
+        "patent_id": "patent/US20070118487A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070118487A1%2Fen"
+      },
+      {
+        "publication_number": "US20070179769A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-25",
+        "publication_date": "2007-08-02",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Medical risk stratifying method and system",
+        "patent_id": "patent/US20070179769A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070179769A1%2Fen"
+      },
+      {
+        "publication_number": "US20070203810A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-13",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Supply chain modeling method and system",
+        "patent_id": "patent/US20070203810A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070203810A1%2Fen"
+      },
+      {
+        "publication_number": "US20070203864A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-31",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model error correction method and system",
+        "patent_id": "patent/US20070203864A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070203864A1%2Fen"
+      },
+      {
+        "publication_number": "US20080028262A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-27",
+        "publication_date": "2008-01-31",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and Data Processing System for Finding Problems Caused by Access to Uninitialized Data Storage in Assembler Programs",
+        "patent_id": "patent/US20080028262A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080028262A1%2Fen"
+      },
+      {
+        "publication_number": "US20080154459A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for intelligent maintenance",
+        "patent_id": "patent/US20080154459A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154459A1%2Fen"
+      },
+      {
+        "publication_number": "US20080154811A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-21",
+        "publication_date": "2008-06-26",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Method and system for verifying virtual sensors",
+        "patent_id": "patent/US20080154811A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080154811A1%2Fen"
+      },
+      {
+        "publication_number": "US20080307398A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-05",
+        "publication_date": "2008-12-11",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and System for Finding Problems Caused by Access to Partially Uninitialized Data Storage Which is Accessed Using Index Expressions",
+        "patent_id": "patent/US20080307398A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080307398A1%2Fen"
+      },
+      {
+        "publication_number": "US20080312756A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-15",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor system and method",
+        "patent_id": "patent/US20080312756A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080312756A1%2Fen"
+      },
+      {
+        "publication_number": "US20090024367A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-17",
+        "publication_date": "2009-01-22",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Probabilistic modeling system for product design",
+        "patent_id": "patent/US20090024367A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090024367A1%2Fen"
+      },
+      {
+        "publication_number": "US20090037153A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-30",
+        "publication_date": "2009-02-05",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Product design optimization method and system",
+        "patent_id": "patent/US20090037153A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090037153A1%2Fen"
+      },
+      {
+        "publication_number": "US20090055227A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-30",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Bakos Thomas L",
+        "title": "Risk Assessment Company",
+        "patent_id": "patent/US20090055227A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090055227A1%2Fen"
+      },
+      {
+        "publication_number": "US20090055217A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-23",
+        "publication_date": "2009-02-26",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Method and system for identifying and communicating a health risk",
+        "patent_id": "patent/US20090055217A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090055217A1%2Fen"
+      },
+      {
+        "publication_number": "US7499842B2",
+        "primary_language": "en",
+        "priority_date": "2005-11-18",
+        "publication_date": "2009-03-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process model based virtual sensor and method",
+        "patent_id": "patent/US7499842B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7499842B2%2Fen"
+      },
+      {
+        "publication_number": "US20090062621A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2009-03-05",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Method and system for prioritizing communication of a health risk",
+        "patent_id": "patent/US20090062621A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090062621A1%2Fen"
+      },
+      {
+        "publication_number": "US20090063087A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-31",
+        "publication_date": "2009-03-05",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor based control system and method",
+        "patent_id": "patent/US20090063087A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090063087A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009042010A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-25",
+        "publication_date": "2009-04-02",
+        "assignee_original": "Computer Task Group, Inc.",
+        "title": "Method of appraising a mammal's health",
+        "patent_id": "patent/WO2009042010A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009042010A1%2Fen"
+      },
+      {
+        "publication_number": "US20090112334A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-31",
+        "publication_date": "2009-04-30",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Fixed-point virtual sensor control system and method",
+        "patent_id": "patent/US20090112334A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090112334A1%2Fen"
+      },
+      {
+        "publication_number": "US20090132216A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2009-05-21",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Asymmetric random scatter process for probabilistic modeling system for product design",
+        "patent_id": "patent/US20090132216A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090132216A1%2Fen"
+      },
+      {
+        "publication_number": "US20090157427A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-12",
+        "publication_date": "2009-06-18",
+        "assignee_original": "Capel Winston T",
+        "title": "Method of personalized, independent medical evaluation",
+        "patent_id": "patent/US20090157427A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090157427A1%2Fen"
+      },
+      {
+        "publication_number": "US20090271342A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-12-10",
+        "publication_date": "2009-10-29",
+        "assignee_original": "Jeffrey Scott Eder",
+        "title": "Personalized medicine system",
+        "patent_id": "patent/US20090271342A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090271342A1%2Fen"
+      },
+      {
+        "publication_number": "US20090293457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "System and method for controlling NOx reactant supply",
+        "patent_id": "patent/US20090293457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090293457A1%2Fen"
+      },
+      {
+        "publication_number": "US20090300052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-30",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "System and method for improving data coverage in modeling systems",
+        "patent_id": "patent/US20090300052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090300052A1%2Fen"
+      },
+      {
+        "publication_number": "US20100050025A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-20",
+        "publication_date": "2010-02-25",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor network (VSN) based control system and method",
+        "patent_id": "patent/US20100050025A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100050025A1%2Fen"
+      },
+      {
+        "publication_number": "US20100250202A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-08",
+        "publication_date": "2010-09-30",
+        "assignee_original": "Grichnik Anthony J",
+        "title": "Symmetric random scatter process for probabilistic modeling system for product design",
+        "patent_id": "patent/US20100250202A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100250202A1%2Fen"
+      },
+      {
+        "publication_number": "US20110191114A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-04",
+        "publication_date": "2011-08-04",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Personalized electronic healthcare management",
+        "patent_id": "patent/US20110191114A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110191114A1%2Fen"
+      },
+      {
+        "publication_number": "US8036764B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-02",
+        "publication_date": "2011-10-11",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor network (VSN) system and method",
+        "patent_id": "patent/US8036764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8036764B2%2Fen"
+      },
+      {
+        "publication_number": "US8224468B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-02",
+        "publication_date": "2012-07-17",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Calibration certificate for virtual sensor network (VSN)",
+        "patent_id": "patent/US8224468B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8224468B2%2Fen"
+      },
+      {
+        "publication_number": "US8364610B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2013-01-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Process modeling and optimization method and system",
+        "patent_id": "patent/US8364610B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8364610B2%2Fen"
+      },
+      {
+        "publication_number": "US20130124164A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-11",
+        "publication_date": "2013-05-16",
+        "assignee_original": "Carnegie Mellon University",
+        "title": "Stochastic computational model parameter synthesis system",
+        "patent_id": "patent/US20130124164A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130124164A1%2Fen"
+      },
+      {
+        "publication_number": "US8478506B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-29",
+        "publication_date": "2013-07-02",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor based engine control system and method",
+        "patent_id": "patent/US8478506B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8478506B2%2Fen"
+      },
+      {
+        "publication_number": "US20130262357A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-28",
+        "publication_date": "2013-10-03",
+        "assignee_original": "Rubendran Amarasingham",
+        "title": "Clinical predictive and monitoring system and method",
+        "patent_id": "patent/US20130262357A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130262357A1%2Fen"
+      },
+      {
+        "publication_number": "US20140052474A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2014-02-20",
+        "assignee_original": "Ginger.oi, Inc",
+        "title": "Method for modeling behavior and health changes",
+        "patent_id": "patent/US20140052474A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140052474A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US20140164012A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-08-06",
+        "publication_date": "2014-06-12",
+        "assignee_original": "Noel Guillama",
+        "title": "System and methods for simulating future medical episodes",
+        "patent_id": "patent/US20140164012A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140164012A1%2Fen"
+      },
+      {
+        "publication_number": "US8793004B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-15",
+        "publication_date": "2014-07-29",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Virtual sensor system and method for generating output parameters",
+        "patent_id": "patent/US8793004B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8793004B2%2Fen"
+      },
+      {
+        "publication_number": "US20140244278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-25",
+        "publication_date": "2014-08-28",
+        "assignee_original": "Electronics And Telecommunications Research Institute",
+        "title": "Health management system and method of providing health information by using the system",
+        "patent_id": "patent/US20140244278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140244278A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015023674A1",
+        "primary_language": "en",
+        "priority_date": "2013-08-12",
+        "publication_date": "2015-02-19",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Dynamically determining risk of clinical condition",
+        "patent_id": "patent/WO2015023674A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015023674A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015084563A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-06",
+        "publication_date": "2015-06-11",
+        "assignee_original": "Cardiac Pacemakers, Inc.",
+        "title": "Heart failure event prediction using classifier fusion",
+        "patent_id": "patent/WO2015084563A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015084563A1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016025586A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-13",
+        "publication_date": "2016-02-18",
+        "assignee_original": "Community Care Of North Carolina, Inc.",
+        "title": "Electronically predicting corrective options based on a sensed physiological characteristic",
+        "patent_id": "patent/WO2016025586A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016025586A1%2Fen"
+      },
+      {
+        "publication_number": "US9555191B2",
+        "primary_language": "en",
+        "priority_date": "2007-01-22",
+        "publication_date": "2017-01-31",
+        "assignee_original": "Kaleo, Inc.",
+        "title": "Apparatus and methods for self-administration of vaccines and other medicaments",
+        "patent_id": "patent/US9555191B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9555191B2%2Fen"
+      },
+      {
+        "publication_number": "CN107438399A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-08",
+        "publication_date": "2017-12-05",
+        "assignee_original": "\u7687\u5bb6\u98de\u5229\u6d66\u6709\u9650\u516c\u53f8",
+        "title": "Angiocarpy deteriorates early warning scoring",
+        "patent_id": "patent/CN107438399A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107438399A%2Fen"
+      },
+      {
+        "publication_number": "US20180113982A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-21",
+        "publication_date": "2018-04-26",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Systems and techniques for recommending personalized health care based on demographics",
+        "patent_id": "patent/US20180113982A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180113982A1%2Fen"
+      },
+      {
+        "publication_number": "US10014077B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2018-07-03",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method and system for improving care determination",
+        "patent_id": "patent/US10014077B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10014077B2%2Fen"
+      },
+      {
+        "publication_number": "US10068670B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2018-09-04",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method for modeling behavior and depression state",
+        "patent_id": "patent/US10068670B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10068670B2%2Fen"
+      },
+      {
+        "publication_number": "US10068059B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2018-09-04",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method and system for providing automated conversations",
+        "patent_id": "patent/US10068059B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10068059B2%2Fen"
+      },
+      {
+        "publication_number": "US10068060B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2018-09-04",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method for modeling behavior and psychotic disorders",
+        "patent_id": "patent/US10068060B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10068060B2%2Fen"
+      },
+      {
+        "publication_number": "US10102341B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2018-10-16",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method for managing patient quality of life",
+        "patent_id": "patent/US10102341B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10102341B2%2Fen"
+      },
+      {
+        "publication_number": "US20180317778A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-05",
+        "publication_date": "2018-11-08",
+        "assignee_original": "Jiangsu Huaben Health Life Science and Technology Co., Ltd.",
+        "title": "Method And Apparatus For Human Health Evaluation",
+        "patent_id": "patent/US20180317778A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180317778A1%2Fen"
+      },
+      {
+        "publication_number": "CN109003193A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-10",
+        "publication_date": "2018-12-14",
+        "assignee_original": "\u5e73\u5b89\u79d1\u6280\uff08\u6df1\u5733\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Insurance risk prediction technique, device, computer equipment and storage medium",
+        "patent_id": "patent/CN109003193A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109003193A%2Fen"
+      },
+      {
+        "publication_number": "US10242754B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2019-03-26",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method for providing therapy to an individual",
+        "patent_id": "patent/US10242754B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10242754B2%2Fen"
+      },
+      {
+        "publication_number": "US10269448B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-16",
+        "publication_date": "2019-04-23",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method for providing patient indications to an entity",
+        "patent_id": "patent/US10269448B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10269448B2%2Fen"
+      },
+      {
+        "publication_number": "US10268687B1",
+        "primary_language": "en",
+        "priority_date": "2011-10-07",
+        "publication_date": "2019-04-23",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Ontology mapper",
+        "patent_id": "patent/US10268687B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10268687B1%2Fen"
+      },
+      {
+        "publication_number": "US10265028B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-16",
+        "publication_date": "2019-04-23",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method and system for modeling behavior and heart disease state",
+        "patent_id": "patent/US10265028B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10265028B2%2Fen"
+      },
+      {
+        "publication_number": "JP2019145087A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-29",
+        "publication_date": "2019-08-29",
+        "assignee_original": "\u30b4\u30b4\u30ed \u30a4\u30f3\u30af",
+        "title": "System and method for predicting requirement to exchangeable energy storage device",
+        "patent_id": "patent/JP2019145087A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019145087A%2Fen"
+      },
+      {
+        "publication_number": "US10431336B1",
+        "primary_language": "en",
+        "priority_date": "2010-10-01",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Computerized systems and methods for facilitating clinical decision making",
+        "patent_id": "patent/US10431336B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10431336B1%2Fen"
+      },
+      {
+        "publication_number": "US10446273B1",
+        "primary_language": "en",
+        "priority_date": "2013-08-12",
+        "publication_date": "2019-10-15",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Decision support with clinical nomenclatures",
+        "patent_id": "patent/US10446273B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10446273B1%2Fen"
+      },
+      {
+        "publication_number": "US10496788B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-13",
+        "publication_date": "2019-12-03",
+        "assignee_original": "Parkland Center For Clinical Innovation",
+        "title": "Holistic hospital patient care and management system and method for automated patient monitoring",
+        "patent_id": "patent/US10496788B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10496788B2%2Fen"
+      },
+      {
+        "publication_number": "US10580524B1",
+        "primary_language": "en",
+        "priority_date": "2012-05-01",
+        "publication_date": "2020-03-03",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "System and method for record linkage",
+        "patent_id": "patent/US10580524B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10580524B1%2Fen"
+      },
+      {
+        "publication_number": "US10593426B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-13",
+        "publication_date": "2020-03-17",
+        "assignee_original": "Parkland Center For Clinical Innovation",
+        "title": "Holistic hospital patient care and management system and method for automated facial biological recognition",
+        "patent_id": "patent/US10593426B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10593426B2%2Fen"
+      },
+      {
+        "publication_number": "US10628553B1",
+        "primary_language": "en",
+        "priority_date": "2010-12-30",
+        "publication_date": "2020-04-21",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Health information transformation system",
+        "patent_id": "patent/US10628553B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10628553B1%2Fen"
+      },
+      {
+        "publication_number": "US10734115B1",
+        "primary_language": "en",
+        "priority_date": "2012-08-09",
+        "publication_date": "2020-08-04",
+        "assignee_original": "Cerner Innovation, Inc",
+        "title": "Clinical decision support for sepsis",
+        "patent_id": "patent/US10734115B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10734115B1%2Fen"
+      },
+      {
+        "publication_number": "US10740438B2",
+        "primary_language": "en",
+        "priority_date": "2012-08-16",
+        "publication_date": "2020-08-11",
+        "assignee_original": "Ginger.io, Inc.",
+        "title": "Method and system for characterizing and/or treating poor sleep behavior",
+        "patent_id": "patent/US10740438B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10740438B2%2Fen"
+      },
+      {
+        "publication_number": "US10755369B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-16",
+        "publication_date": "2020-08-25",
+        "assignee_original": "Parkland Center For Clinical Innovation",
+        "title": "Client management tool system and method",
+        "patent_id": "patent/US10755369B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10755369B2%2Fen"
+      },
+      {
+        "publication_number": "US10769241B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-07",
+        "publication_date": "2020-09-08",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Discovering context-specific complexity and utilization sequences",
+        "patent_id": "patent/US10769241B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10769241B1%2Fen"
+      },
+      {
+        "publication_number": "US10946311B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-07",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Discovering context-specific serial health trajectories",
+        "patent_id": "patent/US10946311B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10946311B1%2Fen"
+      },
+      {
+        "publication_number": "EP3806107A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-11",
+        "publication_date": "2021-04-14",
+        "assignee_original": "C The Signs Limited",
+        "title": "Diagnostic tool",
+        "patent_id": "patent/EP3806107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3806107A1%2Fen"
+      },
+      {
+        "publication_number": "US11348667B2",
+        "primary_language": "en",
+        "priority_date": "2010-10-08",
+        "publication_date": "2022-05-31",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Multi-site clinical decision support",
+        "patent_id": "patent/US11348667B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11348667B2%2Fen"
+      },
+      {
+        "publication_number": "US11398310B1",
+        "primary_language": "en",
+        "priority_date": "2010-10-01",
+        "publication_date": "2022-07-26",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Clinical decision support for sepsis",
+        "patent_id": "patent/US11398310B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11398310B1%2Fen"
+      },
+      {
+        "publication_number": "US11621081B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-13",
+        "publication_date": "2023-04-04",
+        "assignee_original": "Iqvia Inc.",
+        "title": "System for predicting patient health conditions",
+        "patent_id": "patent/US11621081B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11621081B1%2Fen"
+      },
+      {
+        "publication_number": "US11710576B2",
+        "primary_language": "en",
+        "priority_date": "2021-05-24",
+        "publication_date": "2023-07-25",
+        "assignee_original": "OrangeDot, Inc.",
+        "title": "Method and system for computer-aided escalation in a digital health platform",
+        "patent_id": "patent/US11710576B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11710576B2%2Fen"
+      },
+      {
+        "publication_number": "US11730420B2",
+        "primary_language": "en",
+        "priority_date": "2019-12-17",
+        "publication_date": "2023-08-22",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Maternal-fetal sepsis indicator",
+        "patent_id": "patent/US11730420B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11730420B2%2Fen"
+      },
+      {
+        "publication_number": "US11868384B2",
+        "primary_language": "en",
+        "priority_date": "2022-03-25",
+        "publication_date": "2024-01-09",
+        "assignee_original": "OrangeDot, Inc.",
+        "title": "Method and system for automatically determining responses in a messaging platform",
+        "patent_id": "patent/US11868384B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11868384B2%2Fen"
+      },
+      {
+        "publication_number": "US11894117B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-07",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "Discovering context-specific complexity and utilization sequences",
+        "patent_id": "patent/US11894117B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11894117B1%2Fen"
+      },
+      {
+        "publication_number": "US12020814B1",
+        "primary_language": "en",
+        "priority_date": "2013-08-12",
+        "publication_date": "2024-06-25",
+        "assignee_original": "Cerner Innovation, Inc.",
+        "title": "User interface for clinical decision support",
+        "patent_id": "patent/US12020814B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12020814B1%2Fen"
+      },
+      {
+        "publication_number": "US12099808B2",
+        "primary_language": "en",
+        "priority_date": "2022-05-11",
+        "publication_date": "2024-09-24",
+        "assignee_original": "OrangeDot, Inc.",
+        "title": "Method and system for automatically prioritizing content provided to a user",
+        "patent_id": "patent/US12099808B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12099808B2%2Fen"
+      },
+      {
+        "publication_number": "US12292912B2",
+        "primary_language": "en",
+        "priority_date": "2022-03-25",
+        "publication_date": "2025-05-06",
+        "assignee_original": "OrangeDot, Inc.",
+        "title": "Method and system for intent-based action recommendations and/or fulfillment in a messaging platform",
+        "patent_id": "patent/US12292912B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12292912B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "WO2008010013A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-17",
+        "publication_date": "2008-01-24",
+        "assignee_original": "Kika",
+        "title": "Rule model for healthcare information",
+        "patent_id": "patent/WO2008010013A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008010013A2%2Fen"
+      },
+      {
+        "publication_number": "US8333696B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-13",
+        "publication_date": "2012-12-18",
+        "assignee_original": "Watermark Medical, Inc.",
+        "title": "Systems and methods for automated prediction of risk for perioperative complications based on the level of obstructive sleep apnea",
+        "patent_id": "patent/US8333696B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8333696B2%2Fen"
+      },
+      {
+        "publication_number": "WO2008152212A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-14",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Statlife",
+        "title": "Method for determining risk scores",
+        "patent_id": "patent/WO2008152212A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008152212A1%2Fen"
+      },
+      {
+        "publication_number": "US7805421B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-02",
+        "publication_date": "2010-09-28",
+        "assignee_original": "Caterpillar Inc",
+        "title": "Method and system for reducing a data set",
+        "patent_id": "patent/US7805421B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7805421B2%2Fen"
+      },
+      {
+        "publication_number": "US8099993B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-20",
+        "publication_date": "2012-01-24",
+        "assignee_original": "General Electric Company",
+        "title": "Method and apparatus for verifying the operation of an accelerometer",
+        "patent_id": "patent/US8099993B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8099993B2%2Fen"
+      },
+      {
+        "publication_number": "US8306788B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-11",
+        "publication_date": "2012-11-06",
+        "assignee_original": "Sas Institute Inc.",
+        "title": "Computer-implemented systems and methods for executing stochastic discrete event simulations for design of experiments",
+        "patent_id": "patent/US8306788B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8306788B2%2Fen"
+      },
+      {
+        "publication_number": "US20100004947A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-01",
+        "publication_date": "2010-01-07",
+        "assignee_original": "Michael Nadeau",
+        "title": "System and Method for Providing Health Management Services to a Population of Members",
+        "patent_id": "patent/US20100004947A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100004947A1%2Fen"
+      },
+      {
+        "publication_number": "US20100076785A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-25",
+        "publication_date": "2010-03-25",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Predicting rare events using principal component analysis and partial least squares",
+        "patent_id": "patent/US20100076785A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100076785A1%2Fen"
+      },
+      {
+        "publication_number": "US20110046972A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-20",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Andromeda Systems Incorporated",
+        "title": "Method and system for health-centered medicine",
+        "patent_id": "patent/US20110046972A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110046972A1%2Fen"
+      },
+      {
+        "publication_number": "US20110071363A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-22",
+        "publication_date": "2011-03-24",
+        "assignee_original": "Healthways, Inc.",
+        "title": "System and method for using predictive models to determine levels of healthcare interventions",
+        "patent_id": "patent/US20110071363A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110071363A1%2Fen"
+      },
+      {
+        "publication_number": "US20110167020A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-06",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Zhiping Yang",
+        "title": "Hybrid Simulation Methodologies To Simulate Risk Factors",
+        "patent_id": "patent/US20110167020A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110167020A1%2Fen"
+      },
+      {
+        "publication_number": "US8668649B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-04",
+        "publication_date": "2014-03-11",
+        "assignee_original": "Siemens Medical Solutions Usa, Inc.",
+        "title": "System for cardiac status determination",
+        "patent_id": "patent/US8668649B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8668649B2%2Fen"
+      },
+      {
+        "publication_number": "US9141936B2",
+        "primary_language": "en",
+        "priority_date": "2010-08-04",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Sas Institute Inc.",
+        "title": "Systems and methods for simulating a resource constrained process",
+        "patent_id": "patent/US9141936B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9141936B2%2Fen"
+      },
+      {
+        "publication_number": "US8771186B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-17",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Welch Allyn, Inc.",
+        "title": "Device configuration for supporting a patient oxygenation test",
+        "patent_id": "patent/US8771186B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8771186B2%2Fen"
+      },
+      {
+        "publication_number": "US20140257829A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-08",
+        "publication_date": "2014-09-11",
+        "assignee_original": "Archimedes, Inc.",
+        "title": "Interactive healthcare modeling",
+        "patent_id": "patent/US20140257829A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140257829A1%2Fen"
+      },
+      {
+        "publication_number": "US10978208B2",
+        "primary_language": "en",
+        "priority_date": "2013-12-05",
+        "publication_date": "2021-04-13",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Patient risk stratification by combining knowledge-driven and data-driven insights",
+        "patent_id": "patent/US10978208B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10978208B2%2Fen"
+      },
+      {
+        "publication_number": "US10285606B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-13",
+        "publication_date": "2019-05-14",
+        "assignee_original": "Quantium Medical S.L.",
+        "title": "Methods and apparatus for the on-line and real time acquisition and analysis of voltage plethysmography, electrocardiogram and electroencephalogram for the estimation of stroke volume, cardiac output, and systemic inflammation",
+        "patent_id": "patent/US10285606B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10285606B2%2Fen"
+      },
+      {
+        "publication_number": "CN106295092A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-13",
+        "publication_date": "2017-01-04",
+        "assignee_original": "\u4ec1\u667a(\u82cf\u5dde)\u533b\u5b66\u7814\u7a76\u6709\u9650\u516c\u53f8",
+        "title": "The multi-dimensional data of clinical treatment analyzes method and system",
+        "patent_id": "patent/CN106295092A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106295092A%2Fen"
+      },
+      {
+        "publication_number": "EP3096253A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-19",
+        "publication_date": "2016-11-23",
+        "assignee_original": "Universidad de Vigo",
+        "title": "System, computer-implemented method and computer program product for individualized multiple-disease quantitative risk assessment",
+        "patent_id": "patent/EP3096253A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3096253A1%2Fen"
+      },
+      {
+        "publication_number": "US20160371453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-19",
+        "publication_date": "2016-12-22",
+        "assignee_original": "Healthgrades Operating Company, Inc.",
+        "title": "Analytical data processing for consumer health scores",
+        "patent_id": "patent/US20160371453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160371453A1%2Fen"
+      },
+      {
+        "publication_number": "JP6828055B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-04",
+        "publication_date": "2021-02-10",
+        "assignee_original": "\u30b3\u30fc\u30cb\u30f3\u30af\u30ec\u30c3\u30ab \u30d5\u30a3\u30ea\u30c3\u30d7\u30b9 \u30a8\u30cc \u30f4\u30a7\uff2b\uff4f\uff4e\uff49\uff4e\uff4b\uff4c\uff49\uff4a\uff4b\uff45 \uff30\uff48\uff49\uff4c\uff49\uff50\uff53 \uff2e\uff0e\uff36\uff0e",
+        "title": "Estimating and using clinician assessment of patient urgency",
+        "patent_id": "patent/JP6828055B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6828055B2%2Fen"
+      },
+      {
+        "publication_number": "CN107146183B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-26",
+        "publication_date": "2020-07-03",
+        "assignee_original": "\u5317\u4eac\u5c45\u5bb6\u4e91\u820d\u79d1\u6280\u670d\u52a1\u6709\u9650\u516c\u53f8",
+        "title": "Aging-suitable intelligent home environment life state analysis method and system",
+        "patent_id": "patent/CN107146183B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107146183B%2Fen"
+      },
+      {
+        "publication_number": "CN111144658B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-30",
+        "publication_date": "2023-06-16",
+        "assignee_original": "\u533b\u6e21\u4e91\uff08\u5317\u4eac\uff09\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Medical risk prediction method, device, system, storage medium and electronic equipment",
+        "patent_id": "patent/CN111144658B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111144658B%2Fen"
+      },
+      {
+        "publication_number": "US20220051809A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-13",
+        "publication_date": "2022-02-17",
+        "assignee_original": "National Chung Shan Institute Of Science And Technology",
+        "title": "System of predicting risks with biomedical data, method of predicting risks with biomedical data, and non-transient state computer-readable storage medium",
+        "patent_id": "patent/US20220051809A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220051809A1%2Fen"
+      },
+      {
+        "publication_number": "CN114937482B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-04",
+        "publication_date": "2025-03-25",
+        "assignee_original": "\u6df1\u5733\u6167\u5b89\u5eb7\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A method, device, electronic device and storage medium for establishing a health record",
+        "patent_id": "patent/CN114937482B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114937482B%2Fen"
+      },
+      {
+        "publication_number": "CA3207405A1",
+        "primary_language": "en",
+        "priority_date": "2022-07-25",
+        "publication_date": "2024-01-25",
+        "assignee_original": "Aizoon S.r.l.",
+        "title": "Method for providing a clinical decision support, corresponding system for providing a clinical decision support, and computer program product",
+        "patent_id": "patent/CA3207405A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3207405A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7584166B2",
+      "primary_language": "en",
+      "publication_date": "2009-09-01",
+      "title": "Expert knowledge combination process based medical risk stratifying method and system",
+      "patent_id": "patent/US7584166B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7584166B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10340040B2",
+      "primary_language": "en",
+      "publication_date": "2019-07-02",
+      "title": "Method and system for identifying diagnostic and therapeutic options for medical conditions using electronic health records",
+      "patent_id": "patent/US10340040B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10340040B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7805385B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-28",
+      "title": "Prognosis modeling from literature and other sources",
+      "patent_id": "patent/US7805385B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7805385B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8579784B2",
+      "primary_language": "en",
+      "publication_date": "2013-11-12",
+      "title": "Personalized prognosis modeling in medical treatment planning",
+      "patent_id": "patent/US8579784B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8579784B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7010946B2",
+      "primary_language": "en",
+      "publication_date": "2022-01-26",
+      "title": "Systems and methods that facilitate computational analysis of health status",
+      "patent_id": "patent/JP7010946B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7010946B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006072011A2",
+      "primary_language": "en",
+      "publication_date": "2006-07-06",
+      "title": "Methods, systems, and computer program products for developing and using predictive models for predicting a plurality of medical outcomes, for evaluating intervention strategies, and for simultaneously validating biomarker causality",
+      "patent_id": "patent/WO2006072011A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006072011A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2003054725A2",
+      "primary_language": "en",
+      "publication_date": "2003-07-03",
+      "title": "Generation of continuous mathematical models for health care applications",
+      "patent_id": "patent/WO2003054725A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003054725A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130275050A1",
+      "primary_language": "en",
+      "publication_date": "2013-10-17",
+      "title": "Methods and systems for integrated health systems",
+      "patent_id": "patent/US20130275050A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130275050A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102405473A",
+      "primary_language": "en",
+      "publication_date": "2012-04-04",
+      "title": "Point-of-care active medical system and method",
+      "patent_id": "patent/CN102405473A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102405473A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11710572B2",
+      "primary_language": "en",
+      "publication_date": "2023-07-25",
+      "title": "Experience engine-method and apparatus of learning from similar patients",
+      "patent_id": "patent/US11710572B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11710572B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8428965B2",
+      "primary_language": "en",
+      "publication_date": "2013-04-23",
+      "title": "System for clinical research and clinical management of cardiovascular risk using ambulatory blood pressure monitoring and actigraphy",
+      "patent_id": "patent/US8428965B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8428965B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3718116B1",
+      "primary_language": "en",
+      "publication_date": "2024-01-10",
+      "title": "Apparatus for patient data availability analysis",
+      "patent_id": "patent/EP3718116B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3718116B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN118866231A",
+      "primary_language": "en",
+      "publication_date": "2024-10-29",
+      "title": "Postoperative chemotherapy dose prediction method and related device for colorectal tumors",
+      "patent_id": "patent/CN118866231A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118866231A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20130253892A1",
+      "primary_language": "en",
+      "publication_date": "2013-09-26",
+      "title": "Creating synthetic events using genetic surprisal data representing a genetic sequence of an organism with an addition of context",
+      "patent_id": "patent/US20130253892A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130253892A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20180108671A",
+      "primary_language": "en",
+      "publication_date": "2018-10-04",
+      "title": "Method and system for identifying diagnostic and treatment options for medical conditions using electronic health records",
+      "patent_id": "patent/KR20180108671A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180108671A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2659007058252087567",
+      "scholar_authors": "Santhoshi et al.",
+      "publication_date": "2024",
+      "title": "Predictive Modelling of Diabetes Detection Using User Interface Designing Tool",
+      "patent_id": "scholar/2659007058252087567",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2659007058252087567"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5941780283581544899",
+      "scholar_authors": "Datta et al.",
+      "publication_date": "2024",
+      "title": "Towards Precision Medicine: Nature-Inspired Optimization Algorithms for Personalized Cholesterol Disease Prediction",
+      "patent_id": "scholar/5941780283581544899",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5941780283581544899"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "46226872400718783",
+      "scholar_authors": "Xia et al.",
+      "publication_date": "2023",
+      "title": "Challenges and Chances of Classical Cox Regression",
+      "patent_id": "scholar/46226872400718783",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F46226872400718783"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3506268A1",
+      "primary_language": "en",
+      "publication_date": "2019-07-03",
+      "title": "Apparatus for patient data availability analysis",
+      "patent_id": "patent/EP3506268A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3506268A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119626515A",
+      "primary_language": "en",
+      "publication_date": "2025-03-14",
+      "title": "System and method for customizing nursing measures based on lung cancer chemotherapy patient assessment results",
+      "patent_id": "patent/CN119626515A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119626515A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119580926A",
+      "primary_language": "en",
+      "publication_date": "2025-03-07",
+      "title": "Diabetes medication scheme evaluation method and system",
+      "patent_id": "patent/CN119580926A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119580926A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-07-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CATERPILLAR INC., ILLINOIS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GRICHNIK, ANTHONY J.;REEL/FRAME:018145/0052"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060731"
+        }
+      ]
+    },
+    {
+      "date": "2013-02-25",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-04-14",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2017-10-02",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.)"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-02",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2017-10-24",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20170901"
+        }
+      ]
+    }
+  ]
+}

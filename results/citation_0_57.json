@@ -1,0 +1,1039 @@
+{
+  "search_metadata": {
+    "id": "68514e2f792d68099b3ffbb3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aa714052017ac9d8/68514e2f792d68099b3ffbb3.json",
+    "created_at": "2025-06-17 11:14:55 UTC",
+    "processed_at": "2025-06-17 11:14:55 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20050071200A1/en",
+    "raw_html_file": "https://serpapi.com/searches/aa714052017ac9d8/68514e2f792d68099b3ffbb3.html",
+    "total_time_taken": 1.02
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20050071200A1/en"
+  },
+  "title": "Systems and methods for decoding payer identification in health care data records",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/8b/44/a0/6d11d5011b1c27/US20050071200A1.pdf",
+  "publication_number": "US20050071200A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "data",
+    "data records",
+    "payer",
+    "bin",
+    "values"
+  ],
+  "prior_art_date": "2003-07-18",
+  "application_number": "US10/893,838",
+  "inventors": [
+    {
+      "name": "Dave Franklin",
+      "link": "https://patents.google.com/?inventor=Dave+Franklin",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dave+Franklin"
+    },
+    {
+      "name": "Ilene Blanton",
+      "link": "https://patents.google.com/?inventor=Ilene+Blanton",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ilene+Blanton"
+    },
+    {
+      "name": "Mary James",
+      "link": "https://patents.google.com/?inventor=Mary+James",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Mary+James"
+    },
+    {
+      "name": "Kevin Moyer",
+      "link": "https://patents.google.com/?inventor=Kevin+Moyer",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kevin+Moyer"
+    },
+    {
+      "name": "Kimberly Pennente",
+      "link": "https://patents.google.com/?inventor=Kimberly+Pennente",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kimberly+Pennente"
+    }
+  ],
+  "assignees": [
+    "IMS Software Services Ltd"
+  ],
+  "priority_date": "2003-07-18",
+  "filing_date": "2004-07-19",
+  "publication_date": "2005-03-31",
+  "worldwide_applications": {
+    "2004": [
+      {
+        "filing_date": "2004-07-19",
+        "country_code": "US",
+        "application_number": "US10/893,838",
+        "document_id": "patent/US7747658B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2010": [
+      {
+        "filing_date": "2010-05-18",
+        "country_code": "US",
+        "application_number": "US12/782,423",
+        "document_id": "patent/US8041751B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-10-10",
+        "country_code": "US",
+        "application_number": "US13/270,003",
+        "document_id": "patent/US20120030259A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2004-07-19",
+      "title": "Priority to US10/893,838",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7747658B2/en"
+    },
+    {
+      "date": "2004-07-19",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2004-12-08",
+      "title": "Assigned to IMS HEALTH INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "IMS HEALTH INCORPORATED",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: FRANKLIN, DAVE, BLANTON, ILEENE, JAMES, MARY KAY"
+      ]
+    },
+    {
+      "date": "2005-03-31",
+      "title": "Publication of US20050071200A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20050071200A1/en"
+    },
+    {
+      "date": "2005-06-20",
+      "title": "Assigned to IMS HEALTH INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "IMS HEALTH INCORPORATED",
+      "description": [
+        "CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNORS, PREVIOUSLY RECORDED AT REEL 016055 FRAME 0873.",
+        "Assignors: JAMES, MARY KAY, FRANKLIN, DAVE, BLANTON, ILENE, MOYER, KEVIN, PENNENTE, KIMBERLY"
+      ]
+    },
+    {
+      "date": "2009-08-25",
+      "title": "Assigned to IMS SOFTWARE SERVICES, LTD.",
+      "type": "reassignment",
+      "assignee_search": "IMS SOFTWARE SERVICES, LTD.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: IMS HEALTH INCORPORATED"
+      ]
+    },
+    {
+      "date": "2010-03-02",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "description": [
+        "SECURITY AGREEMENT",
+        "Assignors: IMS HEALTH INCORPORATED, A DE CORP., IMS HEALTH LICENSING ASSOCIATES, L.L.C., A DE LLC, IMS SOFTWARE SERVICES LTD., A DE CORP."
+      ]
+    },
+    {
+      "date": "2010-05-18",
+      "title": "Priority to US12/782,423",
+      "type": "priority",
+      "document_id": "patent/US8041751B2/en"
+    },
+    {
+      "date": "2010-06-29",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-06-29",
+      "title": "Publication of US7747658B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7747658B2/en"
+    },
+    {
+      "date": "2011-10-10",
+      "title": "Priority to US13/270,003",
+      "type": "priority",
+      "document_id": "patent/US20120030259A1/en"
+    },
+    {
+      "date": "2023-05-24",
+      "title": "Assigned to U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: IMS SOFTWARE SERVICES LTD., IQVIA INC., IQVIA RDS INC., Q Squared Solutions Holdings LLC"
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "title": "Assigned to U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: IQVIA INC."
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "title": "Assigned to U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "description": [
+        "SECURITY INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: IMS SOFTWARE SERVICES LTD., IQVIA INC., IQVIA RDS INC., Q Squared Solutions Holdings LLC"
+      ]
+    },
+    {
+      "date": "2023-12-06",
+      "title": "Assigned to U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION",
+      "description": [
+        "CORRECTIVE ASSIGNMENT TO CORRECT THE CONVEYING PARTIES INADVERTENTLY NOT INCLUDED IN FILING PREVIOUSLY RECORDED AT REEL: 065709 FRAME: 618. ASSIGNOR(S) HEREBY CONFIRMS THE SECURITY AGREEMENT.",
+        "Assignors: IMS SOFTWARE SERVICES LTD., IQVIA INC., IQVIA RDS INC., Q Squared Solutions Holdings LLC"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2026-11-30",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20050071200.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10893838"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20050071200"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2005071200A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10893838/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20050071200"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/52/48/70/4b7d0055e8cbd9/US20050071200A1-20050331-D00000.png",
+    "https://patentimages.storage.googleapis.com/52/b4/0d/3998a6f1bc161b/US20050071200A1-20050331-D00001.png",
+    "https://patentimages.storage.googleapis.com/7b/4e/70/bb840518776708/US20050071200A1-20050331-D00002.png",
+    "https://patentimages.storage.googleapis.com/7c/84/94/f4d15d27ce82a0/US20050071200A1-20050331-D00003.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06Q10/02",
+      "description": "Reservations, e.g. for tickets, services or events",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06Q10/10",
+      "description": "Office automation; Time management",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H10/60",
+      "description": "ICT specially adapted for the handling or processing of patient-related medical or healthcare data for patient-specific data, e.g. for electronic patient records",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G16H20/10",
+      "description": "ICT specially adapted for therapies or health-improving plans, e.g. for handling prescriptions, for steering therapy or for monitoring patient compliance relating to drugs or medications, e.g. for ensuring correct administration to patients",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S707/941",
+      "description": "Human sciences",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Processing arrangements and methods are provided for the automated decoding or translation of information in healthcare data records, which are coded in a non-standardized or varying formats. A data record which contains information, a portion which is recognized and another portion of which is new, is decoded or translated using a statistical mapping rule. The mapping rule assigns a most likely translation value to the information based on the recognized portion of the information. The statistical mapping rules are established by analysis of a set of previously decoded data records.",
+  "description_link": "https://serpapi.com/searches/68514e2f792d68099b3ffbb3/google_patents_details/description.html",
+  "claims": [
+    "1. A data processing arrangement for decoding new information in health care data records, each data record having a plurality of data fields, the arrangement comprising: \nan application for determining an overlap of the new information with the previously decoded information; and  an application for assigning the decoded value of the previously decoded information to the new information that has an overlap with the previously decoded information.",
+    "2. The data processing arrangement of claim 1 further comprising a mapping file listing previously decoded information and corresponding decoded values.",
+    "3. The data processing arrangement of claim 1 further comprising an application for updating a mapping file listing decoded information and corresponding decoded values.",
+    "4. The data processing arrangement of claim 1 further comprising an application for selecting the previously decoded information on a statistical basis.",
+    "5. A method for establishing mapping rules for mapping user codes (MR payer IDs) to prescription transaction data records, wherein each data record comprises at least a first, a second and a third data fields, the method comprising: \nanalyzing a set of previously mapped data records that have been mapped to MR payer fDs based on at least the values of the third data fields;  determining unique combinations of first and second data field values present in the set of previously mapped data records;  for each unique combination of the first and second data field values, determining a MR payer ID that is frequently mapped to the corresponding data records.  establishing a mapping rule assigns the frequently mapped MR payer ID to all data records having the unique combination of the first and second data field values.",
+    "6. The method of claim 5, wherein determining a MR payer ID that is frequently mapped to the corresponding data records comprises selecting a MR payer ID that occurs with a frequency greater than a cutoff limit.",
+    "7. The method of claim 5, further comprising validating the mapping rule with a data supplier of the data records.",
+    "8. The method of claim 5, wherein a mapping rule is assigned only for the unique combinations of the first and second data field values that occur with a frequency greater than a cutoff limit.",
+    "9. A data processing arrangement comprising software applications for carrying out the steps of claim 5.",
+    "10. A method for assigning user codes (MR payer IDs) to prescription field selected from the group of a bank identification number (BIN) data field, and a Group ID (GID) data field and a data supplier specified payer indicia (DS) data field, and wherein a first subset of the data records have been previously assigned MR payer IDs based on known mappings of the values in their respective DS data fields, and a second subset of data records that have not been assigned MR payer IDs, the method comprising: \nfor the first subset, extracting data records in which at least one of the BIN and GID fields are populated;  determining the unique combinations of the BIN and GID values present in the first subset;  determining the occurrence frequency of each unique combination of BIN and GID values in the first subset,  selecting only those unique combinations of BIN and GID values that occur with a frequency greater than a cutoff limit X;  for each such selected combination of BIN and GID values determining the frequency distribution of MR payer IDs assigned to corresponding data records in the first subset;  selecting MR payer IDs having an occurrence frequency greater than a cutoff limit Y,  for each such selected MR payer ID, establishing the combination of the BIN and GID values and the selected MR payer ID as a mapping rule for mapping data records in a second subset of data records.",
+    "11. The method of claim 10 further comprises validating the mapping rule with a data supplier.",
+    "12. The method of claim 10 wherein the data records further comprise an Processor Control Number (PCN) data field, and wherein the combinations of the BIN and GID values comprises a combination of the BIN, GID and PCN values.",
+    "13. The method of claim 10 further comprising: \nfor the second subset, grouping data records by unique combinations of BIN and GID values present in the second subset;  identifying BIN and GID combinations that having mapping rules established by analysis of the first subset of data records; and,  assigning the grouped data records MR payer IDs according to the mapping rules established by analysis of the first subset of data records.",
+    "14. The method of claim 13 wherein the data records further comprise a Processor Control Number (PCN) data field, and wherein the combinations of the BIN and GID values comprises a combination of the BIN, GID and PCN values.",
+    "15. The method of claim 10 further comprising: \nfor the second subset,  grouping data records by unique combinations of BIN and GID values present in the second set;  identifying unique BIN and GID combinations that do not have mapping rules established by analysis of the first subset of data records;  manually verifying the MR payer ID for those data records that do not have matching rules established by analysis of the first subset of data records;  establishing the unique combination of BIN and GID values and the corresponding manually verified MR payer ID as a mapping rule.",
+    "16. The method of claim 13 wherein the data records further comprise a Processor Control Number (PCN) data field, and wherein the combinations of the BIN and GID values comprises a combination of the BIN, GID and PCN values."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US12/782,423",
+      "relation_type": "Continuation",
+      "representative_publication": "US8041751B2",
+      "primary_language": "en",
+      "priority_date": "2003-07-18",
+      "filing_date": "2010-05-18",
+      "title": "Systems and methods for decoding payer identification in health care data records"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/893,838",
+      "representative_publication": "US7747658B2",
+      "primary_language": "en",
+      "priority_date": "2003-07-18",
+      "filing_date": "2004-07-19",
+      "title": "Systems and methods for decoding payer identification in health care data records"
+    },
+    {
+      "application_number": "US12/782,423",
+      "representative_publication": "US8041751B2",
+      "primary_language": "en",
+      "priority_date": "2003-07-18",
+      "filing_date": "2010-05-18",
+      "title": "Systems and methods for decoding payer identification in health care data records"
+    },
+    {
+      "application_number": "US13/270,003",
+      "representative_publication": "US20120030259A1",
+      "primary_language": "en",
+      "priority_date": "2003-07-18",
+      "filing_date": "2011-10-10",
+      "title": "Systems and Methods For Decoding Payer Identification In Health Care Data Records"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US48869203P",
+      "priority_date": "2003-07-18",
+      "filing_date": "2003-07-18"
+    },
+    {
+      "application_number": "US10/893,838",
+      "representative_publication": "US7747658B2",
+      "primary_language": "en",
+      "priority_date": "2003-07-18",
+      "filing_date": "2004-07-19",
+      "title": "Systems and methods for decoding payer identification in health care data records"
+    }
+  ],
+  "family_id": "34380940",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5359509A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-31",
+        "publication_date": "1994-10-25",
+        "assignee_original": "United Healthcare Corporation",
+        "title": "Health care payment adjudication and review system",
+        "patent_id": "patent/US5359509A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5359509A%2Fen"
+      },
+      {
+        "publication_number": "US5557514A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-06-23",
+        "publication_date": "1996-09-17",
+        "assignee_original": "Medicode, Inc.",
+        "title": "Method and system for generating statistically-based medical provider utilization profiles",
+        "patent_id": "patent/US5557514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5557514A%2Fen"
+      },
+      {
+        "publication_number": "US20020007285A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-18",
+        "publication_date": "2002-01-17",
+        "assignee_original": "Rappaport Alain T.",
+        "title": "Method, apparatus and system for providing targeted information in relation to laboratory and other medical services",
+        "patent_id": "patent/US20020007285A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020007285A1%2Fen"
+      },
+      {
+        "publication_number": "US6826536B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-22",
+        "publication_date": "2004-11-30",
+        "assignee_original": "Bert Forman",
+        "title": "Health care billing monitor system for detecting health care provider fraud",
+        "patent_id": "patent/US6826536B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6826536B1%2Fen"
+      },
+      {
+        "publication_number": "US20050154708A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-29",
+        "publication_date": "2005-07-14",
+        "assignee_original": "Yao Sun",
+        "title": "Information exchange between heterogeneous databases through automated identification of concept equivalence",
+        "patent_id": "patent/US20050154708A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050154708A1%2Fen"
+      },
+      {
+        "publication_number": "US7117095B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-21",
+        "publication_date": "2006-10-03",
+        "assignee_original": "Affymetrix, Inc.",
+        "title": "Methods for selecting nucleic acid probes",
+        "patent_id": "patent/US7117095B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7117095B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2007106844A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-14",
+        "publication_date": "2008-07-24",
+        "assignee_original": "Divx Inc",
+        "title": "Federated digital rights management scheme including trusted systems",
+        "patent_id": "patent/WO2007106844A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007106844A3%2Fen"
+      },
+      {
+        "publication_number": "US20100057489A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-03",
+        "publication_date": "2010-03-04",
+        "assignee_original": "Medimpact Healthcare Systems Inc.",
+        "title": "Virtual Health Care Needs Fulfillment System",
+        "patent_id": "patent/US20100057489A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100057489A1%2Fen"
+      },
+      {
+        "publication_number": "US20100125547A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-19",
+        "publication_date": "2010-05-20",
+        "assignee_original": "Melyssa Barrett",
+        "title": "Transaction Aggregator",
+        "patent_id": "patent/US20100125547A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100125547A1%2Fen"
+      },
+      {
+        "publication_number": "US20100217622A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-23",
+        "publication_date": "2010-08-26",
+        "assignee_original": "Brown Dale R",
+        "title": "System for Processing Retail Clinic Claims",
+        "patent_id": "patent/US20100217622A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100217622A1%2Fen"
+      },
+      {
+        "publication_number": "US20100287002A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-11",
+        "publication_date": "2010-11-11",
+        "assignee_original": "Medimpact Healthcare Systems, Inc.",
+        "title": "Method for providing consumer choice and equalizing pharmacy provider availability in prescription medication dispensing plans",
+        "patent_id": "patent/US20100287002A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100287002A1%2Fen"
+      },
+      {
+        "publication_number": "US20110029321A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-28",
+        "publication_date": "2011-02-03",
+        "assignee_original": "Medlmpact Healthcare Systems, Inc.",
+        "title": "System and method for web-based claim management",
+        "patent_id": "patent/US20110029321A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110029321A1%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US12198083B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-14",
+        "publication_date": "2025-01-14",
+        "assignee_original": "Medimpact Healthcare Systems, Inc.",
+        "title": "Healthcare fulfillment methods and systems",
+        "patent_id": "patent/US12198083B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12198083B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN108228618B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-14",
+        "publication_date": "2020-07-31",
+        "assignee_original": "\u5e73\u5b89\u79d1\u6280\uff08\u6df1\u5733\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Document data checking method and device",
+        "patent_id": "patent/CN108228618B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108228618B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8041751B2",
+      "primary_language": "en",
+      "publication_date": "2011-10-18",
+      "title": "Systems and methods for decoding payer identification in health care data records",
+      "patent_id": "patent/US8041751B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8041751B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8060502B2",
+      "primary_language": "en",
+      "publication_date": "2011-11-15",
+      "title": "Methods, systems, and computer program products for generating data quality indicators for relationships in a database",
+      "patent_id": "patent/US8060502B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8060502B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8306986B2",
+      "primary_language": "en",
+      "publication_date": "2012-11-06",
+      "title": "Method, system, and computer program product for linking customer information",
+      "patent_id": "patent/US8306986B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8306986B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070175985A1",
+      "primary_language": "en",
+      "publication_date": "2007-08-02",
+      "title": "Linking Transaction Cards With Spending Accounts",
+      "patent_id": "patent/US20070175985A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070175985A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070282639A1",
+      "primary_language": "en",
+      "publication_date": "2007-12-06",
+      "title": "Method and System for Enabling Automatic Insurance Claim Processing",
+      "patent_id": "patent/US20070282639A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070282639A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250157642A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-15",
+      "title": "Healthcare data cloud system, server and method",
+      "patent_id": "patent/US20250157642A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250157642A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8521582B2",
+      "primary_language": "en",
+      "publication_date": "2013-08-27",
+      "title": "System and method for collaborative affinity marketing",
+      "patent_id": "patent/US8521582B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8521582B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040098339A1",
+      "primary_language": "en",
+      "publication_date": "2004-05-20",
+      "title": "Method and apparatus for identifying an entity with which transactions are prohibited",
+      "patent_id": "patent/US20040098339A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040098339A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2014347212B2",
+      "primary_language": "en",
+      "publication_date": "2017-10-12",
+      "title": "Automated claims process management system",
+      "patent_id": "patent/AU2014347212B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2014347212B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7664704B2",
+      "primary_language": "en",
+      "publication_date": "2010-02-16",
+      "title": "Clearing receivables with improved search",
+      "patent_id": "patent/US7664704B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7664704B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120029950A1",
+      "primary_language": "en",
+      "publication_date": "2012-02-02",
+      "title": "Systems And Methods For Health Insurance Claim Processing",
+      "patent_id": "patent/US20120029950A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120029950A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109615533A",
+      "primary_language": "en",
+      "publication_date": "2019-04-12",
+      "title": "Hospital Efficiency Analysis Method and System",
+      "patent_id": "patent/CN109615533A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109615533A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160259896A1",
+      "primary_language": "en",
+      "publication_date": "2016-09-08",
+      "title": "Segmented temporal analysis model used in fraud, waste, and abuse detection",
+      "patent_id": "patent/US20160259896A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160259896A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113269179A",
+      "primary_language": "en",
+      "publication_date": "2021-08-17",
+      "title": "Data processing method, device, equipment and storage medium",
+      "patent_id": "patent/CN113269179A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113269179A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090083179A1",
+      "primary_language": "en",
+      "publication_date": "2009-03-26",
+      "title": "Web-accessible payment processing system",
+      "patent_id": "patent/US20090083179A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090083179A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060026037A1",
+      "primary_language": "en",
+      "publication_date": "2006-02-02",
+      "title": "Online doctor/patient lead system and associated methods",
+      "patent_id": "patent/US20060026037A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060026037A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230394233A1",
+      "primary_language": "en",
+      "publication_date": "2023-12-07",
+      "title": "System, server and method for training artificial intelligence using vectorized data",
+      "patent_id": "patent/US20230394233A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230394233A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230316225A1",
+      "primary_language": "en",
+      "publication_date": "2023-10-05",
+      "title": "Medical claim denial prediction using an artificial intelligence prediction engine including a hybrid decision tree",
+      "patent_id": "patent/US20230316225A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230316225A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002063363A",
+      "primary_language": "en",
+      "publication_date": "2002-02-28",
+      "title": "Insurance contract information management system and customer index generating method",
+      "patent_id": "patent/JP2002063363A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002063363A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112053217B",
+      "primary_language": "en",
+      "publication_date": "2023-09-19",
+      "title": "Financial valuation report generation method and device",
+      "patent_id": "patent/CN112053217B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112053217B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10909176B1",
+      "primary_language": "en",
+      "publication_date": "2021-02-02",
+      "title": "System and method for facilitating migration between electronic terminologies",
+      "patent_id": "patent/US10909176B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10909176B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113362151A",
+      "primary_language": "en",
+      "publication_date": "2021-09-07",
+      "title": "Data processing method and device for financial business, electronic equipment and storage medium",
+      "patent_id": "patent/CN113362151A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113362151A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240046353A1",
+      "primary_language": "en",
+      "publication_date": "2024-02-08",
+      "title": "Digital workbench for trade finance operation",
+      "patent_id": "patent/US20240046353A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240046353A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140279464A1",
+      "primary_language": "en",
+      "publication_date": "2014-09-18",
+      "title": "Account mask identifier apparatus, method, and computer program product",
+      "patent_id": "patent/US20140279464A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140279464A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20200122262A",
+      "primary_language": "en",
+      "publication_date": "2020-10-27",
+      "title": "Method and apparatus for integrated management of wallet",
+      "patent_id": "patent/KR20200122262A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200122262A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-12-08",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "IMS HEALTH INCORPORATED, PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FRANKLIN, DAVE;BLANTON, ILEENE;JAMES, MARY KAY;REEL/FRAME:016055/0873;SIGNING DATES FROM 20041118 TO 20041130"
+        },
+        {
+          "label": "Owner name",
+          "value": "IMS HEALTH INCORPORATED,PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FRANKLIN, DAVE;BLANTON, ILEENE;JAMES, MARY KAY;SIGNING DATES FROM 20041118 TO 20041130;REEL/FRAME:016055/0873"
+        }
+      ]
+    },
+    {
+      "date": "2005-06-20",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "IMS HEALTH INCORPORATED, PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNORS, PREVIOUSLY RECORDED AT REEL 016055 FRAME 0873;ASSIGNORS:FRANKLIN, DAVE;BLANTON, ILENE;JAMES, MARY KAY;AND OTHERS;REEL/FRAME:016699/0375;SIGNING DATES FROM 20041118 TO 20041202"
+        },
+        {
+          "label": "Owner name",
+          "value": "IMS HEALTH INCORPORATED,PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNORS, PREVIOUSLY RECORDED AT REEL 016055 FRAME 0873;ASSIGNORS:FRANKLIN, DAVE;BLANTON, ILENE;JAMES, MARY KAY;AND OTHERS;SIGNING DATES FROM 20041118 TO 20041202;REEL/FRAME:016699/0375"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "IMS SOFTWARE SERVICES, LTD., PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:IMS HEALTH INCORPORATED;REEL/FRAME:023140/0803"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060505"
+        },
+        {
+          "label": "Owner name",
+          "value": "IMS SOFTWARE SERVICES, LTD.,PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:IMS HEALTH INCORPORATED;REEL/FRAME:023140/0803"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060505"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT,NEW"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNORS:IMS HEALTH INCORPORATED, A DE CORP.;IMS HEALTH LICENSING ASSOCIATES, L.L.C., A DE LLC;IMS SOFTWARE SERVICES LTD., A DE CORP.;REEL/FRAME:024006/0581"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100226"
+        },
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, NE"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY AGREEMENT;ASSIGNORS:IMS HEALTH INCORPORATED, A DE CORP.;IMS HEALTH LICENSING ASSOCIATES, L.L.C., A DE LLC;IMS SOFTWARE SERVICES LTD., A DE CORP.;REEL/FRAME:024006/0581"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100226"
+        }
+      ]
+    },
+    {
+      "date": "2010-06-09",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-12-30",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2018-02-12",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.)"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-06",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "7.5 YR SURCHARGE - LATE PMT W/IN 6 MO, LARGE ENTITY (ORIGINAL EVENT CODE: M1555)"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-06",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-29",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-24",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:IQVIA INC.;IQVIA RDS INC.;IMS SOFTWARE SERVICES LTD.;AND OTHERS;REEL/FRAME:063745/0279"
+        },
+        {
+          "label": "Effective date",
+          "value": "20230523"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNOR:IQVIA INC.;REEL/FRAME:065709/0618"
+        },
+        {
+          "label": "Effective date",
+          "value": "20231128"
+        },
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "SECURITY INTEREST;ASSIGNORS:IQVIA INC.;IQVIA RDS INC.;IMS SOFTWARE SERVICES LTD.;AND OTHERS;REEL/FRAME:065710/0253"
+        },
+        {
+          "label": "Effective date",
+          "value": "20231128"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-06",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE CONVEYING PARTIES INADVERTENTLY NOT INCLUDED IN FILING PREVIOUSLY RECORDED AT REEL: 065709 FRAME: 618. ASSIGNOR(S) HEREBY CONFIRMS THE SECURITY AGREEMENT;ASSIGNORS:IQVIA INC.;IQVIA RDS INC.;IMS SOFTWARE SERVICES LTD.;AND OTHERS;REEL/FRAME:065790/0781"
+        },
+        {
+          "label": "Effective date",
+          "value": "20231128"
+        }
+      ]
+    }
+  ]
+}

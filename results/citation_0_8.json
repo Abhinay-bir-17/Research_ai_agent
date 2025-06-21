@@ -1,0 +1,3493 @@
+{
+  "search_metadata": {
+    "id": "68514d93ef15ce5793a56be1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a544232abee42f71/68514d93ef15ce5793a56be1.json",
+    "created_at": "2025-06-17 11:12:19 UTC",
+    "processed_at": "2025-06-17 11:12:19 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5130936A/en",
+    "raw_html_file": "https://serpapi.com/searches/a544232abee42f71/68514d93ef15ce5793a56be1.html",
+    "total_time_taken": 5.7
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5130936A/en"
+  },
+  "title": "Method and apparatus for diagnostic testing including a neural network for determining testing sufficiency",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/17/c8/54/c5e88176636170/US5130936.pdf",
+  "publication_number": "US5130936A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "signal",
+    "test",
+    "certainty",
+    "value",
+    "uncertainty"
+  ],
+  "prior_art_date": "1990-09-14",
+  "application_number": "US07/582,383",
+  "inventors": [
+    {
+      "name": "John W. Sheppard",
+      "link": "https://patents.google.com/?inventor=John+W.+Sheppard",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=John+W.+Sheppard"
+    },
+    {
+      "name": "William R. Simpson",
+      "link": "https://patents.google.com/?inventor=William+R.+Simpson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=William+R.+Simpson"
+    },
+    {
+      "name": "Jerry L. Graham",
+      "link": "https://patents.google.com/?inventor=Jerry+L.+Graham",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jerry+L.+Graham"
+    }
+  ],
+  "assignees": [
+    "ARINC Inc"
+  ],
+  "priority_date": "1990-09-14",
+  "filing_date": "1990-09-14",
+  "publication_date": "1992-07-14",
+  "worldwide_applications": {
+    "1990": [
+      {
+        "filing_date": "1990-09-14",
+        "country_code": "US",
+        "application_number": "US07/582,383",
+        "document_id": "patent/US5130936A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      },
+      {
+        "filing_date": "1990-12-24",
+        "country_code": "AT",
+        "application_number": "AT90314243T",
+        "document_id": "patent/ATE155591T1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "1990-12-24",
+        "country_code": "DE",
+        "application_number": "DE69031074T",
+        "document_id": "patent/DE69031074D1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1990-12-24",
+        "country_code": "EP",
+        "application_number": "EP90314243A",
+        "document_id": "patent/EP0474944B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1990-09-14",
+      "title": "Application filed by ARINC Research Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "ARINC Research Corp"
+    },
+    {
+      "date": "1990-09-14",
+      "title": "Priority to US07/582,383",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5130936A/en"
+    },
+    {
+      "date": "1990-10-31",
+      "title": "Assigned to ARINC RESEARCH CORPORATION, A CORP. OF MD",
+      "type": "reassignment",
+      "assignee_search": "ARINC RESEARCH CORPORATION, A CORP. OF MD",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST.",
+        "Assignors: GRAHAM, JERRY L., SHEPPARD, JOHN W., SIMPSON, WILLIAM R."
+      ]
+    },
+    {
+      "date": "1990-12-24",
+      "title": "Priority to DE69031074T",
+      "type": "priority",
+      "document_id": "patent/DE69031074D1/en"
+    },
+    {
+      "date": "1990-12-24",
+      "title": "Priority to EP90314243A",
+      "type": "priority",
+      "document_id": "patent/EP0474944B1/en"
+    },
+    {
+      "date": "1990-12-24",
+      "title": "Priority to AT90314243T",
+      "type": "priority",
+      "document_id": "patent/ATE155591T1/en"
+    },
+    {
+      "date": "1992-07-14",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1992-07-14",
+      "title": "Publication of US5130936A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5130936A/en"
+    },
+    {
+      "date": "2002-04-12",
+      "title": "Assigned to ARINC INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "ARINC INCORPORATED",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ARINC RESEARCH CORPORATION"
+      ]
+    },
+    {
+      "date": "2002-04-22",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS COLLATERAL AGENT",
+      "description": [
+        "NOTICE OF GRANT OF SECURITY INTEREST",
+        "Assignors: ARINC INCORPORATED"
+      ]
+    },
+    {
+      "date": "2004-06-01",
+      "title": "Assigned to ARINC INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "ARINC INCORPORATED",
+      "description": [
+        "TERMINATION AND RELEASE OF SECURITY INTEREST",
+        "Assignors: BANK OF AMERICA, N.A., AS COLLATERAL AGENT"
+      ]
+    },
+    {
+      "date": "2004-06-28",
+      "title": "Assigned to WACHOVIA BANK, NATIONAL ASSOCIATION, AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "WACHOVIA BANK, NATIONAL ASSOCIATION, AS COLLATERAL AGENT",
+      "description": [
+        "NOTICE OF GRANT OF SECURITY INTEREST",
+        "Assignors: ARINC INCORPORATED"
+      ]
+    },
+    {
+      "date": "2007-10-30",
+      "title": "Assigned to ARINC INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "ARINC INCORPORATED",
+      "description": [
+        "TERMINATION OF SECURITY INTEREST IN PATENTS",
+        "Assignors: WACHOVIA BANK, NATIONAL ASSOCIATION, AS COLLATERAL AGENT"
+      ]
+    },
+    {
+      "date": "2007-10-31",
+      "title": "Assigned to JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT",
+      "description": [
+        "GRANT OF FIRST LIEN SECURITY INTEREST IN PATENT RIGHTS",
+        "Assignors: ARINC INCORPORATED"
+      ]
+    },
+    {
+      "date": "2007-10-31",
+      "title": "Assigned to LEHMAN COMMERCIAL PAPER INC., AS COLLATERAL AGENT",
+      "type": "reassignment",
+      "assignee_search": "LEHMAN COMMERCIAL PAPER INC., AS COLLATERAL AGENT",
+      "description": [
+        "GRANT OF SECOND LIEN SECURITY INTEREST IN PATENT RIGHTS",
+        "Assignors: ARINC INCORPORATED"
+      ]
+    },
+    {
+      "date": "2010-09-14",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "2012-01-31",
+      "title": "Assigned to WILMINGTON TRUST, NATIONAL ASSOCIATION",
+      "type": "reassignment",
+      "assignee_search": "WILMINGTON TRUST, NATIONAL ASSOCIATION",
+      "description": [
+        "ASSIGNMENT AND ASSUMPTION OF SECOND LIEN SECURITY INTEREST IN PATENT RIGHTS RECORDED AT REEL 020045 FRAME 0331",
+        "Assignors: LEHMAN COMMERCIAL PAPER INC."
+      ]
+    },
+    {
+      "date": "2013-08-07",
+      "title": "Assigned to ARINC INCORPORATED",
+      "type": "reassignment",
+      "assignee_search": "ARINC INCORPORATED",
+      "description": [
+        "RELEASE OF SECURITY INTEREST IN PATENT COLLATERAL AT REEL/FRAME NOS. 020045/0331 AND 027629/0124",
+        "Assignors: WILMINGTON TRUST, NATIONAL ASSOCIATION"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5130936.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/07582383"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5130936"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5130936A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/07582383/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5130936"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/63/45/c7/b1aa38a3b626e3/US5130936-drawings-page-2.png",
+    "https://patentimages.storage.googleapis.com/8d/c5/f3/7ea716ace6557d/US5130936-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/f9/be/fa/db4673ab9c3a65/US5130936-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/fc/32/c3/d99b949af50749/US5130936-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/bd/6c/64/f5178861b2f14e/US5130936-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/d7/3f/58/673608b9ea4e4d/US5130936-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/dc/a4/c3/24063ac63e9ddf/US5130936-drawings-page-8.png",
+    "https://patentimages.storage.googleapis.com/5d/9f/97/3f8ea148021d4b/US5130936-drawings-page-9.png"
+  ],
+  "classifications": [
+    {
+      "code": "G06F11/2257",
+      "description": "Detection or location of defective computer hardware by testing during standby operation or during idle time, e.g. start-up testing using expert systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S128/925",
+      "description": "Neural network",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S706/911",
+      "description": "Nonmedical diagnostics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A diagnostic tester evaluates at least one inputted test signal corresponding to test data relating to at least one predetermined parameter of a system being tested, to produce first and second candidate signals corresponding respectively to first and second possible diagnoses of the condition of the system respectively having the first and second highest levels of certainty of being valid, and first and second certainty signals corresponding respectively to values of the first and second highest levels of certainty. The diagnostic tester further determines the sufficiency of the testing that has taken place responsive to the first and second certainty signals, and produces an output signal indicative of whether sufficient test data has been evaluated to declare a diagnosis. Preferably, an uncertainty signal corresponding to a measure of the uncertainty that the evaluated at least one test signal can be validly evaluated is also produced and used to produce the output signal.",
+  "description_link": "https://serpapi.com/searches/68514d93ef15ce5793a56be1/google_patents_details/description.html",
+  "claims": [
+    "1. An improved electronic diagnostic tester for evaluating a failure state of a system having a defined number of functional elements, said diagnostic tester comprising:an electronic signal input interface for providing electronic test signals; evaluating means, responsive to at least one inputted test signal corresponding to test data relating to at least one predetermined parameter of the system, for producing:a set of possible diagnoses of the failure state of the system ranked according to a level of certainty associated with each diagnosis of being valid; first and second candidate signals corresponding respectively to first and second ones of said possible diagnoses respectively having the first and second highest levels of certainty of being valid, and first and second certainty signals corresponding respectively to values of said first and second highest levels of certainty; and  testing sufficiency means, responsive to said first and second certainty signals, for producing an output signal indicative of whether sufficient test data has been evaluated to declare a diagnosis.",
+    "2. The diagnostic tester of claim 1 wherein:said evaluating means also produces an uncertainty signal corresponding to a measure of the uncertainty that the evaluated at least one test signal can be validly evaluated; and said testing sufficiency means also evaluates said uncertainty signal to produce said output signal.",
+    "3. The diagnostic tester of claim 2 wherein:said evaluating means also produces a signal SN corresponding to a measure of the level of certainty that a diagnosis not corresponding to said first or second candidate signals or to said uncertainty signal is a valid diagnosis; said testing sufficiency means also evaluates said signal SN to produce said output signal.",
+    "4. The diagnostic tester of claim 2 wherein said evaluating means comprises:means for storing a model of predetermined information flow relationships within the system under test; means for associating said test signals with sets of possible failure state causes in accordance with said model, and for ascertaining the intersections of said sets of possible causes for combinations of test signals, said candidate signals being derived from said intersections; and means for determining for each candidate signal a measure of the level of certainty that it represents a valid diagnosis.",
+    "5. The diagnostic tester of claim 4 wherein said evaluating means comprises UR determining means for determining the degree to which a conflict exists between at least said first candidate signal and said at least one test signal indicative of the level of certainty that an unanticipated result (UR) has been obtained, said uncertainty signal having a value corresponding to said UR level of certainty.",
+    "6. The diagnostic tester of claim 5 wherein said UR determining means comprises:means for defining a plurality of conclusions corresponding to possible diagnoses of the system; means for assigning a confidence value to each successively inputted test signal; means for calculating the support and denial for each conclusion based on said confidence value of the currently inputted test signal; means for determining if the currently inputted test signal conflicts with a then selected set of said conclusions corresponding to candidate signals; means for obtaining a measure of internal conflict based on accumulated total support values and the current test signal support values for all of said conclusions; means for computing the present value of said uncertainty signal based on the number of test signals evaluated, if the present test signal is not a conflict; and based on the number of test signals evaluated and the number of conflicts, if the present test signal is a conflict; means for computing a new total support value for each conclusion based on the old total support value, the present test signal support value and confidence value, an old uncertainty value, and said measure of internal conflict; means for computing a new uncertainty value based on the old uncertainty value, the present test signal confidence value and said measure of internal conflict; means for normalizing the total support value for each conclusion based on the old total support value, and the present uncertainty signal value; means for computing a new total denial for each conclusion based on an old total denial and the present test signal denial value; means for computing the present plausibility for each conclusion based on the present total denial and the number of test signals evaluated; means for selecting the current set of candidate signals based on the present total support and the plausibility for each conclusion.",
+    "7. The diagnostic tester of claim 5 wherein the values said certainty and uncertainty signals correspond to probability values.",
+    "8. The diagnostic tester of claim 7 wherein said training data includes first, second and third unambiguous combinations, said first unambiguous combination comprising said first certainty signal having a value corresponding to 100% probability and said second certainty signal and said uncertainty signal having zero values, said second unambiguous combination comprising said first certainty signal and said uncertainty signal each having a value corresponding to 100% probability and said second certainty signal having a zero value, and said third unambiguous combination comprising both of said certainty signals having values corresponding to uniform probabilities and said uncertainty signal having a zero value.",
+    "9. The diagnostic tester of claim 8 wherein said training data includes two data sets each having a predetermined number of ambiguous combinations wherein:both data sets have certainty signal values within a closed interval [0,1] generated at random according to a lognormal distribution; a first one of said data sets has uncertainty signal values generated at random according to a lognormal distribution; a second one of said data sets has uncertainty signal values set to zero; the values to generated are adjusted by normalizing the certainty signal values in each ambiguous combination to sum to (1-SU), all normalized certainty signal values and the uncertainty signal values less than or equal to a predetermined value based on the number of elements in the system are set to zero; and then the resultant certainty and uncertainty signal values in each of said ambiguous combinations are normalized to sum to the value one; and the larger of the resultant normalized certainty signal values is designated as the first certainty signal value in each of said ambiguous combinations where the certainty signal values are unequal.",
+    "10. The diagnostic tester of claim 7 wherein:the sum of the weighted outputs inputted to each of the intermediate nodes and the output mode is processed in the respective node with a sigmoidal activation function; the weights of the first, second and third outputs of the first input node are (-9.640), 5.049, and (-1.624), respectively; the weights of the first, second and third outputs of the second input node are 15.641, (-8.491), and 2.436, respectively; the weights of the first, second and third outputs of the third input node are (-6.680), 3.627, and (-1.237), respectively; the weights of the first, second and third outputs of the fourth input node are (-0.422), 0.442, and (-0.427), respectively; the weight of the output of the first intermediate node is (-19.214); the weight of the output of the second intermediate node is 11.457; the weight of the output of the third intermediate node is (-2.483); and the weight of the output of the fourth intermediate node is 4.081.",
+    "11. The diagnostic tester of claim 10 wherein said activation function is logistic.",
+    "12. The diagnostic tester of claim 11 wherein said activation function is 1/(1+e-x), where x is the unweighted output of a given node.",
+    "13. The diagnostic tester of claim 2 wherein said uncertainty measure has a probability value.",
+    "14. The diagnostic tester of claim 2 wherein said testing sufficiency means comprises a neural network comprising:a set of first, second, third and fourth input nodes each having first, second and third outputs weighted by a predetermined fixed weight, said first and second input nodes respectively receiving said first and second certainty signals as an input, said third input node receiving said uncertainty signal, and said fourth input node receiving a predetermined bias signal; a set of first, second, third and fourth intermediate nodes each having an output weighted by a predetermined fixed weight, said first intermediate node receiving the sum of the first weighted outputs of said input nodes as an input, said second intermediate node receiving the sum of the second weighted outputs of said input nodes as an input, said third intermediate node receiving the sum of the third weighted outputs of said input nodes as an input, and said fourth intermediate node receiving said predetermined bias signal; and an output node, responsive to the sum of said weighted outputs of said intermediate nodes, for producing said output signal.",
+    "15. The diagnostic tester of claim 14 wherein said output weights of said input and intermediate nodes correspond to a model of expert data correlating combinations of certainty signal values with at least one expert opinion regarding the ability to declare a diagnosis on the basis of each combination of certainty signal values.",
+    "16. The diagnostic tester of claim 14 wherein said output weights of said input and intermediate nodes correspond to a model of expert data correlating combinations of certainty and uncertainty signal values with at least one expert opinion regarding the ability to declare a diagnosis on the basis of each combination of certainty and uncertainty signal values.",
+    "17. The diagnostic tester of claim 14 wherein said output weights of said input and intermediate nodes have values obtained by training a backpropagation neural network having the same architecture as said neural network using empirical certainty and uncertainty signal training data obtained from testing of real systems, and conclusions derived from at least one expert regarding the sufficiency of the information represented by said combinations to declare a diagnosis for a specific system to be tested.",
+    "18. The diagnostic tester of claim 17 wherein said output weights of said input and intermediate nodes have generic values obtained by training a backpropagation neural network having the same architecture as said neural network using normalized randomly generated certainty and uncertainty signal training data, and conclusions derived from at least one expert regarding the sufficiency of the information represented by said combinations to declare a diagnosis for systems in general.",
+    "19. The diagnostic tester of claim 1 further comprising a controller responsive to said evaluating means and to said testing sufficiency means output signal for controlling said evaluating means and said signal input interface to control the test signals provided for evaluation and the continued evaluation of test signals.",
+    "20. The diagnostic tester of claim 19 wherein said signal input interface comprises operator actuated input means for entering test data relating to at least one predetermined aspect of the system, and for generating test signals corresponding to the test data.",
+    "21. The diagnostic tester of claim 19 wherein said signal input interface comprises an automatic tester responsive to a first control signal produced by said controller for performing selected tests on the system, and for generating test signals corresponding to the test results.",
+    "22. The diagnostic tester of claim 21wherein said controller produces said first control signal to cause said automatic tester to perform at least one further selected test on the system if said output signal indicates that insufficient test data has been evaluated; and produces a conclusion signal indicative of a diagnosis in accordance with said first candidate signal if said output signal indicates that sufficient test data has been evaluated.",
+    "23. The diagnostic tester of claim 22 wherein said controller produces said first control signal to select said at least one further selected test in accordance with at least one prior evaluation of test signals.",
+    "24. The diagnostic tester of claim 19 further comprising:a display; and said controller is responsive to said output signal for controlling said display to indicate the need for additional test data and for controlling said signal input interface to accept a further at least one test signal for evaluation by said evaluating means if said output signal indicates that insufficient test data has been evaluated; and for controlling said display responsive to said first candidate signal to indicate a diagnosis if said output signal indicates that sufficient test data has been evaluated.",
+    "25. The diagnostic tester of claim 1 wherein the values of said first and second highest levels of certainty are probability values.",
+    "26. An automatic diagnostic tester for testing a system state according to a set of defined relationships between a plurality of sources for providing information about the system and a plurality of conclusions about the state of the system, said tester comprising:an electronic signal input interface for providing electronic test signals corresponding to the information provided by the plurality of sources; first control means for selecting the test signals provided by said signal input interface corresponding to successive ones of the information sources for evaluation according to the relative amount of information provided by each information source until the test signals for all of the information sources have been selected or the information which would be provided thereby has been determined; second control means for further selecting the test signals provided by said signal input interface corresponding to successive ones of the information sources for evaluation according to which information source will increase the level of certainty that a selected candidate conclusion constitutes a valid diagnosis of the system state.",
+    "27. The diagnostic tester of claim 26 wherein said second control means comprises:means for assigning a confidence value to the information provided by an information source; means responsive to said confidence value and to the information provided by evaluated information sources for computing a level of certainty for each of the conclusions that the associated conclusion constitutes a valid diagnosis; means for selecting candidate conclusions according to the relative values of the computed levels of certainty for each conclusion.",
+    "28. The diagnostic tester of claim 27 further comprising:first means for identifying, if more than one candidate conclusion has been selected, which information sources, if any, depend on one of the two candidate conclusions with the then highest levels of certainty and not the other, and, if more than one such information source is identified, identifying which of such information sources furnishes the most information about the support for the candidate conclusion on which it depends.",
+    "29. The diagnostic tester of claim 28 further comprising:second means, responsive to said first identifying means determining that no information source satisfies the identification criteria of said first identifying means, and responsive to said selecting means having then selected only one candidate conclusion, for identifying the information source, if any, that provides the most support for the candidate conclusion having the then highest level of certainty, if more than one candidate conclusion has then been selected, or for the candidate conclusion, if only one candidate conclusion has then been selected.",
+    "30. The diagnostic tester of claim 29 further comprising:third means, responsive to said second identifying means determining that no information source satisfies the identification criteria of said second identifying means, for identifying the information source, if any, that supports the most conclusions other than the candidate conclusion having the then highest level of certainty.",
+    "31. An automatic controller for controlling the operation of a physical system, said controller comprising:sensor means for sensing at least one predetermined system parameter indicative of an operating state of the system and producing output data signals indicative of the value of said at least one sensed parameter; control means responsive to said sensor means output data signals for controlling a value of at least one operating parameter of the system to control the operating state of the system, said control means comprising:evaluating means, responsive to said sensor means output data signals, for producing:a set of possible diagnoses of the operating state of the system ranked according to a level of certainty associated with each diagnosis of being valid, first and second candidate signals corresponding respectively to first and second ones of said possible diagnoses respectively having the first and second highest levels of certainty of being valid, and first and second certainty signals corresponding respectively to values of said first and second highest levels of certainty; and  testing sufficiency means, responsive to said first and second certainty signals, for producing an output signal indicative of whether sufficient sensor output data signals have been evaluated to declare a diagnosis, said control means being responsive to said testing sufficiency means output signal."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US07/582,383",
+      "representative_publication": "US5130936A",
+      "primary_language": "en",
+      "priority_date": "1990-09-14",
+      "filing_date": "1990-09-14",
+      "title": "Method and apparatus for diagnostic testing including a neural network for determining testing sufficiency"
+    },
+    {
+      "application_number": "DE69031074T",
+      "representative_publication": "DE69031074D1",
+      "primary_language": "en",
+      "priority_date": "1990-09-14",
+      "filing_date": "1990-12-24",
+      "title": "Diagnostic test method and apparatus"
+    },
+    {
+      "application_number": "EP90314243A",
+      "representative_publication": "EP0474944B1",
+      "primary_language": "en",
+      "priority_date": "1990-09-14",
+      "filing_date": "1990-12-24",
+      "title": "Method and apparatus for diagnostic testing"
+    },
+    {
+      "application_number": "AT90314243T",
+      "representative_publication": "ATE155591T1",
+      "primary_language": "en",
+      "priority_date": "1990-09-14",
+      "filing_date": "1990-12-24",
+      "title": "METHOD AND DEVICE FOR DIAGNOSTIC TEST"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US07/582,383",
+      "representative_publication": "US5130936A",
+      "primary_language": "en",
+      "priority_date": "1990-09-14",
+      "filing_date": "1990-09-14",
+      "title": "Method and apparatus for diagnostic testing including a neural network for determining testing sufficiency"
+    }
+  ],
+  "family_id": "24328938",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4620286A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-01-16",
+        "publication_date": "1986-10-28",
+        "assignee_original": "Itt Corporation",
+        "title": "Probabilistic learning element",
+        "patent_id": "patent/US4620286A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4620286A%2Fen"
+      },
+      {
+        "publication_number": "US4644479A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-07-31",
+        "publication_date": "1987-02-17",
+        "assignee_original": "Westinghouse Electric Corp.",
+        "title": "Diagnostic apparatus",
+        "patent_id": "patent/US4644479A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4644479A%2Fen"
+      },
+      {
+        "publication_number": "US4649515A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-04-30",
+        "publication_date": "1987-03-10",
+        "assignee_original": "Westinghouse Electric Corp.",
+        "title": "Methods and apparatus for system fault diagnosis and control",
+        "patent_id": "patent/US4649515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4649515A%2Fen"
+      },
+      {
+        "publication_number": "US4796206A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-06-02",
+        "publication_date": "1989-01-03",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Computer assisted vehicle service featuring signature analysis and artificial intelligence",
+        "patent_id": "patent/US4796206A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4796206A%2Fen"
+      },
+      {
+        "publication_number": "US4841456A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-09-09",
+        "publication_date": "1989-06-20",
+        "assignee_original": "The Boeing Company",
+        "title": "Test system and method using artificial intelligence control",
+        "patent_id": "patent/US4841456A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4841456A%2Fen"
+      },
+      {
+        "publication_number": "US4866635A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-10-19",
+        "publication_date": "1989-09-12",
+        "assignee_original": "Carnegie Group Inc.",
+        "title": "Domain independent shell for building a diagnostic expert system",
+        "patent_id": "patent/US4866635A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4866635A%2Fen"
+      },
+      {
+        "publication_number": "US4918620A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-06-16",
+        "publication_date": "1990-04-17",
+        "assignee_original": "General Electric Company",
+        "title": "Expert system method and architecture",
+        "patent_id": "patent/US4918620A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4918620A%2Fen"
+      },
+      {
+        "publication_number": "US4970725A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-03-14",
+        "publication_date": "1990-11-13",
+        "assignee_original": "Westinghouse Electric Corp.",
+        "title": "Automated system testability assessment method",
+        "patent_id": "patent/US4970725A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4970725A%2Fen"
+      },
+      {
+        "publication_number": "US4979124A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-10-05",
+        "publication_date": "1990-12-18",
+        "assignee_original": "Cornell Research Foundation",
+        "title": "Adaptive, neural-based signal processor",
+        "patent_id": "patent/US4979124A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4979124A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Allred, Lloyd, Neural Networks in Automatic Testing of Diode Protection Circuits Autotestcon, pp. 181 186, 1989.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Allred, Lloyd, Neural Networks in Automatic Testing of Diode Protection Circuits Autotestcon, pp. 181-186, 1989."
+    },
+    {
+      "title": "David, R., Diagnostic Reasoning Based on Structure, Artificial Intelligence, vol. 32, pp. 97 130, 31 Dec. 1987.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "David, R., Diagnostic Reasoning Based on Structure, Artificial Intelligence, vol. 32, pp. 97-130, 31 Dec. 1987."
+    },
+    {
+      "title": "Dempster, A. P., A Generalization of Bayesian Inference, Journal of the Royal Statistical Society, Series B, pp. 205 247, 31 Dec. 1968.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Dempster, A. P., A Generalization of Bayesian Inference, Journal of the Royal Statistical Society, Series B, pp. 205-247, 31 Dec. 1968."
+    },
+    {
+      "title": "Guthmiller et al., \"FAME-An Expert System for Failure Analysis of Metals,\" Conference: ISTFA'87: Advanced Materials, Los Angeles, 9-13 Nov. 1987."
+    },
+    {
+      "title": "Guthmiller et al., FAME An Expert System for Failure Analysis of Metals, Conference: ISTFA 87: Advanced Materials, Los Angeles, 9 13 Nov. 1987.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Marko et al., \"Automotive Control System Diagnostics Using Neural Nets for Rapid Pattern Classification of Large Data Sets,\" IJCNN, pp. II-13 to II-16, 18-22 Jun. 1989."
+    },
+    {
+      "title": "Marko et al., Automotive Control System Diagnostics Using Neural Nets for Rapid Pattern Classification of Large Data Sets, IJCNN, pp. II 13 to II 16, 18 22 Jun. 1989.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "McLeish, M., A Note on Probabilistic Logic, AAAI 88, pp. 215 219, 31 Dec. 1988.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "McLeish, M., A Note on Probabilistic Logic, AAAI-88, pp. 215-219, 31 Dec. 1988."
+    },
+    {
+      "title": "Piptone, F., The FIS Electronics Troubleshooting System, IEEE Compuer, pp. 68 75, Jul. 1986.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Piptone, F., The FIS Electronics Troubleshooting System, IEEE Compuer, pp. 68-75, Jul. 1986."
+    },
+    {
+      "title": "Shafer, G., A Mathematical Theory of Evidence, Princeton University Press, pp. 35 73, 31 Dec. 1976.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Shafer, G., A Mathematical Theory of Evidence, Princeton University Press, pp. 35-73, 31 Dec. 1976."
+    },
+    {
+      "title": "Shortliffe, E. H., Computer Based Medical Consultations: Mycin, American Elsevier, New York, 31 Dec. 1976.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Zadeh, L., Fuzzy Logic, IEEE Computer, pp. 83 93, Apr. 1988.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Zadeh, L., Fuzzy Logic, IEEE Computer, pp. 83-93, Apr. 1988."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US5237518A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-10-27",
+        "publication_date": "1993-08-17",
+        "assignee_original": "Vanderbilt University",
+        "title": "Optimization method for adaptive sensor reading scheduling and delayed alarm evaluation in real-time diagnostic systems",
+        "patent_id": "patent/US5237518A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5237518A%2Fen"
+      },
+      {
+        "publication_number": "US5293323A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-24",
+        "publication_date": "1994-03-08",
+        "assignee_original": "General Electric Company",
+        "title": "Method for fault diagnosis by assessment of confidence measure",
+        "patent_id": "patent/US5293323A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5293323A%2Fen"
+      },
+      {
+        "publication_number": "US5313241A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-25",
+        "publication_date": "1994-05-17",
+        "assignee_original": "Eastman Kodak Company",
+        "title": "Processor diagnostics using switch settings",
+        "patent_id": "patent/US5313241A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5313241A%2Fen"
+      },
+      {
+        "publication_number": "US5327437A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-11-25",
+        "publication_date": "1994-07-05",
+        "assignee_original": "Hewlett-Packard Company",
+        "title": "Method for testing electronic assemblies in the presence of noise",
+        "patent_id": "patent/US5327437A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5327437A%2Fen"
+      },
+      {
+        "publication_number": "US5386829A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-09-17",
+        "publication_date": "1995-02-07",
+        "assignee_original": "Cedars-Sinai Medical Center",
+        "title": "Method for adjusting an image according to a priori probabilities",
+        "patent_id": "patent/US5386829A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5386829A%2Fen"
+      },
+      {
+        "publication_number": "US5469563A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-08-03",
+        "publication_date": "1995-11-21",
+        "assignee_original": "Sony Corporation",
+        "title": "Method and control apparatus for self diagnosis",
+        "patent_id": "patent/US5469563A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5469563A%2Fen"
+      },
+      {
+        "publication_number": "US5479571A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-06-14",
+        "publication_date": "1995-12-26",
+        "assignee_original": "The Texas A&M University System",
+        "title": "Neural node network and model, and method of teaching same",
+        "patent_id": "patent/US5479571A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5479571A%2Fen"
+      },
+      {
+        "publication_number": "US5481481A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-23",
+        "publication_date": "1996-01-02",
+        "assignee_original": "Architectural Engergy Corporation",
+        "title": "Automated diagnostic system having temporally coordinated wireless sensors",
+        "patent_id": "patent/US5481481A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5481481A%2Fen"
+      },
+      {
+        "publication_number": "WO1996012187A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-13",
+        "publication_date": "1996-04-25",
+        "assignee_original": "Horus Therapeutics, Inc.",
+        "title": "Computer assisted methods for diagnosing diseases",
+        "patent_id": "patent/WO1996012187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996012187A1%2Fen"
+      },
+      {
+        "publication_number": "US5515503A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-30",
+        "publication_date": "1996-05-07",
+        "assignee_original": "Mita Industrial Co.",
+        "title": "Self-repair system for an image forming apparatus",
+        "patent_id": "patent/US5515503A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5515503A%2Fen"
+      },
+      {
+        "publication_number": "US5528516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-25",
+        "publication_date": "1996-06-18",
+        "assignee_original": "System Management Arts, Inc.",
+        "title": "Apparatus and method for event correlation and problem reporting",
+        "patent_id": "patent/US5528516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5528516A%2Fen"
+      },
+      {
+        "publication_number": "US5566092A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-30",
+        "publication_date": "1996-10-15",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "Machine fault diagnostics system and method",
+        "patent_id": "patent/US5566092A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5566092A%2Fen"
+      },
+      {
+        "publication_number": "US5642296A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-07-29",
+        "publication_date": "1997-06-24",
+        "assignee_original": "Texas Instruments Incorporated",
+        "title": "Method of diagnosing malfunctions in semiconductor manufacturing equipment",
+        "patent_id": "patent/US5642296A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5642296A%2Fen"
+      },
+      {
+        "publication_number": "US5649066A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-01-03",
+        "publication_date": "1997-07-15",
+        "assignee_original": "The Florida State University For And On Behalf Of The Florida Board Of Regents",
+        "title": "Method and apparatus for refinement of learning in expert networks",
+        "patent_id": "patent/US5649066A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5649066A%2Fen"
+      },
+      {
+        "publication_number": "US5691991A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-17",
+        "publication_date": "1997-11-25",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Process for identifying defective interconnection net end points in boundary scan testable circuit devices",
+        "patent_id": "patent/US5691991A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5691991A%2Fen"
+      },
+      {
+        "publication_number": "US5715178A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-11-02",
+        "publication_date": "1998-02-03",
+        "assignee_original": "Combustion Engineering, Inc.",
+        "title": "Method of validating measurement data of a process parameter from a plurality of individual sensor inputs",
+        "patent_id": "patent/US5715178A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5715178A%2Fen"
+      },
+      {
+        "publication_number": "US5884294A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-18",
+        "publication_date": "1999-03-16",
+        "assignee_original": "Northrop Grumman Corporation",
+        "title": "System and method for functional recognition of emitters",
+        "patent_id": "patent/US5884294A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5884294A%2Fen"
+      },
+      {
+        "publication_number": "US5919267A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-04-09",
+        "publication_date": "1999-07-06",
+        "assignee_original": "Mcdonnell Douglas Corporation",
+        "title": "Neural network fault diagnostics systems and related method",
+        "patent_id": "patent/US5919267A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5919267A%2Fen"
+      },
+      {
+        "publication_number": "US5956663A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-07",
+        "publication_date": "1999-09-21",
+        "assignee_original": "Rosemount, Inc.",
+        "title": "Signal processing technique which separates signal components in a sensor for sensor diagnostics",
+        "patent_id": "patent/US5956663A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5956663A%2Fen"
+      },
+      {
+        "publication_number": "US5995915A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-29",
+        "publication_date": "1999-11-30",
+        "assignee_original": "Advanced Micro Devices, Inc.",
+        "title": "Method and apparatus for the functional verification of digital electronic systems",
+        "patent_id": "patent/US5995915A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5995915A%2Fen"
+      },
+      {
+        "publication_number": "US6017143A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-28",
+        "publication_date": "2000-01-25",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Device in a process system for detecting events",
+        "patent_id": "patent/US6017143A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6017143A%2Fen"
+      },
+      {
+        "publication_number": "US6047220A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-31",
+        "publication_date": "2000-04-04",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Device in a process system for validating a control signal from a field device",
+        "patent_id": "patent/US6047220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6047220A%2Fen"
+      },
+      {
+        "publication_number": "US6059724A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-02-14",
+        "publication_date": "2000-05-09",
+        "assignee_original": "Biosignal, Inc.",
+        "title": "System for predicting future health",
+        "patent_id": "patent/US6059724A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6059724A%2Fen"
+      },
+      {
+        "publication_number": "US6110214A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-05-03",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Aspen Technology, Inc.",
+        "title": "Analyzer for modeling and optimizing maintenance operations",
+        "patent_id": "patent/US6110214A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110214A%2Fen"
+      },
+      {
+        "publication_number": "US6110109A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-26",
+        "publication_date": "2000-08-29",
+        "assignee_original": "Biosignia, Inc.",
+        "title": "System and method for predicting disease onset",
+        "patent_id": "patent/US6110109A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6110109A%2Fen"
+      },
+      {
+        "publication_number": "US6125339A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-12-23",
+        "publication_date": "2000-09-26",
+        "assignee_original": "Raytheon Company",
+        "title": "Automatic learning of belief functions",
+        "patent_id": "patent/US6125339A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6125339A%2Fen"
+      },
+      {
+        "publication_number": "WO2001001305A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-25",
+        "publication_date": "2001-01-04",
+        "assignee_original": "International Diagnostic Technology, Inc.",
+        "title": "Method and system for accessing medical data",
+        "patent_id": "patent/WO2001001305A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001001305A1%2Fen"
+      },
+      {
+        "publication_number": "US6236908B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-05-07",
+        "publication_date": "2001-05-22",
+        "assignee_original": "Ford Global Technologies, Inc.",
+        "title": "Virtual vehicle sensors based on neural networks trained using data generated by simulation models",
+        "patent_id": "patent/US6236908B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6236908B1%2Fen"
+      },
+      {
+        "publication_number": "US6246972B1",
+        "primary_language": "en",
+        "priority_date": "1996-08-23",
+        "publication_date": "2001-06-12",
+        "assignee_original": "Aspen Technology, Inc.",
+        "title": "Analyzer for modeling and optimizing maintenance operations",
+        "patent_id": "patent/US6246972B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6246972B1%2Fen"
+      },
+      {
+        "publication_number": "US6267722B1",
+        "primary_language": "en",
+        "priority_date": "1998-02-03",
+        "publication_date": "2001-07-31",
+        "assignee_original": "Adeza Biomedical Corporation",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6267722B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6267722B1%2Fen"
+      },
+      {
+        "publication_number": "US6298454B1",
+        "primary_language": "en",
+        "priority_date": "1999-02-22",
+        "publication_date": "2001-10-02",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Diagnostics in a process control system",
+        "patent_id": "patent/US6298454B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6298454B1%2Fen"
+      },
+      {
+        "publication_number": "US20020023061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-25",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Stewart Lorna Ruthstrobel",
+        "title": "Possibilistic expert systems and process control utilizing fuzzy logic",
+        "patent_id": "patent/US20020023061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020023061A1%2Fen"
+      },
+      {
+        "publication_number": "US6356191B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-17",
+        "publication_date": "2002-03-12",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Error compensation for a process fluid temperature transmitter",
+        "patent_id": "patent/US6356191B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6356191B1%2Fen"
+      },
+      {
+        "publication_number": "US6370448B1",
+        "primary_language": "en",
+        "priority_date": "1997-10-13",
+        "publication_date": "2002-04-09",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Communication technique for field devices in industrial processes",
+        "patent_id": "patent/US6370448B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6370448B1%2Fen"
+      },
+      {
+        "publication_number": "US20020049612A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-23",
+        "publication_date": "2002-04-25",
+        "assignee_original": "Jaeger Scott H.",
+        "title": "Method and system for clinical knowledge management",
+        "patent_id": "patent/US20020049612A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020049612A1%2Fen"
+      },
+      {
+        "publication_number": "US6384995B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-12-23",
+        "publication_date": "2002-05-07",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Apparatus and method for detecting defects in data storage devices",
+        "patent_id": "patent/US6384995B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6384995B1%2Fen"
+      },
+      {
+        "publication_number": "US6415276B1",
+        "primary_language": "en",
+        "priority_date": "1998-08-14",
+        "publication_date": "2002-07-02",
+        "assignee_original": "University Of New Mexico",
+        "title": "Bayesian belief networks for industrial processes",
+        "patent_id": "patent/US6415276B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6415276B1%2Fen"
+      },
+      {
+        "publication_number": "US6434504B1",
+        "primary_language": "en",
+        "priority_date": "1996-11-07",
+        "publication_date": "2002-08-13",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Resistance based process control device diagnostics",
+        "patent_id": "patent/US6434504B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6434504B1%2Fen"
+      },
+      {
+        "publication_number": "US6449574B1",
+        "primary_language": "en",
+        "priority_date": "1996-11-07",
+        "publication_date": "2002-09-10",
+        "assignee_original": "Micro Motion, Inc.",
+        "title": "Resistance based process control device diagnostics",
+        "patent_id": "patent/US6449574B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6449574B1%2Fen"
+      },
+      {
+        "publication_number": "US6473710B1",
+        "primary_language": "en",
+        "priority_date": "1999-07-01",
+        "publication_date": "2002-10-29",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Low power two-wire self validating temperature transmitter",
+        "patent_id": "patent/US6473710B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6473710B1%2Fen"
+      },
+      {
+        "publication_number": "US20030004906A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-09",
+        "publication_date": "2003-01-02",
+        "assignee_original": "Jerome Lapointe",
+        "title": "Method for selecting medical and biochemical diagnostic tests using neural network-related applications",
+        "patent_id": "patent/US20030004906A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030004906A1%2Fen"
+      },
+      {
+        "publication_number": "US6505517B1",
+        "primary_language": "en",
+        "priority_date": "1999-07-23",
+        "publication_date": "2003-01-14",
+        "assignee_original": "Rosemount Inc.",
+        "title": "High accuracy signal processing for magnetic flowmeter",
+        "patent_id": "patent/US6505517B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6505517B1%2Fen"
+      },
+      {
+        "publication_number": "US6519546B1",
+        "primary_language": "en",
+        "priority_date": "1996-11-07",
+        "publication_date": "2003-02-11",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Auto correcting temperature transmitter with resistance based sensor",
+        "patent_id": "patent/US6519546B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6519546B1%2Fen"
+      },
+      {
+        "publication_number": "US6539267B1",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2003-03-25",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Device in a process system for determining statistical parameter",
+        "patent_id": "patent/US6539267B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6539267B1%2Fen"
+      },
+      {
+        "publication_number": "US6556145B1",
+        "primary_language": "en",
+        "priority_date": "1999-09-24",
+        "publication_date": "2003-04-29",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Two-wire fluid temperature transmitter with thermocouple diagnostics",
+        "patent_id": "patent/US6556145B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6556145B1%2Fen"
+      },
+      {
+        "publication_number": "US6601005B1",
+        "primary_language": "en",
+        "priority_date": "1996-11-07",
+        "publication_date": "2003-07-29",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process device diagnostics using process variable sensor signal",
+        "patent_id": "patent/US6601005B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6601005B1%2Fen"
+      },
+      {
+        "publication_number": "US6611775B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-10",
+        "publication_date": "2003-08-26",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Electrode leakage diagnostics in a magnetic flow meter",
+        "patent_id": "patent/US6611775B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6611775B1%2Fen"
+      },
+      {
+        "publication_number": "US6615149B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-10",
+        "publication_date": "2003-09-02",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Spectral diagnostics in a magnetic flow meter",
+        "patent_id": "patent/US6615149B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6615149B1%2Fen"
+      },
+      {
+        "publication_number": "US6629059B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-14",
+        "publication_date": "2003-09-30",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Hand held diagnostic and communication device with automatic bus detection",
+        "patent_id": "patent/US6629059B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6629059B2%2Fen"
+      },
+      {
+        "publication_number": "US6633782B1",
+        "primary_language": "en",
+        "priority_date": "1999-02-22",
+        "publication_date": "2003-10-14",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Diagnostic expert in a process control system",
+        "patent_id": "patent/US6633782B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6633782B1%2Fen"
+      },
+      {
+        "publication_number": "US6654697B1",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2003-11-25",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Flow measurement with diagnostics",
+        "patent_id": "patent/US6654697B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6654697B1%2Fen"
+      },
+      {
+        "publication_number": "US6701274B1",
+        "primary_language": "en",
+        "priority_date": "1999-08-27",
+        "publication_date": "2004-03-02",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Prediction of error magnitude in a pressure transmitter",
+        "patent_id": "patent/US6701274B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6701274B1%2Fen"
+      },
+      {
+        "publication_number": "US6711514B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-22",
+        "publication_date": "2004-03-23",
+        "assignee_original": "Pintail Technologies, Inc.",
+        "title": "Method, apparatus and product for evaluating test data",
+        "patent_id": "patent/US6711514B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6711514B1%2Fen"
+      },
+      {
+        "publication_number": "US20040073559A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-26",
+        "publication_date": "2004-04-15",
+        "assignee_original": "Pauly Duncan Gunther",
+        "title": "Organising data in a database",
+        "patent_id": "patent/US20040073559A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040073559A1%2Fen"
+      },
+      {
+        "publication_number": "US6735484B1",
+        "primary_language": "en",
+        "priority_date": "2000-09-20",
+        "publication_date": "2004-05-11",
+        "assignee_original": "Fargo Electronics, Inc.",
+        "title": "Printer with a process diagnostics system for detecting events",
+        "patent_id": "patent/US6735484B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6735484B1%2Fen"
+      },
+      {
+        "publication_number": "US6754601B1",
+        "primary_language": "en",
+        "priority_date": "1996-11-07",
+        "publication_date": "2004-06-22",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Diagnostics for resistive elements of process devices",
+        "patent_id": "patent/US6754601B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6754601B1%2Fen"
+      },
+      {
+        "publication_number": "US20040138846A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-24",
+        "publication_date": "2004-07-15",
+        "assignee_original": "Buxton Paul M.",
+        "title": "Methods and apparatus for data analysis",
+        "patent_id": "patent/US20040138846A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040138846A1%2Fen"
+      },
+      {
+        "publication_number": "US6772036B2",
+        "primary_language": "en",
+        "priority_date": "2001-08-30",
+        "publication_date": "2004-08-03",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Control system using process model",
+        "patent_id": "patent/US6772036B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6772036B2%2Fen"
+      },
+      {
+        "publication_number": "US20040187048A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-20",
+        "publication_date": "2004-09-23",
+        "assignee_original": "Dell Products L. P.",
+        "title": "System and method for determining fault isolation in an enterprise computing system",
+        "patent_id": "patent/US20040187048A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040187048A1%2Fen"
+      },
+      {
+        "publication_number": "US20040249583A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-28",
+        "publication_date": "2004-12-09",
+        "assignee_original": "Evren Eryurek",
+        "title": "Pressure transmitter with diagnostics",
+        "patent_id": "patent/US20040249583A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040249583A1%2Fen"
+      },
+      {
+        "publication_number": "US20040260514A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-23",
+        "publication_date": "2004-12-23",
+        "assignee_original": "Benoit Beaudoin",
+        "title": "System and software to monitor cyclic equipment efficiency and related methods",
+        "patent_id": "patent/US20040260514A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040260514A1%2Fen"
+      },
+      {
+        "publication_number": "US6867051B1",
+        "primary_language": "en",
+        "priority_date": "1998-02-03",
+        "publication_date": "2005-03-15",
+        "assignee_original": "Adeza Biomedical, Inc.",
+        "title": "Point of care diagnostic systems",
+        "patent_id": "patent/US6867051B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6867051B1%2Fen"
+      },
+      {
+        "publication_number": "US20050108598A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-14",
+        "publication_date": "2005-05-19",
+        "assignee_original": "Casebank Technologies Inc.",
+        "title": "Case-based reasoning system and method having fault isolation manual trigger cases",
+        "patent_id": "patent/US20050108598A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050108598A1%2Fen"
+      },
+      {
+        "publication_number": "US6907383B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2005-06-14",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Flow diagnostic system",
+        "patent_id": "patent/US6907383B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6907383B2%2Fen"
+      },
+      {
+        "publication_number": "US20050154939A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-26",
+        "publication_date": "2005-07-14",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Methods and apparatus for adaptive problem determination in distributed service-based applications",
+        "patent_id": "patent/US20050154939A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050154939A1%2Fen"
+      },
+      {
+        "publication_number": "US6920799B1",
+        "primary_language": "en",
+        "priority_date": "2004-04-15",
+        "publication_date": "2005-07-26",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Magnetic flow meter with reference electrode",
+        "patent_id": "patent/US6920799B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6920799B1%2Fen"
+      },
+      {
+        "publication_number": "WO2005077024A2",
+        "primary_language": "en",
+        "priority_date": "2004-02-06",
+        "publication_date": "2005-08-25",
+        "assignee_original": "Test Advantage, Inc.",
+        "title": "Methods and apparatus for data analysis",
+        "patent_id": "patent/WO2005077024A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005077024A2%2Fen"
+      },
+      {
+        "publication_number": "US20050210385A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-21",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Gabriel Gunther E",
+        "title": "Method and Device for Carrying Out the Functional Check and Functional Checking of a Technical Unit",
+        "patent_id": "patent/US20050210385A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050210385A1%2Fen"
+      },
+      {
+        "publication_number": "US20050251370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-10",
+        "publication_date": "2005-11-10",
+        "assignee_original": "Li Jonathan Q",
+        "title": "Combining multiple independent sources of information for classification of devices under test",
+        "patent_id": "patent/US20050251370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050251370A1%2Fen"
+      },
+      {
+        "publication_number": "US6968284B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-28",
+        "publication_date": "2005-11-22",
+        "assignee_original": "Avl List Gmbh",
+        "title": "Method for the analysis and evaluation of measured values of an open test system",
+        "patent_id": "patent/US6968284B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6968284B2%2Fen"
+      },
+      {
+        "publication_number": "US6970003B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-05",
+        "publication_date": "2005-11-29",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Electronics board life prediction of microprocessor-based transmitters",
+        "patent_id": "patent/US6970003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6970003B2%2Fen"
+      },
+      {
+        "publication_number": "US7010459B2",
+        "primary_language": "en",
+        "priority_date": "1999-06-25",
+        "publication_date": "2006-03-07",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process device diagnostics using process variable sensor signal",
+        "patent_id": "patent/US7010459B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7010459B2%2Fen"
+      },
+      {
+        "publication_number": "US7018800B2",
+        "primary_language": "en",
+        "priority_date": "2003-08-07",
+        "publication_date": "2006-03-28",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process device with quiescent current diagnostics",
+        "patent_id": "patent/US7018800B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7018800B2%2Fen"
+      },
+      {
+        "publication_number": "US7046180B2",
+        "primary_language": "en",
+        "priority_date": "2004-04-21",
+        "publication_date": "2006-05-16",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Analog-to-digital converter with range error detection",
+        "patent_id": "patent/US7046180B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7046180B2%2Fen"
+      },
+      {
+        "publication_number": "US20060136788A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-07",
+        "publication_date": "2006-06-22",
+        "assignee_original": "Chih-Jen Hsu",
+        "title": "Test system and method",
+        "patent_id": "patent/US20060136788A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060136788A1%2Fen"
+      },
+      {
+        "publication_number": "US7085610B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2006-08-01",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Root cause diagnostics",
+        "patent_id": "patent/US7085610B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7085610B2%2Fen"
+      },
+      {
+        "publication_number": "US20060245103A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-27",
+        "publication_date": "2006-11-02",
+        "assignee_original": "Koichi Ueno",
+        "title": "Storage device system operating based on system information, and method for controlling thereof",
+        "patent_id": "patent/US20060245103A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060245103A1%2Fen"
+      },
+      {
+        "publication_number": "US7139676B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-18",
+        "publication_date": "2006-11-21",
+        "assignee_original": "Agilent Technologies, Inc",
+        "title": "Revising a test suite using diagnostic efficacy evaluation",
+        "patent_id": "patent/US7139676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7139676B2%2Fen"
+      },
+      {
+        "publication_number": "US7206646B2",
+        "primary_language": "en",
+        "priority_date": "1999-02-22",
+        "publication_date": "2007-04-17",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Method and apparatus for performing a function in a plant using process performance monitoring with process equipment monitoring and control",
+        "patent_id": "patent/US7206646B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7206646B2%2Fen"
+      },
+      {
+        "publication_number": "US7221988B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-01",
+        "publication_date": "2007-05-22",
+        "assignee_original": "Rosemount, Inc.",
+        "title": "Creation and display of indices within a process plant",
+        "patent_id": "patent/US7221988B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7221988B2%2Fen"
+      },
+      {
+        "publication_number": "US20070121520A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-29",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Sbc Knowledge Ventures L.P.",
+        "title": "System and method for automated double-ended field management of DSL service",
+        "patent_id": "patent/US20070121520A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070121520A1%2Fen"
+      },
+      {
+        "publication_number": "US20070168734A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-17",
+        "publication_date": "2007-07-19",
+        "assignee_original": "Phil Vasile",
+        "title": "Apparatus, system, and method for persistent testing with progressive environment sterilzation",
+        "patent_id": "patent/US20070168734A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070168734A1%2Fen"
+      },
+      {
+        "publication_number": "JP2007522658A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-06",
+        "publication_date": "2007-08-09",
+        "assignee_original": "\u30c6\u30b9\u30c8  \u30a2\u30c9\u30d0\u30f3\u30c6\u30fc\u30b8\uff0c  \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Data analysis method and apparatus",
+        "patent_id": "patent/JP2007522658A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007522658A%2Fen"
+      },
+      {
+        "publication_number": "US7272531B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-20",
+        "publication_date": "2007-09-18",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Aggregation of asset use indices within a process plant",
+        "patent_id": "patent/US7272531B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7272531B2%2Fen"
+      },
+      {
+        "publication_number": "US7290450B2",
+        "primary_language": "en",
+        "priority_date": "2003-07-18",
+        "publication_date": "2007-11-06",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process diagnostics",
+        "patent_id": "patent/US7290450B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7290450B2%2Fen"
+      },
+      {
+        "publication_number": "US20070260937A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-13",
+        "publication_date": "2007-11-08",
+        "assignee_original": "Carli Connally",
+        "title": "Systems and methods for selectively logging test data",
+        "patent_id": "patent/US20070260937A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070260937A1%2Fen"
+      },
+      {
+        "publication_number": "US7321846B1",
+        "primary_language": "en",
+        "priority_date": "2006-10-05",
+        "publication_date": "2008-01-22",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Two-wire process control loop diagnostics",
+        "patent_id": "patent/US7321846B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7321846B1%2Fen"
+      },
+      {
+        "publication_number": "US7346404B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-01",
+        "publication_date": "2008-03-18",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Data sharing in a process plant",
+        "patent_id": "patent/US7346404B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7346404B2%2Fen"
+      },
+      {
+        "publication_number": "US20080091977A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-02",
+        "publication_date": "2008-04-17",
+        "assignee_original": "Emilio Miguelanez",
+        "title": "Methods and apparatus for data analysis",
+        "patent_id": "patent/US20080091977A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080091977A1%2Fen"
+      },
+      {
+        "publication_number": "US20080219544A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-09",
+        "publication_date": "2008-09-11",
+        "assignee_original": "Omron Corporation",
+        "title": "Factor estimating support device and method of controlling the same, and factor estimating support program",
+        "patent_id": "patent/US20080219544A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080219544A1%2Fen"
+      },
+      {
+        "publication_number": "US20080249742A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-05-24",
+        "publication_date": "2008-10-09",
+        "assignee_original": "Scott Michael J",
+        "title": "Methods and apparatus for data analysis",
+        "patent_id": "patent/US20080249742A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080249742A1%2Fen"
+      },
+      {
+        "publication_number": "US7523667B2",
+        "primary_language": "en",
+        "priority_date": "2003-12-23",
+        "publication_date": "2009-04-28",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Diagnostics of impulse piping in an industrial process",
+        "patent_id": "patent/US7523667B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7523667B2%2Fen"
+      },
+      {
+        "publication_number": "WO2008090021A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-25",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Avl List Gmbh",
+        "title": "Method for the diagnosis and classification of defects of an internal combustion engine",
+        "patent_id": "patent/WO2008090021A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008090021A3%2Fen"
+      },
+      {
+        "publication_number": "US7557702B2",
+        "primary_language": "en",
+        "priority_date": "1999-02-22",
+        "publication_date": "2009-07-07",
+        "assignee_original": "Evren Eryurek",
+        "title": "Integrated alert generation in a process plant",
+        "patent_id": "patent/US7557702B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7557702B2%2Fen"
+      },
+      {
+        "publication_number": "US7562135B2",
+        "primary_language": "en",
+        "priority_date": "2000-05-23",
+        "publication_date": "2009-07-14",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Enhanced fieldbus device alerts in a process control system",
+        "patent_id": "patent/US7562135B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7562135B2%2Fen"
+      },
+      {
+        "publication_number": "US20090222647A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-03",
+        "publication_date": "2009-09-03",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Method and Apparatus for Reducing Test Case Generation Time in Processor Testing",
+        "patent_id": "patent/US20090222647A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090222647A1%2Fen"
+      },
+      {
+        "publication_number": "US7590511B2",
+        "primary_language": "en",
+        "priority_date": "2007-09-25",
+        "publication_date": "2009-09-15",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Field device for digital process control loop diagnostics",
+        "patent_id": "patent/US7590511B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7590511B2%2Fen"
+      },
+      {
+        "publication_number": "US20090259879A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-14",
+        "publication_date": "2009-10-15",
+        "assignee_original": "Honeywell International, Inc.",
+        "title": "Determining corrective actions using a geometrically-based determination of sufficient confidence",
+        "patent_id": "patent/US20090259879A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090259879A1%2Fen"
+      },
+      {
+        "publication_number": "US20090265134A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-16",
+        "publication_date": "2009-10-22",
+        "assignee_original": "Honeywell International Inc.,",
+        "title": "Benchmarking diagnostic algorithms",
+        "patent_id": "patent/US20090265134A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090265134A1%2Fen"
+      },
+      {
+        "publication_number": "US20090276136A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-30",
+        "publication_date": "2009-11-05",
+        "assignee_original": "Steven Wayne Butler",
+        "title": "Method for calculating confidence on prediction in fault diagnosis systems",
+        "patent_id": "patent/US20090276136A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090276136A1%2Fen"
+      },
+      {
+        "publication_number": "US7623932B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2009-11-24",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Rule set for root cause diagnostics",
+        "patent_id": "patent/US7623932B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7623932B2%2Fen"
+      },
+      {
+        "publication_number": "US7627441B2",
+        "primary_language": "en",
+        "priority_date": "2003-09-30",
+        "publication_date": "2009-12-01",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process device with vibration based diagnostics",
+        "patent_id": "patent/US7627441B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7627441B2%2Fen"
+      },
+      {
+        "publication_number": "US7630861B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2009-12-08",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Dedicated process diagnostic device",
+        "patent_id": "patent/US7630861B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7630861B2%2Fen"
+      },
+      {
+        "publication_number": "US20090327202A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-30",
+        "publication_date": "2009-12-31",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Prediction of functional availability of complex system",
+        "patent_id": "patent/US20090327202A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090327202A1%2Fen"
+      },
+      {
+        "publication_number": "US20100017092A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-16",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Steven Wayne Butler",
+        "title": "Hybrid fault isolation system utilizing both model-based and empirical components",
+        "patent_id": "patent/US20100017092A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100017092A1%2Fen"
+      },
+      {
+        "publication_number": "US7702401B2",
+        "primary_language": "en",
+        "priority_date": "2007-09-05",
+        "publication_date": "2010-04-20",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "System for preserving and displaying process control data associated with an abnormal situation",
+        "patent_id": "patent/US7702401B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7702401B2%2Fen"
+      },
+      {
+        "publication_number": "US7750642B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-29",
+        "publication_date": "2010-07-06",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Magnetic flowmeter with verification",
+        "patent_id": "patent/US7750642B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7750642B2%2Fen"
+      },
+      {
+        "publication_number": "CN101833054A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-27",
+        "publication_date": "2010-09-15",
+        "assignee_original": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "Method aiming at evaluating capability of test configuration on continuously diagnosing faults",
+        "patent_id": "patent/CN101833054A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101833054A%2Fen"
+      },
+      {
+        "publication_number": "US20100241901A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-12",
+        "publication_date": "2010-09-23",
+        "assignee_original": "Roland Jahn",
+        "title": "Method and apparatus for checking a control program in an industrial system",
+        "patent_id": "patent/US20100241901A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100241901A1%2Fen"
+      },
+      {
+        "publication_number": "US20110046995A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-25",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Mitsubishi Heavy Industries, Ltd.",
+        "title": "Method for trouble managing of equipment",
+        "patent_id": "patent/US20110046995A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110046995A1%2Fen"
+      },
+      {
+        "publication_number": "US7921734B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-12",
+        "publication_date": "2011-04-12",
+        "assignee_original": "Rosemount Inc.",
+        "title": "System to detect poor process ground connections",
+        "patent_id": "patent/US7921734B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7921734B2%2Fen"
+      },
+      {
+        "publication_number": "US7940189B2",
+        "primary_language": "en",
+        "priority_date": "2005-09-29",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Leak detector for process valve",
+        "patent_id": "patent/US7940189B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7940189B2%2Fen"
+      },
+      {
+        "publication_number": "US7949495B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2011-05-24",
+        "assignee_original": "Rosemount, Inc.",
+        "title": "Process variable transmitter with diagnostics",
+        "patent_id": "patent/US7949495B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7949495B2%2Fen"
+      },
+      {
+        "publication_number": "US7953501B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-25",
+        "publication_date": "2011-05-31",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Industrial process control loop monitor",
+        "patent_id": "patent/US7953501B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7953501B2%2Fen"
+      },
+      {
+        "publication_number": "US8005647B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2011-08-23",
+        "assignee_original": "Rosemount, Inc.",
+        "title": "Method and apparatus for monitoring and performing corrective measures in a process plant using monitoring data with corrective measures data",
+        "patent_id": "patent/US8005647B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8005647B2%2Fen"
+      },
+      {
+        "publication_number": "US8055479B2",
+        "primary_language": "en",
+        "priority_date": "2007-10-10",
+        "publication_date": "2011-11-08",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Simplified algorithm for abnormal situation prevention in load following applications including plugged line diagnostics in a dynamic process",
+        "patent_id": "patent/US8055479B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8055479B2%2Fen"
+      },
+      {
+        "publication_number": "US8073967B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-15",
+        "publication_date": "2011-12-06",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Web services-based communications for use with process control systems",
+        "patent_id": "patent/US8073967B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8073967B2%2Fen"
+      },
+      {
+        "publication_number": "CN102279358A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-20",
+        "publication_date": "2011-12-14",
+        "assignee_original": "\u6e56\u5357\u5927\u5b66",
+        "title": "MCSKPCA based neural network fault diagnosis method for analog circuits",
+        "patent_id": "patent/CN102279358A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102279358A%2Fen"
+      },
+      {
+        "publication_number": "US8112565B2",
+        "primary_language": "en",
+        "priority_date": "2005-06-08",
+        "publication_date": "2012-02-07",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Multi-protocol field device interface with automatic bus detection",
+        "patent_id": "patent/US8112565B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8112565B2%2Fen"
+      },
+      {
+        "publication_number": "US20120113837A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-04",
+        "publication_date": "2012-05-10",
+        "assignee_original": "Telefonaktiebolaget L M Ericsson (Publ)",
+        "title": "Methods and Apparatus for Enhancing Network Testing Procedures",
+        "patent_id": "patent/US20120113837A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120113837A1%2Fen"
+      },
+      {
+        "publication_number": "US20120179478A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-06",
+        "publication_date": "2012-07-12",
+        "assignee_original": "1eMERGE, Inc.",
+        "title": "Devices, Systems, and Methods for the Real-Time and Individualized Prediction of Health and Economic Outcomes",
+        "patent_id": "patent/US20120179478A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120179478A1%2Fen"
+      },
+      {
+        "publication_number": "US8290721B2",
+        "primary_language": "en",
+        "priority_date": "1996-03-28",
+        "publication_date": "2012-10-16",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Flow measurement diagnostics",
+        "patent_id": "patent/US8290721B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8290721B2%2Fen"
+      },
+      {
+        "publication_number": "US8301676B2",
+        "primary_language": "en",
+        "priority_date": "2007-08-23",
+        "publication_date": "2012-10-30",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Field device with capability of calculating digital filter coefficients",
+        "patent_id": "patent/US8301676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8301676B2%2Fen"
+      },
+      {
+        "publication_number": "US8417595B2",
+        "primary_language": "en",
+        "priority_date": "2001-03-01",
+        "publication_date": "2013-04-09",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Economic calculations in a process control system",
+        "patent_id": "patent/US8417595B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8417595B2%2Fen"
+      },
+      {
+        "publication_number": "US8499286B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-27",
+        "publication_date": "2013-07-30",
+        "assignee_original": "Salesforce.Com, Inc.",
+        "title": "Module testing adjustment and configuration",
+        "patent_id": "patent/US8499286B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8499286B2%2Fen"
+      },
+      {
+        "publication_number": "US8751039B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-22",
+        "publication_date": "2014-06-10",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical therapy device",
+        "patent_id": "patent/US8751039B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8751039B1%2Fen"
+      },
+      {
+        "publication_number": "US8788070B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-26",
+        "publication_date": "2014-07-22",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Automatic field device service adviser",
+        "patent_id": "patent/US8788070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8788070B2%2Fen"
+      },
+      {
+        "publication_number": "US8898036B2",
+        "primary_language": "en",
+        "priority_date": "2007-08-06",
+        "publication_date": "2014-11-25",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process variable transmitter with acceleration sensor",
+        "patent_id": "patent/US8898036B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8898036B2%2Fen"
+      },
+      {
+        "publication_number": "US20150012474A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-27",
+        "publication_date": "2015-01-08",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Medical decision making support apparatus and control method for the same",
+        "patent_id": "patent/US20150012474A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150012474A1%2Fen"
+      },
+      {
+        "publication_number": "US9052240B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-29",
+        "publication_date": "2015-06-09",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Industrial process temperature transmitter with sensor stress diagnostics",
+        "patent_id": "patent/US9052240B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9052240B2%2Fen"
+      },
+      {
+        "publication_number": "US20150269048A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-31",
+        "publication_date": "2015-09-24",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Automatic testing and remediation based on confidence indicators",
+        "patent_id": "patent/US20150269048A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150269048A1%2Fen"
+      },
+      {
+        "publication_number": "US9189369B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-11",
+        "publication_date": "2015-11-17",
+        "assignee_original": "Ca, Inc.",
+        "title": "Systems, methods and computer program products for an automated test framework",
+        "patent_id": "patent/US9189369B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9189369B1%2Fen"
+      },
+      {
+        "publication_number": "US9202253B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-23",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Remedev, Inc.",
+        "title": "Remotely-executed medical diagnosis and therapy including emergency automation",
+        "patent_id": "patent/US9202253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9202253B2%2Fen"
+      },
+      {
+        "publication_number": "US9201420B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-08",
+        "publication_date": "2015-12-01",
+        "assignee_original": "Rosemount, Inc.",
+        "title": "Method and apparatus for performing a function in a process plant using monitoring data with criticality evaluation data",
+        "patent_id": "patent/US9201420B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9201420B2%2Fen"
+      },
+      {
+        "publication_number": "US9207670B2",
+        "primary_language": "en",
+        "priority_date": "2011-03-21",
+        "publication_date": "2015-12-08",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Degrading sensor detection implemented within a transmitter",
+        "patent_id": "patent/US9207670B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9207670B2%2Fen"
+      },
+      {
+        "publication_number": "US9207129B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-27",
+        "publication_date": "2015-12-08",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process variable transmitter with EMF detection and correction",
+        "patent_id": "patent/US9207129B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9207129B2%2Fen"
+      },
+      {
+        "publication_number": "US9602122B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-28",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Rosemount Inc.",
+        "title": "Process variable measurement noise diagnostic",
+        "patent_id": "patent/US9602122B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9602122B2%2Fen"
+      },
+      {
+        "publication_number": "US20170228306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-10",
+        "publication_date": "2017-08-10",
+        "assignee_original": "TestPlant Europe Ltd.",
+        "title": "Method of, and apparatus for, testing computer hardware and software",
+        "patent_id": "patent/US20170228306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170228306A1%2Fen"
+      },
+      {
+        "publication_number": "US9927788B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-19",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Fisher-Rosemount Systems, Inc.",
+        "title": "Software lockout coordination between a process control system and an asset management system",
+        "patent_id": "patent/US9927788B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9927788B2%2Fen"
+      },
+      {
+        "publication_number": "CN108562845A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-23",
+        "publication_date": "2018-09-21",
+        "assignee_original": "\u6e29\u5dde\u5927\u5b66",
+        "title": "A kind of fault detection method of substation's electric control circuit based on inexact reasoning and probability theory",
+        "patent_id": "patent/CN108562845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108562845A%2Fen"
+      },
+      {
+        "publication_number": "US20180364685A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-15",
+        "publication_date": "2018-12-20",
+        "assignee_original": "Endress+Hauser Process Solutions Ag",
+        "title": "Method for providing a generic diagnosis model",
+        "patent_id": "patent/US20180364685A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180364685A1%2Fen"
+      },
+      {
+        "publication_number": "CN110135558A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-22",
+        "publication_date": "2019-08-16",
+        "assignee_original": "\u5357\u4eac\u90ae\u7535\u5927\u5b66",
+        "title": "A Method for Testing Sufficiency of Deep Neural Networks Based on Variable Strength Combination Testing",
+        "patent_id": "patent/CN110135558A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110135558A%2Fen"
+      },
+      {
+        "publication_number": "US20200109678A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-09",
+        "publication_date": "2020-04-09",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Control device of vehicle drive device, vehicle-mounted electronic control unit, trained model, machine learning system, method of controlling vehicle drive device, method of producing electronic control unit, and output parameter calculation device",
+        "patent_id": "patent/US20200109678A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200109678A1%2Fen"
+      },
+      {
+        "publication_number": "US10853229B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-10",
+        "publication_date": "2020-12-01",
+        "assignee_original": "Eggplant Limited",
+        "title": "Method of, and apparatus for, testing computer hardware and software",
+        "patent_id": "patent/US10853229B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10853229B2%2Fen"
+      },
+      {
+        "publication_number": "US10864900B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-09",
+        "publication_date": "2020-12-15",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Control device of vehicle drive device, vehicle-mounted electronic control unit, trained model, machine learning system, method of controlling vehicle drive device, method of producing electronic control unit, and output parameter calculation device",
+        "patent_id": "patent/US10864900B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10864900B2%2Fen"
+      },
+      {
+        "publication_number": "CN114175082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-24",
+        "publication_date": "2022-03-11",
+        "assignee_original": "\u7d22\u5c3c\u96c6\u56e2\u516c\u53f8",
+        "title": "Information processing apparatus, information processing method, and information processing program",
+        "patent_id": "patent/CN114175082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114175082A%2Fen"
+      },
+      {
+        "publication_number": "US20220103417A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-25",
+        "publication_date": "2022-03-31",
+        "assignee_original": "Juniper Networks, Inc.",
+        "title": "Hypothesis driven diagnosis of network systems",
+        "patent_id": "patent/US20220103417A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220103417A1%2Fen"
+      },
+      {
+        "publication_number": "US11809266B2",
+        "primary_language": "en",
+        "priority_date": "2020-07-14",
+        "publication_date": "2023-11-07",
+        "assignee_original": "Juniper Networks, Inc.",
+        "title": "Failure impact analysis of network events",
+        "patent_id": "patent/US11809266B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11809266B2%2Fen"
+      },
+      {
+        "publication_number": "US20240095159A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-18",
+        "publication_date": "2024-03-21",
+        "assignee_original": "Beijing Aerospace Institute For Metrology And Measurement Technology",
+        "title": "Method for assessing test adequacy of neural network based on element decomposition",
+        "patent_id": "patent/US20240095159A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240095159A1%2Fen"
+      },
+      {
+        "publication_number": "US12306745B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-18",
+        "publication_date": "2025-05-20",
+        "assignee_original": "Beijing Aerospace Institute For Metrolog And Measurement Technology",
+        "title": "Method for assessing test adequacy of neural network based on element decomposition",
+        "patent_id": "patent/US12306745B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12306745B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7058517B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-25",
+        "publication_date": "2006-06-06",
+        "assignee_original": "Genaissance Pharmaceuticals, Inc.",
+        "title": "Methods for obtaining and using haplotype data",
+        "patent_id": "patent/US7058517B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7058517B1%2Fen"
+      },
+      {
+        "publication_number": "JP4439046B2",
+        "primary_language": "en",
+        "priority_date": "1999-10-22",
+        "publication_date": "2010-03-24",
+        "assignee_original": "\u30af\u30e9\u30ea\u30aa\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Audio equipment automatic measurement device, network system, audio equipment automatic measurement data processing / control device, recording medium for automatic measurement processing / control program",
+        "patent_id": "patent/JP4439046B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4439046B2%2Fen"
+      },
+      {
+        "publication_number": "US6931326B1",
+        "primary_language": "en",
+        "priority_date": "2000-06-26",
+        "publication_date": "2005-08-16",
+        "assignee_original": "Genaissance Pharmaceuticals, Inc.",
+        "title": "Methods for obtaining and using haplotype data",
+        "patent_id": "patent/US6931326B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6931326B1%2Fen"
+      },
+      {
+        "publication_number": "CN108680808A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-18",
+        "publication_date": "2018-10-19",
+        "assignee_original": "\u6d59\u6c5f\u65b0\u80fd\u91cf\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Fault diagnosis method and device",
+        "patent_id": "patent/CN108680808A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108680808A%2Fen"
+      },
+      {
+        "publication_number": "CN110110854B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-01",
+        "publication_date": "2022-04-22",
+        "assignee_original": "\u5357\u4eac\u90ae\u7535\u5927\u5b66",
+        "title": "A method for testing adequacy of deep neural networks based on edge states",
+        "patent_id": "patent/CN110110854B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110110854B%2Fen"
+      },
+      {
+        "publication_number": "CN112327096B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-15",
+        "publication_date": "2022-11-04",
+        "assignee_original": "\u56fd\u5bb6\u7535\u7f51\u516c\u53f8\u534e\u5317\u5206\u90e8",
+        "title": "Fault diagnosis information fusion method and device based on self-adaptive strategy",
+        "patent_id": "patent/CN112327096B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112327096B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5130936A",
+      "primary_language": "en",
+      "publication_date": "1992-07-14",
+      "title": "Method and apparatus for diagnostic testing including a neural network for determining testing sufficiency",
+      "patent_id": "patent/US5130936A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5130936A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5335291A",
+      "primary_language": "en",
+      "publication_date": "1994-08-02",
+      "title": "Method and apparatus for pattern mapping system with self-reliability check",
+      "patent_id": "patent/US5335291A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5335291A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "229585048163496653",
+      "scholar_authors": "Iqbal et al.",
+      "publication_date": "2019",
+      "title": "Fault detection and isolation in industrial processes using deep learning approaches",
+      "patent_id": "scholar/229585048163496653",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F229585048163496653"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6415276B1",
+      "primary_language": "en",
+      "publication_date": "2002-07-02",
+      "title": "Bayesian belief networks for industrial processes",
+      "patent_id": "patent/US6415276B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6415276B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3445834274127678775",
+      "scholar_authors": "Frank et al.",
+      "publication_date": "1997",
+      "title": "New developments using AI in fault diagnosis",
+      "patent_id": "scholar/3445834274127678775",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3445834274127678775"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15542311408312732848",
+      "scholar_authors": "Lin et al.",
+      "publication_date": "2021",
+      "title": "Development and assessment of a nearly autonomous management and control system for advanced reactors",
+      "patent_id": "scholar/15542311408312732848",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15542311408312732848"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13757798390401426912",
+      "scholar_authors": "Tomsovic et al.",
+      "publication_date": "1993",
+      "title": "A fuzzy information approach to integrating different transformer diagnostic methods",
+      "patent_id": "scholar/13757798390401426912",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13757798390401426912"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2171598B1",
+      "primary_language": "en",
+      "publication_date": "2017-01-11",
+      "title": "Fuzzy classification approach to fault pattern matching",
+      "patent_id": "patent/EP2171598B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2171598B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5072800375470621178",
+      "scholar_authors": "Kramer",
+      "publication_date": "1987",
+      "title": "Malfunction diagnosis using quantitative models with non\u2010boolean reasoning in expert systems",
+      "patent_id": "scholar/5072800375470621178",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5072800375470621178"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3250965B1",
+      "primary_language": "en",
+      "publication_date": "2020-08-12",
+      "title": "Methods and systems for detecting, classifying and/or mitigating sensor error",
+      "patent_id": "patent/EP3250965B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3250965B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6917839B2",
+      "primary_language": "en",
+      "publication_date": "2005-07-12",
+      "title": "Surveillance system and method having an operating mode partitioned fault classification model",
+      "patent_id": "patent/US6917839B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6917839B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20230075150A",
+      "primary_language": "en",
+      "publication_date": "2023-05-31",
+      "title": "Method for managing system health",
+      "patent_id": "patent/KR20230075150A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230075150A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15296575083760412143",
+      "scholar_authors": "Hadad et al.",
+      "publication_date": "2008",
+      "title": "Enhanced neural network based fault detection of a VVER nuclear power plant with the aid of principal component analysis",
+      "patent_id": "scholar/15296575083760412143",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15296575083760412143"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116049642A",
+      "primary_language": "en",
+      "publication_date": "2023-05-02",
+      "title": "Fault diagnosis method, system, electronic equipment and computer storage medium",
+      "patent_id": "patent/CN116049642A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116049642A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6094628159338218011",
+      "scholar_authors": "Fenton et al.",
+      "publication_date": "2002",
+      "title": "Fault diagnosis of electronic system using artificial intelligence",
+      "patent_id": "scholar/6094628159338218011",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6094628159338218011"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9468136813695710885",
+      "scholar_authors": "Ray",
+      "publication_date": "1991",
+      "title": "Equipment fault diagnosis\u2014A neural network approach",
+      "patent_id": "scholar/9468136813695710885",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9468136813695710885"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1967955617870074562",
+      "scholar_authors": "Ebert",
+      "publication_date": "1996",
+      "title": "Fuzzy classification for software criticality analysis",
+      "patent_id": "scholar/1967955617870074562",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1967955617870074562"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10365657835457357851",
+      "scholar_authors": "Frank",
+      "publication_date": "2002",
+      "title": "Handling modelling uncertainty in fault detection and isolation systems",
+      "patent_id": "scholar/10365657835457357851",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10365657835457357851"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18198405158577478860",
+      "scholar_authors": "Finin et al.",
+      "publication_date": "1984",
+      "title": "FOREST-an expert system for automatic test equipment",
+      "patent_id": "scholar/18198405158577478860",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18198405158577478860"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12371852101970847056",
+      "scholar_authors": "Leitch et al.",
+      "publication_date": "1994",
+      "title": "A preliminary specification methodology for model-based diagnosis",
+      "patent_id": "scholar/12371852101970847056",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12371852101970847056"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "182631824857377501",
+      "scholar_authors": "Frank et al.",
+      "publication_date": "1999",
+      "title": "Fuzzy techniques in fault detection, isolation and diagnosis",
+      "patent_id": "scholar/182631824857377501",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F182631824857377501"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "711543904455039420",
+      "scholar_authors": "Simpson et al.",
+      "publication_date": "1990",
+      "title": "The application of evidential reasoning in a portable maintenance aid",
+      "patent_id": "scholar/711543904455039420",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F711543904455039420"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14010621134582561180",
+      "scholar_authors": "Machado et al.",
+      "publication_date": "1997",
+      "title": "Inference, inquiry, evidence censorship, and explanation in connectionist expert systems",
+      "patent_id": "scholar/14010621134582561180",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14010621134582561180"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1534611368370640795",
+      "scholar_authors": "Ahmed et al.",
+      "publication_date": "2024",
+      "title": "Analyzing Decision-Making Approaches in Identifying Suspicious Diabetes Patients: A Comparative Study of Rough Set, Soft Set, and Rough set based Bayesian Decision Theory",
+      "patent_id": "scholar/1534611368370640795",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1534611368370640795"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15975799545900274625",
+      "scholar_authors": "Aradhye et al.",
+      "publication_date": "2002",
+      "title": "Signal validation using Bayesian belief networks and fuzzy logic",
+      "patent_id": "scholar/15975799545900274625",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15975799545900274625"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1990-10-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARINC RESEARCH CORPORATION, A CORP. OF MD, MARYLAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNORS:SHEPPARD, JOHN W.;GRAHAM, JERRY L.;SIMPSON, WILLIAM R.;REEL/FRAME:005485/0739"
+        },
+        {
+          "label": "Effective date",
+          "value": "19901025"
+        }
+      ]
+    },
+    {
+      "date": "1992-05-13",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "1995-12-01",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "1996-01-11",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "1999-07-20",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2002-04-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARINC INCORPORATED, MARYLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:ARINC RESEARCH CORPORATION;REEL/FRAME:012762/0716"
+        },
+        {
+          "label": "Effective date",
+          "value": "19951221"
+        }
+      ]
+    },
+    {
+      "date": "2002-04-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS COLLATERAL AGENT, CALIFO"
+        },
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF GRANT OF SECURITY INTEREST;ASSIGNOR:ARINC INCORPORATED;REEL/FRAME:012831/0562"
+        },
+        {
+          "label": "Effective date",
+          "value": "20020327"
+        }
+      ]
+    },
+    {
+      "date": "2003-09-05",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2004-06-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARINC INCORPORATED, MARYLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "TERMINATION AND RELEASE OF SECURITY INTEREST;ASSIGNOR:BANK OF AMERICA, N.A., AS COLLATERAL AGENT;REEL/FRAME:014675/0182"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040310"
+        }
+      ]
+    },
+    {
+      "date": "2004-06-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WACHOVIA BANK, NATIONAL ASSOCIATION, AS COLLATERAL"
+        },
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF GRANT OF SECURITY INTEREST;ASSIGNOR:ARINC INCORPORATED;REEL/FRAME:014782/0296"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040310"
+        }
+      ]
+    },
+    {
+      "date": "2007-10-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARINC INCORPORATED, MARYLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "TERMINATION OF SECURITY INTEREST IN PATENTS;ASSIGNOR:WACHOVIA BANK, NATIONAL ASSOCIATION, AS COLLATERAL AGENT;REEL/FRAME:020031/0935"
+        },
+        {
+          "label": "Effective date",
+          "value": "20071024"
+        }
+      ]
+    },
+    {
+      "date": "2007-10-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT, TE"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF FIRST LIEN SECURITY INTEREST IN PATENT RIGHTS;ASSIGNOR:ARINC INCORPORATED;REEL/FRAME:020045/0322"
+        },
+        {
+          "label": "Effective date",
+          "value": "20071025"
+        },
+        {
+          "label": "Owner name",
+          "value": "LEHMAN COMMERCIAL PAPER INC., AS COLLATERAL AGENT,"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF SECOND LIEN SECURITY INTEREST IN PATENT RIGHTS;ASSIGNOR:ARINC INCORPORATED;REEL/FRAME:020045/0331"
+        },
+        {
+          "label": "Effective date",
+          "value": "20071025"
+        },
+        {
+          "label": "Owner name",
+          "value": "JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT,TEX"
+        },
+        {
+          "label": "Free format text",
+          "value": "GRANT OF FIRST LIEN SECURITY INTEREST IN PATENT RIGHTS;ASSIGNOR:ARINC INCORPORATED;REEL/FRAME:020045/0322"
+        },
+        {
+          "label": "Effective date",
+          "value": "20071025"
+        }
+      ]
+    },
+    {
+      "date": "2012-01-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WILMINGTON TRUST, NATIONAL ASSOCIATION, MINNESOTA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT AND ASSUMPTION OF SECOND LIEN SECURITY INTEREST IN PATENT RIGHTS RECORDED AT REEL 020045 FRAME 0331;ASSIGNOR:LEHMAN COMMERCIAL PAPER INC.;REEL/FRAME:027629/0124"
+        },
+        {
+          "label": "Effective date",
+          "value": "20120126"
+        }
+      ]
+    },
+    {
+      "date": "2013-08-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ARINC INCORPORATED, MARYLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE OF SECURITY INTEREST IN PATENT COLLATERAL AT REEL/FRAME NOS. 020045/0331 AND 027629/0124;ASSIGNOR:WILMINGTON TRUST, NATIONAL ASSOCIATION;REEL/FRAME:030984/0384"
+        },
+        {
+          "label": "Effective date",
+          "value": "20130806"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 404
+      },
+      {
+        "id": "238000013528",
+        "name": "artificial neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "238000002405",
+        "name": "diagnostic procedure",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000003745",
+        "name": "diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "238000011156",
+        "name": "evaluation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "230000004913",
+        "name": "activation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000002955",
+        "name": "isolation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "PUPNJSIFIXXJCH-UHFFFAOYSA-N",
+        "name": "n-(4-hydroxyphenyl)-2-(1,1,3-trioxo-1,2-benzothiazol-2-yl)acetamide",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC(O)=CC=C1NC(=O)CN1S(=O)(=O)C2=CC=CC=C2C1=O",
+        "inchi_key": "PUPNJSIFIXXJCH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "208000024891",
+        "name": "symptom",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009825",
+        "name": "accumulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013473",
+        "name": "artificial intelligence",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011990",
+        "name": "functional testing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002452",
+        "name": "interceptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004092",
+        "name": "self-diagnosis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012163",
+        "name": "sequencing technique",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VLCQZHSMCYCDJL-UHFFFAOYSA-N",
+        "name": "tribenuron methyl",
+        "domain": "Chemical compound",
+        "smiles": "COC(=O)C1=CC=CC=C1S(=O)(=O)NC(=O)N(C)C1=NC(C)=NC(OC)=N1",
+        "inchi_key": "VLCQZHSMCYCDJL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KHMVXSQLPUNRCF-UHFFFAOYSA-N",
+        "name": "DL-Adalin",
+        "domain": "Natural products",
+        "smiles": "C1CCC2CC(=O)CC1(CCCCC)N2",
+        "inchi_key": "KHMVXSQLPUNRCF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001465754",
+        "name": "Metazoa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002159",
+        "name": "abnormal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013476",
+        "name": "bayesian approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001364",
+        "name": "causal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007405",
+        "name": "data analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013480",
+        "name": "data collection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013499",
+        "name": "data model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003066",
+        "name": "decision tree",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007812",
+        "name": "deficiency",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004069",
+        "name": "differentiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "201000010099",
+        "name": "disease",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "208000037265",
+        "name": "diseases, disorders, signs and symptoms",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012854",
+        "name": "evaluation process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007257",
+        "name": "malfunction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013507",
+        "name": "mapping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003607",
+        "name": "modifier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003121",
+        "name": "nonmonotonic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010606",
+        "name": "normalization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008520",
+        "name": "organization",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036961",
+        "name": "partial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000644",
+        "name": "propagated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012797",
+        "name": "qualification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000523",
+        "name": "sample",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013024",
+        "name": "troubleshooting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

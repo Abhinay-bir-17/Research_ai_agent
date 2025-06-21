@@ -1,0 +1,1990 @@
+{
+  "search_metadata": {
+    "id": "68514fbff357f67c29a26593",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d05b8d7666385bca/68514fbff357f67c29a26593.json",
+    "created_at": "2025-06-17 11:21:35 UTC",
+    "processed_at": "2025-06-17 11:21:35 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US11024263B2/en",
+    "raw_html_file": "https://serpapi.com/searches/d05b8d7666385bca/68514fbff357f67c29a26593.html",
+    "total_time_taken": 2.6
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US11024263B2/en"
+  },
+  "title": "Method and apparatus for adjusting augmented reality content",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e7/75/e1/f4a047d070ce72/US11024263.pdf",
+  "publication_number": "US11024263B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "time",
+    "user",
+    "content",
+    "viewing",
+    "eye"
+  ],
+  "prior_art_date": "2018-01-18",
+  "application_number": "US16/250,688",
+  "inventors": [
+    {
+      "name": "Prakash Chandra CHHIPA",
+      "link": "https://patents.google.com/?inventor=Prakash+Chandra+CHHIPA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Prakash+Chandra+CHHIPA"
+    },
+    {
+      "name": "Ravinder DHIMAN",
+      "link": "https://patents.google.com/?inventor=Ravinder+DHIMAN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ravinder+DHIMAN"
+    }
+  ],
+  "assignees": [
+    "Samsung Electronics Co Ltd"
+  ],
+  "priority_date": "2018-01-18",
+  "filing_date": "2019-01-17",
+  "publication_date": "2021-06-01",
+  "worldwide_applications": {
+    "2019": [
+      {
+        "filing_date": "2019-01-16",
+        "country_code": "KR",
+        "application_number": "KR1020207023817A",
+        "document_id": "patent/KR20200110771A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2019-01-16",
+        "country_code": "EP",
+        "application_number": "EP19741411.3A",
+        "document_id": "patent/EP3676656A4/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2019-01-16",
+        "country_code": "WO",
+        "application_number": "PCT/KR2019/000629",
+        "document_id": "patent/WO2019143117A1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2019-01-17",
+        "country_code": "US",
+        "application_number": "US16/250,688",
+        "document_id": "patent/US11024263B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-01-17",
+      "title": "Application filed by Samsung Electronics Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Samsung Electronics Co Ltd"
+    },
+    {
+      "date": "2019-01-22",
+      "title": "Assigned to SAMSUNG ELECTRONICS CO., LTD.",
+      "type": "reassignment",
+      "assignee_search": "SAMSUNG ELECTRONICS CO., LTD.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Chhipa, Prakash Chandra, DHIMAN, RAVINDER"
+      ]
+    },
+    {
+      "date": "2019-07-18",
+      "title": "Publication of US20190221191A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190221191A1/en"
+    },
+    {
+      "date": "2021-06-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-06-01",
+      "title": "Publication of US11024263B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11024263B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-01-17",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11024263.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16250688"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=11024263"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=11024263B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16250688/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US11024263"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/ae/44/57/152ca262eb6051/US11024263-20210601-D00000.png",
+    "https://patentimages.storage.googleapis.com/c6/75/7c/a7fc7f756dc2f7/US11024263-20210601-D00001.png",
+    "https://patentimages.storage.googleapis.com/86/7f/aa/7062c15454def0/US11024263-20210601-D00002.png",
+    "https://patentimages.storage.googleapis.com/b8/7a/53/c4a5e2740a1b23/US11024263-20210601-D00003.png",
+    "https://patentimages.storage.googleapis.com/e0/0b/95/45d83ffc1a0d65/US11024263-20210601-D00004.png",
+    "https://patentimages.storage.googleapis.com/40/ab/51/466ab5ad4817cf/US11024263-20210601-D00005.png",
+    "https://patentimages.storage.googleapis.com/51/21/ef/bbd01530b5550a/US11024263-20210601-D00006.png",
+    "https://patentimages.storage.googleapis.com/d0/3b/46/eda57e822aa677/US11024263-20210601-D00007.png",
+    "https://patentimages.storage.googleapis.com/46/2e/9b/dc0d926db0a357/US11024263-20210601-D00008.png",
+    "https://patentimages.storage.googleapis.com/de/e0/e5/77ac74244e45e9/US11024263-20210601-D00009.png",
+    "https://patentimages.storage.googleapis.com/d9/f7/3c/83fa157163331c/US11024263-20210601-D00010.png",
+    "https://patentimages.storage.googleapis.com/34/60/66/f211ab6cc7831d/US11024263-20210601-D00011.png",
+    "https://patentimages.storage.googleapis.com/6c/36/0f/067d2124563348/US11024263-20210601-D00012.png",
+    "https://patentimages.storage.googleapis.com/3d/4d/88/d7c019c0457014/US11024263-20210601-D00013.png",
+    "https://patentimages.storage.googleapis.com/c0/15/11/fd2cc5dd340236/US11024263-20210601-D00014.png",
+    "https://patentimages.storage.googleapis.com/5c/19/c1/faa34c797a0a90/US11024263-20210601-D00015.png",
+    "https://patentimages.storage.googleapis.com/ac/d8/f1/2a03bc1073d010/US11024263-20210601-D00016.png",
+    "https://patentimages.storage.googleapis.com/c6/50/ff/bc49beb8156aac/US11024263-20210601-D00017.png",
+    "https://patentimages.storage.googleapis.com/fe/9f/d7/8ad6a8a7fb4773/US11024263-20210601-D00018.png",
+    "https://patentimages.storage.googleapis.com/1e/1c/0b/2ac2962523b8e7/US11024263-20210601-D00019.png",
+    "https://patentimages.storage.googleapis.com/ba/11/37/69fb93e34bfcd9/US11024263-20210601-D00020.png",
+    "https://patentimages.storage.googleapis.com/93/9f/fc/f79c8f544a52cc/US11024263-20210601-D00021.png",
+    "https://patentimages.storage.googleapis.com/bb/2d/66/f5bd8d0312e39b/US11024263-20210601-D00022.png",
+    "https://patentimages.storage.googleapis.com/bf/6c/09/6b4cc4d1771a81/US11024263-20210601-D00023.png",
+    "https://patentimages.storage.googleapis.com/67/fd/66/b188022b29fb4d/US11024263-20210601-D00024.png",
+    "https://patentimages.storage.googleapis.com/ff/f7/4a/f27b1d079edfae/US11024263-20210601-D00025.png",
+    "https://patentimages.storage.googleapis.com/ce/9f/ef/894b26f723dcc1/US11024263-20210601-D00026.png",
+    "https://patentimages.storage.googleapis.com/1e/58/a3/a3bccf05b22d52/US11024263-20210601-D00027.png",
+    "https://patentimages.storage.googleapis.com/d7/60/73/38b0494a09e647/US11024263-20210601-D00028.png",
+    "https://patentimages.storage.googleapis.com/f9/f7/80/6ea63042185272/US11024263-20210601-D00029.png",
+    "https://patentimages.storage.googleapis.com/4d/d1/56/4d08aa67b6140d/US11024263-20210601-D00030.png",
+    "https://patentimages.storage.googleapis.com/06/aa/67/3ec38a62e5e0ee/US11024263-20210601-D00031.png",
+    "https://patentimages.storage.googleapis.com/8a/66/cb/c2b30247ff5579/US11024263-20210601-D00032.png",
+    "https://patentimages.storage.googleapis.com/18/4e/66/d19af0321758e8/US11024263-20210601-D00033.png",
+    "https://patentimages.storage.googleapis.com/6f/f4/f1/b0e9a8cdcac5dc/US11024263-20210601-D00034.png",
+    "https://patentimages.storage.googleapis.com/4b/fe/dc/74b7591e43a414/US11024263-20210601-D00035.png",
+    "https://patentimages.storage.googleapis.com/93/91/85/036f07f2f94ac2/US11024263-20210601-D00036.png",
+    "https://patentimages.storage.googleapis.com/7c/6d/6f/a039d8ddb365af/US11024263-20210601-D00037.png",
+    "https://patentimages.storage.googleapis.com/e6/fb/67/ecd923640e097c/US11024263-20210601-D00038.png",
+    "https://patentimages.storage.googleapis.com/91/99/20/f6fd452476f962/US11024263-20210601-D00039.png",
+    "https://patentimages.storage.googleapis.com/72/8e/6c/a4bdc3a62354da/US11024263-20210601-D00040.png",
+    "https://patentimages.storage.googleapis.com/af/db/52/ddfeda2a26bf01/US11024263-20210601-D00041.png",
+    "https://patentimages.storage.googleapis.com/31/d2/b8/ea205ea25ce463/US11024263-20210601-D00042.png",
+    "https://patentimages.storage.googleapis.com/4f/21/9e/d2071405182f4b/US11024263-20210601-D00043.png",
+    "https://patentimages.storage.googleapis.com/3e/32/78/112007fd9e9ecf/US11024263-20210601-D00044.png",
+    "https://patentimages.storage.googleapis.com/9f/fc/aa/552a255267aeea/US11024263-20210601-D00045.png",
+    "https://patentimages.storage.googleapis.com/e4/6b/5a/2a58df6359fe82/US11024263-20210601-D00046.png",
+    "https://patentimages.storage.googleapis.com/62/3b/39/f34069144348b2/US11024263-20210601-D00047.png",
+    "https://patentimages.storage.googleapis.com/c4/ca/6c/0f23a791fa9fbb/US11024263-20210601-D00048.png",
+    "https://patentimages.storage.googleapis.com/6e/bd/f1/054d49ca9619f4/US11024263-20210601-D00049.png",
+    "https://patentimages.storage.googleapis.com/90/49/70/078992bbd85eaa/US11024263-20210601-D00050.png",
+    "https://patentimages.storage.googleapis.com/3e/43/51/27215638d76e3a/US11024263-20210601-D00051.png",
+    "https://patentimages.storage.googleapis.com/ae/1d/d6/a52ee85fd0afe1/US11024263-20210601-D00052.png",
+    "https://patentimages.storage.googleapis.com/75/93/5c/e2ec11ec5e08f9/US11024263-20210601-D00053.png"
+  ],
+  "classifications": [
+    {
+      "code": "G02B27/0172",
+      "description": "Head mounted characterised by optical features",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G3/002",
+      "description": "Control arrangements or circuits, of interest only in connection with visual indicators other than cathode-ray tubes using specific devices not provided for in groups G09G3/02\u00a0-\u00a0G09G3/36, e.g. using an intermediate record carrier such as a film slide; Projection systems; Display of non-alphanumerical information, solely or in combination with alphanumerical information, e.g. digital display on projected diapositive as background to project the image of a two-dimensional display, such as an array of light emitting or modulating elements or a CRT",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G5/373",
+      "description": "Details of the operation on graphic patterns for modifying the size of the graphic pattern",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B27/0101",
+      "description": "Head-up displays characterised by optical features",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/011",
+      "description": "Arrangements for interaction with the human body, e.g. for user immersion in virtual reality",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/012",
+      "description": "Head tracking input arrangements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/013",
+      "description": "Eye tracking input arrangements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F3/147",
+      "description": "Digital output to display device ; Cooperation and interconnection of the display device with other functional units using display panels",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N20/00",
+      "description": "Machine learning",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N5/04",
+      "description": "Inference or reasoning models",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06N7/01",
+      "description": "Probabilistic graphical models, e.g. probabilistic networks",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B2027/014",
+      "description": "Head-up displays characterised by optical features comprising information/image processing systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G02B2027/0141",
+      "description": "Head-up displays characterised by optical features characterised by the informative content of the display",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G2340/04",
+      "description": "Changes in size, position or resolution of an image",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G2340/12",
+      "description": "Overlay of images, i.e. displayed pixel being the result of switching between the corresponding input pixels",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G2354/00",
+      "description": "Aspects of interface with display user",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G09G2370/022",
+      "description": "Centralised management of display operation, e.g. in a server instead of locally",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H04N21/44218",
+      "description": "Detecting physical presence or behaviour of the user, e.g. using sensors to detect if the user is leaving the room or changes his face expression during a TV program",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Methods and devices providing augmented reality (AR) content. The method includes monitoring viewing activity of a user with respect to one or more of objects, determining, based on the viewing activity of the user, a viewing time of AR content associated with a next appearing object from among the one or more of objects, determining a size of the AR content associated with the next appearing object based on the viewing activity of the user, and displaying the AR content of the next appearing object based on the size of the AR content.",
+  "description_link": "https://serpapi.com/searches/68514fbff357f67c29a26593/google_patents_details/description.html",
+  "claims": [
+    "1. A method of providing augmented reality (AR) content in an AR device, the method comprising:\nmonitoring a viewing activity of a user among a plurality of objects;\ndetecting at least one viewing parameter comprising eye gaze time based on a head movement of the user or an eyeball movement of the user;\ndetermining, based on the eye gaze time, an observation category indicating whether the user is a fast explorer when exploring among the plurality of objects based on a duration of the eye gaze time between each of the plurality of objects;\ndetermining, based on the viewing activity of the user, a viewing time of AR content associated with a next appearing at least one object among the plurality of objects;\ndetermining an amount of the AR content associated with the next appearing at least one object based on the monitored viewing activity of the user and the observation category; and\ndisplaying the AR content of the next appearing at least one object based on the determined amount of the AR content.",
+    "2. The method of claim 1, wherein\nthe at least one viewing parameter further comprises eye movement determined based on the head movement of the user or the eye ball movement of the user.",
+    "3. The method of claim 1, wherein the monitoring of the viewing activity of the user comprises:\nestimating the viewing time using the detected at least one viewing parameter.",
+    "4. The method of claim 1,\nwherein the eye gaze time is divided into a plurality of time instances, and\nwherein the determining of the observation category comprises determining the observation category by estimating the viewing time based on the plurality of the time instances.",
+    "5. The method of claim 4, wherein the determining of the viewing time further comprises:\nin response to a determination that each of viewing time corresponding to each of the plurality of time instances is one of greater than a predetermined maximum threshold time and less than a predetermined minimum threshold time, determining the amount of the AR content associated with the next appearing at least one object as zero.",
+    "6. The method of claim 1, wherein the determining of the amount of the AR content comprises determining the amount of the AR content in proportion to the length of the eye gaze time.",
+    "7. The method of claim 1, wherein the viewing activity comprises at least one of viewing instances over at least one of a plurality of times instances or a plurality of eye gazes.",
+    "8. The method of claim 1, wherein the monitoring of the viewing activity of the user comprises filtering the viewing activity of the user having a viewing time less than a predetermined minimum threshold time or greater than a predetermined maximum threshold time.",
+    "9. The method of claim 8, wherein the monitoring of the viewing activity of the user further comprises updating at least one of the predetermined minimum threshold time and the predetermined maximum threshold time based on at least one of the observation category, historical viewing activity data, real time viewing activity data, and user-specific profile data.",
+    "10. The method of claim 1, further comprising:\nmonitoring user data stored in the AR device and location data of the AR device,\nwherein the determining of the viewing time of the AR content is performed based on the viewing activity of the user, the monitored user data, and the monitored location data of the AR device.",
+    "11. An apparatus for providing augmented reality content, the apparatus comprising:\nat least one sensor configured to monitor viewing activity of a user among a plurality of objects;\na processor configured to:\ndetect at least one viewing parameter comprising eye gaze time based on a head movement of the user or an eyeball movement of the user;\ndetermine, based on the eye gaze time, an observation category indicating whether the user is a fast explorer when exploring among the plurality of objects based on a duration of the eye gaze time between each of the plurality of objects;\ndetermine, based on the viewing activity of the user monitored by the at least one sensor, a viewing time of AR content associated with a next appearing object among the plurality of objects, and\n\ndetermine an amount of the AR content associated with the next appearing object based on the monitored viewing activity of the user and the observation category; and\na display configured to display the AR textual content of the next appearing object based on the amount of the AR content.",
+    "12. The apparatus of claim 11, wherein the at least one viewing parameter further comprises an eye movement determined based on the head movement of the user or the eye ball movement of the user.",
+    "13. The apparatus of claim 11, wherein the monitoring of the viewing activity of the user comprises:\nestimating the viewing time based on the at least one viewing parameter.",
+    "14. The apparatus of claim 11,\nwherein the eye gaze time is divided into a plurality of time instances, and\nwherein the determining of the observation category comprises determining the observation category by estimating the viewing time based on the plurality of the time instances.",
+    "15. The apparatus of claim 14, wherein the determining of the viewing time comprises determining the amount of the AR textual content associated with the next appearing object as zero in response to a determination that each of viewing time corresponding to each of the plurality of time instances is greater than a predetermined maximum threshold time or less than a predetermined minimum threshold time.",
+    "16. A non-transitory computer readable storage medium having a computer readable program stored therein, the computer readable program, when executed on an AR device, configured to execute instructions to cause the AR device to:\nmonitor a viewing activity of a user among a plurality of objects;\ndetect at least one viewing parameter comprising eye gaze time based on a head movement of the user or an eyeball movement of the user;\ndetermine, based on the eye gaze time, an observation category indicating whether the user is a fast explorer when exploring among the plurality of objects based on a duration of the eye gaze time between each of the plurality of objects;\ndetermine, based on the viewing activity of the user, a viewing time of AR content associated with a next appearing object among the plurality of objects;\ndetermine an amount of the AR content associated with the next appearing object based on the viewing activity of the user and the observation category; and\ndisplay the AR content of the next appearing object based on the amount of the AR content."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "IN201811002097",
+      "filing_date": "2018-01-18"
+    },
+    {
+      "application_number": "IN201811002097",
+      "filing_date": "2018-01-18"
+    }
+  ],
+  "family_id": "67214104",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2960761A",
+        "primary_language": "en",
+        "priority_date": "1956-12-10",
+        "publication_date": "1960-11-22",
+        "assignee_original": "Lester G Preader",
+        "title": "Closet shelf bracket and blank therefor",
+        "patent_id": "patent/US2960761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2960761A%2Fen"
+      },
+      {
+        "publication_number": "WO2012083087A1",
+        "primary_language": "en",
+        "priority_date": "2010-12-17",
+        "publication_date": "2012-06-21",
+        "assignee_original": "Qualcomm Incorporated",
+        "title": "Augmented reality processing based on eye capture in handheld device",
+        "patent_id": "patent/WO2012083087A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012083087A1%2Fen"
+      },
+      {
+        "publication_number": "US20130050258A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-25",
+        "publication_date": "2013-02-28",
+        "assignee_original": "James Chia-Ming Liu",
+        "title": "Portals: Registered Objects As Virtualized, Personalized Displays",
+        "patent_id": "patent/US20130050258A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130050258A1%2Fen"
+      },
+      {
+        "publication_number": "US20130083011A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-30",
+        "publication_date": "2013-04-04",
+        "assignee_original": "Kevin A. Geisner",
+        "title": "Representing a location at a previous time period using an augmented reality display",
+        "patent_id": "patent/US20130083011A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130083011A1%2Fen"
+      },
+      {
+        "publication_number": "US20130106674A1",
+        "primary_language": "en",
+        "priority_date": "2011-11-02",
+        "publication_date": "2013-05-02",
+        "assignee_original": "Google Inc.",
+        "title": "Eye Gaze Detection to Determine Speed of Image Movement",
+        "patent_id": "patent/US20130106674A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130106674A1%2Fen"
+      },
+      {
+        "publication_number": "US20130235347A1",
+        "primary_language": "en",
+        "priority_date": "2010-11-15",
+        "publication_date": "2013-09-12",
+        "assignee_original": "Tandemlaunch Technologies Inc.",
+        "title": "System and Method for Interacting with and Analyzing Media on a Display Using Eye Gaze Tracking",
+        "patent_id": "patent/US20130235347A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130235347A1%2Fen"
+      },
+      {
+        "publication_number": "US20140108309A1",
+        "primary_language": "en",
+        "priority_date": "2012-10-14",
+        "publication_date": "2014-04-17",
+        "assignee_original": "Ari M. Frank",
+        "title": "Training a predictor of emotional response based on explicit voting on content and eye tracking to verify attention",
+        "patent_id": "patent/US20140108309A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140108309A1%2Fen"
+      },
+      {
+        "publication_number": "US20140168056A1",
+        "primary_language": "en",
+        "priority_date": "2012-12-19",
+        "publication_date": "2014-06-19",
+        "assignee_original": "Qualcomm Incorporated",
+        "title": "Enabling augmented reality using eye gaze tracking",
+        "patent_id": "patent/US20140168056A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140168056A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014100688A2",
+        "primary_language": "en",
+        "priority_date": "2012-12-20",
+        "publication_date": "2014-06-26",
+        "assignee_original": "Accenture Global Services Limited",
+        "title": "Context based augmented reality",
+        "patent_id": "patent/WO2014100688A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014100688A2%2Fen"
+      },
+      {
+        "publication_number": "US20140253588A1",
+        "primary_language": "en",
+        "priority_date": "2013-03-06",
+        "publication_date": "2014-09-11",
+        "assignee_original": "Qualcomm Incorporated",
+        "title": "Disabling augmented reality (ar) devices at speed",
+        "patent_id": "patent/US20140253588A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140253588A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014197231A2",
+        "primary_language": "en",
+        "priority_date": "2013-06-07",
+        "publication_date": "2014-12-11",
+        "assignee_original": "Sony Computer Entertainment Inc.",
+        "title": "Switching mode of operation in a head mounted display",
+        "patent_id": "patent/WO2014197231A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014197231A2%2Fen"
+      },
+      {
+        "publication_number": "US20150206353A1",
+        "primary_language": "en",
+        "priority_date": "2013-12-23",
+        "publication_date": "2015-07-23",
+        "assignee_original": "Canon Kabushiki Kaisha",
+        "title": "Time constrained augmented reality",
+        "patent_id": "patent/US20150206353A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150206353A1%2Fen"
+      },
+      {
+        "publication_number": "US20150219899A1",
+        "primary_language": "en",
+        "priority_date": "2014-01-31",
+        "publication_date": "2015-08-06",
+        "assignee_original": "Corey Mack",
+        "title": "Augmented Reality Eyewear and Methods for Using Same",
+        "patent_id": "patent/US20150219899A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150219899A1%2Fen"
+      },
+      {
+        "publication_number": "WO2015126007A1",
+        "primary_language": "en",
+        "priority_date": "2014-02-20",
+        "publication_date": "2015-08-27",
+        "assignee_original": "Lg Electronics Inc.",
+        "title": "Head mounted display and method for controlling the same",
+        "patent_id": "patent/WO2015126007A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015126007A1%2Fen"
+      },
+      {
+        "publication_number": "US9213405B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-16",
+        "publication_date": "2015-12-15",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Comprehension and intent-based content for augmented reality displays",
+        "patent_id": "patent/US9213405B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9213405B2%2Fen"
+      },
+      {
+        "publication_number": "US9304319B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-18",
+        "publication_date": "2016-04-05",
+        "assignee_original": "Microsoft Technology Licensing, Llc",
+        "title": "Automatic focus improvement for augmented reality displays",
+        "patent_id": "patent/US9304319B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9304319B2%2Fen"
+      },
+      {
+        "publication_number": "US20160247324A1",
+        "primary_language": "en",
+        "priority_date": "2015-02-25",
+        "publication_date": "2016-08-25",
+        "assignee_original": "Brian Mullins",
+        "title": "Augmented reality content creation",
+        "patent_id": "patent/US20160247324A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160247324A1%2Fen"
+      },
+      {
+        "publication_number": "US9557951B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-04",
+        "publication_date": "2017-01-31",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Filtering information within augmented reality overlays",
+        "patent_id": "patent/US9557951B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9557951B2%2Fen"
+      },
+      {
+        "publication_number": "US20170206691A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-14",
+        "publication_date": "2017-07-20",
+        "assignee_original": "Magic Leap, Inc.",
+        "title": "Augmented reality systems and methods utilizing reflections",
+        "patent_id": "patent/US20170206691A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170206691A1%2Fen"
+      },
+      {
+        "publication_number": "US20170293356A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-08",
+        "publication_date": "2017-10-12",
+        "assignee_original": "Vizzario, Inc.",
+        "title": "Methods and Systems for Obtaining, Analyzing, and Generating Vision Performance Data and Modifying Media Based on the Vision Performance Data",
+        "patent_id": "patent/US20170293356A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170293356A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017192130A1",
+        "primary_language": "en",
+        "priority_date": "2016-05-04",
+        "publication_date": "2017-11-09",
+        "assignee_original": "Thomson Licensing",
+        "title": "Apparatus and method for eye tracking to determine types of disinterested content for a viewer",
+        "patent_id": "patent/WO2017192130A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017192130A1%2Fen"
+      },
+      {
+        "publication_number": "US20180307303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-19",
+        "publication_date": "2018-10-25",
+        "assignee_original": "Magic Leap, Inc.",
+        "title": "Multimodal task execution and text editing for a wearable system",
+        "patent_id": "patent/US20180307303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180307303A1%2Fen"
+      },
+      {
+        "publication_number": "US20190041642A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-04",
+        "publication_date": "2019-02-07",
+        "assignee_original": "Osterhout Group, Inc.",
+        "title": "Image expansion optic for head-worn computer",
+        "patent_id": "patent/US20190041642A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190041642A1%2Fen"
+      },
+      {
+        "publication_number": "US20190122440A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-20",
+        "publication_date": "2019-04-25",
+        "assignee_original": "Google Llc",
+        "title": "Content display property management",
+        "patent_id": "patent/US20190122440A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190122440A1%2Fen"
+      },
+      {
+        "publication_number": "US20190196576A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-01",
+        "publication_date": "2019-06-27",
+        "assignee_original": "Nokia Technologies Oy",
+        "title": "Virtual reality device and a virtual reality server",
+        "patent_id": "patent/US20190196576A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190196576A1%2Fen"
+      },
+      {
+        "publication_number": "US20190259189A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-17",
+        "publication_date": "2019-08-22",
+        "assignee_original": "Open Tv, Inc.",
+        "title": "Overlay contrast control in augmented reality displays",
+        "patent_id": "patent/US20190259189A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190259189A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "WO2017024118A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-04",
+        "publication_date": "2017-02-09",
+        "assignee_original": "Google Inc.",
+        "title": "Hover behavior for gaze interactions in virtual reality",
+        "patent_id": "patent/WO2017024118A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017024118A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Communication dated Oct. 26, 2020 issued by the European Intellectual Property Office in counterpart European Application No. 19741411.3."
+    },
+    {
+      "title": "International Search Report (PCT/ISA/210) & Written Opinion (PCT/ISA/237) dated Apr. 30, 2019 issued by the International Searching Authority in International Application No. PCT/KR2019/000629."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20210201033A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-26",
+        "publication_date": "2021-07-01",
+        "assignee_original": "Fanuc Corporation",
+        "title": "I/o signal information display system",
+        "patent_id": "patent/US20210201033A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210201033A1%2Fen"
+      },
+      {
+        "publication_number": "US11720172B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-21",
+        "publication_date": "2023-08-08",
+        "assignee_original": "Lenovo (Singapore) Pte. Ltd.",
+        "title": "Indication of key information apprisal",
+        "patent_id": "patent/US11720172B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11720172B2%2Fen"
+      },
+      {
+        "publication_number": "US11838369B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-28",
+        "publication_date": "2023-12-05",
+        "assignee_original": "Meta Platforms Technologies, Llc",
+        "title": "EDCA optimization for artificial reality links",
+        "patent_id": "patent/US11838369B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11838369B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US20140067869A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-30",
+        "publication_date": "2014-03-06",
+        "assignee_original": "Atheer, Inc.",
+        "title": "Method and apparatus for content association and history tracking in virtual and augmented reality",
+        "patent_id": "patent/US20140067869A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140067869A1%2Fen"
+      },
+      {
+        "publication_number": "GB2576904B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-06",
+        "publication_date": "2021-10-20",
+        "assignee_original": "Sony Interactive Entertainment Inc",
+        "title": "Content modification system and method",
+        "patent_id": "patent/GB2576904B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2576904B%2Fen"
+      },
+      {
+        "publication_number": "GB2576910B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-06",
+        "publication_date": "2021-10-20",
+        "assignee_original": "Sony Interactive Entertainment Inc",
+        "title": "User profile generating system and method",
+        "patent_id": "patent/GB2576910B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2576910B%2Fen"
+      },
+      {
+        "publication_number": "US11030812B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-02",
+        "publication_date": "2021-06-08",
+        "assignee_original": "The Boeing Company",
+        "title": "Augmented reality system using enhanced models",
+        "patent_id": "patent/US11030812B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11030812B2%2Fen"
+      },
+      {
+        "publication_number": "US10928898B2",
+        "primary_language": "en",
+        "priority_date": "2019-01-03",
+        "publication_date": "2021-02-23",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Augmented reality safety",
+        "patent_id": "patent/US10928898B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10928898B2%2Fen"
+      },
+      {
+        "publication_number": "TWI751445B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-05",
+        "publication_date": "2022-01-01",
+        "assignee_original": "\u5b8f\u9054\u570b\u969b\u96fb\u5b50\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Head mounted display apparatus and eye-tracking apparatus thereof",
+        "patent_id": "patent/TWI751445B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI751445B%2Fen"
+      },
+      {
+        "publication_number": "JP7286760B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-09",
+        "publication_date": "2023-06-05",
+        "assignee_original": "\u30de\u30af\u30bb\u30eb\u682a\u5f0f\u4f1a\u793e",
+        "title": "Head-mounted information processing device",
+        "patent_id": "patent/JP7286760B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7286760B2%2Fen"
+      },
+      {
+        "publication_number": "KR20210009458A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-16",
+        "publication_date": "2021-01-27",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Method and apparatus of detecting object",
+        "patent_id": "patent/KR20210009458A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20210009458A%2Fen"
+      },
+      {
+        "publication_number": "KR20210019826A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-13",
+        "publication_date": "2021-02-23",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Ar glass apparatus and operating method thereof",
+        "patent_id": "patent/KR20210019826A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20210019826A%2Fen"
+      },
+      {
+        "publication_number": "EP4034984A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-24",
+        "publication_date": "2022-08-03",
+        "assignee_original": "Apple Inc.",
+        "title": "Resolving natural language ambiguities with respect to a simulated reality setting",
+        "patent_id": "patent/EP4034984A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4034984A1%2Fen"
+      },
+      {
+        "publication_number": "US11315326B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-15",
+        "publication_date": "2022-04-26",
+        "assignee_original": "At&T Intellectual Property I, L.P.",
+        "title": "Extended reality anchor caching based on viewport prediction",
+        "patent_id": "patent/US11315326B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11315326B2%2Fen"
+      },
+      {
+        "publication_number": "CN115175602A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-04",
+        "publication_date": "2022-10-11",
+        "assignee_original": "\u9999\u6e2f\u5927\u5b66",
+        "title": "Eye movement analysis using co-clustered hidden markov models (co-clustered EMHMM) and switched hidden markov models (EMSHMM)",
+        "patent_id": "patent/CN115175602A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115175602A%2Fen"
+      },
+      {
+        "publication_number": "JP6808808B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-24",
+        "publication_date": "2021-01-06",
+        "assignee_original": "\u6e6f\u7530 \u79cb\u592b",
+        "title": "AI assistant in glasses, storage aid for image recognition function.",
+        "patent_id": "patent/JP6808808B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6808808B1%2Fen"
+      },
+      {
+        "publication_number": "US11176751B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-17",
+        "publication_date": "2021-11-16",
+        "assignee_original": "Snap Inc.",
+        "title": "Geospatial image surfacing and selection",
+        "patent_id": "patent/US11176751B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11176751B2%2Fen"
+      },
+      {
+        "publication_number": "US11686940B2",
+        "primary_language": "en",
+        "priority_date": "2020-03-19",
+        "publication_date": "2023-06-27",
+        "assignee_original": "Snap Inc.",
+        "title": "Context-based image state selection",
+        "patent_id": "patent/US11686940B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11686940B2%2Fen"
+      },
+      {
+        "publication_number": "CN115803750B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-15",
+        "publication_date": "2024-01-30",
+        "assignee_original": "\u6c83\u6bd4\u5e15\u514b\u516c\u53f8",
+        "title": "Virtual try-on system for glasses using a frame of reference",
+        "patent_id": "patent/CN115803750B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115803750B%2Fen"
+      },
+      {
+        "publication_number": "US12083406B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-11",
+        "publication_date": "2024-09-10",
+        "assignee_original": "Real Design Tech Co., Ltd.",
+        "title": "Bicycle simulator",
+        "patent_id": "patent/US12083406B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12083406B2%2Fen"
+      },
+      {
+        "publication_number": "US11868523B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-01",
+        "publication_date": "2024-01-09",
+        "assignee_original": "Google Llc",
+        "title": "Eye gaze classification",
+        "patent_id": "patent/US11868523B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11868523B2%2Fen"
+      },
+      {
+        "publication_number": "US11874959B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-15",
+        "publication_date": "2024-01-16",
+        "assignee_original": "Sony Interactive Entertainment Inc.",
+        "title": "Dynamic notification surfacing in virtual or augmented reality scenes",
+        "patent_id": "patent/US11874959B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11874959B2%2Fen"
+      },
+      {
+        "publication_number": "KR20230044833A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-27",
+        "publication_date": "2023-04-04",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electronic device and the method for representing contents",
+        "patent_id": "patent/KR20230044833A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230044833A%2Fen"
+      },
+      {
+        "publication_number": "CN118140169A",
+        "primary_language": "en",
+        "priority_date": "2021-09-27",
+        "publication_date": "2024-06-04",
+        "assignee_original": "\u4e09\u661f\u7535\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electronic device and method for displaying content",
+        "patent_id": "patent/CN118140169A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118140169A%2Fen"
+      },
+      {
+        "publication_number": "US11994675B2",
+        "primary_language": "en",
+        "priority_date": "2022-05-16",
+        "publication_date": "2024-05-28",
+        "assignee_original": "Google Llc",
+        "title": "Head-mounted device for tracking screen time",
+        "patent_id": "patent/US11994675B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11994675B2%2Fen"
+      },
+      {
+        "publication_number": "US20230377493A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-20",
+        "publication_date": "2023-11-23",
+        "assignee_original": "Meta Platforms Technologies, Llc",
+        "title": "Controlling Optical Parameters at a User's Eye",
+        "patent_id": "patent/US20230377493A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230377493A1%2Fen"
+      },
+      {
+        "publication_number": "JP2024058783A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-17",
+        "publication_date": "2024-04-30",
+        "assignee_original": "\u30ad\u30e4\u30ce\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Control device",
+        "patent_id": "patent/JP2024058783A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024058783A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11024263B2",
+      "primary_language": "en",
+      "publication_date": "2021-06-01",
+      "title": "Method and apparatus for adjusting augmented reality content",
+      "patent_id": "patent/US11024263B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11024263B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112507799B",
+      "primary_language": "en",
+      "publication_date": "2023-11-24",
+      "title": "Image recognition method based on eye movement fixation point guidance, MR glasses and medium",
+      "patent_id": "patent/CN112507799B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112507799B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3717992B1",
+      "primary_language": "en",
+      "publication_date": "2025-03-19",
+      "title": "Device for providing augmented reality service, and method of operating the same",
+      "patent_id": "patent/EP3717992B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3717992B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9928569B2",
+      "primary_language": "en",
+      "publication_date": "2018-03-27",
+      "title": "Augmented reality overlays based on an optically zoomed input",
+      "patent_id": "patent/US9928569B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9928569B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10330940B1",
+      "primary_language": "en",
+      "publication_date": "2019-06-25",
+      "title": "Content display methods",
+      "patent_id": "patent/US10330940B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10330940B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4927631B2",
+      "primary_language": "en",
+      "publication_date": "2012-05-09",
+      "title": "Display device, control method therefor, program, recording medium, and integrated circuit",
+      "patent_id": "patent/JP4927631B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4927631B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10114466B2",
+      "primary_language": "en",
+      "publication_date": "2018-10-30",
+      "title": "Methods and systems for hands-free browsing in a wearable computing device",
+      "patent_id": "patent/US10114466B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10114466B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9035878B1",
+      "primary_language": "en",
+      "publication_date": "2015-05-19",
+      "title": "Input system",
+      "patent_id": "patent/US9035878B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9035878B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7928926B2",
+      "primary_language": "en",
+      "publication_date": "2011-04-19",
+      "title": "Display apparatus and method for hands free operation that selects a function when window is within field of view",
+      "patent_id": "patent/US7928926B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7928926B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017047178A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-23",
+      "title": "Information processing device, information processing method, and program",
+      "patent_id": "patent/WO2017047178A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017047178A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150331240A1",
+      "primary_language": "en",
+      "publication_date": "2015-11-19",
+      "title": "Assisted Viewing Of Web-Based Resources",
+      "patent_id": "patent/US20150331240A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150331240A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150235632A1",
+      "primary_language": "en",
+      "publication_date": "2015-08-20",
+      "title": "Total field of view classification",
+      "patent_id": "patent/US20150235632A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150235632A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9696798B2",
+      "primary_language": "en",
+      "publication_date": "2017-07-04",
+      "title": "Eye gaze direction indicator",
+      "patent_id": "patent/US9696798B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9696798B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230086766A1",
+      "primary_language": "en",
+      "publication_date": "2023-03-23",
+      "title": "Attention tracking to augment focus transitions",
+      "patent_id": "patent/US20230086766A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230086766A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2019187487A1",
+      "primary_language": "en",
+      "publication_date": "2019-10-03",
+      "title": "Information processing device, information processing method, and program",
+      "patent_id": "patent/WO2019187487A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019187487A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2006064655A1",
+      "primary_language": "en",
+      "publication_date": "2006-06-22",
+      "title": "Information presentation device and information presentation method",
+      "patent_id": "patent/WO2006064655A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006064655A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3779959B1",
+      "primary_language": "en",
+      "publication_date": "2023-10-25",
+      "title": "Information processing device, information processing method, and program",
+      "patent_id": "patent/EP3779959B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3779959B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210405851A1",
+      "primary_language": "en",
+      "publication_date": "2021-12-30",
+      "title": "Visual interface for a computer system",
+      "patent_id": "patent/US20210405851A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210405851A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240402825A1",
+      "primary_language": "en",
+      "publication_date": "2024-12-05",
+      "title": "Active and Inactive Mode Transitions for User Input",
+      "patent_id": "patent/US20240402825A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240402825A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230050526A1",
+      "primary_language": "en",
+      "publication_date": "2023-02-16",
+      "title": "Internet of things configuration using eye-based controls",
+      "patent_id": "patent/US20230050526A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230050526A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250165080A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-22",
+      "title": "Suppression of Hand Gestures upon Detection of Peripheral Events on a Peripheral Device",
+      "patent_id": "patent/US20250165080A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250165080A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230359271A1",
+      "primary_language": "en",
+      "publication_date": "2023-11-09",
+      "title": "Algorithmically adjusting the hit box of icons based on prior gaze and click information",
+      "patent_id": "patent/US20230359271A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230359271A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240331447A1",
+      "primary_language": "en",
+      "publication_date": "2024-10-03",
+      "title": "Pinch Recognition and Rejection",
+      "patent_id": "patent/US20240331447A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240331447A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024191449A1",
+      "primary_language": "en",
+      "publication_date": "2024-09-19",
+      "title": "Virtual reality search function",
+      "patent_id": "patent/WO2024191449A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024191449A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119597139A",
+      "primary_language": "en",
+      "publication_date": "2025-03-11",
+      "title": "Menu triggering method, device, equipment, storage medium and program product",
+      "patent_id": "patent/CN119597139A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119597139A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-01-17",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SAMSUNG ELECTRONICS CO., LTD., KOREA, REPUBLIC OF"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CHHIPA, PRAKASH CHANDRA;DHIMAN, RAVINDER;REEL/FRAME:048093/0655"
+        },
+        {
+          "label": "Effective date",
+          "value": "20190121"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-24",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-22",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-02",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-29",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-30",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-12",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000003190",
+        "name": "augmentative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 141
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 121
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 149
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 71
+      },
+      {
+        "id": "230000004886",
+        "name": "head movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 88
+      },
+      {
+        "id": "230000004424",
+        "name": "eye movement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 69
+      },
+      {
+        "id": "230000033001",
+        "name": "locomotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "210000001508",
+        "name": "eye",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "210000005252",
+        "name": "bulbus oculi",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "238000001914",
+        "name": "filtration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 127
+      },
+      {
+        "id": "238000013473",
+        "name": "artificial intelligence",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 78
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "230000003044",
+        "name": "adaptive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "230000015654",
+        "name": "memory",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000009877",
+        "name": "rendering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000006399",
+        "name": "behavior",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "210000003128",
+        "name": "head",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000005236",
+        "name": "sound signal",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003068",
+        "name": "static effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000010295",
+        "name": "mobile communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "210000001747",
+        "name": "pupil",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013135",
+        "name": "deep learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000005069",
+        "name": "ears",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000007704",
+        "name": "transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008713",
+        "name": "feedback mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004417",
+        "name": "polycarbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012800",
+        "name": "visualization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010011971",
+        "name": "Decreased interest",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004397",
+        "name": "blinking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000988",
+        "name": "bone and bone",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011449",
+        "name": "brick",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002708",
+        "name": "enhancing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000193",
+        "name": "eyeblink",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004091",
+        "name": "panning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000515",
+        "name": "polycarbonate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000001525",
+        "name": "retina",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010409",
+        "name": "thin film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012780",
+        "name": "transparent material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}
