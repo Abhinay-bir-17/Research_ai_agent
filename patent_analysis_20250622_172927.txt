@@ -1,0 +1,11 @@
+The analysis of AI-related patents in healthcare
+ reveals significant advancements in computational 
+ drug discovery methods. Recent trends show increased use
+  of machine learning algorithms for lead optimization and drug 
+  structure prediction.
+   Personalized medicine is gaining traction with AI
+    tools integrating genetic data into treatment plans,
+     enhancing precision. Regulatory compliance remains a 
+     challenge, particularly with complex approvals.
+Emerging sub-technologies include AI-driven genomics tools
+ that are being explored for personalized therapies.
